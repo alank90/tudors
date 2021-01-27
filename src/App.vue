@@ -1,7 +1,7 @@
 <template>
   <div id="app">
     <div class="wrapper">
-      <header class="main-head">The header</header>
+      <header class="main-head">Led Zeppelin</header>
       <nav class="main-nav">
         <ul>
           <li><a href="">Led Zeppelin</a></li>
@@ -30,53 +30,35 @@
   color: #2c3e50;
 }
 
-/* Grid Definition */
+li {
+  display: inline-block;
+}
+
+/* ========== Grid Definition ================ */
 .wrapper {
   display: grid;
+  grid-template-columns: repeat(12, [col-start] 1fr);
   gap: 20px;
-  grid-template-areas:
-    "header"
-    "nav"
-    "content"
-    "sidebar"
-    "ad"
-    "footer";
 }
 
-.main-head {
-  grid-area: header;
-  border: 2px solid red;
-}
-.content {
-  grid-area: content;
-  border: 2px solid purple;
-}
-.main-nav {
-  grid-area: nav;
-  border: 2px solid yellow;
-}
-.side {
-  grid-area: sidebar;
-  border: 2px solid yellowgreen;
-}
-.ad {
-  grid-area: ad;
-  border: 2px solid steelblue;
-}
-.main-footer {
-  grid-area: footer;
-  border: 2px solid brown;
+/* Default Mobile screen Layout */
+.wrapper > * {
+  grid-column: col-start / span 12;
 }
 
-/* Grid Media Queries for larger screens */
+/* Grid Media Queries */
 @media (min-width: 500px) {
-  .wrapper {
-    grid-template-columns: 1fr 3fr;
-    grid-template-areas:
-      "header  header"
-      "nav     nav"
-      "sidebar content"
-      "ad      footer";
+  .side {
+    grid-column: col-start / span 3;
+    grid-row: 3;
+  }
+  .ad {
+    grid-column: col-start / span 3;
+    grid-row: 4;
+  }
+  .content,
+  .main-footer {
+    grid-column: col-start 4 / span 9;
   }
   nav ul {
     display: flex;
@@ -85,18 +67,49 @@
 }
 
 @media (min-width: 700px) {
-  .wrapper {
-    grid-template-columns: 1fr 4fr 1fr;
-    grid-template-areas:
-      "header header  header"
-      "nav    content sidebar"
-      "nav    content ad"
-      "footer footer  footer";
+  .main-nav {
+    grid-column: col-start / span 12;
+    grid-row: 2 / 4;
+  }
+  .content {
+    grid-column: col-start 3 / span 8;
+    grid-row: 2 / 4;
+  }
+  .side {
+    grid-column: col-start 11 / span 2;
+    grid-row: 2;
+  }
+  .ad {
+    grid-column: col-start 11 / span 2;
+    grid-row: 3;
+  }
+  .main-footer {
+    grid-column: col-start / span 12;
   }
   nav ul {
-    flex-direction: row;
-    list-style: none;
+    flex-direction: column;
   }
+}
+
+/* =================== End Grid Definition ================= */
+
+.main-head {
+  border: 2px solid red;
+}
+.content {
+  border: 2px solid purple;
+}
+.main-nav {
+  border: 2px solid yellow;
+}
+.side {
+  border: 2px solid yellowgreen;
+}
+.ad {
+  border: 2px solid steelblue;
+}
+.main-footer {
+  border: 2px solid brown;
 }
 
 #nav a.router-link-exact-active {
