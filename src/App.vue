@@ -1,27 +1,29 @@
 <template>
   <div id="app">
     <div class="wrapper">
-      <header class="main-head">Led Zeppelin</header>
+      <header class="main-head">The Tudors</header>
       <nav class="main-nav">
         <ul>
-          <li><a href="">Led Zeppelin</a></li>
+          <li><a href="">The Tudors</a></li>
           <li><router-link to="/">Home</router-link></li>
           <li><router-link to="/about">About</router-link></li>
         </ul>
       </nav>
-      <article class="content">
-        <h1>Main article area</h1>
-        <p>Led zeppelin Montage will be appearing here.</p>
+      <main class="content">
+        <h1>Tudors</h1>
+        <p>Tudor Montage will be appearing here.</p>
         <router-view />
-      </article>
-      <aside class="side">Sidebar</aside>
-      <div class="ad">Advertising</div>
+      </main>
+
       <footer class="main-footer">The footer</footer>
     </div>
   </div>
 </template>
 
 <style>
+/* Include a normalize file */
+@import "https://unpkg.com/sanitize.css";
+
 #app {
   font-family: Avenir, Helvetica, Arial, sans-serif;
   -webkit-font-smoothing: antialiased;
@@ -52,10 +54,6 @@ li {
     grid-column: col-start / span 3;
     grid-row: 3;
   }
-  .ad {
-    grid-column: col-start / span 3;
-    grid-row: 4;
-  }
   .content,
   .main-footer {
     grid-column: col-start 4 / span 9;
@@ -69,25 +67,18 @@ li {
 @media (min-width: 700px) {
   .main-nav {
     grid-column: col-start / span 12;
-    grid-row: 2 / 4;
+    grid-row: 2 / 2;
   }
   .content {
-    grid-column: col-start 3 / span 8;
-    grid-row: 2 / 4;
+    grid-column: col-start 2 / span 10;
+    grid-row: 3 / 4;
   }
-  .side {
-    grid-column: col-start 11 / span 2;
-    grid-row: 2;
-  }
-  .ad {
-    grid-column: col-start 11 / span 2;
-    grid-row: 3;
-  }
+
   .main-footer {
     grid-column: col-start / span 12;
   }
   nav ul {
-    flex-direction: column;
+    flex-direction: row;
   }
 }
 
