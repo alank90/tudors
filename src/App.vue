@@ -1,28 +1,31 @@
 <template>
   <div id="app">
-    <div class="wrapper">
-      <header class="main-head">The Tudors</header>
-      <nav class="main-nav">
-        <ul>
-          <li><a href="">The Tudors</a></li>
-          <li><router-link to="/">Home</router-link></li>
-          <li><router-link to="/about">About</router-link></li>
-        </ul>
-      </nav>
-      <main class="content">
-        <h1>Tudors</h1>
-        <p>Tudor Montage will be appearing here.</p>
-        <router-view />
-      </main>
+    <header class="main-head">The Tudors</header>
+    <nav class="main-nav">
+      <ul>
+        <li><a href="">The Tudors</a></li>
+        <li><router-link to="/">Home</router-link></li>
+        <li><router-link to="/about">About</router-link></li>
+      </ul>
+    </nav>
+    <main class="content">
+      <h1>Tudors</h1>
+      <p>Tudor Montage will be appearing here.</p>
+      <router-view />
+    </main>
 
-      <footer class="main-footer">The footer</footer>
-    </div>
+    <footer class="main-footer">The footer</footer>
   </div>
 </template>
 
 <style>
 /* Include a normalize file */
 @import "https://unpkg.com/sanitize.css";
+@import "./assets/css/main.css";
+
+body {
+  margin: 0; /* prevents scrollbars */
+}
 
 #app {
   font-family: Avenir, Helvetica, Arial, sans-serif;
@@ -30,6 +33,7 @@
   -moz-osx-font-smoothing: grayscale;
   text-align: center;
   color: #2c3e50;
+  height: 100vh;
 }
 
 li {
@@ -37,24 +41,21 @@ li {
 }
 
 /* ========== Grid Definition ================ */
-.wrapper {
+#app {
   display: grid;
   grid-template-columns: repeat(12, [col-start] 1fr);
+  grid-template-rows: auto 1fr auto;
   gap: 20px;
 }
 
 /* Default Mobile screen Layout */
-.wrapper > * {
+#app > * {
   grid-column: col-start / span 12;
 }
 
 /* Grid Media Queries */
 @media (min-width: 500px) {
-  .side {
-    grid-column: col-start / span 3;
-    grid-row: 3;
-  }
-  .content,
+  main,
   .main-footer {
     grid-column: col-start 4 / span 9;
   }
@@ -69,7 +70,7 @@ li {
     grid-column: col-start / span 12;
     grid-row: 2 / 2;
   }
-  .content {
+  #app > main {
     grid-column: col-start 2 / span 10;
     grid-row: 3 / 4;
   }
