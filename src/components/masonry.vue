@@ -1,19 +1,26 @@
 <template>
-  <div class="hello">
+  <div class="masonry">
     <h1>{{ msg }}</h1>
-    <p>
-      For a guide and recipes on how to configure / customize this project,<br />
-      check out the
-      <a href="https://cli.vuejs.org" target="_blank" rel="noopener"
-        >vue-cli documentation</a
-      >.
-    </p>
+    <div class="masonry-item">
+      <img
+        :src="require('@/assets/img/armour.jpg')"
+        alt="Picture of Henry VII"
+        class="masonry-content"
+      />
+    </div>
   </div>
 </template>
 
 <script>
+// eslint-disable-next-line no-unused-vars
+import imagesrc from "../assets/img/tudor_rose.png";
 export default {
   name: "masonry",
+  data() {
+    return {
+      imagesrc: imagesrc
+    };
+  },
   props: {
     msg: String
   }
