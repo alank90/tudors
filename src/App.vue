@@ -12,8 +12,6 @@
     </header>
 
     <main class="content">
-      <h1>Tudors</h1>
-      <p>Tudor Montage will be appearing here.</p>
       <router-view />
     </main>
 

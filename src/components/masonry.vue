@@ -1,37 +1,36 @@
 <template>
   <div class="masonry">
-    <h1>{{ msg }}</h1>
     <div class="masonry-item">
       <img
-        src="../assets/img/Henry_VII.webp"
+        src="../assets/img/henry_vii.webp"
         alt="Picture of Henry VII"
         class="masonry-content"
       />
     </div>
     <div class="masonry-item">
       <img
-        src="../assets/img/Henry_VIII.jpg"
+        src="../assets/img/henry_viii.jpg"
         alt="Picture of Henry VIII"
         class="masonry-content"
       />
     </div>
     <div class="masonry-item">
       <img
-        src="../assets/img/Edward_VI.webp"
+        src="../assets/img/edward_vi.webp"
         alt="Picture of Edward VI"
         class="masonry-content"
       />
     </div>
     <div class="masonry-item">
       <img
-        src="../assets/img/Mary_I.jpg"
+        src="../assets/img/mary_i.jpg"
         alt="Picture of Mary I"
         class="masonry-content"
       />
     </div>
     <div class="masonry-item">
       <img
-        src="../assets/img/Elizabeth_I.jpg"
+        src="../assets/img/elizabeth_i.jpg"
         alt="Picture of Elizabeth I"
         class="masonry-content"
       />

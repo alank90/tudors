@@ -1,7 +1,8 @@
 <template>
   <div class="home">
-    <img alt="Vue logo" src="../assets/logo.png" />
-    <masonry msg="Welcome to a History of The Tudors" />
+    <h1>The Tudors</h1>
+    <h2>A History of the House of Tudor (1485-1603)</h2>
+    <masonry />
   </div>
 </template>
 
