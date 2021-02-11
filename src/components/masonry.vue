@@ -1,34 +1,34 @@
 <template>
   <div class="masonry">
-    <div class="masonry-item">
+    <div class="masonry-item col--2x">
       <img
         src="../assets/img/henry_vii.webp"
         alt="Picture of Henry VII"
         class="masonry-content"
       />
     </div>
-    <div class="masonry-item">
+    <div class="masonry-item col--3x">
       <img
         src="../assets/img/henry_viii.jpg"
         alt="Picture of Henry VIII"
         class="masonry-content"
       />
     </div>
-    <div class="masonry-item">
+    <div class="masonry-item col--2x">
       <img
         src="../assets/img/edward_vi.webp"
         alt="Picture of Edward VI"
         class="masonry-content"
       />
     </div>
-    <div class="masonry-item">
+    <div class="masonry-item col--2x">
       <img
         src="../assets/img/mary_i.jpg"
         alt="Picture of Mary I"
         class="masonry-content"
       />
     </div>
-    <div class="masonry-item">
+    <div class="masonry-item col--3x">
       <img
         src="../assets/img/elizabeth_i.jpg"
         alt="Picture of Elizabeth I"
@@ -47,7 +47,28 @@ export default {
   props: {
     msg: String
   },
-  mounted() {}
+  mounted() {
+    /**
+     * Set appropriate spanning to any masonry item
+     *
+     * Get different properties we already set for the masonry, calculate
+     * height or spanning for any cell of the masonry grid based on its
+     * content-wrapper's height, the (row) gap of the grid, and the size
+     * of the implicit row tracks.
+     *
+     * @param item Object A brick/tile/cell inside the masonry
+     */
+    function resizeMasonryItem(item) {
+      /* Get the grid object, its row-gap-, and the size of its implicit rows */
+      const grid = document.getElementsByClassName("masonry")[0];
+      const rowGap = parseInt(
+        window.getComputedStyle(grid).getPropertyValue("grid-row-gap")
+      );
+      const rowHeight = parseInt(
+        window.getComputedStyle(grid).getPropertyValue("grid-auto-rows")
+      );
+    }
+  }
 };
 </script>
 
@@ -60,22 +81,26 @@ export default {
 /* Masonry CSS */
 .masonry {
   display: grid;
-  grid-gap: 2em; /* [1] Add some gap between rows and columns */
+  grid-gap: 1em; /* [1] Add some gap between rows and columns */
   grid-template-columns: repeat(
     auto-fill,
     minmax(200px, 1fr)
   ); /* [2] Make columns adjust according to the available viewport */
-  grid-auto-rows: 250px; /* [3] Set the height for implicitly-created row track */
-}
-
-.masonry-item {
-  border-radius: 5px;
+  grid-auto-rows: 0; /* [3] Set the height for implicitly-created row track */
 }
 
 .masonry-item {
   background-color: #eee;
   border-radius: 5px;
   overflow: hidden;
+}
+
+.col--2x {
+  grid-row-end: span 2;
+}
+
+.col--3x {
+  grid-row-end: span 3;
 }
 
 .masonry-item,
