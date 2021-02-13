@@ -66,7 +66,7 @@ export default {
     return {};
   },
   props: {
-    msg: String,
+    msg: String
   },
   mounted() {
     function resizeMasonryItem(item) {
@@ -155,7 +155,7 @@ export default {
 
     /* Do a resize once more when all the images finish loading */
     waitForImages();
-  },
+  }
 };
 </script>
 
