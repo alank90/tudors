@@ -3,7 +3,7 @@
     <div class="masonry-brick">
       <div class="masonry-content">
         <img
-          src="../assets/img/henry_vii.webp"
+          src="../assets/img/henry_vii.png"
           alt="Picture of Henry VII"
           class="masonry-content"
         />
@@ -17,7 +17,7 @@
     </div>
     <div class="masonry-brick">
       <div class="masonry-content">
-        <img src="../assets/img/henry_viii.jpg" alt="Picture of Henry VIII" />
+        <img src="../assets/img/henry_viii.png" alt="Picture of Henry VIII" />
         <h3 class="masonry-title">Henry VIII</h3>
         <p class="memory-description">
           Lorem ipsum dolor sit, amet consectetur adipisicing elit. Enim, dolor.
@@ -28,7 +28,7 @@
     </div>
     <div class="masonry-brick">
       <div class="masonry-content">
-        <img src="../assets/img/edward_vi.webp" alt="Picture of Edward VI" />
+        <img src="../assets/img/edward_vi.png" alt="Picture of Edward VI" />
         <h3 class="masonry-title">Edward VI</h3>
         <p class="masonry-description">
           Lorem ipsum dolor sit amet consectetur adipisicing elit. Nulla,
@@ -38,7 +38,7 @@
     </div>
     <div class="masonry-brick">
       <div class="masonry-content">
-        <img src="../assets/img/mary_i.jpg" alt="Picture of Mary I" />
+        <img src="../assets/img/mary_i.png" alt="Picture of Mary I" />
         <h3 class="masonry-title">Mary I</h3>
         <p class="masonry-description">
           Lorem ipsum dolor sit amet consectetur adipisicing elit. Nostrum, fuga
@@ -48,7 +48,7 @@
     </div>
     <div class="masonry-brick">
       <div class="masonry-content">
-        <img src="../assets/img/elizabeth_i.jpg" alt="Picture of Elizabeth I" />
+        <img src="../assets/img/elizabeth_i.png" alt="Picture of Elizabeth I" />
         <h3 class="masonry-title">Elizabeth I</h3>
         <p class="masonry-description">
           Lorem ipsum, dolor sit amet consectetur adipisicing elit. Corrupti
@@ -66,7 +66,7 @@ export default {
     return {};
   },
   props: {
-    msg: String
+    msg: String,
   },
   mounted() {
     function resizeMasonryItem(item) {
@@ -155,24 +155,22 @@ export default {
 
     /* Do a resize once more when all the images finish loading */
     waitForImages();
-  }
+  },
 };
 </script>
 
 <!-- Add "scoped" attribute to limit CSS to this component only -->
 <style scoped>
-/* :root {
-  counter-reset: masonry;
-} */
-
 /* Masonry CSS */
 .masonry {
   display: grid;
   grid-gap: 1em; /* [1] Add some gap between rows and columns */
-  grid-template-columns: repeat(
-    auto-fill,
-    minmax(250px, 1fr)
-  ); /* [2] Make columns adjust according to the available viewport */
+  grid-template-columns:
+    repeat(2, minmax(250px, 1fr))
+    minmax(
+      300px,
+      1fr
+    ); /* [2] Make columns adjust according to the available viewport */
   grid-auto-rows: 0; /* [3] Set the height for implicitly-created row track */
 }
 
@@ -194,8 +192,21 @@ export default {
 
 .masonry-title {
   font-weight: 700;
-  font-size: 1.1rem;
+  position: absolute;
+  opacity: 0;
+  top: 50%;
+  left: 0;
+  right: 0;
+  margin-left: auto;
+  margin-right: auto;
+  font-size: 1.6rem;
+  width: 300px; /* Need a specific value to work */
+  color: #f8f5f1;
   padding: 1rem 1.5rem;
+  transition: opacity 0.2 ease-in;
+}
+.masonry-title:hover {
+  opacity: 1;
 }
 
 .masonry-description {
@@ -205,35 +216,12 @@ export default {
   color: #666;
 }
 
+.masonry-content {
+  position: relative;
+}
+
 img {
   max-width: 100%;
   vertical-align: middle;
 }
-
-/* .masonry-item,
-.masonry-item img {
-  position: relative;
-} */
-
-/* .masonry-item:after {
-  font-weight: bold;
-  background-color: rgba(0, 0, 0, 0.5);
-  content: counter(masonry);
-  counter-increment: masonry;
-  position: absolute;
-  top: 0;
-  left: 0;
-  height: 100%;
-  width: 100%;
-  color: white;
-  display: flex;
-  justify-content: center;
-  align-items: center;
-  transition: all 0.3s ease-in;
-}
-
-.masonry-item:hover::after {
-  font-size: 30px;
-  background-color: rgba(0, 0, 0, 0.75);
-} */
 </style>
