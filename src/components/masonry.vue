@@ -1,7 +1,11 @@
 <template>
   <div class="masonry">
     <div class="masonry-brick">
-      <div class="masonry-content">
+      <div
+        @mouseover="toggleMasonryTitle"
+        @mouseleave="toggleMasonryTitle"
+        class="masonry-content"
+      >
         <img
           src="../assets/img/henry_vii.png"
           alt="Picture of Henry VII"
@@ -16,7 +20,11 @@
       </div>
     </div>
     <div class="masonry-brick">
-      <div class="masonry-content">
+      <div
+        @mouseover="toggleMasonryTitle"
+        @mouseleave="toggleMasonryTitle"
+        class="masonry-content"
+      >
         <img src="../assets/img/henry_viii.png" alt="Picture of Henry VIII" />
         <h3 class="masonry-title">Henry VIII</h3>
         <p class="memory-description">
@@ -27,7 +35,11 @@
       </div>
     </div>
     <div class="masonry-brick">
-      <div class="masonry-content">
+      <div
+        @mouseover="toggleMasonryTitle"
+        @mouseleave="toggleMasonryTitle"
+        class="masonry-content"
+      >
         <img src="../assets/img/edward_vi.png" alt="Picture of Edward VI" />
         <h3 class="masonry-title">Edward VI</h3>
         <p class="masonry-description">
@@ -37,7 +49,11 @@
       </div>
     </div>
     <div class="masonry-brick">
-      <div class="masonry-content">
+      <div
+        @mouseover="toggleMasonryTitle"
+        @mouseleave="toggleMasonryTitle"
+        class="masonry-content"
+      >
         <img src="../assets/img/mary_i.png" alt="Picture of Mary I" />
         <h3 class="masonry-title">Mary I</h3>
         <p class="masonry-description">
@@ -47,13 +63,22 @@
       </div>
     </div>
     <div class="masonry-brick">
-      <div class="masonry-content">
+      <div
+        @mouseover="toggleMasonryTitle"
+        @mouseleave="toggleMasonryTitle"
+        class="masonry-content"
+      >
         <img src="../assets/img/elizabeth_i.png" alt="Picture of Elizabeth I" />
         <h3 class="masonry-title">Elizabeth I</h3>
         <p class="masonry-description">
           Lorem ipsum, dolor sit amet consectetur adipisicing elit. Corrupti
           omnis vel at minima velit.
         </p>
+      </div>
+    </div>
+    <div class="masonry-brick">
+      <div class="masonry-content">
+        <img src="../assets/img/armour.png" alt="Picture of Elizabeth I" />
       </div>
     </div>
   </div>
@@ -88,6 +113,8 @@ export default {
       const rowHeight = parseInt(
         window.getComputedStyle(grid).getPropertyValue("grid-auto-rows")
       );
+
+      console.log(rowHeight);
 
       /*
        * Spanning for any brick = S
@@ -155,6 +182,20 @@ export default {
 
     /* Do a resize once more when all the images finish loading */
     waitForImages();
+  },
+  methods: {
+    toggleMasonryTitle: function(event) {
+      const el = event.currentTarget;
+      const masonryTitleElement = el.firstChild.nextSibling;
+      const eventType = event.type;
+      if (eventType === "mouseover") {
+        masonryTitleElement.style.opacity = 1;
+      }
+
+      if (eventType === "mouseleave") {
+        masonryTitleElement.style.opacity = 0;
+      }
+    }
   }
 };
 </script>
@@ -171,7 +212,7 @@ export default {
       300px,
       1fr
     ); /* [2] Make columns adjust according to the available viewport */
-  grid-auto-rows: 0; /* [3] Set the height for implicitly-created row track */
+  grid-auto-rows: 10%; /* [3] Set the height for implicitly-created row track */
 }
 
 .masonry-brick {
@@ -203,10 +244,7 @@ export default {
   width: 300px; /* Need a specific value to work */
   color: #f8f5f1;
   padding: 1rem 1.5rem;
-  transition: opacity 0.2 ease-in;
-}
-.masonry-title:hover {
-  opacity: 1;
+  transition: opacity 0.4s ease-in;
 }
 
 .masonry-description {
@@ -223,5 +261,13 @@ export default {
 img {
   max-width: 100%;
   vertical-align: middle;
+  border-radius: 10px;
+}
+
+/* Media Queries */
+@media screen and (max-width: 600px) {
+  .masonry {
+    display: block;
+  }
 }
 </style>
