@@ -27,7 +27,7 @@
       >
         <img src="../assets/img/henry_viii.png" alt="Picture of Henry VIII" />
         <h3 class="masonry-title">Henry VIII</h3>
-        <p class="memory-description">
+        <p class="masonry-description">
           Lorem ipsum dolor sit, amet consectetur adipisicing elit. Enim, dolor.
           Commodi eius sequi explicabo eaque nemo velit tenetur corporis
           obcaecati!
@@ -187,13 +187,18 @@ export default {
     toggleMasonryTitle: function(event) {
       const el = event.currentTarget;
       const masonryTitleElement = el.firstChild.nextSibling;
+      const masonryDesriptionElement = el.lastChild;
       const eventType = event.type;
       if (eventType === "mouseover") {
         masonryTitleElement.style.opacity = 1;
+        masonryDesriptionElement.style.maxHeight = "500px";
+        masonryDesriptionElement.style.overflow = "visible";
       }
 
       if (eventType === "mouseleave") {
         masonryTitleElement.style.opacity = 0;
+        masonryDesriptionElement.style.maxHeight = "0";
+        masonryDesriptionElement.style.overflow = "hidden";
       }
     }
   }
@@ -248,10 +253,13 @@ export default {
 }
 
 .masonry-description {
-  padding: 1.5rem;
-  font-size: 0.75rem;
+  max-height: 0;
+  overflow: hidden;
+  font-family: "Raleway", sans-serif;
+  font-size: 1.1rem;
   border-top: 1px solid #eee;
-  color: #666;
+  color: rgb(14, 13, 13);
+  transition: all 0.5s ease-in;
 }
 
 .masonry-content {

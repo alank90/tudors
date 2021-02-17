@@ -20,11 +20,13 @@ export default {
 </script>
 
 <style scoped>
-@import url("https://fonts.googleapis.com/css2?family=Ballet&display=swap");
-
 h1 {
-  font-family: "Ballet", cursive;
+  font-family: "Cinzel Decorative", Helvetica;
   font-size: 3.4rem;
+}
+
+h2 {
+  font-family: "Cinzel Decorative", Helvetica;
 }
 
 img {
