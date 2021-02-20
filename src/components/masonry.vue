@@ -114,8 +114,6 @@ export default {
         window.getComputedStyle(grid).getPropertyValue("grid-auto-rows")
       );
 
-      console.log(rowHeight);
-
       /*
        * Spanning for any brick = S
        * Grid's row-gap = G
@@ -130,6 +128,7 @@ export default {
           rowGap) /
           (rowHeight + rowGap)
       );
+      console.log(rowHeight);
 
       /* Set the spanning as calculated above (S) */
       item.style.gridRowEnd = `span ${rowSpan}`;
@@ -222,7 +221,6 @@ export default {
 
 .masonry-brick {
   color: #2f3640;
-  background-color: #f5f6fa;
   opacity: 0.75;
   transition: opacity 0.25s ease-in-out;
 }
