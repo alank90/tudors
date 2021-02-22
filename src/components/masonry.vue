@@ -128,7 +128,6 @@ export default {
           rowGap) /
           (rowHeight + rowGap)
       );
-      console.log(rowHeight);
 
       /* Set the spanning as calculated above (S) */
       item.style.gridRowEnd = `span ${rowSpan}`;
@@ -253,8 +252,8 @@ export default {
 .masonry-description {
   max-height: 0;
   overflow: hidden;
-  font-family: "Raleway", sans-serif;
-  font-size: 1.1rem;
+  font-family: var(--font-p);
+  font-size: var(--font-size);
   border-top: 1px solid #eee;
   color: rgb(14, 13, 13);
   transition: all 0.5s ease-in;
