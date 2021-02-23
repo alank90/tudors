@@ -23,10 +23,12 @@ export default {
 h1 {
   font-family: "Cinzel Decorative", Helvetica;
   font-size: 3.4rem;
+  margin: 5px auto;
 }
 
 h2 {
   font-family: "Cinzel Decorative", Helvetica;
+  margin: 5px auto 10px;
 }
 
 img {

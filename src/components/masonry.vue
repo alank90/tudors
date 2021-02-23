@@ -13,9 +13,10 @@
         />
         <h3 class="masonry-title">Henry VII</h3>
         <p class="masonry-description">
-          Lorem ipsum dolor sit amet consectetur adipisicing elit. Aperiam
-          voluptatum ex officia aliquam repellendus? Dolor repellat
-          necessitatibus perferendis laborum quisquam.
+          Henry VII (Welsh: Harri Tudur; 28 January 1457 – 21 April 1509) was
+          the King of England and Lord of Ireland from his seizure of the crown
+          on 22 August 1485 to his death. He was the first monarch of the House
+          of Tudor.
         </p>
       </div>
     </div>
@@ -28,9 +29,8 @@
         <img src="../assets/img/henry_viii.png" alt="Picture of Henry VIII" />
         <h3 class="masonry-title">Henry VIII</h3>
         <p class="masonry-description">
-          Lorem ipsum dolor sit, amet consectetur adipisicing elit. Enim, dolor.
-          Commodi eius sequi explicabo eaque nemo velit tenetur corporis
-          obcaecati!
+          Henry VIII (28 June 1491 – 28 January 1547) was King of England from
+          1509 until his death in 1547.
         </p>
       </div>
     </div>
@@ -43,8 +43,27 @@
         <img src="../assets/img/edward_vi.png" alt="Picture of Edward VI" />
         <h3 class="masonry-title">Edward VI</h3>
         <p class="masonry-description">
-          Lorem ipsum dolor sit amet consectetur adipisicing elit. Nulla,
-          delectus? Deleniti, sit?
+          Edward VI (12 October 1537 – 6 July 1553) was the King of England and
+          Ireland from 28 January 1547 until his death.
+        </p>
+      </div>
+    </div>
+    <div class="masonry-brick">
+      <div
+        @mouseover="toggleMasonryTitle"
+        @mouseleave="toggleMasonryTitle"
+        class="masonry-content"
+      >
+        <img
+          src="../assets/img/lady_jane_grey.png"
+          alt="Picture of Lady Jane Grey"
+        />
+        <h3 class="masonry-title">Lady Jane Grey</h3>
+        <p class="masonry-description">
+          Lady Jane Grey (c.1537[3] – 12 February 1554), also known as Lady Jane
+          Dudley (after her marriage)[4] and as the "Nine Days' Queen",[5] was
+          an English noblewoman and de facto Queen of England and Ireland from
+          10 July until 19 July 1553.
         </p>
       </div>
     </div>
@@ -57,8 +76,9 @@
         <img src="../assets/img/mary_i.png" alt="Picture of Mary I" />
         <h3 class="masonry-title">Mary I</h3>
         <p class="masonry-description">
-          Lorem ipsum dolor sit amet consectetur adipisicing elit. Nostrum, fuga
-          ipsam.
+          Mary I (18 February 1516 – 17 November 1558), also known as Mary
+          Tudor, and as "Bloody Mary" by her Protestant opponents, was the queen
+          of England from July 1553 until her death.
         </p>
       </div>
     </div>
@@ -71,14 +91,14 @@
         <img src="../assets/img/elizabeth_i.png" alt="Picture of Elizabeth I" />
         <h3 class="masonry-title">Elizabeth I</h3>
         <p class="masonry-description">
-          Lorem ipsum, dolor sit amet consectetur adipisicing elit. Corrupti
-          omnis vel at minima velit.
+          Elizabeth I (7 September 1533 – 24 March 1603)[a] was Queen of England
+          and Ireland from 17 November 1558 until her death on 24 March 1603.
         </p>
       </div>
     </div>
     <div class="masonry-brick">
       <div class="masonry-content">
-        <img src="../assets/img/armour.png" alt="Picture of Elizabeth I" />
+        <img src="../assets/img/armour.png" alt="Picture of Armoured Knight" />
       </div>
     </div>
   </div>
@@ -216,6 +236,10 @@ export default {
       1fr
     ); /* [2] Make columns adjust according to the available viewport */
   grid-auto-rows: 10%; /* [3] Set the height for implicitly-created row track */
+}
+
+.masonry-brick:last-child {
+  grid-column-start: 2;
 }
 
 .masonry-brick {

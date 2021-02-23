@@ -4,9 +4,21 @@
       <span class="main-head-span">The Tudors</span>
       <nav class="main-head-nav">
         <ul>
-          <li><router-link to="/">Home</router-link></li>
-          <li><router-link to="timeline">Timeline</router-link></li>
-          <li><router-link to="/about">About</router-link></li>
+          <li>
+            <router-link class="link link--elara" to="/"
+              ><span>Home</span></router-link
+            >
+          </li>
+          <li>
+            <router-link class="link link--elara" to="timeline"
+              ><span>Timeline</span></router-link
+            >
+          </li>
+          <li>
+            <router-link class="link link--elara" to="/about"
+              ><span>About</span></router-link
+            >
+          </li>
         </ul>
       </nav>
     </header>
@@ -63,6 +75,11 @@
 
 /* ========== Global CSS Variables =============================== */
 :root {
+  --color-text: #111;
+  --color-link-hover: #111;
+  --color-bg: #fff;
+  color: var(--color-text);
+  background-color: var(--color-bg);
   --default-font: "Noto Sans", sans-serif;
   --font-p: "Raleway", sans-serif;
   --font-size: 18px;
@@ -70,6 +87,12 @@
   --letter-spacing: 2px;
   --nav-text-color: 217, 7, 7;
   --nav-font-size: 1.4rem;
+  --nav-bg-gradient: linear-gradient(
+    90deg,
+    rgba(217, 7, 7, 1) 0%,
+    rgba(233, 77, 64, 1) 50%,
+    rgba(255, 190, 160, 1) 100%
+  );
 }
 
 body {
@@ -81,7 +104,7 @@ body {
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
   text-align: center;
-  color: #2c3e50;
+  color: var(--color-text);
   height: 100vh;
   letter-spacing: var(--letter-spacing);
   line-height: var(--line-height);
@@ -93,11 +116,13 @@ body {
   align-items: center;
   color: rgb(var(--nav-text-color));
   font-size: var(--nav-font-size);
-  background-color: #e7e7e8;
+  background: var(--nav-bg-gradient);
 }
 
 .main-head-span {
   flex-basis: 20%;
+  font-family: "Cinzel Decorative", Helvetica;
+  color: var(--color-text);
 }
 
 .main-head-nav {
@@ -124,12 +149,88 @@ li a:hover {
 }
 
 li a.router-link-exact-active {
-  background-color: black;
+  background: linear-gradient(
+    45deg,
+    rgba(233, 77, 64, 1) 0%,
+    rgba(255, 190, 160, 1) 100%
+  );
+  mix-blend-mode: lighten;
   color: #fff;
   border-radius: 5px;
   padding: 10px;
-  cursor: not-allowed;
+  cursor: none;
 }
+
+/* Link Hover effect */
+.link {
+  cursor: pointer;
+  font-size: 18px;
+  position: relative;
+  white-space: nowrap;
+}
+
+.link::before,
+.link::after {
+  position: absolute;
+  width: 100%;
+  height: 1px;
+  background: currentColor;
+  top: 100%;
+  left: 0;
+  pointer-events: none;
+}
+
+.link::before {
+  content: "";
+  /* show by default */
+}
+.link--elara {
+  font-size: 1.375rem;
+}
+
+.link--elara::before {
+  transform-origin: 50% 100%;
+  transition: clip-path 0.3s, transform 0.3s cubic-bezier(0.2, 1, 0.8, 1);
+  clip-path: polygon(
+    0% 0%,
+    0% 100%,
+    0 100%,
+    0 0,
+    100% 0,
+    100% 100%,
+    0 100%,
+    0 100%,
+    100% 100%,
+    100% 0%
+  );
+}
+
+.link--elara:hover::before {
+  transform: translate3d(0, 2px, 0) scale3d(1.08, 3, 1);
+  clip-path: polygon(
+    0% 0%,
+    0% 100%,
+    50% 100%,
+    50% 0,
+    50% 0,
+    50% 100%,
+    50% 100%,
+    0 100%,
+    100% 100%,
+    100% 0%
+  );
+}
+
+.link--elara span {
+  display: inline-block;
+  transition: transform 0.3s cubic-bezier(0.2, 1, 0.8, 1);
+}
+
+.link--elara:hover span {
+  transform: translate3d(0, -2px, 0);
+}
+
+/* End Link hover effect */
 
 /* .main-head {
   border: 2px solid red;
