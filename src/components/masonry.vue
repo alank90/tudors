@@ -61,9 +61,9 @@
         <h3 class="masonry-title">Lady Jane Grey</h3>
         <p class="masonry-description">
           Lady Jane Grey (c.1537[3] – 12 February 1554), also known as Lady Jane
-          Dudley (after her marriage)[4] and as the "Nine Days' Queen",[5] was
-          an English noblewoman and de facto Queen of England and Ireland from
-          10 July until 19 July 1553.
+          Dudley (after her marriage) and as the "Nine Days' Queen", was an
+          English noblewoman and de facto Queen of England and Ireland from 10
+          July until 19 July 1553.
         </p>
       </div>
     </div>
@@ -91,7 +91,7 @@
         <img src="../assets/img/elizabeth_i.png" alt="Picture of Elizabeth I" />
         <h3 class="masonry-title">Elizabeth I</h3>
         <p class="masonry-description">
-          Elizabeth I (7 September 1533 – 24 March 1603)[a] was Queen of England
+          Elizabeth I (7 September 1533 – 24 March 1603) was Queen of England
           and Ireland from 17 November 1558 until her death on 24 March 1603.
         </p>
       </div>
