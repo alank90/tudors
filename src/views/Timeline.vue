@@ -199,16 +199,40 @@
 </template>
 
 <script>
+/* eslint-disable no-unused-vars */
 export default {
   name: "timeline",
   data() {
     return {};
   },
   mounted() {
-    // eslint-disable-next-line no-unused-vars
     function timeline() {
-      let selectors = {};
-    }
+      let selectors = {
+        id: "this element",
+        item: this.querySelectorAll(".timeline-item"),
+        activeClass: "timeline-item--active",
+        img: ".timeline__img"
+      };
+
+      selectors.item[0].classList.add(selectors.activeClass);
+      selectors.this.css(
+        "background-image",
+        `url(${window.getComputedStyle("selectors.item[0")}`
+      );
+      var itemLength = selectors.item.length;
+
+      window.addEventListener("scroll", function() {
+        console.log("scrolling");
+        var max, min;
+        var pos = this.scrolltop;
+
+        selectors.item.forEach(function(currentValue, currentIndex) {
+          min = currentValue.offset().top;
+          max = currentValue.offset().height + currentValue.offset().top;
+          var that = currentValue;
+        });
+      });
+    } // End of timeline function
   }
 };
 
