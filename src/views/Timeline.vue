@@ -200,6 +200,7 @@
 
 <script>
 /* eslint-disable no-unused-vars */
+/* eslint-disable no-undef */
 export default {
   name: "timeline",
   data() {
@@ -230,6 +231,19 @@ export default {
           min = currentValue.offset().top;
           max = currentValue.offset().height + currentValue.offset().top;
           var that = currentValue;
+
+          if (
+            currentIndex == itemLength - 2 &&
+            pos > min + e.currentTarget.getBoundingClientRect().height / 2
+          ) {
+            selectors.id.style.backGroundImage = `url(${selectors.item.last.classList
+              .contains(selectors.img)
+              .getAttribute("src")}`;
+          } else if (pos <= max - 40 && pos >= min) {
+            selectors.id.style.backGroundImage = `url(${e.currentTarget.classList
+              .contains(selectors.img)
+              .getAttribute("src")}`;
+          }
         });
       });
     } // End of timeline function
