@@ -240,10 +240,13 @@ export default {
               .contains(selectors.img)
               .getAttribute("src")}`;
           } else if (pos <= max - 40 && pos >= min) {
-            selectors.id.style.backGroundImage = `url(${e.currentTarget.classList
+            selectors.id.style.backgroundImage = `url(${e.currentTarget.classList
               .contains(selectors.img)
               .getAttribute("src")}`;
           }
+
+          selectors.item.classList.remove(selectors.activeClass);
+          e.eventTarget.classList.add(selectors.activeClass);
         });
       });
     } // End of timeline function
