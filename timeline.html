@@ -386,14 +386,13 @@
           // This is another way to write .prototype.timeline
           var selectors = {
             id: $(this), // The container div #timeline-1
-            item: $(this).find(".timeline-item"), //  Get the descendants of container element w/.timeline-item class
+            item: $(this).find(".timeline-item"), //  Get the descendants of container element w/.timeline-item class(12 items)
             activeClass: "timeline-item--active",
             img: ".timeline__img",
           };
-          console.log(selectors);
-
+          
           selectors.item.eq(0).addClass(selectors.activeClass); //add .timeLine--active class to first .timeline-item <div>
-          selectors.id.css(// set bg image
+          selectors.id.css(// set backgroundimage to first .timeline-item > img[src="http://i.cdn.ensonhaber.com/resimler/diger/ataturk_3473.jpg"]
             "background-image",
             "url(" +
               selectors.item
@@ -402,24 +401,19 @@
                 .attr("src") + //get the <img> [src] value
               ")"
           );
-          var itemLength = selectors.item.length; // number of .timeline-tem children(12)
+          var itemLength = selectors.item.length; // number of .timeline-item children(12)
+          // Scroll event
           $(window).scroll(function() {// bind scroll event to callback
             var max, min;
             var pos = $(this).scrollTop(); // Get the current vertical position of the scroll bar for the first element in the set of matched elements 
+           
             selectors.item.each(function(i) {// iterate over each selectors.item <div>
               min = $(this).offset().top;// The .offset() method allows us to retrieve the current position of an element 
               max = $(this).height() + $(this).offset().top; // Get the current computed height for the first element in the set of matched elements 
               var that = $(this);// Current selectors.item array <div> item in the each() loop
-              console.log(i);
-              console.log(that);
+                              
               if (i == itemLength - 2 && pos > min + $(this).height() / 2) {
                 selectors.item.removeClass(selectors.activeClass);
-                console.log(itemLength);
-               
-                console.log(selectors.item
-                      .last()
-                      .find(selectors.img)
-                      .attr("src"));
                 selectors.id.css(
                   "background-image",
                   "url(" +

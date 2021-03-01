@@ -207,31 +207,37 @@ export default {
     return {};
   },
   mounted() {
-    function timeline() {
+    (function timeline() {
+      const el = document.querySelector("#timeline-1");
       let selectors = {
-        id: "this element",
-        item: this.querySelectorAll(".timeline-item"),
+        id: el,
+        item: document.querySelectorAll(".timeline-item"),
         activeClass: "timeline-item--active",
         img: ".timeline__img"
       };
 
-      selectors.item[0].classList.add(selectors.activeClass);
-      selectors.this.css(
-        "background-image",
-        `url(${window.getComputedStyle("selectors.item[0")}`
-      );
-      var itemLength = selectors.item.length;
+      const firstTimeLineItem = selectors.item[0];
+      firstTimeLineItem.classList.add(selectors.activeClass);
+      // Get first .timeline-item > img[src's] value
+      const firstImgItem = firstTimeLineItem.querySelector(".timeline__img");
+      const srcValue = firstImgItem.getAttribute("src");
+
+      // Now set the el background to first img src's value
+      el.style.backgroundImage = `url(${srcValue})`;
+
+      const itemLength = selectors.item.length;
 
       window.addEventListener("scroll", function() {
-        console.log("scrolling");
-        var max, min;
-        var pos = this.scrolltop;
+        let elPos = el.getBoundingClientRect();
+        console.log(elPos.top);
+        let max, min;
+        let pos = this.scrolltop;
 
         selectors.item.forEach(function(currentValue, currentIndex) {
           min = currentValue.offset().top;
           max = currentValue.offset().height + currentValue.offset().top;
           var that = currentValue;
-
+          /*
           if (
             currentIndex == itemLength - 2 &&
             pos > min + e.currentTarget.getBoundingClientRect().height / 2
@@ -247,68 +253,12 @@ export default {
 
           selectors.item.classList.remove(selectors.activeClass);
           e.eventTarget.classList.add(selectors.activeClass);
+        */
         });
       });
-    } // End of timeline function
+    })(); // End of timeline IIFE function
   }
 };
-
-/* (function($) { // This a IIFE to make sure $ has it own namespace. Not needed here. 
-  $.fn.timeline = function() { // This is another way to write .prototype.timeline
-    var selectors = {
-      id: $(this),
-      item: $(this).find(".timeline-item"),
-      activeClass: "timeline-item--active",
-      img: ".timeline__img"
-    };
-    selectors.item.eq(0).addClass(selectors.activeClass);
-    selectors.id.css(
-      "background-image",
-      "url(" +
-        selectors.item
-          .first()
-          .find(selectors.img)
-          .attr("src") +
-        ")"
-    );
-    var itemLength = selectors.item.length;
-    $(window).scroll(function() {
-      var max, min;
-      var pos = $(this).scrollTop();
-      selectors.item.each(function(i) {
-        min = $(this).offset().top;
-        max = $(this).height() + $(this).offset().top;
-        var that = $(this);
-        if (i == itemLength - 2 && pos > min + $(this).height() / 2) {
-          selectors.item.removeClass(selectors.activeClass);
-          selectors.id.css(
-            "background-image",
-            "url(" +
-              selectors.item
-                .last()
-                .find(selectors.img)
-                .attr("src") +
-              ")"
-          );
-          selectors.item.last().addClass(selectors.activeClass);
-        } else if (pos <= max - 40 && pos >= min) {
-          selectors.id.css(
-            "background-image",
-            "url(" +
-              $(this)
-                .find(selectors.img)
-                .attr("src") +
-              ")"
-          );
-          selectors.item.removeClass(selectors.activeClass);
-          $(this).addClass(selectors.activeClass);
-        }
-      });
-    });
-  };
-})(jQuery);
-
-$("#timeline-1").timeline(); */
 </script>
 
 <style scoped>
