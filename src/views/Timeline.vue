@@ -220,32 +220,53 @@ export default {
       firstTimeLineItem.classList.add(selectors.activeClass);
       // Get first .timeline-item > img[src's] value
       const firstImgItem = firstTimeLineItem.querySelector(".timeline__img");
-      const srcValue = firstImgItem.getAttribute("src");
+      const srcValueFirstItem = firstImgItem.getAttribute("src");
 
       // Now set the el background to first img src's value
-      el.style.backgroundImage = `url(${srcValue})`;
+      el.style.backgroundImage = `url(${srcValueFirstItem})`;
 
       const itemLength = selectors.item.length;
 
       window.addEventListener("scroll", function() {
-        let elPos = el.getBoundingClientRect();
-        console.log(elPos.top);
         let max, min;
-        let pos = this.scrolltop;
+        let pos = window.scrollY; // Scrollbar position
+        let that = el;
 
-        selectors.item.forEach(function(currentValue, currentIndex) {
-          min = currentValue.offset().top;
-          max = currentValue.offset().height + currentValue.offset().top;
-          var that = currentValue;
-          /*
-          if (
-            currentIndex == itemLength - 2 &&
-            pos > min + e.currentTarget.getBoundingClientRect().height / 2
-          ) {
-            selectors.id.style.backGroundImage = `url(${selectors.item.last.classList
-              .contains(selectors.img)
-              .getAttribute("src")}`;
-          } else if (pos <= max - 40 && pos >= min) {
+        selectors.item.forEach(function(currentElement, currentIndex) {
+          // Get offset from top  for min
+          let elPos = currentElement.getBoundingClientRect();
+
+          let offset = {
+            top: elPos.top + window.scrollY,
+            left: elPos.left + window.scrollX
+          };
+
+          min = offset.top;
+          max = elPos.height + offset.top;
+          var that = currentElement;
+
+          if (currentIndex == itemLength - 2 && pos > min + elPos.height / 2) {
+            // Remove current activeclass
+            const children = el.querySelectorAll(".timeline-item--active");
+            console.log(el);
+            console.log(children);
+
+            /* .forEach(function(el) {
+              console.log(el.classList);
+              el.classList.remove("timeline-item--active");
+            }); */
+            // Get last .timeline-item > img[src's] value
+            const lastTimeLineItem = selectors.item[selectors.item.length - 1];
+            const lastImgItem = lastTimeLineItem.querySelector(
+              ".timeline__img"
+            );
+            const srcValue = lastImgItem.getAttribute("src");
+            console.log(srcValue);
+            // Now set the el background to first img src's value
+            el.style.backgroundImage = `url(${srcValue})`;
+            // Set as active class
+            lastTimeLineItem.classList.add(selectors.activeClass);
+          } /*else if (pos <= max - 40 && pos >= min) {
             selectors.id.style.backgroundImage = `url(${e.currentTarget.classList
               .contains(selectors.img)
               .getAttribute("src")}`;

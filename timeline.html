@@ -406,12 +406,12 @@
           $(window).scroll(function() {// bind scroll event to callback
             var max, min;
             var pos = $(this).scrollTop(); // Get the current vertical position of the scroll bar for the first element in the set of matched elements 
-           
+            
             selectors.item.each(function(i) {// iterate over each selectors.item <div>
               min = $(this).offset().top;// The .offset() method allows us to retrieve the current position of an element 
               max = $(this).height() + $(this).offset().top; // Get the current computed height for the first element in the set of matched elements 
               var that = $(this);// Current selectors.item array <div> item in the each() loop
-                              
+                        
               if (i == itemLength - 2 && pos > min + $(this).height() / 2) {
                 selectors.item.removeClass(selectors.activeClass);
                 selectors.id.css(
@@ -436,6 +436,7 @@
                 selectors.item.removeClass(selectors.activeClass);
                 $(this).addClass(selectors.activeClass);
               }
+              
             });
           });
         };
