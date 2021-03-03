@@ -213,7 +213,7 @@ export default {
         id: el,
         item: document.querySelectorAll(".timeline-item"),
         activeClass: "timeline-item--active",
-        img: ".timeline__img",
+        img: ".timeline__img"
       };
 
       const firstTimeLineItem = selectors.item[0];
@@ -227,18 +227,18 @@ export default {
 
       const itemLength = selectors.item.length;
 
-      window.addEventListener("scroll", function () {
+      window.addEventListener("scroll", function() {
         let max, min;
         let pos = window.scrollY; // Scrollbar position
         let that = el;
 
-        selectors.item.forEach(function (currentElement, currentIndex) {
+        selectors.item.forEach(function(currentElement, currentIndex) {
           // Get offset from top  for min
           let elPos = currentElement.getBoundingClientRect();
 
           let offset = {
             top: elPos.top + window.scrollY,
-            left: elPos.left + window.scrollX,
+            left: elPos.left + window.scrollX
           };
 
           min = offset.top;
@@ -281,7 +281,7 @@ export default {
         });
       });
     })(); // End of timeline IIFE function
-  },
+  }
 };
 </script>
 
