@@ -247,37 +247,34 @@ export default {
 
           if (currentIndex == itemLength - 2 && pos > min + elPos.height / 2) {
             // Remove the first timeline-item--active class
-            /*  Array.from(
-              document
-                .querySelectorAll(".timeline-item--active")
-                .forEach(function(activeEl) {
-                  activeEl.classList.remove("timeline-item--active");
-                })
-            ); */
+            Array.from(
+              document.querySelectorAll(".timeline-item--active")
+            ).forEach(function(activeEl) {
+              activeEl.classList.remove("timeline-item--active");
+            });
 
             // Get the last .timeline-item > img[src's] value
             // That will be set to the background-image
             const lastTimeLineItem = selectors.item[selectors.item.length - 1];
-            console.log(lastTimeLineItem);
             const lastImgItem = lastTimeLineItem.querySelector(
               ".timeline__img"
             );
             const srcValue = lastImgItem.getAttribute("src");
-            console.log(srcValue);
 
             // Now set the el background to first img src's value
             el.style.backgroundImage = `url(${srcValue})`;
             // Set as active class
             lastTimeLineItem.classList.add(selectors.activeClass);
-          } /*else if (pos <= max - 40 && pos >= min) {
-            selectors.id.style.backgroundImage = `url(${e.currentTarget.classList
+          } else if (pos <= max - 40 && pos >= min) {
+            console.log(pos, max, min);
+            /*selectors.id.style.backgroundImage = `url(${e.currentTarget.classList
               .contains(selectors.img)
               .getAttribute("src")}`;
+            */
           }
 
-          selectors.item.classList.remove(selectors.activeClass);
-          e.eventTarget.classList.add(selectors.activeClass);
-        */
+          //selectors.item.classList.remove(selectors.activeClass);
+          //e.eventTarget.classList.add(selectors.activeClass);
         });
       });
     })(); // End of timeline IIFE function
