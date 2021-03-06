@@ -267,14 +267,28 @@ export default {
             lastTimeLineItem.classList.add(selectors.activeClass);
           } else if (pos <= max - 40 && pos >= min) {
             console.log(pos, max, min);
-            /*selectors.id.style.backgroundImage = `url(${e.currentTarget.classList
-              .contains(selectors.img)
-              .getAttribute("src")}`;
-            */
+            console.log(selectors.item);
+            const currentImgItem = currentElement.querySelector(
+              ".timeline__img"
+            );
+            const srcValue = currentImgItem.getAttribute("src");
+            // Now set the el background to current img src's value
+            el.style.backgroundImage = `url(${srcValue})`;
+            // remove current active class
+            console.log(currentIndex);
+            if (currentIndex > 0) {
+              selectors.item[currentIndex - 1].classList.remove(
+                selectors.activeClass
+              );
+              if (currentIndex < 11) {
+                selectors.item[currentIndex + 1].classList.remove(
+                  selectors.activeClass
+                );
+              }
+            }
+            // Set as active class
+            currentElement.classList.add(selectors.activeClass);
           }
-
-          //selectors.item.classList.remove(selectors.activeClass);
-          //e.eventTarget.classList.add(selectors.activeClass);
         });
       });
     })(); // End of timeline IIFE function
