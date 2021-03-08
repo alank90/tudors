@@ -230,7 +230,6 @@ export default {
       window.addEventListener("scroll", function() {
         let max, min;
         let pos = window.scrollY; // Scrollbar position
-        let that = el;
 
         selectors.item.forEach(function(currentElement, currentIndex) {
           // Get offset from top  for min
@@ -243,7 +242,6 @@ export default {
 
           min = offset.top;
           max = elPos.height + offset.top;
-          var that = currentElement;
 
           if (currentIndex == itemLength - 2 && pos > min + elPos.height / 2) {
             // Remove the first timeline-item--active class
@@ -267,26 +265,22 @@ export default {
             lastTimeLineItem.classList.add(selectors.activeClass);
           } else if (pos <= max - 40 && pos >= min) {
             console.log(pos, max, min);
-            console.log(selectors.item);
             const currentImgItem = currentElement.querySelector(
               ".timeline__img"
             );
             const srcValue = currentImgItem.getAttribute("src");
-            // Now set the el background to current img src's value
+            // Now set the el background to current selectors.item[currentIndex] img src's value
             el.style.backgroundImage = `url(${srcValue})`;
+
             // remove current active class
-            console.log(currentIndex);
-            if (currentIndex > 0) {
-              selectors.item[currentIndex - 1].classList.remove(
-                selectors.activeClass
-              );
-              if (currentIndex < 11) {
-                selectors.item[currentIndex + 1].classList.remove(
-                  selectors.activeClass
-                );
+            const activeClassItem = Array.from(selectors.item);
+            activeClassItem.forEach(item => {
+              if (item.classList.contains(selectors.activeClass)) {
+                item.classList.remove(selectors.activeClass);
               }
-            }
-            // Set as active class
+            });
+
+            // Set current selectors.itemitem[currentIndex] as active class
             currentElement.classList.add(selectors.activeClass);
           }
         });
