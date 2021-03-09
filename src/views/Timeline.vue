@@ -2,195 +2,97 @@
   <div class="timeline-container" id="timeline-1">
     <div class="timeline-header">
       <h2 class="timeline-header__title">The House of Tudor</h2>
-      <h3 class="timeline-header__subtitle">An English royal dynasty</h3>
+      <h3 class="timeline-header__subtitle">An English Royal Dynasty</h3>
     </div>
     <div class="timeline">
-      <div class="timeline-item" data-text="FATHER OF THE TURKS">
+      <div class="timeline-item" data-text="Henry the VII">
         <div class="timeline__content">
           <img
             class="timeline__img"
-            src="http://i.cdn.ensonhaber.com/resimler/diger/ataturk_3473.jpg"
+            src="../assets/img/henry_vii_timeline.jpg"
           />
-          <h2 class="timeline__content-title">1881</h2>
+          <h2 class="timeline__content-title">1485</h2>
           <p class="timeline__content-desc">
-            He was born in 1881 (probably in the spring) in Salonica, then an
-            Ottoman city, now inGreece. His father Ali Riza, a customs official
-            turned lumber merchant, died when Mustafawas still a boy. His mother
-            Zubeyde, adevout and strong-willed woman, raised him and his sister.
+            Henry VII (Welsh: Harri Tudur; 28 January 1457 – 21 April 1509) was
+            the King of England and Lord of Ireland from his seizure of the
+            crown on 22 August 1485 to his death. He was the first monarch of
+            the House of Tudor.
           </p>
         </div>
       </div>
-      <div class="timeline-item" data-text="FATHER OF THE TURKS">
+      <div class="timeline-item" data-text="Henry the VIII">
         <div class="timeline__content">
           <img
             class="timeline__img"
-            src="http://gazetemanifesto.com/wp-content/uploads/2015/11/mustafa-kemal.jpg"
+            src="../assets/img/henry_viii_timeline.jpg"
           />
-          <h2 class="timeline__content-title">1893</h2>
+          <h2 class="timeline__content-title">1509</h2>
           <p class="timeline__content-desc">
-            First enrolled in a traditionalreligious school, he soon switched to
-            a modern school. In 1893, he entered a military highschool where his
-            mathematics teacher gave him the second name Kemal (meaning
-            perfection)in recognition of young Mustafa's superior achievement.
+            Henry VIII (28 June 1491 – 28 January 1547) was King of England from
+            1509 until his death in 1547. Henry is best known for his six
+            marriages, and, in particular, his efforts to have his first
+            marriage (to Catherine of Aragon) annulled.
           </p>
         </div>
       </div>
-      <div class="timeline-item" data-text="FATHER OF THE TURKS">
+      <div class="timeline-item" data-text="Edward the VI">
         <div class="timeline__content">
           <img
             class="timeline__img"
-            src="http://www.volpeypir.com/upload/3732.jpg"
+            src="../assets/img/edward_vi_timeline.jpg"
           />
-          <h2 class="timeline__content-title">1905</h2>
+          <h2 class="timeline__content-title">1547</h2>
           <p class="timeline__content-desc">
-            In 1905, Mustafa Kemal graduated from the War Academy in Istanbul
-            with the rank of Staff Captain. Posted in Damascus, he started with
-            several colleagues, a clandestinesociety called "Homeland and
-            Freedom" to fight against the Sultan'sdespotism.
+            Edward VI (12 October 1537 – 6 July 1553) was the King of England
+            and Ireland from 28 January 1547 until his death. He was crowned on
+            20 February at the age of nine. Edward was the son of Henry VIII and
+            Jane Seymour.
           </p>
         </div>
       </div>
-      <div class="timeline-item" data-text="FATHER OF THE TURKS">
+      <div class="timeline-item" data-text="Lady Jane Grey">
         <div class="timeline__content">
           <img
             class="timeline__img"
-            src="http://cdn.yemek.com/uploads/2014/11/ataturk-10-kasim.jpg"
+            src="../assets/img/lady_jane_timeline.jpg"
           />
-          <h2 class="timeline__content-title">1908</h2>
+          <h2 class="timeline__content-title">1553</h2>
           <p class="timeline__content-desc">
-            In 1908 he helped the group of officers who toppled the Sultan.
-            Mustafa Kemal'scareer flourished as he won his heroism in the far
-            corners of the Ottoman Empire,including Albania and Tripoli. He also
-            briefly served as a staff officer in Salonica andIstanbul and as a
-            military attache in Sofia.
+            Lady Jane Grey (c.1537– 12 February 1554), also known as Lady Jane
+            Dudley (after her marriage) and as the "Nine Days' Queen", was an
+            English noblewoman and de facto Queen of England and Ireland from 10
+            July until 19 July 1553.
           </p>
         </div>
       </div>
-      <div class="timeline-item" data-text="FATHER OF THE TURKS">
+      <div class="timeline-item" data-text="Mary The I">
         <div class="timeline__content">
-          <img
-            class="timeline__img"
-            src="http://ataturk.istanbul.gov.tr/GalleryLibrary/12.jpg"
-          />
-          <h2 class="timeline__content-title">1915</h2>
+          <img class="timeline__img" src="../assets/img/mary_i_timeline.jpg" />
+          <h2 class="timeline__content-title">1553</h2>
           <p class="timeline__content-desc">
-            In 1915, when Dardanelles campaign was launched, Colonel Mustafa
-            Kemal became anational hero by winning successive victories and
-            finally repelling the invaders.
+            Mary I (18 February 1516 – 17 November 1558), also known as Mary
+            Tudor, and as "Bloody Mary" by her Protestant opponents, was the
+            queen of England from July 1553 until her death. She is best known
+            for her vigorous attempt to reverse the English Reformation, which
+            had begun during the reign of her father, Henry VIII.
           </p>
         </div>
       </div>
-      <div class="timeline-item" data-text="FATHER OF THE TURKS">
+      <div class="timeline-item" data-text="Elizabeth the I">
         <div class="timeline__content">
           <img
             class="timeline__img"
-            src="http://blog.istanbul1881.com/wp-content/uploads/2016/08/atat%C3%BCrk-%C3%BCn-inan%C4%B1lmaz-karizmatik-fotograf%C4%B1_861050.jpg"
+            src="../assets/img/elizabeth_i_timeline.jpg"
           />
-          <h2 class="timeline__content-title">1916</h2>
+          <h2 class="timeline__content-title">1559</h2>
           <p class="timeline__content-desc">
-            Promotedto general in 1916, at age 35, he liberated two major
-            provinces in eastern Turkey thatyear. In the next two years, he
-            served as commander of several Ottoman armies inPalestine, Aleppo,
-            and elsewhere, achieving another major victory by stopping the
-            enemyadvance at Aleppo.
-          </p>
-        </div>
-      </div>
-      <div class="timeline-item" data-text="FATHER OF THE TURKS">
-        <div class="timeline__content">
-          <img
-            class="timeline__img"
-            src="http://manisanokta.com/wp-content/uploads/2014/07/ataturk-20.jpg"
-          />
-          <h2 class="timeline__content-title">1919</h2>
-          <p class="timeline__content-desc">
-            On May 19, 1919, Mustafa Kemal Pasha landed in the Black Sea port of
-            Samsun to startthe War of Independence. In defiance of the Sultan's
-            government, he rallied a liberationarmy in Anatolia and convened the
-            Congress of Erzurum and Sivas which established thebasis for the new
-            national effort under his leadership.
-          </p>
-        </div>
-      </div>
-      <div class="timeline-item" data-text="FATHER OF THE TURKS">
-        <div class="timeline__content">
-          <img
-            class="timeline__img"
-            src="http://www.volpeypir.com/upload/3732.jpg"
-          />
-          <h2 class="timeline__content-title">1920</h2>
-          <p class="timeline__content-desc">
-            On April 23, 1920, the GrandNational Assembly was inaugurated.
-            Mustafa Kemal Pasha was elected to its Presidency. Fighting on many
-            fronts, he led his forces to victory against rebels and
-            invadingarmies. Following the Turkish triumph at the two major
-            battles at Inonu in Western Turkey,the Grand National Assembly
-            conferred on Mustafa Kemal Pasha the title ofCommander-in-Chief with
-            the rank of Marshal.
-          </p>
-        </div>
-      </div>
-      <div class="timeline-item" data-text="FATHER OF THE TURKS">
-        <div class="timeline__content">
-          <img
-            class="timeline__img"
-            src="http://sanatkaravani.com/wp-content/uploads/2015/11/ataturk-4.jpg"
-          />
-          <h2 class="timeline__content-title">1922</h2>
-          <p class="timeline__content-desc">
-            At the end of August 1922, the Turkish armieswon their ultimate
-            victory. Within a few weeks, the Turkish mainland was
-            completelyliberated, the armistice signed, and the rule of the
-            Ottoman dynasty abolished
-          </p>
-        </div>
-      </div>
-      <div class="timeline-item" data-text="FATHER OF THE TURKS">
-        <div class="timeline__content">
-          <img
-            class="timeline__img"
-            src="https://turkcetarih.com/wp-content/uploads/2015/05/Atat%C3%BCrkveCumhuriyet.jpg"
-          />
-          <h2 class="timeline__content-title">1923</h2>
-          <p class="timeline__content-desc">
-            In July 1923, the national government signed the Lausanne Treaty
-            with Great Britain,France, Greece, Italy, and others. In
-            mid-October, Ankara became the capital of the new Turkish State. On
-            October 29, the Republic was proclaimed and Mustafa Kemal Pasha
-            wasunanimously elected President of the Republic.
-          </p>
-        </div>
-      </div>
-      <div class="timeline-item" data-text="FATHER OF THE TURKS">
-        <div class="timeline__content">
-          <img
-            class="timeline__img"
-            src="https://pbs.twimg.com/media/Cw69H8pXUAEaSqa.jpg"
-          />
-          <h2 class="timeline__content-title">1934</h2>
-          <p class="timeline__content-desc">
-            The account of Atatürk's fifteen year Presidency is a saga of
-            dramatic modernization.With indefatigable determination, he created
-            a new political and legal system, abolished the Caliphate and made
-            both government and education secular, gave equal rights to
-            women,changed the alphabet and the attire, and advanced the arts and
-            the sciences, agricultureand industry. In 1934, when the surname law
-            was adopted, the national parliament gave him the name
-            <i><strong>"Atatürk" (Father of the Turks)</strong></i>
-          </p>
-        </div>
-      </div>
-      <div class="timeline-item" data-text="FATHER OF THE TURKS">
-        <div class="timeline__content">
-          <img
-            class="timeline__img"
-            src="http://www.bik.gov.tr/wp-content/uploads/2016/11/20161110_2_20037273_15856882.jpg?fit=1024%2C863"
-          />
-          <h2 class="timeline__content-title">1938</h2>
-          <p class="timeline__content-desc">
-            On November 10, 1938, following an illness of a few months, the
-            national liberator and the Father of modern Turkey died. But his
-            legacy to his people and to the world endures.
+            Elizabeth I (7 September 1533 – 24 March 1603) was Queen of England
+            and Ireland from 17 November 1558 until her death on 24 March 1603.
+            Sometimes called <em>the Virgin Queen</em>, <em>Gloriana</em> or
+            <em>Good Queen Bess</em>, Elizabeth was the last of the five
+            monarchs of the House of Tudor. Elizabeth was the daughter of Henry
+            VIII and Anne Boleyn, his second wife, who was executed
+            two-and-a-half years after Elizabeth's birth.
           </p>
         </div>
       </div>
@@ -199,8 +101,6 @@
 </template>
 
 <script>
-/* eslint-disable no-unused-vars */
-/* eslint-disable no-undef */
 export default {
   name: "timeline",
   data() {
@@ -235,9 +135,6 @@ export default {
         selectors.item.forEach(function(currentElement, currentIndex) {
           // Get offset from top  for min
           let elPos = currentElement.getBoundingClientRect();
-          let currentElHeight = parseFloat(
-            getComputedStyle(currentElement, null).height.replace("px", "")
-          );
 
           let offset = {
             top: elPos.top + window.scrollY,
@@ -246,21 +143,9 @@ export default {
 
           min = offset.top;
           max = elPos.height + offset.top;
-          console.log(
-            "currentIndex & Itemlength = ",
-            currentIndex,
-            itemLength - 2
-          );
-          console.log("current Element = ", currentElement);
-          console.log("Pos = ", pos);
-          console.log("min + Height / 2 = ", min + currentElHeight / 2);
-          console.log("Height is = ", currentElHeight);
-
-          if (
-            currentIndex == itemLength - 2 &&
-            pos > min + currentElHeight / 2
-          ) {
-            console.log("Im in if condition");
+          // First if is check for next to last element and then transition to last element
+          // Currently not working.
+          if (currentIndex == itemLength - 2 && pos > min + elPos.height / 2) {
             // Remove the next to last timeline-item--active class
             Array.from(
               document.querySelectorAll(".timeline-item--active")
@@ -328,7 +213,7 @@ export default {
 }
 .timeline__content-desc {
   margin: 0;
-  font-size: 15px;
+  font-size: 18px;
   box-sizing: border-box;
   color: rgba(255, 255, 255, 0.7);
   font-family: Cardo;
@@ -366,7 +251,7 @@ export default {
   width: 100%;
   position: absolute;
   color: rgba(255, 255, 255, 0.5);
-  font-size: 13px;
+  font-size: 2.3rem;
   font-family: "Pathway Gothic One", sans-serif;
   border-left: 2px solid rgba(255, 255, 255, 0.5);
   top: 70%;
@@ -455,7 +340,7 @@ export default {
 .timeline-header__subtitle {
   color: rgba(255, 255, 255, 0.5);
   font-family: "Pathway Gothic One", sans-serif;
-  font-size: 16px;
+  font-size: 26px;
   letter-spacing: 5px;
   margin: 10px 0 0 0;
   font-weight: normal;
