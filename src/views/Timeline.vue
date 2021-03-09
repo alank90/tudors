@@ -217,6 +217,7 @@ export default {
       };
 
       const firstTimeLineItem = selectors.item[0];
+      // Add .timeline-item--active to first selectors.item[] item
       firstTimeLineItem.classList.add(selectors.activeClass);
       // Get first .timeline-item > img[src's] value
       const firstImgItem = firstTimeLineItem.querySelector(".timeline__img");
@@ -234,6 +235,9 @@ export default {
         selectors.item.forEach(function(currentElement, currentIndex) {
           // Get offset from top  for min
           let elPos = currentElement.getBoundingClientRect();
+          let currentElHeight = parseFloat(
+            getComputedStyle(currentElement, null).height.replace("px", "")
+          );
 
           let offset = {
             top: elPos.top + window.scrollY,
@@ -242,9 +246,22 @@ export default {
 
           min = offset.top;
           max = elPos.height + offset.top;
+          console.log(
+            "currentIndex & Itemlength = ",
+            currentIndex,
+            itemLength - 2
+          );
+          console.log("current Element = ", currentElement);
+          console.log("Pos = ", pos);
+          console.log("min + Height / 2 = ", min + currentElHeight / 2);
+          console.log("Height is = ", currentElHeight);
 
-          if (currentIndex == itemLength - 2 && pos > min + elPos.height / 2) {
-            // Remove the first timeline-item--active class
+          if (
+            currentIndex == itemLength - 2 &&
+            pos > min + currentElHeight / 2
+          ) {
+            console.log("Im in if condition");
+            // Remove the next to last timeline-item--active class
             Array.from(
               document.querySelectorAll(".timeline-item--active")
             ).forEach(function(activeEl) {
@@ -264,7 +281,6 @@ export default {
             // Set as active class
             lastTimeLineItem.classList.add(selectors.activeClass);
           } else if (pos <= max - 40 && pos >= min) {
-            console.log(pos, max, min);
             const currentImgItem = currentElement.querySelector(
               ".timeline__img"
             );
