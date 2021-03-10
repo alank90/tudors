@@ -65,7 +65,7 @@
           </p>
         </div>
       </div>
-      <div class="timeline-item" data-text="Mary The I">
+      <div class="timeline-item" data-text="Mary the I">
         <div class="timeline__content">
           <img class="timeline__img" src="../assets/img/mary_i_timeline.jpg" />
           <h2 class="timeline__content-title">1553</h2>
@@ -213,17 +213,17 @@ export default {
 }
 .timeline__content-desc {
   margin: 0;
-  font-size: 18px;
+  font-size: var(--font-size);
   box-sizing: border-box;
   color: rgba(255, 255, 255, 0.7);
-  font-family: Cardo;
+  font-family: var(--font-p);
   font-weight: normal;
   line-height: 25px;
 }
 .timeline:before {
   position: absolute;
   left: 50%;
-  width: 2px;
+  width: 3px;
   height: 100%;
   margin-left: -1px;
   content: "";
@@ -344,15 +344,5 @@ export default {
   letter-spacing: 5px;
   margin: 10px 0 0 0;
   font-weight: normal;
-}
-
-.demo-footer {
-  padding: 60px 0;
-  text-align: center;
-}
-.demo-footer a {
-  color: #999;
-  display: inline-block;
-  font-family: Cardo;
 }
 </style>

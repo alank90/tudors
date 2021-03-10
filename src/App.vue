@@ -81,7 +81,7 @@
   color: var(--color-text);
   background-color: var(--color-bg);
   --default-font: "Noto Sans", sans-serif;
-  --font-p: "Raleway", sans-serif;
+  --font-p: "Cardo", sans-serif;
   --font-size: 18px;
   --line-height: 1.5;
   --letter-spacing: 2px;
@@ -94,7 +94,7 @@
     rgba(255, 190, 160, 1) 100%
   );
 }
-
+/* ============ End Global Variables ==================== */
 body {
   margin: 0; /* prevents scrollbars */
 }
