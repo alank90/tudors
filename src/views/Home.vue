@@ -1,7 +1,7 @@
 <template>
   <div class="home">
     <h1>The Tudors</h1>
-    <img src="../assets/img/Tudor_Rose.svg" alt="" />
+    <img src="../assets/img/Tudor_Rose.svg" alt="Tudor rose" />
     <h2>A History of the House of Tudor (1485-1603)</h2>
     <masonry />
   </div>

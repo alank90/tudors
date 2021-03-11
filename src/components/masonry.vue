@@ -1,6 +1,6 @@
 <template>
   <div class="masonry">
-    <div class="masonry-brick">
+    <div class="masonry-brick henry_vii">
       <div
         @mouseover="toggleMasonryTitle"
         @mouseleave="toggleMasonryTitle"
@@ -18,7 +18,7 @@
         </p>
       </div>
     </div>
-    <div class="masonry-brick">
+    <div class="masonry-brick henry_viii">
       <div
         @mouseover="toggleMasonryTitle"
         @mouseleave="toggleMasonryTitle"
@@ -31,7 +31,7 @@
         </p>
       </div>
     </div>
-    <div class="masonry-brick">
+    <div class="masonry-brick ed_vi">
       <div
         @mouseover="toggleMasonryTitle"
         @mouseleave="toggleMasonryTitle"
@@ -44,7 +44,7 @@
         </p>
       </div>
     </div>
-    <div class="masonry-brick">
+    <div class="masonry-brick jane_grey">
       <div
         @mouseover="toggleMasonryTitle"
         @mouseleave="toggleMasonryTitle"
@@ -63,7 +63,7 @@
         </p>
       </div>
     </div>
-    <div class="masonry-brick">
+    <div class="masonry-brick mary_i">
       <div
         @mouseover="toggleMasonryTitle"
         @mouseleave="toggleMasonryTitle"
@@ -77,7 +77,7 @@
         </p>
       </div>
     </div>
-    <div class="masonry-brick">
+    <div class="masonry-brick eliz_i">
       <div
         @mouseover="toggleMasonryTitle"
         @mouseleave="toggleMasonryTitle"
@@ -90,7 +90,7 @@
         </p>
       </div>
     </div>
-    <div class="masonry-brick">
+    <div class="masonry-brick armour">
       <div class="masonry-content">
         <img src="../assets/img/armour.png" alt="Picture of Armoured Knight" />
       </div>
@@ -106,94 +106,6 @@ export default {
   },
   props: {
     msg: String
-  },
-  mounted() {
-    function resizeMasonryItem(item) {
-      /**
-       * Set appropriate spanning to any masonry item
-       *
-       * Get different properties we already set for the masonry, calculate
-       * height or spanning for any cell of the masonry grid based on its
-       * content-wrapper's height, the (row) gap of the grid, and the size
-       * of the implicit row tracks.
-       *
-       * @param item Object A brick/tile/cell inside the masonry
-       */
-      /* Get the grid object, its row-gap-, and the size of its implicit rows */
-      const grid = document.getElementsByClassName("masonry")[0];
-      const rowGap = parseInt(
-        window.getComputedStyle(grid).getPropertyValue("grid-row-gap")
-      );
-      const rowHeight = parseInt(
-        window.getComputedStyle(grid).getPropertyValue("grid-auto-rows")
-      );
-
-      /*
-       * Spanning for any brick = S
-       * Grid's row-gap = G
-       * Size of grid's implicitly create row-track = R
-       * Height of item content = H
-       * Net height of the item = H1 = H + G
-       * Net height of the implicit row-track = T = G + R
-       * S = H1 / T
-       */
-      const rowSpan = Math.ceil(
-        (item.querySelector(".masonry-content").getBoundingClientRect().height +
-          rowGap) /
-          (rowHeight + rowGap)
-      );
-
-      /* Set the spanning as calculated above (S) */
-      item.style.gridRowEnd = `span ${rowSpan}`;
-    }
-    function resizeAllMasonryItems() {
-      /**
-       * Apply spanning to all the masonry items
-       *
-       * Loop through all the items and apply the spanning to them using
-       * `resizeMasonryItem()` function.
-       *
-       * @uses resizeMasonryItem
-       */
-
-      // Get all item class objects in one list
-      const allItems = document.getElementsByClassName("masonry-brick");
-
-      /* Ok now we want to loop thru the whole HTMLCollection and execute the
-       * spanning function to each list-item (i.e. each .masonry-item)
-       */
-      for (let i = 0; i < allItems.length; i++) {
-        resizeMasonryItem(allItems[i]);
-      }
-    }
-    function waitForImages() {
-      /**
-       * Resize the items when all the images inside the masonry grid
-       * finish loading. This will ensure that all the content inside our
-       * masonry items are visible.
-       *
-       * @uses ImagesLoaded
-       * @uses resizeMasonryItem
-       */
-      const allItems = document.getElementsByClassName("masonry-brick");
-      for (var i = 0; i < allItems.length; i++) {
-        // imagesLoaded is imported via a <script> tag in index.html
-        // eslint-disable-next-line no-undef
-        imagesLoaded(allItems[i], function(instance) {
-          const item = instance.elements[0];
-          resizeMasonryItem(item);
-        });
-      }
-    }
-
-    /* Resize all the grid items on the load and resize events */
-    const masonryEvents = ["load", "resize"];
-    masonryEvents.forEach(function(event) {
-      window.addEventListener(event, resizeAllMasonryItems);
-    });
-
-    /* Do a resize once more when all the images finish loading */
-    waitForImages();
   },
   methods: {
     toggleMasonryTitle: function(event) {
@@ -220,20 +132,41 @@ export default {
 <!-- Add "scoped" attribute to limit CSS to this component only -->
 <style scoped>
 /* Masonry CSS */
+
 .masonry {
   display: grid;
   grid-gap: 1em; /* [1] Add some gap between rows and columns */
+  grid-template-areas:
+    "one   two    three"
+    "four  five    six"
+    "....  eight   ...";
   grid-template-columns:
     repeat(2, minmax(250px, 1fr))
     minmax(
       300px,
       1fr
     ); /* [2] Make columns adjust according to the available viewport */
-  grid-auto-rows: 10%; /* [3] Set the height for implicitly-created row track */
 }
-
-.masonry-brick:last-child {
-  grid-column-start: 2;
+.henry_vii {
+  grid-area: one;
+}
+.henry_viii {
+  grid-area: two;
+}
+.ed_vi {
+  grid-area: three;
+}
+.mary_i {
+  grid-area: four;
+}
+.armour {
+  grid-area: five;
+}
+.lady_grey {
+  grid-area: six;
+}
+.eliz_i {
+  grid-area: eight;
 }
 
 .masonry-brick {
