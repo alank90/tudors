@@ -83,6 +83,7 @@
   --default-font: "Noto Sans", sans-serif;
   --font-p: "Cardo", sans-serif;
   --font-size: 18px;
+  --font-cinzel: "Cinzel Decorative", Helvetica;
   --line-height: 1.5;
   --letter-spacing: 2px;
   --nav-text-color: 217, 7, 7;
@@ -231,23 +232,4 @@ li a.router-link-exact-active {
 }
 
 /* End Link hover effect */
-
-/* .main-head {
-  border: 2px solid red;
-}
-.content {
-  border: 2px solid purple;
-}
-.main-head-nav {
-  border: 2px solid yellow;
-}
-.side {
-  border: 2px solid yellowgreen;
-}
-.ad {
-  border: 2px solid steelblue;
-}
-.main-footer {
-  border: 2px solid brown;
-} */
 </style>

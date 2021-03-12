@@ -11,6 +11,7 @@
           alt="Picture of Henry VII"
           class="masonry-content"
         />
+
         <h3 class="masonry-title">Henry VII</h3>
         <p class="masonry-description">
           Henry VII (Welsh: Harri Tudur; 28 January 1457 – 21 April 1509) was
@@ -18,13 +19,16 @@
         </p>
       </div>
     </div>
+    <router-view />
     <div class="masonry-brick henry_viii">
       <div
         @mouseover="toggleMasonryTitle"
         @mouseleave="toggleMasonryTitle"
         class="masonry-content"
       >
-        <img src="../assets/img/henry_viii.png" alt="Picture of Henry VIII" />
+        <router-link to="/Henry_VIII">
+          <img src="../assets/img/henry_viii.png" alt="Picture of Henry VIII" />
+        </router-link>
         <h3 class="masonry-title">Henry VIII</h3>
         <p class="masonry-description">
           Henry VIII (28 June 1491 – 28 January 1547).

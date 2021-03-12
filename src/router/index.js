@@ -2,6 +2,8 @@ import Vue from "vue";
 import VueRouter from "vue-router";
 import Home from "../views/Home.vue";
 import Timeline from "../views/Timeline.vue";
+import Henry_VIII from "../views/Henry_VIII.vue";
+import TheSixWives from "../views/TheSixWives.vue";
 
 Vue.use(VueRouter);
 
@@ -15,6 +17,16 @@ const routes = [
     path: "/timeline",
     name: "Timeline",
     component: Timeline
+  },
+  {
+    path: "/Henry_VIII",
+    name: "Henry_VIII",
+    component: Henry_VIII
+  },
+  {
+    path: "/TheSixWives",
+    name: "The_Six_Wives",
+    component: TheSixWives
   },
   {
     path: "/about",
