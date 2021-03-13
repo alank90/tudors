@@ -1,14 +1,12 @@
 <template>
   <div class="container">
     <h1>The Six Wives of Henry the VIII</h1>
-    <ul>
-      <li><img src="" alt="" /></li>
-      <li><img src="" alt="" /></li>
-      <li><img src="" alt="" /></li>
-      <li><img src="" alt="" /></li>
-      <li><img src="" alt="" /></li>
-      <li><img src="" alt="" /></li>
-    </ul>
+    <img src="" alt="" />
+    <img src="" alt="" />
+    <img src="" alt="" />
+    <img src="" alt="" />
+    <img src="" alt="" />
+    <img src="" alt="" />
   </div>
 </template>
 
