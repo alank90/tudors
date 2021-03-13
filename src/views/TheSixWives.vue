@@ -1,5 +1,15 @@
 <template>
-  <h1>The Six Wives of Henry the VIII</h1>
+  <div class="container">
+    <h1>The Six Wives of Henry the VIII</h1>
+    <ul>
+      <li><img src="" alt="" /></li>
+      <li><img src="" alt="" /></li>
+      <li><img src="" alt="" /></li>
+      <li><img src="" alt="" /></li>
+      <li><img src="" alt="" /></li>
+      <li><img src="" alt="" /></li>
+    </ul>
+  </div>
 </template>
 
 <style scoped>

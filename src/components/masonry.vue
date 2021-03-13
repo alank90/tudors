@@ -27,7 +27,11 @@
         class="masonry-content"
       >
         <router-link to="/Henry_VIII">
-          <img src="../assets/img/henry_viii.png" alt="Picture of Henry VIII" />
+          <img
+            src="../assets/img/henry_viii.png"
+            title="Click to read more..."
+            alt="Picture of Henry VIII"
+          />
         </router-link>
         <h3 class="masonry-title">Henry VIII</h3>
         <p class="masonry-description">
@@ -156,6 +160,7 @@ export default {
 }
 .henry_viii {
   grid-area: two;
+  cursor: pointer;
 }
 .ed_vi {
   grid-area: three;

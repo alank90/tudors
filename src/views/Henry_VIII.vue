@@ -5,7 +5,7 @@
       <img
         src="../assets/img/six_wives.jpg"
         alt="Six Wives of Henry the VIII"
-        title="Click to find out more Henry the VIII's wives "
+        title="Click to find out more about Henry the VIII's wives "
       />
     </router-link>
     <p>
@@ -352,7 +352,6 @@ img {
   float: right;
   cursor: pointer;
   width: 400px;
-
   border-radius: 7px;
 }
 </style>
