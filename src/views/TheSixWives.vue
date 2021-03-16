@@ -1,11 +1,15 @@
 <template>
   <div class="container">
     <h1>The Six Wives of Henry the VIII</h1>
+
     <div class="img-container">
-      <img
-        src="../assets/img/TheWives/Catherine-of-Aragon.jpg"
-        alt="Catherine of Aragon"
-      />
+      <div class="image">
+        <img
+          src="../assets/img/TheWives/Catherine-of-Aragon.jpg"
+          alt="Catherine of Aragon"
+        />
+        <p>Catherine</p>
+      </div>
       <img src="../assets/img/TheWives/Anne-Boleyn.jpg" alt="Anne Boleyn" />
       <img src="../assets/img/TheWives/Jane-Seymour.jpg" alt="Jane Seymour" />
       <img
@@ -37,7 +41,7 @@ h1 {
   height: 800px;
   border-radius: 50%;
   padding: 0;
-  margin: 40px auto 0;
+  margin: 40px auto 160px;
   border: solid 5px #e94d4d;
 }
 
@@ -47,7 +51,8 @@ img {
   top: 50%;
   left: 50%;
 }
-.img-container > *:nth-of-type(1) {
+
+.img-container > div > *:nth-of-type(1) {
   transform: rotate(0deg) translate(0, -440px) rotate(0deg);
 }
 
