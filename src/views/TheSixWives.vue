@@ -6,21 +6,31 @@
       <figure>
         <img
           src="../assets/img/TheWives/Catherine-of-Aragon.jpg"
+          data-name="Catherine of Aragon"
           alt="Catherine of Aragon"
         />
         <figcaption>Catherine of Aragon (m. 1509 - 1533 Annulled)</figcaption>
       </figure>
       <figure>
-        <img src="../assets/img/TheWives/Anne-Boleyn.jpg" alt="Anne Boleyn" />
+        <img
+          src="../assets/img/TheWives/Anne-Boleyn.jpg"
+          data-name="Anne Boleyn"
+          alt="Anne Boleyn"
+        />
         <figcaption>Anne Boleyn (m. 1533 - 1536 Executed)</figcaption>
       </figure>
       <figure>
-        <img src="../assets/img/TheWives/Jane-Seymour.jpg" alt="Jane Seymour" />
+        <img
+          src="../assets/img/TheWives/Jane-Seymour.jpg"
+          data-name="Jane Seymour"
+          alt="Jane Seymour"
+        />
         <figcaption>Jane Seymour (m. 1536 - 1537 Died)</figcaption>
       </figure>
       <figure>
         <img
           src="../assets/img/TheWives/Anne-of-Cleves.jpg"
+          data-name="Anne-of-Cleves"
           alt="Anne of Cleves"
         />
         <figcaption>Anne of Cleves (m. 1540 Jan. - July Annulled)</figcaption>
@@ -28,29 +38,88 @@
       <figure>
         <img
           src="../assets/img/TheWives/Catherine-Howard.jpg"
+          data-name="Catherine Howard"
           alt="Catherine Howard"
         />
         <figcaption>Catherine Howard (m. 1540 - 1542 Executed)</figcaption>
       </figure>
       <figure>
         <img
+          data-name="Catherine Parr"
           src="../assets/img/TheWives/Catherine-Parr.jpg"
           alt="Catherine Parr"
         />
         <figcaption>Catherine Parr (m. 1543 - 1547 Widowed)</figcaption>
       </figure>
       <figure>
-        <img src="../assets/img/henry_viii.png" alt="Henry th VIII" />
+        <img
+          src="../assets/img/henry_viii.png"
+          data-name="HenryVIII"
+          alt="Henry the VIII"
+        />
         <figcaption>Henry VIII</figcaption>
       </figure>
     </div>
+
+    <!-- ============ Below here is modal markup ============= -->
+    <div class="modal">
+      <div class="modal-header">
+        <span class="close-btn">&#88;</span>
+        <h2>Wives Name</h2>
+      </div>
+      <div class="modal-content">
+        <div class="content">this is the text inside the modal</div>
+      </div>
+    </div>
+    <!-- ============ End modal markup ============= -->
   </div>
 </template>
+
+<script>
+export default {
+  name: "theSixWives",
+  mounted() {
+    // This will setup the event listener and then render the appropriate
+    // modal for the image clicked
+    const elContainer = document.querySelector(".figure-container");
+    elContainer.addEventListener("click", function(ev) {
+      ev.preventDefault;
+      const elFigure = ev.target;
+      if (elFigure.nodeName.toLowerCase() === "img") {
+        console.log(elFigure.dataset.name.toLowerCase().replace(/\s|-/g, ""));
+
+        // Here we place our modal logic to toggle it
+        const modal = document.querySelector(".modal");
+        const closeBtn = document.querySelector(".close-btn");
+        console.log(closeBtn);
+
+        // Display the Modal
+        modal.style.display = "block";
+        // Close modal logic
+        closeBtn.onclick = function(e) {
+          if (e.target.nodeName === "SPAN") {
+            modal.style.display = "none";
+          }
+        };
+        // Enables clicking anywhere to dismiss modal
+        window.onclick = function(e) {
+          if (e.target == modal) {
+            modal.style.display = "none";
+          }
+        };
+      }
+    });
+  }
+};
+</script>
 
 <style scoped>
 h1 {
   font-family: var(--font-cinzel);
   font-size: 2.3rem;
+}
+h2 {
+  font-family: var(--font-cinzel);
 }
 
 .figure-container {
@@ -117,5 +186,63 @@ img {
 p {
   font-size: var(--font-size);
   font-family: var(--font-p);
+}
+
+/* ========= Modal Stylings ======== */
+.modal {
+  display: none;
+  position: fixed;
+  padding-top: 50px;
+  left: 0;
+  top: 0;
+  width: 100%;
+  height: 100%;
+  background-color: rgb(0, 0, 0);
+  background-color: rgba(0, 0, 0, 0.5);
+}
+
+.modal-content {
+  position: relative;
+  background-color: white;
+  padding: 20px;
+  margin: auto;
+  width: 75%;
+  -webkit-animation-name: animatetop;
+  -webkit-animation-duration: 0.4s;
+  animation-name: animatetop;
+  animation-duration: 0.4s;
+}
+
+.close-btn {
+  float: right;
+  padding-right: 20px;
+  color: lightgray;
+  font-size: 24px;
+  font-weight: 600;
+  transform: scale(2);
+}
+.close-btn:hover {
+  color: darkgray;
+}
+
+@-webkit-keyframes animatetop {
+  from {
+    top: -300px;
+    opacity: 0;
+  }
+  to {
+    top: 0;
+    opacity: 1;
+  }
+}
+@keyframes animatetop {
+  from {
+    top: -300px;
+    opacity: 0;
+  }
+  to {
+    top: 0;
+    opacity: 1;
+  }
 }
 </style>
