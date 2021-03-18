@@ -67,17 +67,23 @@
         <span class="close-btn">&#88;</span>
         <h2>Wives Name</h2>
       </div>
-      <div class="modal-content">
-        <div class="content">this is the text inside the modal</div>
-      </div>
+
+      <div v-html="theWivesBios[currentWife]" class="modal-content"></div>
     </div>
     <!-- ============ End modal markup ============= -->
   </div>
 </template>
 
 <script>
+import theWivesBios from "./assets/theWivesBio";
 export default {
   name: "theSixWives",
+  data() {
+    return {
+      theWivesBios: theWivesBios,
+      currentWife: ""
+    };
+  },
   mounted() {
     // This will setup the event listener and then render the appropriate
     // modal for the image clicked
@@ -91,10 +97,12 @@ export default {
         // Here we place our modal logic to toggle it
         const modal = document.querySelector(".modal");
         const closeBtn = document.querySelector(".close-btn");
-        console.log(closeBtn);
 
         // Display the Modal
         modal.style.display = "block";
+
+        this.currentWife = "testing";
+        console.log(elFigure.dataset.name.toLowerCase().replace(/\s|-/g, ""));
         // Close modal logic
         closeBtn.onclick = function(e) {
           if (e.target.nodeName === "SPAN") {
@@ -138,6 +146,7 @@ figure {
   top: 50%;
   left: 50%;
 }
+
 figcaption {
   font-family: var(--font-p);
   width: 200%;
@@ -199,6 +208,13 @@ p {
   height: 100%;
   background-color: rgb(0, 0, 0);
   background-color: rgba(0, 0, 0, 0.5);
+  overflow: auto;
+}
+
+.modal-header {
+  width: 75%;
+  margin: auto;
+  background-color: white;
 }
 
 .modal-content {
@@ -213,13 +229,18 @@ p {
   animation-duration: 0.4s;
 }
 
+h2 {
+  margin: 10px 0 0;
+  padding-top: 15px;
+}
+
 .close-btn {
   float: right;
   padding-right: 20px;
-  color: lightgray;
+  color: rgb(136, 133, 133);
   font-size: 24px;
   font-weight: 600;
-  transform: scale(2);
+  transform: scale(1.5);
 }
 .close-btn:hover {
   color: darkgray;
@@ -245,4 +266,5 @@ p {
     opacity: 1;
   }
 }
+/* ========= End Modal Stylings ======== */
 </style>
