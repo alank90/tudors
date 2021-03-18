@@ -88,35 +88,37 @@ export default {
     // This will setup the event listener and then render the appropriate
     // modal for the image clicked
     const elContainer = document.querySelector(".figure-container");
+    // Here we place our modal logic to toggle it
+    const modal = document.querySelector(".modal");
+    const closeBtn = document.querySelector(".close-btn");
+
+    this.currentWife = "testing";
     elContainer.addEventListener("click", function(ev) {
       ev.preventDefault;
       const elFigure = ev.target;
+      this.currentWife = "testing";
       if (elFigure.nodeName.toLowerCase() === "img") {
         console.log(elFigure.dataset.name.toLowerCase().replace(/\s|-/g, ""));
-
-        // Here we place our modal logic to toggle it
-        const modal = document.querySelector(".modal");
-        const closeBtn = document.querySelector(".close-btn");
 
         // Display the Modal
         modal.style.display = "block";
 
-        this.currentWife = "testing";
         console.log(elFigure.dataset.name.toLowerCase().replace(/\s|-/g, ""));
-        // Close modal logic
-        closeBtn.onclick = function(e) {
-          if (e.target.nodeName === "SPAN") {
-            modal.style.display = "none";
-          }
-        };
-        // Enables clicking anywhere to dismiss modal
-        window.onclick = function(e) {
-          if (e.target == modal) {
-            modal.style.display = "none";
-          }
-        };
       }
     });
+
+    // Close modal logic
+    closeBtn.onclick = function(e) {
+      if (e.target.nodeName === "SPAN") {
+        modal.style.display = "none";
+      }
+    };
+    // Enables clicking anywhere to dismiss modal
+    window.onclick = function(e) {
+      if (e.target == modal) {
+        modal.style.display = "none";
+      }
+    };
   }
 };
 </script>
