@@ -91,7 +91,12 @@
         @mouseleave="toggleMasonryTitle"
         class="masonry-content"
       >
-        <img src="../assets/img/elizabeth_i.png" alt="Picture of Elizabeth I" />
+        <router-link to="Elizabeth_I">
+          <img
+            src="../assets/img/elizabeth_i.png"
+            alt="Picture of Elizabeth I"
+          />
+        </router-link>
         <h3 class="masonry-title">Elizabeth I</h3>
         <p class="masonry-description">
           Elizabeth I (7 September 1533 – 24 March 1603).
@@ -176,6 +181,7 @@ export default {
 }
 .eliz_i {
   grid-area: eight;
+  cursor: pointer;
 }
 
 .masonry-brick {

@@ -30,7 +30,7 @@
       <figure>
         <img
           src="../assets/img/TheWives/Anne-of-Cleves.jpg"
-          data-name="Anne-of-Cleves"
+          data-name="Anne of Cleves"
           alt="Anne of Cleves"
         />
         <figcaption>Anne of Cleves (m. 1540 Jan. - July Annulled)</figcaption>
@@ -65,7 +65,7 @@
     <div class="modal">
       <div class="modal-header">
         <span class="close-btn">&#88;</span>
-        <h2>Wives Name</h2>
+        <h2>{{ currentWifeHeaderName }}</h2>
       </div>
 
       <div v-html="theWivesBios[currentWife]" class="modal-content"></div>
@@ -81,7 +81,8 @@ export default {
   data() {
     return {
       theWivesBios: theWivesBios,
-      currentWife: ""
+      currentWife: "",
+      currentWifeHeaderName: ""
     };
   },
   mounted() {
@@ -92,33 +93,35 @@ export default {
     const modal = document.querySelector(".modal");
     const closeBtn = document.querySelector(".close-btn");
 
-    this.currentWife = "testing";
-    elContainer.addEventListener("click", function(ev) {
+    elContainer.addEventListener("click", ev => {
       ev.preventDefault;
-      const elFigure = ev.target;
-      this.currentWife = "testing";
-      if (elFigure.nodeName.toLowerCase() === "img") {
-        console.log(elFigure.dataset.name.toLowerCase().replace(/\s|-/g, ""));
+      const elClicked = ev.target;
+      this.currentWife = elClicked.dataset.name
+        .toLowerCase()
+        .replace(/\s|-/g, "");
 
+      if (
+        elClicked.nodeName.toLowerCase() === "img" &&
+        !elClicked.src.includes("henry_viii")
+      ) {
         // Display the Modal
         modal.style.display = "block";
+        this.currentWifeHeaderName = elClicked.dataset.name;
 
-        console.log(elFigure.dataset.name.toLowerCase().replace(/\s|-/g, ""));
+        // Close modal logic
+        closeBtn.onclick = function(e) {
+          if (e.target.nodeName === "SPAN") {
+            modal.style.display = "none";
+          }
+        };
+        // Enables clicking anywhere to dismiss modal
+        window.onclick = function(e) {
+          if (e.target == modal) {
+            modal.style.display = "none";
+          }
+        };
       }
     });
-
-    // Close modal logic
-    closeBtn.onclick = function(e) {
-      if (e.target.nodeName === "SPAN") {
-        modal.style.display = "none";
-      }
-    };
-    // Enables clicking anywhere to dismiss modal
-    window.onclick = function(e) {
-      if (e.target == modal) {
-        modal.style.display = "none";
-      }
-    };
   }
 };
 </script>
@@ -234,6 +237,10 @@ p {
 h2 {
   margin: 10px 0 0;
   padding-top: 15px;
+  -webkit-animation-name: animatetop;
+  -webkit-animation-duration: 0.4s;
+  animation-name: animatetop;
+  animation-duration: 0.4s;
 }
 
 .close-btn {

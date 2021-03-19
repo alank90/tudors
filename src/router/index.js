@@ -4,6 +4,7 @@ import Home from "../views/Home.vue";
 import Timeline from "../views/Timeline.vue";
 import Henry_VIII from "../views/Henry_VIII.vue";
 import TheSixWives from "../views/TheSixWives.vue";
+import Elizabeth_I from "../views/Elizabeth_I.vue";
 
 Vue.use(VueRouter);
 
@@ -27,6 +28,11 @@ const routes = [
     path: "/TheSixWives",
     name: "The_Six_Wives",
     component: TheSixWives
+  },
+  {
+    path: "/Elizabeth_I",
+    name: "Elizabeth_I",
+    component: Elizabeth_I
   },
   {
     path: "/about",
