@@ -12,27 +12,27 @@ const routes = [
   {
     path: "/",
     name: "Home",
-    component: Home
+    component: Home,
   },
   {
     path: "/timeline",
     name: "Timeline",
-    component: Timeline
+    component: Timeline,
   },
   {
     path: "/Henry_VIII",
     name: "Henry_VIII",
-    component: Henry_VIII
+    component: Henry_VIII,
   },
   {
     path: "/TheSixWives",
     name: "The_Six_Wives",
-    component: TheSixWives
+    component: TheSixWives,
   },
   {
     path: "/Elizabeth_I",
     name: "Elizabeth_I",
-    component: Elizabeth_I
+    component: Elizabeth_I,
   },
   {
     path: "/about",
@@ -42,14 +42,14 @@ const routes = [
     // which is lazy-loaded when the route is visited.
     component: function() {
       return import(/* webpackChunkName: "about" */ "../views/About.vue");
-    }
-  }
+    },
+  },
 ];
 
 const router = new VueRouter({
   mode: "history",
   base: process.env.BASE_URL,
-  routes
+  routes,
 });
 
 export default router;
