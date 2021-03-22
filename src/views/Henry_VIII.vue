@@ -8,19 +8,16 @@
         title="Click to find out more about Henry the VIII's wives "
       />
     </router-link>
-    <div v-html="Henry_VIII"></div>
+    <henryBio></henryBio>
   </div>
 </template>
 
 <script>
-import Henry_VIII from "./assets/henry_viii";
+import henryBio from "./assets/henry_VIIIBio.vue";
 
 export default {
-  name: Henry_VIII,
-  data() {
-    return {
-      Henry_VIII: Henry_VIII
-    };
+  components: {
+    henryBio
   }
 };
 </script>
