@@ -328,3 +328,15 @@
     </p>
   </div>
 </template>
+
+<style scoped>
+h2 {
+  font-family: var(--font-cinzel);
+}
+p {
+  text-justify: inter-word;
+  text-align: left;
+  font-size: var(--font-size);
+  font-family: var(--font-p);
+}
+</style>

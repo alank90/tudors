@@ -7,7 +7,7 @@
 </template>
 
 <script>
-import elizabethBio from "./assets/elizabethBio.vue";
+import elizabethBio from "../components/elizabethBio.vue";
 
 export default {
   components: {

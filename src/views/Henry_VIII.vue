@@ -13,7 +13,7 @@
 </template>
 
 <script>
-import henryBio from "./assets/henry_VIIIBio.vue";
+import henryBio from "../components/henry_VIIIBio.vue";
 
 export default {
   components: {

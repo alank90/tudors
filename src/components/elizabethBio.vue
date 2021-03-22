@@ -1,6 +1,6 @@
 <template>
   <div class="container">
-    <img src="../../assets/img/elizabeth_i_article.jpg" alt="Elizabeth the I" />
+    <img src="../assets/img/elizabeth_i_article.jpg" alt="Elizabeth the I" />
     <p>
       Elizabeth I, bynames <strong>the Virgin Queen</strong> and
       <strong>Good Queen Bess</strong>, (born September 7, 1533, Greenwich, near
@@ -544,3 +544,15 @@
     </p>
   </div>
 </template>
+
+<style scoped>
+h2 {
+  font-family: var(--font-cinzel);
+}
+p {
+  text-justify: inter-word;
+  text-align: left;
+  font-size: var(--font-size);
+  font-family: var(--font-p);
+}
+</style>
