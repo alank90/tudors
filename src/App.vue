@@ -72,30 +72,6 @@
 }
 
 /* =================== End Grid Definition ================= */
-
-/* ========== Global CSS Variables =============================== */
-:root {
-  --color-text: #111;
-  --color-link-hover: #111;
-  --color-bg: #fff;
-  color: var(--color-text);
-  background-color: var(--color-bg);
-  --default-font: "Noto Sans", sans-serif;
-  --font-p: "Cardo", sans-serif;
-  --font-size: 18px;
-  --font-cinzel: "Cinzel Decorative", Helvetica;
-  --line-height: 1.5;
-  --letter-spacing: 2px;
-  --nav-text-color: 217, 7, 7;
-  --nav-font-size: 1.4rem;
-  --nav-bg-gradient: linear-gradient(
-    90deg,
-    rgba(217, 7, 7, 1) 0%,
-    rgba(233, 77, 64, 1) 50%,
-    rgba(255, 190, 160, 1) 100%
-  );
-}
-/* ============ End Global Variables ==================== */
 body {
   margin: 0; /* prevents scrollbars */
 }
