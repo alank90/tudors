@@ -22,6 +22,7 @@
 
     <article id="top">
       <section id="intro">
+        <h2>Intro</h2>
         <router-link to="TheSixWives">
           <img
             src="../assets/img/six_wives.jpg"
@@ -29,7 +30,7 @@
             title="Click to find out more about Henry the VIII's wives "
           />
         </router-link>
-        <h2>Intro</h2>
+
         <p>
           Henry VIII, (born June 28, 1491, Greenwich, near London, England—died
           January 28, 1547, London), king of England (1509–47) who presided over
@@ -285,6 +286,8 @@
           the first sight of her and at once demanded his freedom, an end
           achieved by a quick divorce.
         </p>
+      </section>
+      <section id="decline">
         <h2>Physical and mental decline</h2>
         <p>
           The Cleves fiasco destroyed Cromwell; it enabled his many enemies to
@@ -509,15 +512,22 @@ export default {
 <style scoped>
 @import url("https://fonts.googleapis.com/css2?family=PT+Mono&family=PT+Sans:wght@400;700&display=swap");
 * {
-  --highlight: #91cb3e;
+  --highlight: #f88f8f;
   --body-pad-top: 70px;
   margin: 0;
   padding: 0;
 }
 
+section:not(:last-of-type) {
+  padding-bottom: 15px;
+}
+
 h2 {
   font-family: var(--font-cinzel);
+  padding-left: 10px;
+  border-left: 4px solid var(--highlight);
 }
+
 p {
   text-justify: inter-word;
   text-align: left;
@@ -525,10 +535,18 @@ p {
   font-family: var(--font-p);
 }
 
-img {
+p:first-of-type {
+  padding-top: 10px;
+}
+
+a[href*="/TheSixWives"] {
   float: right;
   cursor: pointer;
-  width: 400px;
+  width: 250px;
+}
+
+img {
+  width: 100%;
   border-radius: 7px;
 }
 
@@ -614,7 +632,6 @@ article a:hover {
   margin: -2px;
   padding: 2px;
   border: 0;
-  background: var(--highlight);
 }
 
 /* === Adjustments === */
