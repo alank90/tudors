@@ -1,6 +1,6 @@
 <template>
   <div class="component-container">
-    <nav>
+    <nav class="henry-bio">
       <ul>
         <li><a href="#intro">Intro</a></li>
         <li>
@@ -397,7 +397,7 @@ export default {
     // === Vars ===
     const elementsToObserve = document.querySelectorAll("section[id]"),
       visibleClass = "visible",
-      nav = document.querySelector("nav"),
+      nav = document.querySelector("nav.henry-bio"),
       navPath = nav.querySelector("svg path"),
       navListItems = [...nav.querySelectorAll("li")],
       navItems = navListItems

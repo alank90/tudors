@@ -80,7 +80,7 @@ body {
   font-family: var(--default-font);
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
-  text-align: center;
+  /* text-align: center; */
   color: var(--color-text);
   height: 100vh;
   letter-spacing: var(--letter-spacing);
