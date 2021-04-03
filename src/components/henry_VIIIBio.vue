@@ -205,7 +205,7 @@
         </p>
       </section>
       <section id="rome">
-        <h2>The breach with Rome</h2>
+        <h2>The Breach with Rome</h2>
         <p>
           Action called for a revolution, and the revolution required a man who
           could conceive and execute it. That man was Thomas Cromwell, who, in
@@ -512,7 +512,7 @@ export default {
 <style scoped>
 @import url("https://fonts.googleapis.com/css2?family=PT+Mono&family=PT+Sans:wght@400;700&display=swap");
 * {
-  --highlight: #f88f8f;
+  --highlight: #a87f90;
   --body-pad-top: 70px;
   margin: 0;
   padding: 0;
@@ -598,7 +598,7 @@ nav a {
 
 nav li.visible > a {
   color: #222;
-  transform: translate(5px);
+  transform: translate(15px);
 }
 
 nav svg {
