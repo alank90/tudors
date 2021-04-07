@@ -569,7 +569,7 @@ nav {
   position: sticky;
   left: 0;
   top: var(--body-pad-top); /* Tells nav where to stop on scroll */
-  line-height: 2;
+  line-height: 1.5;
 }
 
 article {
@@ -626,12 +626,6 @@ a {
 article a {
   color: #222;
   text-decoration-color: var(--highlight);
-}
-
-article a:hover {
-  margin: -2px;
-  padding: 2px;
-  border: 0;
 }
 
 /* === Adjustments === */
