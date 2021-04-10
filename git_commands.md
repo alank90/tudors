@@ -147,11 +147,35 @@ _Step 4. Push your changes to your git repo._
 
 **\$ git push origin v1.5**
 
-## ================ Revert Last Commit ============================
+## ================ Revert To Another Commit ============================
 
 ### See https://www.atlassian.com/git/tutorials/undoing-changes for more examples
 
-**\$ git revert HEAD**
+### Last Commit
+`\$ git revert HEAD`
+
+or
+
+### Find the version you want to go back to
+`$ git log --oneline -n 10`
+
+### Go back to the selected commit on your local environment
+
+### Use git checkout & the ID (in the same way you would checkout a branch) to go back:
+
+`$ git checkout <commit-id> .`
+    
+    Don’t forget the final ‘ .’ — You aren’t required to add this, and it may look like it has worked but if you leave this off it will take you to a new “detached head state” where you can make changes and it will allow you to make commits, but nothing will be saved and any commits you make will be lost.
+
+### Add this version to the staging area and push to remote
+
+In the same way that you would with any normal commit, you have to add all files and push to remote to save this state.
+
+```
+$ git add .
+$ git commit -m "Reverting to <commit-id>"
+$ git push 
+```
 
 ## ===========================================
 

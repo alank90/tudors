@@ -1,7 +1,22 @@
 <template>
-  <svg xmlns="http://www.w3.org/2000/svg">
-    <path />
-  </svg>
+  <nav class="henry-bio">
+    <ul>
+      <li><a href="#intro">Intro</a></li>
+      <li>
+        <a href="#accession">Accession To The Throne</a>
+      </li>
+      <li>
+        <a href="#popularity">Loss Of Popularity</a>
+      </li>
+      <li><a href="#rome">The Breach With Rome</a></li>
+      <li><a href="#reforms">Domestic Reforms</a></li>
+      <li><a href="#decline">Physical and Mental Decline</a></li>
+      <li><a href="#legacy">Legacy of Henry VIII</a></li>
+    </ul>
+    <svg xmlns="http://www.w3.org/2000/svg">
+      <path />
+    </svg>
+  </nav>
 </template>
 
 <script>
@@ -118,3 +133,59 @@ export default {
   }
 };
 </script>
+
+<style>
+* {
+  --highlight: #a87f90;
+}
+
+nav {
+  position: sticky;
+  left: 0;
+  top: var(--body-pad-top); /* Tells nav where to stop on scroll */
+  line-height: 1.5;
+}
+
+/* === Navbar and marker === */
+
+nav ul {
+  margin: 0;
+  padding-left: 10px;
+  list-style: none;
+}
+
+/* nav li > ul {
+	padding-left: 30px;
+} */
+
+nav a {
+  display: inline-block;
+  color: #7f7f7f;
+  text-decoration: none;
+  transition: all 300ms ease-in-out;
+}
+
+nav li.visible > a {
+  color: #222;
+  transform: translate(15px);
+}
+
+nav svg {
+  position: absolute;
+  left: 0;
+  top: 0;
+  width: 100%;
+  height: 100%;
+  z-index: -1;
+}
+
+nav path {
+  transition: all 300ms ease;
+  fill: transparent;
+  stroke: var(--highlight);
+  stroke-width: 3px;
+  stroke-dasharray: 0 0 0 1000;
+  stroke-linecap: round;
+  stroke-linejoin: round;
+}
+</style>
