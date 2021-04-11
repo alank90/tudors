@@ -35,6 +35,7 @@
 /* Include a normalize file */
 @import "https://unpkg.com/sanitize.css";
 @import "./assets/css/main.css";
+
 /* Import  fonts */
 @import url("https://fonts.googleapis.com/css2?family=Cinzel+Decorative:wght@700&display=swap");
 @import url("https://fonts.googleapis.com/css2?family=Raleway:wght@500&display=swap");

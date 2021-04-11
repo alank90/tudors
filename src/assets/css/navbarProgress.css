@@ -1,0 +1,56 @@
+* {
+  --highlight: #a87f90;
+  --body-pad-top: 70px;
+  margin: 0;
+  padding: 0;
+}
+
+nav {
+  position: sticky;
+  left: 0;
+  top: var(--body-pad-top); /* Tells nav where to stop on scroll */
+  line-height: 1.5;
+}
+
+/* === Navbar and marker === */
+
+nav ul {
+  margin: 0;
+  padding-left: 10px;
+  list-style: none;
+}
+
+/* nav li > ul {
+      padding-left: 30px;
+  } */
+
+nav a {
+  display: inline-block;
+  color: #7f7f7f;
+  text-decoration: none;
+  transition: all 300ms ease-in-out;
+}
+
+nav li.visible > a {
+  color: #222;
+  transform: translate(15px);
+}
+
+nav svg {
+  position: absolute;
+  left: 0;
+  top: 0;
+  width: 100%;
+  height: 100%;
+  z-index: -1;
+}
+
+nav path {
+  transition: all 300ms ease;
+  fill: transparent;
+  stroke: var(--highlight);
+  stroke-width: 3px;
+  stroke-dasharray: 0 0 0 1000;
+  stroke-linecap: round;
+  stroke-linejoin: round;
+}
