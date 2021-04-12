@@ -30,7 +30,7 @@
           />
         </router-link>
 
-        <p>
+        <p class="intro">
           Henry VIII, (born June 28, 1491, Greenwich, near London, England—died
           January 28, 1547, London), king of England (1509–47) who presided over
           the beginnings of the English Renaissance and the English Reformation.
@@ -423,7 +423,7 @@ h2 {
 }
 
 p {
-  text-justify: inter-word;
+  text-justify: auto;
   text-align: left;
   font-size: var(--font-size);
   font-family: var(--font-p);
@@ -432,6 +432,21 @@ p {
 
 p:first-of-type {
   padding-top: 10px;
+}
+
+p.intro {
+  text-indent: 0;
+}
+
+p.intro::first-letter {
+  color: #d90707;
+  float: left;
+  font-family: "Fleur";
+  font-size: 75px;
+  line-height: 60px;
+  padding-top: 4px;
+  padding-right: 8px;
+  padding-left: 3px;
 }
 
 a[href*="/TheSixWives"] {

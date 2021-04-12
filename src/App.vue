@@ -40,6 +40,11 @@
 @import url("https://fonts.googleapis.com/css2?family=Cinzel+Decorative:wght@700&display=swap");
 @import url("https://fonts.googleapis.com/css2?family=Raleway:wght@500&display=swap");
 @import url("https://fonts.googleapis.com/css2?family=Noto+Sans+JP:wght@500&display=swap");
+@font-face {
+  font-family: Fleur;
+  src: local("Fleur"), url(./assets/fonts/FleurCornerCaps.ttf);
+}
+
 /* ========== Grid Definition ================ */
 #app {
   display: grid;
