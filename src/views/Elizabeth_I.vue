@@ -20,5 +20,6 @@ export default {
 h1 {
   font-family: var(--font-cinzel);
   font-size: 2.3rem;
+  text-align: center;
 }
 </style>

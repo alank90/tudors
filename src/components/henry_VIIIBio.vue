@@ -406,7 +406,7 @@ export default {
 @import url("https://fonts.googleapis.com/css2?family=PT+Mono&family=PT+Sans:wght@400;700&display=swap");
 @import ".././assets/css/navbarProgress.css";
 * {
-  --highlight: #a87f90;
+  --highlight: #db100e;
   --body-pad-top: 70px;
   margin: 0;
   padding: 0;
@@ -449,6 +449,11 @@ p.intro::first-letter {
   padding-left: 3px;
 }
 
+p:not(.intro)::first-letter {
+  font-size: 1.2rem;
+  font-weight: 550;
+}
+
 a[href*="/TheSixWives"] {
   float: right;
   cursor: pointer;
@@ -465,6 +470,7 @@ img {
   display: grid;
   margin: 0;
   padding: var(--body-pad-top) 45px;
+  border-radius: 5px;
   min-width: 350px;
   grid: auto / 200px minmax(300px, 700px);
   align-items: start;
