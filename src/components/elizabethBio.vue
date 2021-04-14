@@ -28,11 +28,14 @@
     <article id="top">
       <section id="intro">
         <h2>Intro</h2>
-        <img
-          src="../assets/img/elizabeth_i_article.jpg"
-          alt="Elizabeth the I"
-        />
-        <p>
+        <router-link to="Elizabeth's_Men">
+          <img
+            src="../assets/img/elizabeth_men.png"
+            alt="Men in Elizabeth's Life"
+            title="Click to See More About the Men In Elizabeth's Life"
+          />
+        </router-link>
+        <p class="intro">
           Elizabeth I, bynames <strong>the Virgin Queen</strong> and
           <strong>Good Queen Bess</strong>, (born September 7, 1533, Greenwich,
           near London, England—died March 24, 1603, Richmond, Surrey), queen of
@@ -654,10 +657,11 @@ section:not(:last-of-type) {
   padding-bottom: 15px;
 }
 
-img[src*="elizabeth_i_article"] {
+img[src*="elizabeth_men"] {
   float: right;
-  width: 300px;
+  width: 350px;
   border-radius: 5px;
+  cursor: pointer;
 }
 
 p {
