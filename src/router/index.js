@@ -5,7 +5,7 @@ import Timeline from "../views/Timeline.vue";
 import Henry_VIII from "../views/Henry_VIII.vue";
 import TheSixWives from "../views/TheSixWives.vue";
 import Elizabeth_I from "../views/Elizabeth_I.vue";
-import Elizabeth_Men from "../views/Elizabeth_Men.vue";
+import Elizabeths_Men from "../views/Elizabeth_Men's.vue";
 
 Vue.use(VueRouter);
 
@@ -37,8 +37,8 @@ const routes = [
   },
   {
     path: "/Elizabeth's_Men",
-    name: "Elizabeth_Men",
-    component: Elizabeth_Men
+    name: "Elizabeth's_Men",
+    component: Elizabeths_Men
   },
   {
     path: "/about",
