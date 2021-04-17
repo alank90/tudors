@@ -1,6 +1,87 @@
+<style scoped>
+.container {
+  min-height: 900px;
+}
+
+h1 {
+  font-family: var(--font-cinzel);
+  font-size: 2.3rem;
+  text-align: center;
+}
+h2,
+h3 {
+  font-family: var(--font-cinzel);
+  text-align: center;
+}
+
+.slider-container {
+  display: flex;
+  flex-wrap: nowrap;
+  width: 100%;
+  justify-content: space-around;
+  align-items: flex-start;
+}
+
+.slider-container > img {
+  width: 100px;
+  height: auto;
+}
+
+.container {
+  position: relative;
+}
+
+.francis-bacon,
+.william-shakespeare,
+.earl-of-essex,
+.chris-hatton {
+  position: absolute;
+  top: -5000px;
+  left: 0;
+  opacity: 0;
+  transition: opacity 0.5s ease-in;
+}
+
+div.visible {
+  position: static;
+  opacity: 1;
+  top: 0;
+}
+
+p {
+  text-justify: auto;
+  text-align: left;
+  font-size: var(--font-size);
+  font-family: var(--font-p);
+  text-indent: 2em;
+}
+
+p:first-of-type {
+  padding-top: 10px;
+}
+
+p.intro {
+  text-indent: 0;
+}
+
+p.intro::first-letter {
+  color: #d90707;
+  float: left;
+  font-family: "Fleur";
+  font-size: 75px;
+  line-height: 60px;
+  padding-top: 4px;
+  padding-right: 8px;
+  padding-left: 3px;
+}
+
+.float-image {
+  float: left;
+}
+</style>
 <template>
   <div class="container">
-    <h1>Elizabeth's Men Here</h1>
+    <h1>Prominent Elizabethan Era Men</h1>
 
     <div class="slider-container">
       <img
@@ -22,6 +103,7 @@
         alt="William Shakespeare"
       />
     </div>
+
     <!-- ===== Earl of Essex Markup ============ -->
     <div class="earl-of-essex">
       <h2>The Earl of Essex</h2>
@@ -1399,7 +1481,7 @@
     <!-- ===== End of Francis Bacon ============ -->
 
     <!-- ===== William Shakespeare Markup ====== -->
-    <div class="william-shaspeare">
+    <div class="william-shakespeare visible">
       <h2>William Shakespeare</h2>
       <p>
         William Shakespeare (bapt. 26 April 1564 &ndash; 23 April 1616) was an
@@ -1611,7 +1693,6 @@
       <p>
         <strong>Sir Christopher Hatton</strong>
         <a
-          class="mw-redirect"
           href="https://en.wikipedia.org/wiki/Knight_of_the_Garter"
           title="Knight of the Garter"
           >KG</a
@@ -1796,63 +1877,6 @@
         the important graves lost.<br /><br />
       </p>
     </div>
-    <!-- ======= End of Christopher hatton Markup ============ -->
+    <!-- ======= End of Christopher Hatton Markup ============ -->
   </div>
 </template>
-
-<style scoped>
-h1 {
-  font-family: var(--font-cinzel);
-  font-size: 2.3rem;
-  text-align: center;
-}
-h2,
-h3 {
-  font-family: var(--font-cinzel);
-  text-align: center;
-}
-
-.slider-container {
-  display: flex;
-  flex-wrap: nowrap;
-  width: 100%;
-  justify-content: space-around;
-  align-items: flex-start;
-}
-
-.slider-container > img {
-  width: 100px;
-  height: auto;
-}
-
-p {
-  text-justify: auto;
-  text-align: left;
-  font-size: var(--font-size);
-  font-family: var(--font-p);
-  text-indent: 2em;
-}
-
-p:first-of-type {
-  padding-top: 10px;
-}
-
-p.intro {
-  text-indent: 0;
-}
-
-p.intro::first-letter {
-  color: #d90707;
-  float: left;
-  font-family: "Fleur";
-  font-size: 75px;
-  line-height: 60px;
-  padding-top: 4px;
-  padding-right: 8px;
-  padding-left: 3px;
-}
-
-.float-image {
-  float: left;
-}
-</style>

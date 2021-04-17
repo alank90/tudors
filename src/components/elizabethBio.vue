@@ -28,7 +28,7 @@
     <article id="top">
       <section id="intro">
         <h2>Intro</h2>
-        <router-link to="Elizabeth's_Men">
+        <router-link to="Elizabethan_Men">
           <img
             src="../assets/img/elizabeth_men.png"
             alt="Men in Elizabeth's Life"
