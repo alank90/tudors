@@ -1,5 +1,16 @@
+<script>
+import slider from "../components/elizabethanMenSlider.vue";
+
+export default {
+  components: {
+    slider
+  }
+};
+</script>
+
 <style scoped>
 .container {
+  position: relative;
   min-height: 900px;
 }
 
@@ -12,23 +23,6 @@ h2,
 h3 {
   font-family: var(--font-cinzel);
   text-align: center;
-}
-
-.slider-container {
-  display: flex;
-  flex-wrap: nowrap;
-  width: 100%;
-  justify-content: space-around;
-  align-items: flex-start;
-}
-
-.slider-container > img {
-  width: 100px;
-  height: auto;
-}
-
-.container {
-  position: relative;
 }
 
 .francis-bacon,
@@ -79,30 +73,12 @@ p.intro::first-letter {
   float: left;
 }
 </style>
+
 <template>
   <div class="container">
     <h1>Prominent Elizabethan Era Men</h1>
 
-    <div class="slider-container">
-      <img
-        src="../assets/img/elizabethsMen/earlofEssex.jpg"
-        alt="The Earl of Essex"
-      />
-
-      <img
-        src="../assets/img/elizabethsMen/francis_bacon.jpg"
-        alt="The Earl of Essex"
-      />
-      <img
-        src="../assets/img/elizabethsMen/chris_hatton.jpg"
-        alt="Chris Hatton"
-      />
-
-      <img
-        src="../assets/img/elizabethsMen/will_shakespeare.jpg"
-        alt="William Shakespeare"
-      />
-    </div>
+    <slider></slider>
 
     <!-- ===== Earl of Essex Markup ============ -->
     <div class="earl-of-essex">
