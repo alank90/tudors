@@ -1,9 +1,28 @@
 <script>
-import slider from "../components/elizabethanMenSlider.vue";
-
 export default {
-  components: {
-    slider
+  name: "elizabethanMen",
+  mounted() {
+    const el = document.querySelector(".image-container");
+    let currentlyDisplayedMan = "earl-of-essex";
+
+    el.addEventListener("mouseover", event => {
+      let nextManToDisplay = event.target.dataset.name;
+      if (
+        currentlyDisplayedMan === nextManToDisplay &&
+        nextManToDisplay != undefined
+      ) {
+        console.log("Do nothing");
+      } else {
+        console.log("Change article to ", nextManToDisplay);
+        // remove visible class from currentlyDisplayedMan
+        const imageEl = document.querySelector(`.${currentlyDisplayedMan}`);
+        console.log({ imageEl });
+        imageEl.classList.remove("visible");
+
+        // Add .visible to new Man's article to display
+        //event.target.classList.add("visible");
+      }
+    });
   }
 };
 </script>
@@ -25,13 +44,25 @@ h3 {
   text-align: center;
 }
 
+.image-container {
+  display: flex;
+  flex-wrap: nowrap;
+  width: 100%;
+  justify-content: space-around;
+  align-items: flex-start;
+}
+
+.image-container > img {
+  width: 100px;
+  height: auto;
+}
+
 .francis-bacon,
 .william-shakespeare,
 .earl-of-essex,
 .chris-hatton {
   position: absolute;
-  top: -5000px;
-  left: 0;
+  left: -5000px;
   opacity: 0;
   transition: opacity 0.5s ease-in;
 }
@@ -39,7 +70,7 @@ h3 {
 div.visible {
   position: static;
   opacity: 1;
-  top: 0;
+  left: 0;
 }
 
 p {
@@ -78,10 +109,33 @@ p.intro::first-letter {
   <div class="container">
     <h1>Prominent Elizabethan Era Men</h1>
 
-    <slider></slider>
+    <div class="image-container">
+      <img
+        data-name="earl-of-essex"
+        src="../assets/img/elizabethsMen/earlofEssex.jpg"
+        alt="The Earl of Essex"
+      />
+
+      <img
+        data-name="francis-bacon"
+        src="../assets/img/elizabethsMen/francis_bacon.jpg"
+        alt="The Earl of Essex"
+      />
+      <img
+        data-name="chris-hatton"
+        src="../assets/img/elizabethsMen/chris_hatton.jpg"
+        alt="Chris Hatton"
+      />
+
+      <img
+        data-name="william-shakespeare"
+        src="../assets/img/elizabethsMen/will_shakespeare.jpg"
+        alt="William Shakespeare"
+      />
+    </div>
 
     <!-- ===== Earl of Essex Markup ============ -->
-    <div class="earl-of-essex">
+    <div class="earl-of-essex visible">
       <h2>The Earl of Essex</h2>
       <p class="intro">
         <strong>Robert Devereux, 2nd Earl of Essex</strong>, 10 November
@@ -1457,7 +1511,7 @@ p.intro::first-letter {
     <!-- ===== End of Francis Bacon ============ -->
 
     <!-- ===== William Shakespeare Markup ====== -->
-    <div class="william-shakespeare visible">
+    <div class="william-shakespeare">
       <h2>William Shakespeare</h2>
       <p>
         William Shakespeare (bapt. 26 April 1564 &ndash; 23 April 1616) was an
