@@ -3,24 +3,32 @@ export default {
   name: "elizabethanMen",
   mounted() {
     const el = document.querySelector(".image-container");
-    let currentlyDisplayedMan = "earl-of-essex";
+    let currentlyDisplayedBio = "earl-of-essex";
 
     el.addEventListener("mouseover", event => {
-      let nextManToDisplay = event.target.dataset.name;
+      let nextBioToDisplay = event.target.dataset.name;
       if (
-        currentlyDisplayedMan === nextManToDisplay &&
-        nextManToDisplay != undefined
+        !(
+          currentlyDisplayedBio === nextBioToDisplay ||
+          nextBioToDisplay === undefined
+        )
       ) {
-        console.log("Do nothing");
-      } else {
-        console.log("Change article to ", nextManToDisplay);
-        // remove visible class from currentlyDisplayedMan
-        const imageEl = document.querySelector(`.${currentlyDisplayedMan}`);
-        console.log({ imageEl });
-        imageEl.classList.remove("visible");
+        // get relevent DOM elements to manipulate
+        const currentlyDisplayedBioEl = document.querySelector(
+          `.${currentlyDisplayedBio}`
+        );
+        const nextBioToDisplayEl = document.querySelector(
+          `.${nextBioToDisplay}`
+        );
 
-        // Add .visible to new Man's article to display
-        //event.target.classList.add("visible");
+        // remove .visible class from currentlyDisplayedBio
+        currentlyDisplayedBioEl.classList.remove("visible");
+
+        // Add .visible to new Man's bio to display
+        nextBioToDisplayEl.classList.add("visible");
+
+        // Update currentlyDisplayedBio to new mousedover bio.
+        currentlyDisplayedBio = nextBioToDisplay;
       }
     });
   }
@@ -68,7 +76,6 @@ h3 {
 }
 
 div.visible {
-  position: static;
   opacity: 1;
   left: 0;
 }
