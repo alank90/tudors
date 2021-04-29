@@ -52,6 +52,10 @@ h3 {
   text-align: center;
 }
 
+h3 {
+  margin-top: 20px;
+}
+
 .image-container {
   display: flex;
   flex-wrap: nowrap;
@@ -1568,34 +1572,41 @@ p.intro::first-letter {
           sonnets, three long narrative poems, and a few other verses, some of
           uncertain authorship. His plays have been translated into every major
           living language and are performed more often than those of any other
-          playwright. They also continue to be studied and reinterpreted.<br /><br />Shakespeare
-          was born and raised in Stratford-upon-Avon, Warwickshire. At the age
-          of 18, he married Anne Hathaway, with whom he had three children:
-          Susanna and twins Hamnet and Judith. Sometime between 1585 and 1592,
-          he began a successful career in London as an actor, writer, and
-          part-owner of a playing company called the Lord Chamberlain&apos;s
+          playwright. They also continue to be studied and reinterpreted.
+        </p>
+
+        <p>
+          Shakespeare was born and raised in Stratford-upon-Avon, Warwickshire.
+          At the age of 18, he married Anne Hathaway, with whom he had three
+          children: Susanna and twins Hamnet and Judith. Sometime between 1585
+          and 1592, he began a successful career in London as an actor, writer,
+          and part-owner of a playing company called the Lord Chamberlain&apos;s
           Men, later known as the King&apos;s Men. At age 49 (around 1613), he
           appears to have retired to Stratford, where he died three years later.
           Few records of Shakespeare&apos;s private life survive; this has
           stimulated considerable speculation about such matters as his physical
           appearance, his sexuality, his religious beliefs, and whether the
-          works attributed to him were written by others.<br /><br />Shakespeare
-          produced most of his known works between 1589 and 1613. His early
-          plays were primarily comedies and histories and are regarded as some
-          of the best work produced in these genres. He then wrote mainly
-          tragedies until 1608, among them Hamlet, Romeo and Juliet, Othello,
-          King Lear, and Macbeth, all considered to be among the finest works in
-          the English language. In the last phase of his life, he wrote
+          works attributed to him were written by others.
+        </p>
+        <p>
+          Shakespeare produced most of his known works between 1589 and 1613.
+          His early plays were primarily comedies and histories and are regarded
+          as some of the best work produced in these genres. He then wrote
+          mainly tragedies until 1608, among them Hamlet, Romeo and Juliet,
+          Othello, King Lear, and Macbeth, all considered to be among the finest
+          works in the English language. In the last phase of his life, he wrote
           tragicomedies (also known as romances) and collaborated with other
-          playwrights.<br /><br />Many of Shakespeare&apos;s plays were
-          published in editions of varying quality and accuracy in his lifetime.
-          However, in 1623, two fellow actors and friends of Shakespeare&apos;s,
-          John Heminges and Henry Condell, published a more definitive text
-          known as the First Folio, a posthumous collected edition of
-          Shakespeare&apos;s dramatic works that included all but two of his
-          plays. The volume was prefaced with a poem by Ben Jonson, in which
-          Jonson presciently hailed Shakespeare in a now-famous quote as
-          &quot;not of an age, but for all time&quot;.
+          playwrights.
+        </p>
+        <p>
+          Many of Shakespeare&apos;s plays were published in editions of varying
+          quality and accuracy in his lifetime. However, in 1623, two fellow
+          actors and friends of Shakespeare&apos;s, John Heminges and Henry
+          Condell, published a more definitive text known as the First Folio, a
+          posthumous collected edition of Shakespeare&apos;s dramatic works that
+          included all but two of his plays. The volume was prefaced with a poem
+          by Ben Jonson, in which Jonson presciently hailed Shakespeare in a
+          now-famous quote as &quot;not of an age, but for all time&quot;.
         </p>
 
         <p>
@@ -1609,61 +1620,73 @@ p.intro::first-letter {
           Romantic poets attempted to revive Shakespearean verse drama, though
           with little success. Critic George Steiner described all English verse
           dramas from Coleridge to Tennyson as &quot;feeble variations on
-          Shakespearean themes.&quot;<br /><br />Shakespeare influenced
-          novelists such as Thomas Hardy, William Faulkner, and Charles Dickens.
-          The American novelist Herman Melville&apos;s soliloquies owe much to
-          Shakespeare; his Captain Ahab in Moby-Dick is a classic tragic hero,
-          inspired by King Lear. Scholars have identified 20,000 pieces of music
-          linked to Shakespeare&apos;s works. These include three operas by
-          Giuseppe Verdi, Macbeth, Otello and Falstaff, whose critical standing
-          compares with that of the source plays. Shakespeare has also inspired
-          many painters, including the Romantics and the Pre-Raphaelites. The
-          Swiss Romantic artist Henry Fuseli, a friend of William Blake, even
-          translated Macbeth into German. The psychoanalyst Sigmund Freud drew
-          on Shakespearean psychology, in particular, that of Hamlet, for his
-          theories of human nature.<br /><br />In Shakespeare&apos;s day,
-          English grammar, spelling, and pronunciation were less standardised
-          than they are now, and his use of language helped shape modern
-          English.[218] Samuel Johnson quoted him more often than any other
-          author in his A Dictionary of the English Language, the first serious
-          work of its type. Expressions such as &quot;with bated breath&quot;
-          (Merchant of Venice) and &quot;a foregone conclusion&quot; (Othello)
-          have found their way into everyday English speech.]<br /><br />Shakespeare&apos;s
-          influence extends far beyond his native England and the English
-          language. His reception in Germany was particularly significant; as
-          early as the 18th century Shakespeare was widely translated and
-          popularised in Germany, and gradually became a &quot;classic of the
-          German Weimar era;&quot; Christoph Martin Wieland was the first to
-          produce complete translations of Shakespeare&apos;s plays in any
-          language. Actor and theatre director Simon Callow writes, &quot;this
-          master, this titan, this genius, so profoundly British and so
-          effortlessly universal, each different culture &ndash; German,
+          Shakespearean themes.&quot;
+        </p>
+        <p>
+          Shakespeare influenced novelists such as Thomas Hardy, William
+          Faulkner, and Charles Dickens. The American novelist Herman
+          Melville&apos;s soliloquies owe much to Shakespeare; his Captain Ahab
+          in Moby-Dick is a classic tragic hero, inspired by King Lear. Scholars
+          have identified 20,000 pieces of music linked to Shakespeare&apos;s
+          works. These include three operas by Giuseppe Verdi, Macbeth, Otello
+          and Falstaff, whose critical standing compares with that of the source
+          plays. Shakespeare has also inspired many painters, including the
+          Romantics and the Pre-Raphaelites. The Swiss Romantic artist Henry
+          Fuseli, a friend of William Blake, even translated Macbeth into
+          German. The psychoanalyst Sigmund Freud drew on Shakespearean
+          psychology, in particular, that of Hamlet, for his theories of human
+          nature.
+        </p>
+        <p>
+          In Shakespeare&apos;s day, English grammar, spelling, and
+          pronunciation were less standardised than they are now, and his use of
+          language helped shape modern English.[218] Samuel Johnson quoted him
+          more often than any other author in his A Dictionary of the English
+          Language, the first serious work of its type. Expressions such as
+          &quot;with bated breath&quot; (Merchant of Venice) and &quot;a
+          foregone conclusion&quot; (Othello) have found their way into everyday
+          English speech.]
+        </p>
+        <p>
+          Shakespeare&apos;s influence extends far beyond his native England and
+          the English language. His reception in Germany was particularly
+          significant; as early as the 18th century Shakespeare was widely
+          translated and popularised in Germany, and gradually became a
+          &quot;classic of the German Weimar era;&quot; Christoph Martin Wieland
+          was the first to produce complete translations of Shakespeare&apos;s
+          plays in any language. Actor and theatre director Simon Callow writes,
+          &quot;this master, this titan, this genius, so profoundly British and
+          so effortlessly universal, each different culture &ndash; German,
           Italian, Russian &ndash; was obliged to respond to the Shakespearean
           example; for the most part, they embraced it, and him, with joyous
           abandon, as the possibilities of language and character in action that
           he celebrated liberated writers across the continent. Some of the most
           deeply affecting productions of Shakespeare have been non-English, and
           non-European. He is that unique writer: he has something for
-          everyone.&quot;<br />
+          everyone.&quot;
         </p>
         <h3>Critical Reputation</h3>
+        <q>He was not of an age, but for all time.</q>
+        <p>&mdash;Ben Jonson</p>
         <p>
-          <br />&quot;He was not of an age, but for all time.&quot;<br /><br />&mdash;Ben
-          Jonson<br /><br />Shakespeare was not revered in his lifetime, but he
-          received a large amount of praise. In 1598, the cleric and author
-          Francis Meres singled him out from a group of English playwrights as
-          &quot;the most excellent&quot; in both comedy and tragedy. The authors
-          of the Parnassus plays at St John&apos;s College, Cambridge, numbered
-          him with Chaucer, Gower, and Spenser. In the First Folio, Ben Jonson
+          Shakespeare was not revered in his lifetime, but he received a large
+          amount of praise. In 1598, the cleric and author Francis Meres singled
+          him out from a group of English playwrights as &quot;the most
+          excellent&quot; in both comedy and tragedy. The authors of the
+          Parnassus plays at St John&apos;s College, Cambridge, numbered him
+          with Chaucer, Gower, and Spenser. In the First Folio, Ben Jonson
           called Shakespeare the &quot;Soul of the age, the applause, delight,
           the wonder of our stage&quot;, although he had remarked elsewhere that
-          &quot;Shakespeare wanted art&quot; (lacked skill).<br />Between the
-          Restoration of the monarchy in 1660 and the end of the 17th century,
-          classical ideas were in vogue. As a result, critics of the time mostly
-          rated Shakespeare below John Fletcher and Ben Jonson. Thomas Rymer,
-          for example, condemned Shakespeare for mixing the comic with the
-          tragic. Nevertheless, poet and critic John Dryden rated Shakespeare
-          highly, saying of Jonson, &quot;I admire him, but I love
+          &quot;Shakespeare wanted art&quot; (lacked skill).
+        </p>
+
+        <p>
+          Between the Restoration of the monarchy in 1660 and the end of the
+          17th century, classical ideas were in vogue. As a result, critics of
+          the time mostly rated Shakespeare below John Fletcher and Ben Jonson.
+          Thomas Rymer, for example, condemned Shakespeare for mixing the comic
+          with the tragic. Nevertheless, poet and critic John Dryden rated
+          Shakespeare highly, saying of Jonson, &quot;I admire him, but I love
           Shakespeare&quot;. For several decades, Rymer&apos;s view held sway;
           but during the 18th century, critics began to respond to Shakespeare
           on his own terms and acclaim what they termed his natural genius. A
@@ -1672,30 +1695,37 @@ p.intro::first-letter {
           reputation. By 1800, he was firmly enshrined as the national poet. In
           the 18th and 19th centuries, his reputation also spread abroad. Among
           those who championed him were the writers Voltaire, Goethe, Stendhal,
-          and Victor Hugo.<br />A recently garlanded statue of William
-          Shakespeare in Lincoln Park, Chicago, typical of many created in the
-          19th and early 20th centuries<br /><br />During the Romantic era,
-          Shakespeare was praised by the poet and literary philosopher Samuel
-          Taylor Coleridge, and the critic August Wilhelm Schlegel translated
-          his plays in the spirit of German Romanticism. In the 19th century,
-          critical admiration for Shakespeare&apos;s genius often bordered on
-          adulation. &quot;This King Shakespeare,&quot; the essayist Thomas
-          Carlyle wrote in 1840, &quot;does not he shine, in crowned
-          sovereignty, over us all, as the noblest, gentlest, yet strongest of
-          rallying signs; indestructible&quot;. The Victorians produced his
-          plays as lavish spectacles on a grand scale. The playwright and critic
-          George Bernard Shaw mocked the cult of Shakespeare worship as
-          &quot;bardolatry&quot;, claiming that the new naturalism of
-          Ibsen&apos;s plays had made Shakespeare obsolete.<br />The modernist
-          revolution in the arts during the early 20th century, far from
-          discarding Shakespeare, eagerly enlisted his work in the service of
-          the avant-garde. The Expressionists in Germany and the Futurists in
-          Moscow mounted productions of his plays. Marxist playwright and
-          director Bertolt Brecht devised an epic theatre under the influence of
-          Shakespeare. The poet and critic T.S. Eliot argued against Shaw that
-          Shakespeare&apos;s &quot;primitiveness&quot; in fact made him truly
-          modern. Eliot, along with G. Wilson Knight and the school of New
-          Criticism, led a movement towards a closer reading of
+          and Victor Hugo.
+        </p>
+        <p>
+          A recently garlanded statue of William Shakespeare in Lincoln Park,
+          Chicago, typical of many created in the 19th and early 20th centuries
+        </p>
+        <p>
+          During the Romantic era, Shakespeare was praised by the poet and
+          literary philosopher Samuel Taylor Coleridge, and the critic August
+          Wilhelm Schlegel translated his plays in the spirit of German
+          Romanticism. In the 19th century, critical admiration for
+          Shakespeare&apos;s genius often bordered on adulation. &quot;This King
+          Shakespeare,&quot; the essayist Thomas Carlyle wrote in 1840,
+          &quot;does not he shine, in crowned sovereignty, over us all, as the
+          noblest, gentlest, yet strongest of rallying signs;
+          indestructible&quot;. The Victorians produced his plays as lavish
+          spectacles on a grand scale. The playwright and critic George Bernard
+          Shaw mocked the cult of Shakespeare worship as &quot;bardolatry&quot;,
+          claiming that the new naturalism of Ibsen&apos;s plays had made
+          Shakespeare obsolete.
+        </p>
+        <p>
+          The modernist revolution in the arts during the early 20th century,
+          far from discarding Shakespeare, eagerly enlisted his work in the
+          service of the avant-garde. The Expressionists in Germany and the
+          Futurists in Moscow mounted productions of his plays. Marxist
+          playwright and director Bertolt Brecht devised an epic theatre under
+          the influence of Shakespeare. The poet and critic T.S. Eliot argued
+          against Shaw that Shakespeare&apos;s &quot;primitiveness&quot; in fact
+          made him truly modern. Eliot, along with G. Wilson Knight and the
+          school of New Criticism, led a movement towards a closer reading of
           Shakespeare&apos;s imagery. In the 1950s, a wave of new critical
           approaches replaced modernism and paved the way for
           &quot;post-modern&quot; studies of Shakespeare. By the 1980s,
@@ -1715,17 +1745,20 @@ p.intro::first-letter {
           theories&quot; have also been proposed. Only a small minority of
           academics believe there is reason to question the traditional
           attribution, but interest in the subject, particularly the Oxfordian
-          theory of Shakespeare authorship, continues into the 21st century.<br />Religion<br /><br />Shakespeare
-          conformed to the official state religion, but his private views on
-          religion have been the subject of debate. Shakespeare&apos;s will uses
-          a Protestant formula, and he was a confirmed member of the Church of
-          England, where he was married, his children were baptised, and where
-          he is buried. Some scholars claim that members of Shakespeare&apos;s
-          family were Catholics, at a time when practising Catholicism in
-          England was against the law. Shakespeare&apos;s mother, Mary Arden,
-          certainly came from a pious Catholic family. The strongest evidence
-          might be a Catholic statement of faith signed by his father, John
-          Shakespeare, found in 1757 in the rafters of his former house in
+          theory of Shakespeare authorship, continues into the 21st century.
+        </p>
+        <p>Religion</p>
+        <p>
+          Shakespeare conformed to the official state religion, but his private
+          views on religion have been the subject of debate. Shakespeare&apos;s
+          will uses a Protestant formula, and he was a confirmed member of the
+          Church of England, where he was married, his children were baptised,
+          and where he is buried. Some scholars claim that members of
+          Shakespeare&apos;s family were Catholics, at a time when practising
+          Catholicism in England was against the law. Shakespeare&apos;s mother,
+          Mary Arden, certainly came from a pious Catholic family. The strongest
+          evidence might be a Catholic statement of faith signed by his father,
+          John Shakespeare, found in 1757 in the rafters of his former house in
           Henley Street. However, the document is now lost and scholars differ
           as to its authenticity. In 1591, the authorities reported that John
           Shakespeare had missed church &quot;for fear of process for
@@ -1737,7 +1770,7 @@ p.intro::first-letter {
           Shakespeare&apos;s Catholicism, Protestantism, or lack of belief in
           his plays, but the truth may be impossible to prove.
         </p>
-        <br />
+
         <h3>Sexuality</h3>
         <p>
           Few details of Shakespeare&apos;s sexuality are known. At 18, he
@@ -1748,7 +1781,7 @@ p.intro::first-letter {
           evidence of his love for a young man. Others read the same passages as
           the expression of intense friendship rather than romantic love. The 26
           so-called &quot;Dark Lady&quot; sonnets, addressed to a married woman,
-          are taken as evidence of heterosexual liaisons.<br />
+          are taken as evidence of heterosexual liaisons.
         </p>
 
         <h3>Portraiture</h3>
@@ -1813,86 +1846,112 @@ p.intro::first-letter {
           Saunders, daughter of Lawrence Saunders (died 1544) of Harrington,
           Northamptonshire. His wife, Alice Brokesby was the daughter of Robert
           Brokesby (died 28 March 1531) of Shoby, Leicestershire, and of Alice
-          Shirley. <br /><br />On his father&apos;s side, the Hatton pedigree is
-          said to be &quot;traced beyond records&quot;. In the reign of Henry
-          VII, Henry Hatton of Quisty Birches in Cheshire married Elizabeth,
-          sole heiress of William Holdenby of Holdenby, Northamptonshire. Their
-          son, John Hatton, settled at Holdenby and had three sons, of whom
-          Christopher Hatton&apos;s father, William, was the eldest. He is said
-          to have had two brothers, Thomas and William, and a sister Dorothy
-          (died 1569), who married first John Newport (died 1566) of Hunningham,
+          Shirley.
+        </p>
+        <p>
+          On his father&apos;s side, the Hatton pedigree is said to be
+          &quot;traced beyond records&quot;. In the reign of Henry VII, Henry
+          Hatton of Quisty Birches in Cheshire married Elizabeth, sole heiress
+          of William Holdenby of Holdenby, Northamptonshire. Their son, John
+          Hatton, settled at Holdenby and had three sons, of whom Christopher
+          Hatton&apos;s father, William, was the eldest. He is said to have had
+          two brothers, Thomas and William, and a sister Dorothy (died 1569),
+          who married first John Newport (died 1566) of Hunningham,
           Warwickshire, then William Underhill (died 1570) of Idlicote,
           Warwickshire, whose son, also William Underhill (died 1597), sold New
-          Place to William Shakespeare. <br /><br />In 1567, Hatton&apos;s
-          brother Thomas married John Newport&apos;s sister, Ursula Newport.
-          However Hatton&apos;s two brothers appear to have died relatively
-          young and without issue. It was his sister Dorothy&apos;s son by John
-          Newport who eventually became Hatton&apos;s heir.
-          <br /><br />Hatton&apos;s education is said to have been supervised by
-          his maternal uncle, William Saunders (died c. 1583). Otherwise nothing
-          is known of his life until he entered St Mary Hall, Oxford as a
-          gentleman commoner at the age of 15 or 16. He left Oxford without a
-          degree and enrolled in the Inner Temple on 26 May 1560. It is not
-          known whether he was called to the bar. <br /><br />In 1561 Hatton
-          played the part of Master of the Game at a masque at the Inner
-          Temple,[10] and on a similar occasion attracted the attention of Queen
-          Elizabeth. Handsome and skilled, Hatton&apos;s dancing quickly won him
-          the Queen&apos;s favour and the nickname &quot;The Dancing
-          Chancellor&quot;. He came to court, according to Naunton, &quot;by the
-          galliard, for he came thither as a private gentleman of the Inns of
-          Court in a masque, and for his activity and person, which was tall and
-          proportionable, taken into the Queen&apos;s favour.&quot; In 1564 he
-          became one of the Queen&apos;s gentlemen pensioners and a gentleman of
-          the privy chamber, and in July 1572 captain of the yeomen of the
-          guard. On 11 November 1577 he became vice-chamberlain of the royal
-          household and was sworn into the Privy Council. That same month he was
-          knighted. In June 1578, the Queen formally granted him the Bishop of
-          Ely&apos;s house in Ely Place, Holborn, despite vigorous protests from
-          the Bishop. These appointments, with the valuable grants the Queen
-          showered on him in these early years,[18] prompted rumours that he was
-          her lover, a charge specifically made in 1584 by Mary, Queen of Scots.
-          There were certainly close personal relations between them. In
-          correspondence the Queen called him her &quot;Lyddes&quot;. He is said
-          to have referred to himself in at least one letter as her
-          &quot;sheep&quot;. Yet Hatton &quot;was probably innocent in the
-          matter.&quot; <br /><br />Hatton represented Higham Ferrers in
-          Parliament in 1571 and from May 1572 was a member for
-          Northamptonshire. He was active in Parliament in prosecutions of John
-          Stubbs and William Parry. In 1581, he was one of those appointed to
-          arrange a marriage between the Queen and Francois, Duke of
-          Alen&ccedil;on, although he urged the Queen against it.<br /><br />According
-          to one account, Hatton once assured Mary, Queen of Scots he would
-          fetch her to London if Queen Elizabeth died. Whatever the truth of
-          this, Hatton&apos;s loyalty to his sovereign seems to have remained
+          Place to William Shakespeare.
+        </p>
+        <p>
+          In 1567, Hatton&apos;s brother Thomas married John Newport&apos;s
+          sister, Ursula Newport. However Hatton&apos;s two brothers appear to
+          have died relatively young and without issue. It was his sister
+          Dorothy&apos;s son by John Newport who eventually became Hatton&apos;s
+          heir.
+        </p>
+        <p>
+          Hatton&apos;s education is said to have been supervised by his
+          maternal uncle, William Saunders (died c. 1583). Otherwise nothing is
+          known of his life until he entered St Mary Hall, Oxford as a gentleman
+          commoner at the age of 15 or 16. He left Oxford without a degree and
+          enrolled in the Inner Temple on 26 May 1560. It is not known whether
+          he was called to the bar.
+        </p>
+        <p>
+          In 1561 Hatton played the part of Master of the Game at a masque at
+          the Inner Temple,[10] and on a similar occasion attracted the
+          attention of Queen Elizabeth. Handsome and skilled, Hatton&apos;s
+          dancing quickly won him the Queen&apos;s favour and the nickname
+          &quot;The Dancing Chancellor&quot;. He came to court, according to
+          Naunton, &quot;by the galliard, for he came thither as a private
+          gentleman of the Inns of Court in a masque, and for his activity and
+          person, which was tall and proportionable, taken into the Queen&apos;s
+          favour.&quot; In 1564 he became one of the Queen&apos;s gentlemen
+          pensioners and a gentleman of the privy chamber, and in July 1572
+          captain of the yeomen of the guard. On 11 November 1577 he became
+          vice-chamberlain of the royal household and was sworn into the Privy
+          Council. That same month he was knighted. In June 1578, the Queen
+          formally granted him the Bishop of Ely&apos;s house in Ely Place,
+          Holborn, despite vigorous protests from the Bishop. These
+          appointments, with the valuable grants the Queen showered on him in
+          these early years,[18] prompted rumours that he was her lover, a
+          charge specifically made in 1584 by Mary, Queen of Scots. There were
+          certainly close personal relations between them. In correspondence the
+          Queen called him her &quot;Lyddes&quot;. He is said to have referred
+          to himself in at least one letter as her &quot;sheep&quot;. Yet Hatton
+          &quot;was probably innocent in the matter.&quot;
+        </p>
+        <p>
+          Hatton represented Higham Ferrers in Parliament in 1571 and from May
+          1572 was a member for Northamptonshire. He was active in Parliament in
+          prosecutions of John Stubbs and William Parry. In 1581, he was one of
+          those appointed to arrange a marriage between the Queen and Francois,
+          Duke of Alen&ccedil;on, although he urged the Queen against it.
+        </p>
+        <p>
+          According to one account, Hatton once assured Mary, Queen of Scots he
+          would fetch her to London if Queen Elizabeth died. Whatever the truth
+          of this, Hatton&apos;s loyalty to his sovereign seems to have remained
           unquestioned. On one occasion, in December 1584, he led 400 kneeling
           members of the House of Commons in a prayer for the Queen&apos;s
-          safety.<br /><br />Hatton was a member of the law court that tried
-          Anthony Babington in 1586 and one of the commissioners who found Mary,
-          Queen of Scots, guilty of treason the following year. He vigorously
-          denounced her in Parliament and advised William Davison to forward the
-          warrant for her execution to Fotheringhay. <br /><br />Hatton sent a
-          ring with a letter to Sir Thomas Smith, to be presented to Queen
-          Elizabeth. It was to be worn at the breast, and Hatton claimed for it
-          &quot;the virtue to expel infectious airs, and is, as it (the letter)
-          telleth me, to be worn between the sweet duggs, the chaste nest of
-          pure constancy.&quot; Sir Robert Cecil reported in August 1591 that
-          the queen, who was at Portsmouth, wore a jewel in the form of bagpipes
-          on her ruff that Hatton had sent her. <br />Christopher Hatton as Lord
-          Chancellor with his seal on the table by his side, by Nicholas
-          Hilliard, 1588&ndash;1591<br /><br />In 1587 Hatton became Lord
-          Chancellor. Though he had no great knowledge of the law, he appears to
-          have acted with sense and judgement. He was said to have been a Roman
-          Catholic in all but name, but treated religious questions in a
-          moderate and tolerant way. <br /><br />Hatton was chancellor of the
-          University of Oxford. He is reported to have been parsimonious, but he
-          patronized men of letters and Edmund Spenser was among his friends. He
-          wrote the fourth act of a tragedy, Tancred and Gismund. His death
-          occasioned several panegyrics in prose and verse.<br /><br />Although
-          he seems to have had an illegitimate daughter, Hatton never married,
-          and his large and valuable estates descended to his nephew, Sir
-          William Newport (1560&ndash;1597), who took the surname Hatton. When
-          the latter died without male issue in 1597, the estates passed to a
-          kinsman, another Sir Christopher Hatton (died 1619), whose son and
+          safety.
+        </p>
+        <p>
+          Hatton was a member of the law court that tried Anthony Babington in
+          1586 and one of the commissioners who found Mary, Queen of Scots,
+          guilty of treason the following year. He vigorously denounced her in
+          Parliament and advised William Davison to forward the warrant for her
+          execution to Fotheringhay.
+        </p>
+        <p>
+          Hatton sent a ring with a letter to Sir Thomas Smith, to be presented
+          to Queen Elizabeth. It was to be worn at the breast, and Hatton
+          claimed for it &quot;the virtue to expel infectious airs, and is, as
+          it (the letter) telleth me, to be worn between the sweet duggs, the
+          chaste nest of pure constancy.&quot; Sir Robert Cecil reported in
+          August 1591 that the queen, who was at Portsmouth, wore a jewel in the
+          form of bagpipes on her ruff that Hatton had sent her. Christopher
+          Hatton as Lord Chancellor with his seal on the table by his side, by
+          Nicholas Hilliard, 1588&ndash;1591
+        </p>
+        <p>
+          In 1587 Hatton became Lord Chancellor. Though he had no great
+          knowledge of the law, he appears to have acted with sense and
+          judgement. He was said to have been a Roman Catholic in all but name,
+          but treated religious questions in a moderate and tolerant way.
+        </p>
+        <p>
+          Hatton was chancellor of the University of Oxford. He is reported to
+          have been parsimonious, but he patronized men of letters and Edmund
+          Spenser was among his friends. He wrote the fourth act of a tragedy,
+          Tancred and Gismund. His death occasioned several panegyrics in prose
+          and verse.
+        </p>
+        <p>
+          Although he seems to have had an illegitimate daughter, Hatton never
+          married, and his large and valuable estates descended to his nephew,
+          Sir William Newport (1560&ndash;1597), who took the surname Hatton.
+          When the latter died without male issue in 1597, the estates passed to
+          a kinsman, another Sir Christopher Hatton (died 1619), whose son and
           successor, Christopher, was created Baron Hatton of Kirby.
         </p>
         <h3>Wealth</h3>
@@ -1905,41 +1964,51 @@ p.intro::first-letter {
           show wealth. It had two great courts and was as large as Hampton Court
           palace. It was three storeys high and had two large state rooms, one
           for himself and another for the Queen, should she ever stay, which she
-          never did.<br /><br />Lord Burghley, visiting the house in his old
-          age, was impressed with the grand staircase from the hall to the state
-          rooms and proclaimed the house so faultless he forgot the
-          &quot;infirmity of his legs&quot; whilst he walked around. No expense
-          was spared. Hatton even paid to move a village because it spoiled the
-          view from one of his windows. However, the cost of the house drained
-          his purse, so that Hatton was short of money for the rest of his life.
-          No stranger to the financial strain of building, Burghley wrote to
-          Hatton: &quot;God send us both long to enjoy her, for whom we both
-          meant to exceed our purses in these.&quot;<br /><br />To maintain his
-          dwindling wealth, Hatton began investing in some voyages of Francis
-          Drake, including Drake&apos;s acts of piracy in Spanish America.
-          During Drake&apos;s subsequent circumnavigation of the globe, when he
-          reached the straits of Magellan, he renamed his ship The Golden Hind
-          in honour of Hatton&apos;s coat of arms, which contained a golden
-          hind, and of all the Spanish gold on board. Hatton made a profit of
-          &pound;2300 from this expedition.<br />Death<br /><br />Despite his
-          successes Hatton died with large debts, a few years after his Holdenby
-          mansion was completed in 1583. Hatton claimed to refuse to sleep there
-          until Queen Elizabeth I would do so. The remains of the original
-          Holdenby House are a room incorporated into a replacement building in
-          the 1870s; part of the pillared doorway with two arches inscribed with
-          the date 1583 in the gardens; and drawings and plans. He had begun to
-          build his other country house, Kirby Hall, in 1570. It was based on
-          French architectural designs and expanded in Classical style over the
-          decades.<br /><br />Hatton&apos;s health declined in 1591. The Queen
-          visited him on 11 November. Nine days later he died at Ely Place and
-          was given a state funeral at St Paul&apos;s Cathedral on 16 December.
-          A grand monument to him stood at the high altar of Old St Paul&apos;s,
-          &quot;towering above it &ndash; an outrage to the susceptibilities of
-          the devout but an object of marvel to London sightseers &ndash; until
-          the Great Fire of 1666 dethroned and destroyed it.&quot; Hatton is
-          listed on a modern monument in the crypt as one of the important
-          graves lost.<br /><br />
+          never did.
         </p>
+        <p>
+          Lord Burghley, visiting the house in his old age, was impressed with
+          the grand staircase from the hall to the state rooms and proclaimed
+          the house so faultless he forgot the &quot;infirmity of his legs&quot;
+          whilst he walked around. No expense was spared. Hatton even paid to
+          move a village because it spoiled the view from one of his windows.
+          However, the cost of the house drained his purse, so that Hatton was
+          short of money for the rest of his life. No stranger to the financial
+          strain of building, Burghley wrote to Hatton: &quot;God send us both
+          long to enjoy her, for whom we both meant to exceed our purses in
+          these.&quot;
+        </p>
+        <p>
+          To maintain his dwindling wealth, Hatton began investing in some
+          voyages of Francis Drake, including Drake&apos;s acts of piracy in
+          Spanish America. During Drake&apos;s subsequent circumnavigation of
+          the globe, when he reached the straits of Magellan, he renamed his
+          ship The Golden Hind in honour of Hatton&apos;s coat of arms, which
+          contained a golden hind, and of all the Spanish gold on board. Hatton
+          made a profit of &pound;2300 from this expedition.Death
+        </p>
+        <p>
+          Despite his successes Hatton died with large debts, a few years after
+          his Holdenby mansion was completed in 1583. Hatton claimed to refuse
+          to sleep there until Queen Elizabeth I would do so. The remains of the
+          original Holdenby House are a room incorporated into a replacement
+          building in the 1870s; part of the pillared doorway with two arches
+          inscribed with the date 1583 in the gardens; and drawings and plans.
+          He had begun to build his other country house, Kirby Hall, in 1570. It
+          was based on French architectural designs and expanded in Classical
+          style over the decades.
+        </p>
+        <p>
+          Hatton&apos;s health declined in 1591. The Queen visited him on 11
+          November. Nine days later he died at Ely Place and was given a state
+          funeral at St Paul&apos;s Cathedral on 16 December. A grand monument
+          to him stood at the high altar of Old St Paul&apos;s, &quot;towering
+          above it &ndash; an outrage to the susceptibilities of the devout but
+          an object of marvel to London sightseers &ndash; until the Great Fire
+          of 1666 dethroned and destroyed it.&quot; Hatton is listed on a modern
+          monument in the crypt as one of the important graves lost.
+        </p>
+        <p></p>
         <h3>Death</h3>
         <p>
           Despite his successes Hatton died with large debts, a few years after
@@ -1950,15 +2019,17 @@ p.intro::first-letter {
           inscribed with the date 1583 in the gardens; and drawings and plans.
           He had begun to build his other country house, Kirby Hall, in 1570. It
           was based on French architectural designs and expanded in Classical
-          style over the decades.<br /><br />Hatton&apos;s health declined in
-          1591. The Queen visited him on 11 November. Nine days later he died at
-          Ely Place and was given a state funeral at St Paul&apos;s Cathedral on
-          16 December. A grand monument to him stood at the high altar of Old St
-          Paul&apos;s, &quot;towering above it &ndash; an outrage to the
-          susceptibilities of the devout but an object of marvel to London
-          sightseers &ndash; until the Great Fire of 1666 dethroned and
-          destroyed it.&quot; Hatton is listed on a modern monument in the crypt
-          as one of the important graves lost.<br /><br />
+          style over the decades.
+        </p>
+        <p>
+          Hatton&apos;s health declined in 1591. The Queen visited him on 11
+          November. Nine days later he died at Ely Place and was given a state
+          funeral at St Paul&apos;s Cathedral on 16 December. A grand monument
+          to him stood at the high altar of Old St Paul&apos;s, &quot;towering
+          above it &ndash; an outrage to the susceptibilities of the devout but
+          an object of marvel to London sightseers &ndash; until the Great Fire
+          of 1666 dethroned and destroyed it.&quot; Hatton is listed on a modern
+          monument in the crypt as one of the important graves lost.
         </p>
       </div>
       <!-- ======= End of Christopher Hatton Markup ============ -->
