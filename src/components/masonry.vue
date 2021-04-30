@@ -6,12 +6,13 @@
         @mouseleave="toggleMasonryTitle"
         class="masonry-content"
       >
-        <img
-          src="../assets/img/henry_vii.png"
-          alt="Picture of Henry VII"
-          class="masonry-content"
-        />
-
+        <router-link to="/Henry_VII">
+          <img
+            src="../assets/img/henry_vii.png"
+            alt="Picture of Henry VII"
+            class="masonry-content"
+          />
+        </router-link>
         <h3 class="masonry-title">Henry VII</h3>
         <p class="masonry-description">
           Henry VII (Welsh: Harri Tudur; 28 January 1457 – 21 April 1509) was

@@ -1,8 +1,8 @@
-const navbarProgress = () => {
+const navbarProgress = querySelector => {
   // === Vars ===
   const elementsToObserve = document.querySelectorAll("section[id]"),
     visibleClass = "visible",
-    nav = document.querySelector("nav.henry-bio"),
+    nav = document.querySelector(querySelector),
     navPath = nav.querySelector("svg path"),
     navListItems = [...nav.querySelectorAll("li")],
     navItems = navListItems

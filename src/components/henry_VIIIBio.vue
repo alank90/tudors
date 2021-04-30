@@ -397,7 +397,8 @@
 import navbarProgress from "../views/assets/navbarProgress.js";
 export default {
   mounted() {
-    navbarProgress();
+    const querySelector = "nav.henry-bio";
+    navbarProgress(querySelector);
   }
 };
 </script>
