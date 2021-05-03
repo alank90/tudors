@@ -481,12 +481,12 @@ section:last-of-type p:last-of-type {
             </li>
 
             <li>
-              <a href="https://en.wikipedia.org/wiki/Margaret_Tudor"></a>
-              <img
-                alt="Margaret Tudor"
-                src="../assets/img/margaret_tudor.jpg"
-              />
-
+              <a href="https://en.wikipedia.org/wiki/Margaret_Tudor">
+                <img
+                  alt="Margaret Tudor"
+                  src="../assets/img/margaret_tudor.jpg"
+                />
+              </a>
               <p>Margaret Tudor, eldest daughter</p>
             </li>
 
