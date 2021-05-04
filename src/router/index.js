@@ -7,6 +7,7 @@ import TheSixWives from "../views/TheSixWives.vue";
 import Elizabeth_I from "../views/Elizabeth_I.vue";
 import Elizabethan_Men from "../views/Elizabethan_Men.vue";
 import Henry_VII from "../views/Henry_VII.vue";
+import Edward_VI from "../views/Edward_VI.vue";
 
 Vue.use(VueRouter);
 
@@ -35,6 +36,11 @@ const routes = [
     path: "/TheSixWives",
     name: "The_Six_Wives",
     component: TheSixWives
+  },
+  {
+    path: "/Edward_VI",
+    name: "Edward_VI",
+    component: Edward_VI
   },
   {
     path: "/Elizabeth_I",

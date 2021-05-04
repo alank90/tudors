@@ -46,7 +46,9 @@
         @mouseleave="toggleMasonryTitle"
         class="masonry-content"
       >
-        <img src="../assets/img/edward_vi.png" alt="Picture of Edward VI" />
+        <router-link to="/edward_vi">
+          <img src="../assets/img/edward_vi.png" alt="Picture of Edward VI" />
+        </router-link>
         <h3 class="masonry-title">Edward VI</h3>
         <p class="masonry-description">
           Edward VI (12 October 1537 – 6 July 1553).
