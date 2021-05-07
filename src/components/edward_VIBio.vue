@@ -60,6 +60,11 @@ p:not(.intro)::first-letter {
   font-weight: 550;
 }
 
+.edward-as-child {
+  width: 300px;
+  float: left;
+}
+
 .shilling {
   float: right;
   width: 315px;
@@ -74,6 +79,10 @@ img {
   max-width: 100%;
   height: auto;
   border-radius: 7px;
+}
+
+img[src*="edward_child"] {
+  border-radius: 50%;
 }
 
 /* === Grid and base layout === */
@@ -295,11 +304,15 @@ section:last-of-type p:last-of-type {
           of 1559.&nbsp;
         </p>
       </section>
-      <hr />
+
       <section id="earlylife">
         <h2>Early Life</h2>
         <hr />
         <h3>Birth</h3>
+        <div class="edward-as-child">
+          <img src="../assets/img/edward_child.png" alt="Edward as child" />
+          <p>Prince Edward in 1538, by Hans Holbein the Younger.</p>
+        </div>
         <p>
           Edward was born on 12 October 1537 in his mother&apos;s room inside
           <a
@@ -2501,7 +2514,6 @@ section:last-of-type p:last-of-type {
           >, reported that &quot;he suffers a good deal when the fever is upon
           him, especially from a difficulty in drawing his breath, which is due
           to the compression of the organs on the right side&quot;.<sup
-            class="reference"
             ><a
               href="https://en.wikipedia.org/wiki/Edward_VI_of_England#cite_note-173"
               >[172]</a
@@ -2512,7 +2524,6 @@ section:last-of-type p:last-of-type {
           had weakened again. By 7 May he was &quot;much amended&quot;, and the
           royal doctors had no doubt of his recovery. A few days later the king
           was watching the ships on the Thames, sitting at his window.<sup
-            class="reference"
             ><a
               href="https://en.wikipedia.org/wiki/Edward_VI_of_England#cite_note-174"
               >[173]</a
@@ -2521,7 +2532,7 @@ section:last-of-type p:last-of-type {
           However, he relapsed, and on 11 June Scheyfve, who had an informant in
           the king&apos;s household, reported that &quot;the matter he ejects
           from his mouth is sometimes coloured a greenish yellow and black,
-          sometimes pink, like the colour of blood&quot;.<sup class="reference"
+          sometimes pink, like the colour of blood&quot;.<sup
             ><a
               href="https://en.wikipedia.org/wiki/Edward_VI_of_England#cite_note-175"
               >[174]</a
@@ -2529,7 +2540,7 @@ section:last-of-type p:last-of-type {
           >
           Now his doctors believed he was suffering from &quot;a suppurating
           tumour&quot; of the lung and admitted that Edward&apos;s life was
-          beyond recovery.<sup class="reference"
+          beyond recovery.<sup
             ><a
               href="https://en.wikipedia.org/wiki/Edward_VI_of_England#cite_note-176"
               >[175]</a
@@ -2540,7 +2551,7 @@ section:last-of-type p:last-of-type {
           <a href="https://en.wikipedia.org/wiki/John_Cheke" title="John Cheke"
             >John Cheke</a
           >
-          he whispered, &quot;I am glad to die&quot;.<sup class="reference"
+          he whispered, &quot;I am glad to die&quot;.<sup
             ><a
               href="https://en.wikipedia.org/wiki/Edward_VI_of_England#cite_note-177"
               >[176]</a
@@ -2555,7 +2566,6 @@ section:last-of-type p:last-of-type {
           July, they were told that the weather was too chilly for him to
           appear. Edward died at the age of 15 at
           <a
-            class="mw-redirect"
             href="https://en.wikipedia.org/wiki/Greenwich_Palace"
             title="Greenwich Palace"
             >Greenwich Palace</a
@@ -2565,7 +2575,6 @@ section:last-of-type p:last-of-type {
             >John Foxe</a
           >&apos;s legendary account of his death, his last words were: &quot;I
           am faint; Lord have mercy upon me, and take my spirit&quot;.<sup
-            class="reference"
             ><a
               href="https://en.wikipedia.org/wiki/Edward_VI_of_England#cite_note-178"
               >[177]</a
@@ -2573,7 +2582,6 @@ section:last-of-type p:last-of-type {
           >
           He was buried in the
           <a
-            class="mw-redirect"
             href="https://en.wikipedia.org/wiki/Henry_VII_Lady_Chapel"
             title="Henry VII Lady Chapel"
             >Henry VII Lady Chapel</a
@@ -2593,7 +2601,6 @@ section:last-of-type p:last-of-type {
           ther surples&quot; and watched by Londoners &quot;wepyng and
           lamenting&quot;; the funeral chariot, draped in cloth of gold, was
           topped by an effigy of Edward, with crown, sceptre, and garter.<sup
-            class="reference"
             ><a
               href="https://en.wikipedia.org/wiki/Edward_VI_of_England#cite_note-179"
               >[178]</a
@@ -2609,7 +2616,7 @@ section:last-of-type p:last-of-type {
           school to commemorate their founder. The inscription reads as follows:
           &quot;In Memory Of King Edward VI Buried In This Chapel This Stone Was
           Placed Here By Christ&apos;s Hospital In Thanksgiving For Their
-          Founder 7 October 1966&quot;.<sup class="reference"
+          Founder 7 October 1966&quot;.<sup
             ><a
               href="https://en.wikipedia.org/wiki/Edward_VI_of_England#cite_note-180"
               >[179]</a
@@ -2619,7 +2626,7 @@ section:last-of-type p:last-of-type {
         <p>
           The cause of Edward VI&apos;s death is not certain. As with many royal
           deaths in the 16th century, rumours of poisoning abounded, but no
-          evidence has been found to support these.<sup class="reference"
+          evidence has been found to support these.<sup
             ><a
               href="https://en.wikipedia.org/wiki/Edward_VI_of_England#cite_note-181"
               >[180]</a
@@ -2627,14 +2634,14 @@ section:last-of-type p:last-of-type {
           >
           The Duke of Northumberland, whose unpopularity was underlined by the
           events that followed Edward&apos;s death, was widely believed to have
-          ordered the imagined poisoning.<sup class="reference"
+          ordered the imagined poisoning.<sup
             ><a
               href="https://en.wikipedia.org/wiki/Edward_VI_of_England#cite_note-182"
               >[181]</a
             ></sup
           >
           Another theory held that Edward had been poisoned by Catholics seeking
-          to bring Mary to the throne.<sup class="reference"
+          to bring Mary to the throne.<sup
             ><a
               href="https://en.wikipedia.org/wiki/Edward_VI_of_England#cite_note-183"
               >[182]</a
@@ -2642,7 +2649,7 @@ section:last-of-type p:last-of-type {
           >
           The surgeon who opened Edward&apos;s chest after his death found that
           &quot;the disease whereof his majesty died was the disease of the
-          lungs&quot;.<sup class="reference"
+          lungs&quot;.<sup
             ><a
               href="https://en.wikipedia.org/wiki/Edward_VI_of_England#cite_note-Sk260-184"
               >[183]</a
@@ -2654,7 +2661,7 @@ section:last-of-type p:last-of-type {
             href="https://en.wikipedia.org/wiki/Tuberculosis"
             title="Tuberculosis"
             >tuberculosis</a
-          >&mdash;a diagnosis accepted by many historians.<sup class="reference"
+          >&mdash;a diagnosis accepted by many historians.<sup
             ><a
               href="https://en.wikipedia.org/wiki/Edward_VI_of_England#cite_note-185"
               >[184]</a
@@ -2669,7 +2676,6 @@ section:last-of-type p:last-of-type {
             >smallpox</a
           >
           in 1552 that suppressed his natural immunity to the disease.<sup
-            class="reference"
             ><a
               href="https://en.wikipedia.org/wiki/Edward_VI_of_England#cite_note-Sk260-184"
               >[183]</a
@@ -2700,7 +2706,6 @@ section:last-of-type p:last-of-type {
           Lady Mary was last seen by Edward in February, and was kept informed
           about the state of her half-brother&apos;s health by Northumberland
           and through her contacts with the imperial ambassadors.<sup
-            class="reference"
             ><a
               href="https://en.wikipedia.org/wiki/Edward_VI_of_England#cite_note-186"
               >[185]</a
@@ -2718,12 +2723,9 @@ section:last-of-type p:last-of-type {
             >Kenninghall</a
           >
           in Norfolk, where she could count on the support of her
-          <a
-            class="mw-redirect"
-            href="https://en.wikipedia.org/wiki/Tenants"
-            title="Tenants"
+          <a href="https://en.wikipedia.org/wiki/Tenants" title="Tenants"
             >tenants</a
-          >.<sup class="reference"
+          >.<sup
             ><a
               href="https://en.wikipedia.org/wiki/Edward_VI_of_England#cite_note-187"
               >[186]</a
@@ -2732,7 +2734,7 @@ section:last-of-type p:last-of-type {
           Northumberland sent ships to the Norfolk coast to prevent her escape
           or the arrival of reinforcements from the continent. He delayed the
           announcement of the king&apos;s death while he gathered his forces,
-          and Jane Grey was taken to the Tower on 10 July.<sup class="reference"
+          and Jane Grey was taken to the Tower on 10 July.<sup
             ><a
               href="https://en.wikipedia.org/wiki/Edward_VI_of_England#cite_note-188"
               >[187]</a
@@ -2742,7 +2744,7 @@ section:last-of-type p:last-of-type {
           murmurings of discontent. The Privy Council received a message from
           Mary asserting her &quot;right and title&quot; to the throne and
           commanding that the Council proclaim her queen, as she had already
-          proclaimed herself.<sup class="reference"
+          proclaimed herself.<sup
             ><a
               href="https://en.wikipedia.org/wiki/Edward_VI_of_England#cite_note-189"
               >[188]</a
@@ -2750,7 +2752,7 @@ section:last-of-type p:last-of-type {
           >
           The Council replied that Jane was queen by Edward&apos;s authority and
           that Mary, by contrast, was illegitimate and supported only by &quot;a
-          few lewd, base people&quot;.<sup class="reference"
+          few lewd, base people&quot;.<sup
             ><a
               href="https://en.wikipedia.org/wiki/Edward_VI_of_England#cite_note-190"
               >[189]</a
@@ -2760,7 +2762,7 @@ section:last-of-type p:last-of-type {
         <p>
           Northumberland soon realised that he had miscalculated drastically,
           not least in failing to secure Mary&apos;s person before Edward&apos;s
-          death.<sup class="reference"
+          death.<sup
             ><a
               href="https://en.wikipedia.org/wiki/Edward_VI_of_England#cite_note-191"
               >[190]</a
@@ -2769,7 +2771,7 @@ section:last-of-type p:last-of-type {
           Although many of those who rallied to Mary were conservatives hoping
           for the defeat of Protestantism, her supporters also included many for
           whom her lawful claim to the throne overrode religious
-          considerations.<sup class="reference"
+          considerations.<sup
             ><a
               href="https://en.wikipedia.org/wiki/Edward_VI_of_England#cite_note-192"
               >[191]</a
@@ -2783,7 +2785,7 @@ section:last-of-type p:last-of-type {
             >East Anglia</a
           >, from where news was arriving of her growing support, which included
           a number of nobles and gentlemen and &quot;innumerable companies of
-          the common people&quot;.<sup class="reference"
+          the common people&quot;.<sup
             ><a
               href="https://en.wikipedia.org/wiki/Edward_VI_of_England#cite_note-193"
               >[192]</a
@@ -2801,7 +2803,7 @@ section:last-of-type p:last-of-type {
             >Framlingham Castle</a
           >
           in Suffolk, gathering an army of nearly twenty thousand by 19
-          July.<sup class="reference"
+          July.<sup
             ><a
               href="https://en.wikipedia.org/wiki/Edward_VI_of_England#cite_note-194"
               >[193]</a
@@ -2812,7 +2814,6 @@ section:last-of-type p:last-of-type {
           It now dawned on the Privy Council that it had made a terrible
           mistake. Led by the
           <a
-            class="mw-redirect"
             href="https://en.wikipedia.org/wiki/Henry_Fitzalan,_19th_Earl_of_Arundel"
             title="Henry Fitzalan, 19th Earl of Arundel"
             >Earl of Arundel</a
@@ -2820,7 +2821,6 @@ section:last-of-type p:last-of-type {
           and the Earl of Pembroke, on 19 July the Council publicly proclaimed
           Mary as queen; Jane&apos;s nine-day reign came to an end. The
           proclamation triggered wild rejoicing throughout London.<sup
-            class="reference"
             ><a
               href="https://en.wikipedia.org/wiki/Edward_VI_of_England#cite_note-195"
               >[194]</a
@@ -2828,7 +2828,6 @@ section:last-of-type p:last-of-type {
           >
           Stranded in Cambridge, Northumberland proclaimed Mary himself&mdash;as
           he had been commanded to do by a letter from the Council.<sup
-            class="reference"
             ><a
               href="https://en.wikipedia.org/wiki/Edward_VI_of_England#cite_note-196"
               >[195]</a
@@ -2841,14 +2840,13 @@ section:last-of-type p:last-of-type {
           >
           and the
           <a
-            class="mw-redirect"
             href="https://en.wikipedia.org/wiki/Henry_FitzAlan,_19th_Earl_of_Arundel"
             title="Henry FitzAlan, 19th Earl of Arundel"
             >Earl of Arundel</a
           >
           rode to Framlingham to beg Mary&apos;s pardon, and Arundel arrested
           Northumberland on 24 July. Northumberland was beheaded on 22 August,
-          shortly after renouncing Protestantism.<sup class="reference"
+          shortly after renouncing Protestantism.<sup
             ><a
               href="https://en.wikipedia.org/wiki/Edward_VI_of_England#cite_note-197"
               >[196]</a
@@ -2861,15 +2859,184 @@ section:last-of-type p:last-of-type {
             href="https://en.wikipedia.org/wiki/Wyatt%27s_rebellion"
             title="Wyatt's rebellion"
             >Wyatt&apos;s rebellion</a
-          >.<sup class="reference"
+          >.<sup
             ><a
               href="https://en.wikipedia.org/wiki/Edward_VI_of_England#cite_note-198"
             ></a
           ></sup>
         </p>
       </section>
+
       <section id="legacy">
         <h2>Protestant legacy</h2>
+        <hr />
+        <p>
+          Although Edward reigned for only six years and died at the age of 15,
+          his reign made a lasting contribution to the
+          <a
+            href="https://en.wikipedia.org/wiki/English_Reformation"
+            title="English Reformation"
+            >English Reformation</a
+          >
+          and the structure of the
+          <a
+            href="https://en.wikipedia.org/wiki/Church_of_England"
+            title="Church of England"
+            >Church of England</a
+          >.<sup
+            ><a
+              href="https://en.wikipedia.org/wiki/Edward_VI_of_England#cite_note-200"
+              >[199]</a
+            ></sup
+          >
+          The last decade of Henry VIII&apos;s reign had seen a partial stalling
+          of the Reformation, a drifting back to more conservative values.<sup
+            ><a
+              href="https://en.wikipedia.org/wiki/Edward_VI_of_England#cite_note-201"
+              >[200]</a
+            ></sup
+          >
+          By contrast, Edward&apos;s reign saw radical progress in the
+          Reformation. In those six years, the Church transferred from an
+          essentially Catholic liturgy and structure to one that is usually
+          identified as Protestant.<sup
+            ><a
+              href="https://en.wikipedia.org/wiki/Edward_VI_of_England#cite_note-MacPr-203"
+              >[b]</a
+            ></sup
+          >
+          In particular, the introduction of the Book of Common Prayer, the
+          Ordinal of 1550, and Cranmer&apos;s
+          <a
+            href="https://en.wikipedia.org/wiki/Thirty-nine_Articles"
+            title="Thirty-nine Articles"
+            >Forty-two Articles</a
+          >
+          formed the basis for English Church practices that continue to this
+          day.<sup
+            ><a
+              href="https://en.wikipedia.org/wiki/Edward_VI_of_England#cite_note-204"
+              >[202]</a
+            ></sup
+          >
+          Edward himself fully approved these changes, and though they were the
+          work of reformers such as Thomas Cranmer,
+          <a
+            href="https://en.wikipedia.org/wiki/Hugh_Latimer"
+            title="Hugh Latimer"
+            >Hugh Latimer</a
+          >, and
+          <a
+            href="https://en.wikipedia.org/wiki/Nicholas_Ridley_(martyr)"
+            title="Nicholas Ridley (martyr)"
+            >Nicholas Ridley</a
+          >, backed by Edward&apos;s determinedly evangelical Council, the fact
+          of the king&apos;s religion was a catalyst in the acceleration of the
+          Reformation during his reign.<sup
+            ><a
+              href="https://en.wikipedia.org/wiki/Edward_VI_of_England#cite_note-205"
+              >[203]</a
+            ></sup
+          >
+        </p>
+        <p>
+          Queen Mary&apos;s attempts to undo the reforming work of her
+          brother&apos;s reign faced major obstacles. Despite her belief in the
+          papal supremacy, she ruled constitutionally as the
+          <a
+            href="https://en.wikipedia.org/wiki/Supreme_Head"
+            title="Supreme Head"
+            >Supreme Head</a
+          >
+          of the English Church, a contradiction under which she bridled.<sup
+            ><a
+              href="https://en.wikipedia.org/wiki/Edward_VI_of_England#cite_note-206"
+              >[204]</a
+            ></sup
+          >
+          She found herself entirely unable to restore the vast number of
+          ecclesiastical properties handed over or sold to private
+          landowners.<sup
+            ><a
+              href="https://en.wikipedia.org/wiki/Edward_VI_of_England#cite_note-207"
+              >[205]</a
+            ></sup
+          >
+          Although she burned a number of leading Protestant churchmen, many
+          reformers either went into exile or remained subversively active in
+          England during her reign, producing a torrent of reforming propaganda
+          that she was unable to stem.<sup
+            ><a
+              href="https://en.wikipedia.org/wiki/Edward_VI_of_England#cite_note-208"
+              >[206]</a
+            ></sup
+          >
+          Nevertheless, Protestantism was not yet &quot;printed in the
+          stomachs&quot; of the English people,<sup
+            ><a
+              href="https://en.wikipedia.org/wiki/Edward_VI_of_England#cite_note-209"
+              >[207]</a
+            ></sup
+          >
+          and had Mary lived longer, her Catholic reconstruction might have
+          succeeded, leaving Edward&apos;s reign, rather than hers, as a
+          historical aberration.<sup
+            ><a
+              href="https://en.wikipedia.org/wiki/Edward_VI_of_England#cite_note-210"
+              >[208]</a
+            ></sup
+          >
+        </p>
+        <p>
+          On Mary&apos;s death in 1558, the English Reformation resumed its
+          course, and most of the reforms instituted during Edward&apos;s reign
+          were reinstated in the
+          <a
+            href="https://en.wikipedia.org/wiki/Elizabethan_Religious_Settlement"
+            title="Elizabethan Religious Settlement"
+            >Elizabethan Religious Settlement</a
+          >. Queen Elizabeth replaced Mary&apos;s councillors and bishops with
+          ex-Edwardians, such as
+          <a
+            href="https://en.wikipedia.org/wiki/William_Cecil,_1st_Baron_Burghley"
+            title=""
+            >William Cecil</a
+          >, Northumberland&apos;s former secretary, and
+          <a
+            href="https://en.wikipedia.org/wiki/Richard_Cox_(bishop)"
+            title="Richard Cox (bishop)"
+            >Richard Cox</a
+          >, Edward&apos;s old tutor, who preached an anti-Catholic sermon at
+          the opening of parliament in 1559.<sup
+            ><a
+              href="https://en.wikipedia.org/wiki/Edward_VI_of_England#cite_note-211"
+              >[209]</a
+            ></sup
+          >
+          Parliament passed an
+          <a
+            href="https://en.wikipedia.org/wiki/Act_of_Uniformity_1559"
+            title="Act of Uniformity 1559"
+            >Act of Uniformity</a
+          >
+          the following spring that restored, with modifications, Cranmer&apos;s
+          prayer book of 1552;<sup
+            ><a
+              href="https://en.wikipedia.org/wiki/Edward_VI_of_England#cite_note-212"
+              >[210]</a
+            ></sup
+          >
+          and the
+          <a
+            href="https://en.wikipedia.org/wiki/Thirty-nine_Articles"
+            title="Thirty-nine Articles"
+            >Thirty-nine Articles</a
+          >
+          of 1563 were largely based on Cranmer&apos;s Forty-two Articles. The
+          theological developments of Edward&apos;s reign provided a vital
+          source of reference for Elizabeth&apos;s religious policies, though
+          the internationalism of the Edwardian Reformation was never revived.
+        </p>
       </section>
     </article>
   </div>
