@@ -60,9 +60,13 @@ p:not(.intro)::first-letter {
   font-weight: 550;
 }
 
-.edward-as-child {
-  width: 300px;
+.shape-outside {
   float: left;
+  width: 300px;
+  margin: 10px 10px 10px 0;
+  border-radius: 50%;
+  -webkit-shape-outside: circle();
+  shape-outside: circle();
 }
 
 .shilling {
@@ -79,10 +83,6 @@ img {
   max-width: 100%;
   height: auto;
   border-radius: 7px;
-}
-
-img[src*="edward_child"] {
-  border-radius: 50%;
 }
 
 /* === Grid and base layout === */
@@ -309,10 +309,13 @@ section:last-of-type p:last-of-type {
         <h2>Early Life</h2>
         <hr />
         <h3>Birth</h3>
-        <div class="edward-as-child">
-          <img src="../assets/img/edward_child.png" alt="Edward as child" />
-          <p>Prince Edward in 1538, by Hans Holbein the Younger.</p>
-        </div>
+
+        <img
+          class="shape-outside"
+          src="../assets/img/edward_child.png"
+          alt="Edward as child"
+        />
+
         <p>
           Edward was born on 12 October 1537 in his mother&apos;s room inside
           <a
@@ -419,6 +422,7 @@ section:last-of-type p:last-of-type {
             ></a
           ></sup>
         </p>
+
         <h3>Upbringing and education</h3>
         <p>
           Edward was a healthy baby who
