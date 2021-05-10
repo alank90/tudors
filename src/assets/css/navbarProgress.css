@@ -1,5 +1,5 @@
 * {
-  --highlight: #a87f90;
+  --highlight: #db100e;
   --body-pad-top: 70px;
   margin: 0;
   padding: 0;
@@ -20,9 +20,9 @@ nav ul {
   list-style: none;
 }
 
-/* nav li > ul {
-      padding-left: 30px;
-  } */
+nav li > a + ul {
+  padding-left: 30px;
+}
 
 nav a {
   display: inline-block;
