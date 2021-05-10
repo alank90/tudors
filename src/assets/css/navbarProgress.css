@@ -12,6 +12,14 @@ nav {
   line-height: 1.5;
 }
 
+
+article {
+  margin-top: -50px;
+  padding-top: 50px;
+}
+
+
+
 /* === Navbar and marker === */
 
 nav ul {

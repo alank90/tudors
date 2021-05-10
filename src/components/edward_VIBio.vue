@@ -4,7 +4,7 @@ export default {
   mounted() {
     const querySelector = "nav.edward-bio";
     navbarProgress(querySelector);
-  }
+  },
 };
 </script>
 
@@ -140,7 +140,16 @@ section:last-of-type p:last-of-type {
         <li>
           <a href="#accession">Accession To The Throne</a>
         </li>
-        <li><a href="#somerset">Somerset Protectorate</a></li>
+        <li>
+          <a href="#somerset">Somerset Protectorate</a>
+          <ul>
+            <li><a href="#council">Council of Regency</a></li>
+            <li><a href="#seymour">Thomas Seymour</a></li>
+            <li><a href="#war">War</a></li>
+            <li><a href="#rebellion">Rebellion</a></li>
+            <li><a href="#fallofsomerset">Fall of Somerset</a></li>
+          </ul>
+        </li>
         <li><a href="#northumberland">Northumberland's leadership</a></li>
         <li><a href="#reformation">Reformation</a></li>
         <li><a href="#succession">Succession crisis</a></li>
@@ -427,6 +436,7 @@ section:last-of-type p:last-of-type {
             ></sup>
           </p>
         </section>
+
         <section id="upbringing">
           <h3>Upbringing and education</h3>
           <p>
@@ -699,6 +709,7 @@ section:last-of-type p:last-of-type {
           </p>
         </section>
       </section>
+
       <section id="accession">
         <h2>Accession to throne</h2>
         <hr />
@@ -2186,10 +2197,13 @@ section:last-of-type p:last-of-type {
           Reformation in England depended, was dying
         </p>
       </section>
+
       <section id="succession">
         <h2>Succession Crisis</h2>
         <hr />
-        <h3>devise for the succession</h3>
+
+        section
+        <h3>Devise for the succession</h3>
         <p>
           In February 1553, Edward VI became ill, and by June, after several
           improvements and relapses, he was in a hopeless condition.<sup
