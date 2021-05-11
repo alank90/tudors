@@ -1,5 +1,5 @@
 const navbarProgress = querySelector => {
-  // === Vars ===
+  // =========== Vars =================== //
   const elementsToObserve = document.querySelectorAll("section[id]"),
     visibleClass = "visible",
     nav = document.querySelector(querySelector),
@@ -107,6 +107,7 @@ const navbarProgress = querySelector => {
 
   drawPath();
 
+  // ============ Setup Observer's on all appropriate section[id]'s ======= //
   const observer = new IntersectionObserver(markVisibleSection);
   elementsToObserve.forEach(thisEl => observer.observe(thisEl));
 };

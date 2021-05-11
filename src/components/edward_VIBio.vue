@@ -4,7 +4,7 @@ export default {
   mounted() {
     const querySelector = "nav.edward-bio";
     navbarProgress(querySelector);
-  },
+  }
 };
 </script>
 
@@ -152,7 +152,14 @@ section:last-of-type p:last-of-type {
         </li>
         <li><a href="#northumberland">Northumberland's leadership</a></li>
         <li><a href="#reformation">Reformation</a></li>
-        <li><a href="#succession">Succession crisis</a></li>
+        <li>
+          <a href="#succession">Succession crisis</a>
+          <ul>
+            <li><a href="devise">Devise for the succession</a></li>
+            <li><a href="illness">Illness and death</a></li>
+            <li><a href="ladyjane">Lady Jane and Queen Mary</a></li>
+          </ul>
+        </li>
         <li><a href="#legacy">Protestant legacy</a></li>
       </ul>
       <svg xmlns="http://www.w3.org/2000/svg">
@@ -1820,6 +1827,8 @@ section:last-of-type p:last-of-type {
       </section>
 
       <section id="reformation">
+        <h2>Reformation</h2>
+        <hr />
         <p>
           In the matter of religion, the regime of Northumberland followed the
           same policy as that of Somerset, supporting an increasingly vigorous
@@ -2202,727 +2211,748 @@ section:last-of-type p:last-of-type {
         <h2>Succession Crisis</h2>
         <hr />
 
-        section
-        <h3>Devise for the succession</h3>
-        <p>
-          In February 1553, Edward VI became ill, and by June, after several
-          improvements and relapses, he was in a hopeless condition.<sup
-            ><a
-              href="https://en.wikipedia.org/wiki/Edward_VI_of_England#cite_note-Ldeath-143"
-              >[143]</a
-            ></sup
-          >
-          The king&apos;s death and the succession of his Catholic half-sister
-          Mary would jeopardise the English Reformation, and Edward&apos;s
-          Council and officers had many reasons to fear it.<sup
-            ><a
-              href="https://en.wikipedia.org/wiki/Edward_VI_of_England#cite_note-144"
-              >[144]</a
-            ></sup
-          >
-          Edward himself opposed Mary&apos;s succession, not only on religious
-          grounds but also on those of legitimacy and male inheritance, which
-          also applied to Elizabeth.<sup
-            ><a
-              href="https://en.wikipedia.org/wiki/Edward_VI_of_England#cite_note-145"
-              >[145]</a
-            ></sup
-          >
-          He composed a draft document, headed &quot;My devise for the
-          succession&quot;, in which he undertook to change the succession, most
-          probably inspired by his father Henry VIII&apos;s precedent.<sup
-            ><a
-              href="https://en.wikipedia.org/wiki/Edward_VI_of_England#cite_note-146"
-              >[146]</a
-            ></sup
-          >
-          He passed over the claims of his half-sisters and, at last, settled
-          the Crown on his first cousin once removed, the 16-year-old Lady Jane
-          Grey, who on 25 May 1553 had married
-          <a
-            href="https://en.wikipedia.org/wiki/Lord_Guilford_Dudley"
-            title="Lord Guilford Dudley"
-            >Lord Guilford Dudley</a
-          >, a younger son of the Duke of Northumberland.<sup
-            ><a
-              href="https://en.wikipedia.org/wiki/Edward_VI_of_England#cite_note-147"
-              >[147]</a
-            ></sup
-          >
-          In the document he writes:
-        </p>
-        <blockquote class="templatequote">
-          <p>My devise for the Succession</p>
+        <section id="devise">
+          <h3>Devise for the succession</h3>
           <p>
-            1. For lakke of issu
-            <em>[masle inserted above the line, but afterwards crossed out]</em>
-            of my body
-            <em
-              >[to the issu (masle above the line) cumming of thissu femal, as i
-              have after declared inserted, but crossed out]</em
-            >. To the L Franceses heires masles, <em>[For lakke of erased]</em>
-            <em>[if she have any inserted]</em> such issu
-            <em>[befor my death inserted]</em> to the L&apos; Janes
-            <em>[and her inserted]</em> heires masles, To the L Katerins heires
-            masles, To the L Maries heires masles, To the heires masles of the
-            daughters wich she shal haue hereafter. Then to the L Margets heires
-            masles. For lakke of such issu, To th&apos;eires masles of the L
-            Janes daughters. To th&apos;eires masles of the L Katerins
-            daughters, and so forth til yow come to the L Margets
-            <em>[daughters inserted]</em> heires masles.
-          </p>
-          <p>
-            2. If after my death theire masle be entred into 18 yere old, then
-            he to have the hole rule and gouernauce therof.
-          </p>
-          <p>
-            3. But if he be under 18, then his mother to be gouuernres til he
-            entre 18 yere old, But to doe nothing w&apos;out th&apos;auise (and
-            agremet inserted) of 6 parcel of a counsel to be pointed by my last
-            will to the nombre of 20.
-          </p>
-          <p>
-            4. If the mother die befor th&apos;eire entre into 18 the realme to
-            be gouuerned by the cousel Prouided that after he be 14 yere al
-            great matters of importaunce be opened to him.
-          </p>
-          <p>
-            5. If i died w&apos;out issu, and there were none heire masle, then
-            the L Fraunces to be (reget altered to) gouuernres. For lakke of
-            her, the her eldest daughters,4 and for lakke of them the L Marget
-            to be gouuernres after as is aforsaid, til sume heire masle be
-            borne, and then the mother of that child to be gouuernres.
-          </p>
-          <p>
-            6. And if during the rule of the gouuernres ther die 4 of the
-            counsel, then shal she by her letters cal an asseble of the counsel
-            w&apos;in on month folowing and chose 4 more, wherin she shal haue
-            thre uoices. But after her death the 16 shal chose emong themselfes
-            til th&apos;eire come to (18 erased) 14 yeare olde, and then he by
-            ther aduice shal chose them&quot; (1553).
-          </p>
-          <div class="templatequotecite">
-            &mdash;&thinsp;<cite
-              >Edward VI, Devise for the Succession<sup
-                ><a
-                  href="https://en.wikipedia.org/wiki/Edward_VI_of_England#cite_note-148"
-                  >[148]</a
-                ></sup
-              ></cite
+            In February 1553, Edward VI became ill, and by June, after several
+            improvements and relapses, he was in a hopeless condition.<sup
+              ><a
+                href="https://en.wikipedia.org/wiki/Edward_VI_of_England#cite_note-Ldeath-143"
+                >[143]</a
+              ></sup
             >
-          </div>
-        </blockquote>
-        <p>
-          In his document Edward provided, in case of &quot;lack of issue of my
-          body&quot;, for the succession of male heirs only, that is, Jane
-          Grey&apos;s mother&apos;s male heirs, Jane&apos;s, or her
-          sisters&apos;.<sup
-            ><a
-              href="https://en.wikipedia.org/wiki/Edward_VI_of_England#cite_note-149"
-              >[149]</a
-            ></sup
-          >
-          As his death approached and possibly persuaded by Northumberland,<sup
-            ><a
-              href="https://en.wikipedia.org/wiki/Edward_VI_of_England#cite_note-150"
-              >[150]</a
-            ></sup
-          >
-          he altered the wording so that Jane and her sisters themselves should
-          be able to succeed. Yet Edward conceded Jane&apos;s right only as an
-          exception to male rule, demanded by reality, an example not to be
-          followed if Jane or her sisters had only daughters.<sup
-            ><a
-              href="https://en.wikipedia.org/wiki/Edward_VI_of_England#cite_note-151"
-              >[151]</a
-            ></sup
-          ><sup
-            ><a
-              href="https://en.wikipedia.org/wiki/Edward_VI_of_England#cite_note-153"
-              >[a]</a
-            ></sup
-          >
-          In the final document both Mary and Elizabeth were excluded because of
-          bastardy;<sup
-            ><a
-              href="https://en.wikipedia.org/wiki/Edward_VI_of_England#cite_note-154"
-              >[153]</a
-            ></sup
-          >
-          since both had been declared bastards under Henry VIII and never made
-          legitimate again, this reason could be advanced for both sisters.<sup
-            ><a
-              href="https://en.wikipedia.org/wiki/Edward_VI_of_England#cite_note-155"
-              >[154]</a
-            ></sup
-          >
-          The provisions to alter the succession directly contravened Henry
-          VIII&apos;s
-          <a
-            href="https://en.wikipedia.org/wiki/Third_Succession_Act"
-            title="Third Succession Act"
-            >Third Succession Act</a
-          >
-          of 1543 and have been described as bizarre and illogical.<sup
-            ><a
-              href="https://en.wikipedia.org/wiki/Edward_VI_of_England#cite_note-156"
-              >[155]</a
-            ></sup
-          >
-        </p>
-
-        <div class="jane-grey">
-          <a
-            target="_blank"
-            href="https://en.wikipedia.org/wiki/File:Streathamladyjayne.jpg"
-            ><img
-              alt="A stiff Elizabethan-style three-quarter portrait of Lady Jane Grey wearing elaborate formal dress and holding a prayer book. She is a tall, pale, rather horsey-faced young woman."
-              src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Streathamladyjayne.jpg/220px-Streathamladyjayne.jpg"
-              class="thumbimage"
-              srcset="
-                //upload.wikimedia.org/wikipedia/commons/thumb/8/87/Streathamladyjayne.jpg/330px-Streathamladyjayne.jpg 1.5x,
-                //upload.wikimedia.org/wikipedia/commons/thumb/8/87/Streathamladyjayne.jpg/440px-Streathamladyjayne.jpg 2x
-              "
-          /></a>
-
-          <div>
+            The king&apos;s death and the succession of his Catholic half-sister
+            Mary would jeopardise the English Reformation, and Edward&apos;s
+            Council and officers had many reasons to fear it.<sup
+              ><a
+                href="https://en.wikipedia.org/wiki/Edward_VI_of_England#cite_note-144"
+                >[144]</a
+              ></sup
+            >
+            Edward himself opposed Mary&apos;s succession, not only on religious
+            grounds but also on those of legitimacy and male inheritance, which
+            also applied to Elizabeth.<sup
+              ><a
+                href="https://en.wikipedia.org/wiki/Edward_VI_of_England#cite_note-145"
+                >[145]</a
+              ></sup
+            >
+            He composed a draft document, headed &quot;My devise for the
+            succession&quot;, in which he undertook to change the succession,
+            most probably inspired by his father Henry VIII&apos;s
+            precedent.<sup
+              ><a
+                href="https://en.wikipedia.org/wiki/Edward_VI_of_England#cite_note-146"
+                >[146]</a
+              ></sup
+            >
+            He passed over the claims of his half-sisters and, at last, settled
+            the Crown on his first cousin once removed, the 16-year-old Lady
+            Jane Grey, who on 25 May 1553 had married
             <a
-              href="https://en.wikipedia.org/wiki/Lady_Jane_Grey"
-              target="_blank"
-              title="Lady Jane Grey"
-              >Lady Jane Grey</a
-            >, who was proclaimed queen four days after Edward&apos;s death.
-          </div>
-        </div>
+              href="https://en.wikipedia.org/wiki/Lord_Guilford_Dudley"
+              title="Lord Guilford Dudley"
+              >Lord Guilford Dudley</a
+            >, a younger son of the Duke of Northumberland.<sup
+              ><a
+                href="https://en.wikipedia.org/wiki/Edward_VI_of_England#cite_note-147"
+                >[147]</a
+              ></sup
+            >
+            In the document he writes:
+          </p>
+          <blockquote class="templatequote">
+            <p>My devise for the Succession</p>
+            <p>
+              1. For lakke of issu
+              <em
+                >[masle inserted above the line, but afterwards crossed out]</em
+              >
+              of my body
+              <em
+                >[to the issu (masle above the line) cumming of thissu femal, as
+                i have after declared inserted, but crossed out]</em
+              >. To the L Franceses heires masles,
+              <em>[For lakke of erased]</em>
+              <em>[if she have any inserted]</em> such issu
+              <em>[befor my death inserted]</em> to the L&apos; Janes
+              <em>[and her inserted]</em> heires masles, To the L Katerins
+              heires masles, To the L Maries heires masles, To the heires masles
+              of the daughters wich she shal haue hereafter. Then to the L
+              Margets heires masles. For lakke of such issu, To th&apos;eires
+              masles of the L Janes daughters. To th&apos;eires masles of the L
+              Katerins daughters, and so forth til yow come to the L Margets
+              <em>[daughters inserted]</em> heires masles.
+            </p>
+            <p>
+              2. If after my death theire masle be entred into 18 yere old, then
+              he to have the hole rule and gouernauce therof.
+            </p>
+            <p>
+              3. But if he be under 18, then his mother to be gouuernres til he
+              entre 18 yere old, But to doe nothing w&apos;out th&apos;auise
+              (and agremet inserted) of 6 parcel of a counsel to be pointed by
+              my last will to the nombre of 20.
+            </p>
+            <p>
+              4. If the mother die befor th&apos;eire entre into 18 the realme
+              to be gouuerned by the cousel Prouided that after he be 14 yere al
+              great matters of importaunce be opened to him.
+            </p>
+            <p>
+              5. If i died w&apos;out issu, and there were none heire masle,
+              then the L Fraunces to be (reget altered to) gouuernres. For lakke
+              of her, the her eldest daughters,4 and for lakke of them the L
+              Marget to be gouuernres after as is aforsaid, til sume heire masle
+              be borne, and then the mother of that child to be gouuernres.
+            </p>
+            <p>
+              6. And if during the rule of the gouuernres ther die 4 of the
+              counsel, then shal she by her letters cal an asseble of the
+              counsel w&apos;in on month folowing and chose 4 more, wherin she
+              shal haue thre uoices. But after her death the 16 shal chose emong
+              themselfes til th&apos;eire come to (18 erased) 14 yeare olde, and
+              then he by ther aduice shal chose them&quot; (1553).
+            </p>
+            <div class="templatequotecite">
+              &mdash;&thinsp;<cite
+                >Edward VI, Devise for the Succession<sup
+                  ><a
+                    href="https://en.wikipedia.org/wiki/Edward_VI_of_England#cite_note-148"
+                    >[148]</a
+                  ></sup
+                ></cite
+              >
+            </div>
+          </blockquote>
+          <p>
+            In his document Edward provided, in case of &quot;lack of issue of
+            my body&quot;, for the succession of male heirs only, that is, Jane
+            Grey&apos;s mother&apos;s male heirs, Jane&apos;s, or her
+            sisters&apos;.<sup
+              ><a
+                href="https://en.wikipedia.org/wiki/Edward_VI_of_England#cite_note-149"
+                >[149]</a
+              ></sup
+            >
+            As his death approached and possibly persuaded by
+            Northumberland,<sup
+              ><a
+                href="https://en.wikipedia.org/wiki/Edward_VI_of_England#cite_note-150"
+                >[150]</a
+              ></sup
+            >
+            he altered the wording so that Jane and her sisters themselves
+            should be able to succeed. Yet Edward conceded Jane&apos;s right
+            only as an exception to male rule, demanded by reality, an example
+            not to be followed if Jane or her sisters had only daughters.<sup
+              ><a
+                href="https://en.wikipedia.org/wiki/Edward_VI_of_England#cite_note-151"
+                >[151]</a
+              ></sup
+            ><sup
+              ><a
+                href="https://en.wikipedia.org/wiki/Edward_VI_of_England#cite_note-153"
+                >[a]</a
+              ></sup
+            >
+            In the final document both Mary and Elizabeth were excluded because
+            of bastardy;<sup
+              ><a
+                href="https://en.wikipedia.org/wiki/Edward_VI_of_England#cite_note-154"
+                >[153]</a
+              ></sup
+            >
+            since both had been declared bastards under Henry VIII and never
+            made legitimate again, this reason could be advanced for both
+            sisters.<sup
+              ><a
+                href="https://en.wikipedia.org/wiki/Edward_VI_of_England#cite_note-155"
+                >[154]</a
+              ></sup
+            >
+            The provisions to alter the succession directly contravened Henry
+            VIII&apos;s
+            <a
+              href="https://en.wikipedia.org/wiki/Third_Succession_Act"
+              title="Third Succession Act"
+              >Third Succession Act</a
+            >
+            of 1543 and have been described as bizarre and illogical.<sup
+              ><a
+                href="https://en.wikipedia.org/wiki/Edward_VI_of_England#cite_note-156"
+                >[155]</a
+              ></sup
+            >
+          </p>
 
-        <p>
-          In early June, Edward personally supervised the drafting of a clean
-          version of his devise by lawyers, to which he lent his signature
-          &quot;in six several places.&quot;<sup
-            ><a
-              href="https://en.wikipedia.org/wiki/Edward_VI_of_England#cite_note-157"
-              >[156]</a
-            ></sup
-          >
-          Then, on 15 June he summoned high ranking judges to his sickbed,
-          commanding them on their allegiance &quot;with sharp words and angry
-          countenance&quot; to prepare his devise as
-          <a
-            href="https://en.wikipedia.org/wiki/Letters_patent"
-            title="Letters patent"
-            >letters patent</a
-          >
-          and announced that he would have these passed in parliament.<sup
-            ><a
-              href="https://en.wikipedia.org/wiki/Edward_VI_of_England#cite_note-158"
-              >[157]</a
-            ></sup
-          >
-          His next measure was to have leading councillors and lawyers sign a
-          bond in his presence, in which they agreed faithfully to perform
-          Edward&apos;s will after his death.<sup
-            ><a
-              href="https://en.wikipedia.org/wiki/Edward_VI_of_England#cite_note-159"
-              >[158]</a
-            ></sup
-          >
-          A few months later,
-          <a
-            href="https://en.wikipedia.org/wiki/Chief_Justice_of_the_Common_Pleas"
-            title="Chief Justice of the Common Pleas"
-            >Chief Justice</a
-          >
-          <a
-            href="https://en.wikipedia.org/wiki/Edward_Montagu_(judge)"
-            title="Edward Montagu (judge)"
-            >Edward Montagu</a
-          >
-          recalled that when he and his colleagues had raised legal objections
-          to the devise, Northumberland had threatened them &quot;trembling for
-          anger, and ... further said that he would fight in his shirt with any
-          man in that quarrel&quot;.<sup
-            ><a
-              href="https://en.wikipedia.org/wiki/Edward_VI_of_England#cite_note-160"
-              >[159]</a
-            ></sup
-          >
-          Montagu also overheard a group of lords standing behind him conclude
-          &quot;if they refused to do that, they were traitors&quot;.<sup
-            ><a
-              href="https://en.wikipedia.org/wiki/Edward_VI_of_England#cite_note-161"
-              >[160]</a
-            ></sup
-          >
-          At last, on 21 June, the devise was signed by over a hundred notables,
-          including councillors, peers, archbishops, bishops, and sheriffs;<sup
-            ><a
-              href="https://en.wikipedia.org/wiki/Edward_VI_of_England#cite_note-162"
-              >[161]</a
-            ></sup
-          >
-          many of them later claimed that they had been bullied into doing so by
-          Northumberland, although in the words of Edward&apos;s biographer
-          Jennifer Loach, &quot;few of them gave any clear indication of
-          reluctance at the time&quot;.<sup
-            ><a
-              href="https://en.wikipedia.org/wiki/Edward_VI_of_England#cite_note-163"
-              >[162]</a
-            ></sup
-          >
-        </p>
-        <p>
-          It was now common knowledge that Edward was dying, and foreign
-          diplomats suspected that some scheme to debar Mary was under way.
-          France found the prospect of the emperor&apos;s cousin on the English
-          throne disagreeable and engaged in secret talks with Northumberland,
-          indicating support.<sup
-            ><a
-              href="https://en.wikipedia.org/wiki/Edward_VI_of_England#cite_note-164"
-              >[163]</a
-            ></sup
-          >
-          The diplomats were certain that the overwhelming majority of the
-          English people backed Mary, but nevertheless believed that Queen Jane
-          would be successfully established.<sup
-            ><a
-              href="https://en.wikipedia.org/wiki/Edward_VI_of_England#cite_note-165"
-              >[164]</a
-            ></sup
-          >
-        </p>
-        <p>
-          For centuries, the attempt to alter the succession was mostly seen as
-          a one-man-plot by the Duke of Northumberland.<sup
-            ><a
-              href="https://en.wikipedia.org/wiki/Edward_VI_of_England#cite_note-166"
-              >[165]</a
-            ></sup
-          >
-          Since the 1970s, however, many historians have attributed the
-          inception of the &quot;devise&quot; and the insistence on its
-          implementation to the king&apos;s initiative.<sup
-            ><a
-              href="https://en.wikipedia.org/wiki/Edward_VI_of_England#cite_note-167"
-              >[166]</a
-            ></sup
-          >
-          <a
-            href="https://en.wikipedia.org/wiki/Diarmaid_MacCulloch"
-            title="Diarmaid MacCulloch"
-            >Diarmaid MacCulloch</a
-          >
-          has made out Edward&apos;s &quot;teenage dreams of founding an
-          evangelical realm of Christ&quot;,<sup
-            ><a
-              href="https://en.wikipedia.org/wiki/Edward_VI_of_England#cite_note-168"
-              >[167]</a
-            ></sup
-          >
-          while
-          <a
-            href="https://en.wikipedia.org/wiki/David_Starkey"
-            title="David Starkey"
-            >David Starkey</a
-          >
-          has stated that &quot;Edward had a couple of co-operators, but the
-          driving will was his&quot;.<sup
-            ><a
-              href="https://en.wikipedia.org/wiki/Edward_VI_of_England#cite_note-169"
-              >[168]</a
-            ></sup
-          >
-          Among other members of the Privy Chamber, Northumberland&apos;s
-          intimate
-          <a
-            href="https://en.wikipedia.org/wiki/John_Gates_(courtier)"
-            title="John Gates (courtier)"
-            >Sir John Gates</a
-          >
-          has been suspected of suggesting to Edward to change his devise so
-          that Lady Jane Grey herself&mdash;not just any sons of
-          hers&mdash;could inherit the Crown.<sup
-            ><a
-              href="https://en.wikipedia.org/wiki/Edward_VI_of_England#cite_note-170"
-              >[169]</a
-            ></sup
-          >
-          Whatever the degree of his contribution, Edward was convinced that his
-          word was law<sup
-            ><a
-              href="https://en.wikipedia.org/wiki/Edward_VI_of_England#cite_note-171"
-              >[170]</a
-            ></sup
-          >
-          and fully endorsed disinheriting his half-sisters: &quot;barring Mary
-          from the succession was a cause in which the young King believed
-        </p>
-        <h3>Illness and death</h3>
-        <p>
-          Edward became ill during January 1553 with a fever and cough that
-          gradually worsened. The
-          <a
-            href="https://en.wikipedia.org/wiki/List_of_ambassadors_of_the_Kingdom_of_England_to_the_Holy_Roman_Emperor"
-            title="List of ambassadors of the Kingdom of England to the Holy Roman Emperor"
-            >imperial ambassador</a
-          >,
-          <a
-            href="https://en.wikipedia.org/wiki/Jean_Scheyfve"
-            title="Jean Scheyfve"
-            >Jean Scheyfve</a
-          >, reported that &quot;he suffers a good deal when the fever is upon
-          him, especially from a difficulty in drawing his breath, which is due
-          to the compression of the organs on the right side&quot;.<sup
-            ><a
-              href="https://en.wikipedia.org/wiki/Edward_VI_of_England#cite_note-173"
-              >[172]</a
-            ></sup
-          >
-          Edward felt well enough in early April to take the air in the park at
-          Westminster and to move to Greenwich, but by the end of the month he
-          had weakened again. By 7 May he was &quot;much amended&quot;, and the
-          royal doctors had no doubt of his recovery. A few days later the king
-          was watching the ships on the Thames, sitting at his window.<sup
-            ><a
-              href="https://en.wikipedia.org/wiki/Edward_VI_of_England#cite_note-174"
-              >[173]</a
-            ></sup
-          >
-          However, he relapsed, and on 11 June Scheyfve, who had an informant in
-          the king&apos;s household, reported that &quot;the matter he ejects
-          from his mouth is sometimes coloured a greenish yellow and black,
-          sometimes pink, like the colour of blood&quot;.<sup
-            ><a
-              href="https://en.wikipedia.org/wiki/Edward_VI_of_England#cite_note-175"
-              >[174]</a
-            ></sup
-          >
-          Now his doctors believed he was suffering from &quot;a suppurating
-          tumour&quot; of the lung and admitted that Edward&apos;s life was
-          beyond recovery.<sup
-            ><a
-              href="https://en.wikipedia.org/wiki/Edward_VI_of_England#cite_note-176"
-              >[175]</a
-            ></sup
-          >
-          Soon, his legs became so swollen that he had to lie on his back, and
-          he lost the strength to resist the disease. To his tutor
-          <a href="https://en.wikipedia.org/wiki/John_Cheke" title="John Cheke"
-            >John Cheke</a
-          >
-          he whispered, &quot;I am glad to die&quot;.<sup
-            ><a
-              href="https://en.wikipedia.org/wiki/Edward_VI_of_England#cite_note-177"
-              >[176]</a
-            ></sup
-          >
-        </p>
-        <p>
-          Edward made his final appearance in public on 1 July, when he showed
-          himself at his window in Greenwich Palace, horrifying those who saw
-          him by his &quot;thin and wasted&quot; condition. During the next two
-          days, large crowds arrived hoping to see the king again, but on 3
-          July, they were told that the weather was too chilly for him to
-          appear. Edward died at the age of 15 at
-          <a
-            href="https://en.wikipedia.org/wiki/Greenwich_Palace"
-            title="Greenwich Palace"
-            >Greenwich Palace</a
-          >
-          at 8 pm on 6 July 1553. According to
-          <a href="https://en.wikipedia.org/wiki/John_Foxe" title="John Foxe"
-            >John Foxe</a
-          >&apos;s legendary account of his death, his last words were: &quot;I
-          am faint; Lord have mercy upon me, and take my spirit&quot;.<sup
-            ><a
-              href="https://en.wikipedia.org/wiki/Edward_VI_of_England#cite_note-178"
-              >[177]</a
-            ></sup
-          >
-          He was buried in the
-          <a
-            href="https://en.wikipedia.org/wiki/Henry_VII_Lady_Chapel"
-            title="Henry VII Lady Chapel"
-            >Henry VII Lady Chapel</a
-          >
-          at
-          <a
-            href="https://en.wikipedia.org/wiki/Westminster_Abbey"
-            title="Westminster Abbey"
-            >Westminster Abbey</a
-          >
-          on 8 August 1553, with reformed rites performed by
-          <a
-            href="https://en.wikipedia.org/wiki/Thomas_Cranmer"
-            title="Thomas Cranmer"
-            >Thomas Cranmer</a
-          >. The procession was led by &quot;a grett company of chylderyn in
-          ther surples&quot; and watched by Londoners &quot;wepyng and
-          lamenting&quot;; the funeral chariot, draped in cloth of gold, was
-          topped by an effigy of Edward, with crown, sceptre, and garter.<sup
-            ><a
-              href="https://en.wikipedia.org/wiki/Edward_VI_of_England#cite_note-179"
-              >[178]</a
-            ></sup
-          >
-          Edward&apos;s burial place was unmarked until as late as 1966, when an
-          inscribed stone was laid in the chapel floor by
-          <a
-            href="https://en.wikipedia.org/wiki/Christ%27s_Hospital"
-            title="Christ's Hospital"
-            >Christ&apos;s Hospital</a
-          >
-          school to commemorate their founder. The inscription reads as follows:
-          &quot;In Memory Of King Edward VI Buried In This Chapel This Stone Was
-          Placed Here By Christ&apos;s Hospital In Thanksgiving For Their
-          Founder 7 October 1966&quot;.<sup
-            ><a
-              href="https://en.wikipedia.org/wiki/Edward_VI_of_England#cite_note-180"
-              >[179]</a
-            ></sup
-          >
-        </p>
-        <p>
-          The cause of Edward VI&apos;s death is not certain. As with many royal
-          deaths in the 16th century, rumours of poisoning abounded, but no
-          evidence has been found to support these.<sup
-            ><a
-              href="https://en.wikipedia.org/wiki/Edward_VI_of_England#cite_note-181"
-              >[180]</a
-            ></sup
-          >
-          The Duke of Northumberland, whose unpopularity was underlined by the
-          events that followed Edward&apos;s death, was widely believed to have
-          ordered the imagined poisoning.<sup
-            ><a
-              href="https://en.wikipedia.org/wiki/Edward_VI_of_England#cite_note-182"
-              >[181]</a
-            ></sup
-          >
-          Another theory held that Edward had been poisoned by Catholics seeking
-          to bring Mary to the throne.<sup
-            ><a
-              href="https://en.wikipedia.org/wiki/Edward_VI_of_England#cite_note-183"
-              >[182]</a
-            ></sup
-          >
-          The surgeon who opened Edward&apos;s chest after his death found that
-          &quot;the disease whereof his majesty died was the disease of the
-          lungs&quot;.<sup
-            ><a
-              href="https://en.wikipedia.org/wiki/Edward_VI_of_England#cite_note-Sk260-184"
-              >[183]</a
-            ></sup
-          >
-          The Venetian ambassador reported that Edward had died of
-          consumption&mdash;in other words,
-          <a
-            href="https://en.wikipedia.org/wiki/Tuberculosis"
-            title="Tuberculosis"
-            >tuberculosis</a
-          >&mdash;a diagnosis accepted by many historians.<sup
-            ><a
-              href="https://en.wikipedia.org/wiki/Edward_VI_of_England#cite_note-185"
-              >[184]</a
-            ></sup
-          >
-          Skidmore believes that Edward contracted tuberculosis after a bout of
-          <a href="https://en.wikipedia.org/wiki/Measles" title="Measles"
-            >measles</a
-          >
-          and
-          <a href="https://en.wikipedia.org/wiki/Smallpox" title="Smallpox"
-            >smallpox</a
-          >
-          in 1552 that suppressed his natural immunity to the disease.<sup
-            ><a
-              href="https://en.wikipedia.org/wiki/Edward_VI_of_England#cite_note-Sk260-184"
-              >[183]</a
-            ></sup
-          >
-          Loach suggests instead that his symptoms were typical of acute
-          <a
-            href="https://en.wikipedia.org/wiki/Bronchopneumonia"
-            title="Bronchopneumonia"
-            >bronchopneumonia</a
-          >, leading to a &quot;suppurating pulmonary infection&quot; or
-          <a
-            href="https://en.wikipedia.org/wiki/Lung_abscess"
-            title="Lung abscess"
-            >lung abscess</a
-          >,
-          <a href="https://en.wikipedia.org/wiki/Sepsis" title="Sepsis"
-            >septicaemia</a
-          >, and
-          <a
-            href="https://en.wikipedia.org/wiki/Renal_failure"
-            title="Renal failure"
-            >kidney failure</a
-          >
-        </p>
-        <h3>Queen Jane and Queen Mary</h3>
-        <p>
-          Lady Mary was last seen by Edward in February, and was kept informed
-          about the state of her half-brother&apos;s health by Northumberland
-          and through her contacts with the imperial ambassadors.<sup
-            ><a
-              href="https://en.wikipedia.org/wiki/Edward_VI_of_England#cite_note-186"
-              >[185]</a
-            ></sup
-          >
-          Aware of Edward&apos;s imminent death, she left
-          <a
-            href="https://en.wikipedia.org/wiki/Hunsdon_House"
-            title="Hunsdon House"
-            >Hunsdon House</a
-          >, near London, and sped to her estates around
-          <a
-            href="https://en.wikipedia.org/wiki/Kenninghall"
-            title="Kenninghall"
-            >Kenninghall</a
-          >
-          in Norfolk, where she could count on the support of her
-          <a href="https://en.wikipedia.org/wiki/Tenants" title="Tenants"
-            >tenants</a
-          >.<sup
-            ><a
-              href="https://en.wikipedia.org/wiki/Edward_VI_of_England#cite_note-187"
-              >[186]</a
-            ></sup
-          >
-          Northumberland sent ships to the Norfolk coast to prevent her escape
-          or the arrival of reinforcements from the continent. He delayed the
-          announcement of the king&apos;s death while he gathered his forces,
-          and Jane Grey was taken to the Tower on 10 July.<sup
-            ><a
-              href="https://en.wikipedia.org/wiki/Edward_VI_of_England#cite_note-188"
-              >[187]</a
-            ></sup
-          >
-          On the same day, she was proclaimed queen in the streets of London, to
-          murmurings of discontent. The Privy Council received a message from
-          Mary asserting her &quot;right and title&quot; to the throne and
-          commanding that the Council proclaim her queen, as she had already
-          proclaimed herself.<sup
-            ><a
-              href="https://en.wikipedia.org/wiki/Edward_VI_of_England#cite_note-189"
-              >[188]</a
-            ></sup
-          >
-          The Council replied that Jane was queen by Edward&apos;s authority and
-          that Mary, by contrast, was illegitimate and supported only by &quot;a
-          few lewd, base people&quot;.<sup
-            ><a
-              href="https://en.wikipedia.org/wiki/Edward_VI_of_England#cite_note-190"
-              >[189]</a
-            ></sup
-          >
-        </p>
-        <p>
-          Northumberland soon realised that he had miscalculated drastically,
-          not least in failing to secure Mary&apos;s person before Edward&apos;s
-          death.<sup
-            ><a
-              href="https://en.wikipedia.org/wiki/Edward_VI_of_England#cite_note-191"
-              >[190]</a
-            ></sup
-          >
-          Although many of those who rallied to Mary were conservatives hoping
-          for the defeat of Protestantism, her supporters also included many for
-          whom her lawful claim to the throne overrode religious
-          considerations.<sup
-            ><a
-              href="https://en.wikipedia.org/wiki/Edward_VI_of_England#cite_note-192"
-              >[191]</a
-            ></sup
-          >
-          Northumberland was obliged to relinquish control of a nervous Council
-          in London and launch an unplanned pursuit of Mary into
-          <a
-            href="https://en.wikipedia.org/wiki/East_Anglia"
-            title="East Anglia"
-            >East Anglia</a
-          >, from where news was arriving of her growing support, which included
-          a number of nobles and gentlemen and &quot;innumerable companies of
-          the common people&quot;.<sup
-            ><a
-              href="https://en.wikipedia.org/wiki/Edward_VI_of_England#cite_note-193"
-              >[192]</a
-            ></sup
-          >
-          On 14 July Northumberland marched out of London with three thousand
-          men, reaching
-          <a href="https://en.wikipedia.org/wiki/Cambridge" title="Cambridge"
-            >Cambridge</a
-          >
-          the next day; meanwhile, Mary rallied her forces at
-          <a
-            href="https://en.wikipedia.org/wiki/Framlingham_Castle"
-            title="Framlingham Castle"
-            >Framlingham Castle</a
-          >
-          in Suffolk, gathering an army of nearly twenty thousand by 19
-          July.<sup
-            ><a
-              href="https://en.wikipedia.org/wiki/Edward_VI_of_England#cite_note-194"
-              >[193]</a
-            ></sup
-          >
-        </p>
-        <p>
-          It now dawned on the Privy Council that it had made a terrible
-          mistake. Led by the
-          <a
-            href="https://en.wikipedia.org/wiki/Henry_Fitzalan,_19th_Earl_of_Arundel"
-            title="Henry Fitzalan, 19th Earl of Arundel"
-            >Earl of Arundel</a
-          >
-          and the Earl of Pembroke, on 19 July the Council publicly proclaimed
-          Mary as queen; Jane&apos;s nine-day reign came to an end. The
-          proclamation triggered wild rejoicing throughout London.<sup
-            ><a
-              href="https://en.wikipedia.org/wiki/Edward_VI_of_England#cite_note-195"
-              >[194]</a
-            ></sup
-          >
-          Stranded in Cambridge, Northumberland proclaimed Mary himself&mdash;as
-          he had been commanded to do by a letter from the Council.<sup
-            ><a
-              href="https://en.wikipedia.org/wiki/Edward_VI_of_England#cite_note-196"
-              >[195]</a
-            ></sup
-          >
-          <a
-            href="https://en.wikipedia.org/wiki/William_Paget,_1st_Baron_Paget"
-            title="William Paget, 1st Baron Paget"
-            >William Paget</a
-          >
-          and the
-          <a
-            href="https://en.wikipedia.org/wiki/Henry_FitzAlan,_19th_Earl_of_Arundel"
-            title="Henry FitzAlan, 19th Earl of Arundel"
-            >Earl of Arundel</a
-          >
-          rode to Framlingham to beg Mary&apos;s pardon, and Arundel arrested
-          Northumberland on 24 July. Northumberland was beheaded on 22 August,
-          shortly after renouncing Protestantism.<sup
-            ><a
-              href="https://en.wikipedia.org/wiki/Edward_VI_of_England#cite_note-197"
-              >[196]</a
-            ></sup
-          >
-          His recantation dismayed his daughter-in-law, Jane, who followed him
-          to the scaffold on 12 February 1554, after her father&apos;s
-          involvement in
-          <a
-            href="https://en.wikipedia.org/wiki/Wyatt%27s_rebellion"
-            title="Wyatt's rebellion"
-            >Wyatt&apos;s rebellion</a
-          >.<sup
-            ><a
-              href="https://en.wikipedia.org/wiki/Edward_VI_of_England#cite_note-198"
-            ></a
-          ></sup>
-        </p>
+          <div class="jane-grey">
+            <a
+              target="_blank"
+              href="https://en.wikipedia.org/wiki/File:Streathamladyjayne.jpg"
+              ><img
+                alt="A stiff Elizabethan-style three-quarter portrait of Lady Jane Grey wearing elaborate formal dress and holding a prayer book. She is a tall, pale, rather horsey-faced young woman."
+                src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Streathamladyjayne.jpg/220px-Streathamladyjayne.jpg"
+                class="thumbimage"
+                srcset="
+                  //upload.wikimedia.org/wikipedia/commons/thumb/8/87/Streathamladyjayne.jpg/330px-Streathamladyjayne.jpg 1.5x,
+                  //upload.wikimedia.org/wikipedia/commons/thumb/8/87/Streathamladyjayne.jpg/440px-Streathamladyjayne.jpg 2x
+                "
+            /></a>
+
+            <div>
+              <a
+                href="https://en.wikipedia.org/wiki/Lady_Jane_Grey"
+                target="_blank"
+                title="Lady Jane Grey"
+                >Lady Jane Grey</a
+              >, who was proclaimed queen four days after Edward&apos;s death.
+            </div>
+          </div>
+
+          <p>
+            In early June, Edward personally supervised the drafting of a clean
+            version of his devise by lawyers, to which he lent his signature
+            &quot;in six several places.&quot;<sup
+              ><a
+                href="https://en.wikipedia.org/wiki/Edward_VI_of_England#cite_note-157"
+                >[156]</a
+              ></sup
+            >
+            Then, on 15 June he summoned high ranking judges to his sickbed,
+            commanding them on their allegiance &quot;with sharp words and angry
+            countenance&quot; to prepare his devise as
+            <a
+              href="https://en.wikipedia.org/wiki/Letters_patent"
+              title="Letters patent"
+              >letters patent</a
+            >
+            and announced that he would have these passed in parliament.<sup
+              ><a
+                href="https://en.wikipedia.org/wiki/Edward_VI_of_England#cite_note-158"
+                >[157]</a
+              ></sup
+            >
+            His next measure was to have leading councillors and lawyers sign a
+            bond in his presence, in which they agreed faithfully to perform
+            Edward&apos;s will after his death.<sup
+              ><a
+                href="https://en.wikipedia.org/wiki/Edward_VI_of_England#cite_note-159"
+                >[158]</a
+              ></sup
+            >
+            A few months later,
+            <a
+              href="https://en.wikipedia.org/wiki/Chief_Justice_of_the_Common_Pleas"
+              title="Chief Justice of the Common Pleas"
+              >Chief Justice</a
+            >
+            <a
+              href="https://en.wikipedia.org/wiki/Edward_Montagu_(judge)"
+              title="Edward Montagu (judge)"
+              >Edward Montagu</a
+            >
+            recalled that when he and his colleagues had raised legal objections
+            to the devise, Northumberland had threatened them &quot;trembling
+            for anger, and ... further said that he would fight in his shirt
+            with any man in that quarrel&quot;.<sup
+              ><a
+                href="https://en.wikipedia.org/wiki/Edward_VI_of_England#cite_note-160"
+                >[159]</a
+              ></sup
+            >
+            Montagu also overheard a group of lords standing behind him conclude
+            &quot;if they refused to do that, they were traitors&quot;.<sup
+              ><a
+                href="https://en.wikipedia.org/wiki/Edward_VI_of_England#cite_note-161"
+                >[160]</a
+              ></sup
+            >
+            At last, on 21 June, the devise was signed by over a hundred
+            notables, including councillors, peers, archbishops, bishops, and
+            sheriffs;<sup
+              ><a
+                href="https://en.wikipedia.org/wiki/Edward_VI_of_England#cite_note-162"
+                >[161]</a
+              ></sup
+            >
+            many of them later claimed that they had been bullied into doing so
+            by Northumberland, although in the words of Edward&apos;s biographer
+            Jennifer Loach, &quot;few of them gave any clear indication of
+            reluctance at the time&quot;.<sup
+              ><a
+                href="https://en.wikipedia.org/wiki/Edward_VI_of_England#cite_note-163"
+                >[162]</a
+              ></sup
+            >
+          </p>
+          <p>
+            It was now common knowledge that Edward was dying, and foreign
+            diplomats suspected that some scheme to debar Mary was under way.
+            France found the prospect of the emperor&apos;s cousin on the
+            English throne disagreeable and engaged in secret talks with
+            Northumberland, indicating support.<sup
+              ><a
+                href="https://en.wikipedia.org/wiki/Edward_VI_of_England#cite_note-164"
+                >[163]</a
+              ></sup
+            >
+            The diplomats were certain that the overwhelming majority of the
+            English people backed Mary, but nevertheless believed that Queen
+            Jane would be successfully established.<sup
+              ><a
+                href="https://en.wikipedia.org/wiki/Edward_VI_of_England#cite_note-165"
+                >[164]</a
+              ></sup
+            >
+          </p>
+          <p>
+            For centuries, the attempt to alter the succession was mostly seen
+            as a one-man-plot by the Duke of Northumberland.<sup
+              ><a
+                href="https://en.wikipedia.org/wiki/Edward_VI_of_England#cite_note-166"
+                >[165]</a
+              ></sup
+            >
+            Since the 1970s, however, many historians have attributed the
+            inception of the &quot;devise&quot; and the insistence on its
+            implementation to the king&apos;s initiative.<sup
+              ><a
+                href="https://en.wikipedia.org/wiki/Edward_VI_of_England#cite_note-167"
+                >[166]</a
+              ></sup
+            >
+            <a
+              href="https://en.wikipedia.org/wiki/Diarmaid_MacCulloch"
+              title="Diarmaid MacCulloch"
+              >Diarmaid MacCulloch</a
+            >
+            has made out Edward&apos;s &quot;teenage dreams of founding an
+            evangelical realm of Christ&quot;,<sup
+              ><a
+                href="https://en.wikipedia.org/wiki/Edward_VI_of_England#cite_note-168"
+                >[167]</a
+              ></sup
+            >
+            while
+            <a
+              href="https://en.wikipedia.org/wiki/David_Starkey"
+              title="David Starkey"
+              >David Starkey</a
+            >
+            has stated that &quot;Edward had a couple of co-operators, but the
+            driving will was his&quot;.<sup
+              ><a
+                href="https://en.wikipedia.org/wiki/Edward_VI_of_England#cite_note-169"
+                >[168]</a
+              ></sup
+            >
+            Among other members of the Privy Chamber, Northumberland&apos;s
+            intimate
+            <a
+              href="https://en.wikipedia.org/wiki/John_Gates_(courtier)"
+              title="John Gates (courtier)"
+              >Sir John Gates</a
+            >
+            has been suspected of suggesting to Edward to change his devise so
+            that Lady Jane Grey herself&mdash;not just any sons of
+            hers&mdash;could inherit the Crown.<sup
+              ><a
+                href="https://en.wikipedia.org/wiki/Edward_VI_of_England#cite_note-170"
+                >[169]</a
+              ></sup
+            >
+            Whatever the degree of his contribution, Edward was convinced that
+            his word was law<sup
+              ><a
+                href="https://en.wikipedia.org/wiki/Edward_VI_of_England#cite_note-171"
+                >[170]</a
+              ></sup
+            >
+            and fully endorsed disinheriting his half-sisters: &quot;barring
+            Mary from the succession was a cause in which the young King
+            believed
+          </p>
+        </section>
+
+        <section id="illness">
+          <h3>Illness and death</h3>
+          <p>
+            Edward became ill during January 1553 with a fever and cough that
+            gradually worsened. The
+            <a
+              href="https://en.wikipedia.org/wiki/List_of_ambassadors_of_the_Kingdom_of_England_to_the_Holy_Roman_Emperor"
+              title="List of ambassadors of the Kingdom of England to the Holy Roman Emperor"
+              >imperial ambassador</a
+            >,
+            <a
+              href="https://en.wikipedia.org/wiki/Jean_Scheyfve"
+              title="Jean Scheyfve"
+              >Jean Scheyfve</a
+            >, reported that &quot;he suffers a good deal when the fever is upon
+            him, especially from a difficulty in drawing his breath, which is
+            due to the compression of the organs on the right side&quot;.<sup
+              ><a
+                href="https://en.wikipedia.org/wiki/Edward_VI_of_England#cite_note-173"
+                >[172]</a
+              ></sup
+            >
+            Edward felt well enough in early April to take the air in the park
+            at Westminster and to move to Greenwich, but by the end of the month
+            he had weakened again. By 7 May he was &quot;much amended&quot;, and
+            the royal doctors had no doubt of his recovery. A few days later the
+            king was watching the ships on the Thames, sitting at his
+            window.<sup
+              ><a
+                href="https://en.wikipedia.org/wiki/Edward_VI_of_England#cite_note-174"
+                >[173]</a
+              ></sup
+            >
+            However, he relapsed, and on 11 June Scheyfve, who had an informant
+            in the king&apos;s household, reported that &quot;the matter he
+            ejects from his mouth is sometimes coloured a greenish yellow and
+            black, sometimes pink, like the colour of blood&quot;.<sup
+              ><a
+                href="https://en.wikipedia.org/wiki/Edward_VI_of_England#cite_note-175"
+                >[174]</a
+              ></sup
+            >
+            Now his doctors believed he was suffering from &quot;a suppurating
+            tumour&quot; of the lung and admitted that Edward&apos;s life was
+            beyond recovery.<sup
+              ><a
+                href="https://en.wikipedia.org/wiki/Edward_VI_of_England#cite_note-176"
+                >[175]</a
+              ></sup
+            >
+            Soon, his legs became so swollen that he had to lie on his back, and
+            he lost the strength to resist the disease. To his tutor
+            <a
+              href="https://en.wikipedia.org/wiki/John_Cheke"
+              title="John Cheke"
+              >John Cheke</a
+            >
+            he whispered, &quot;I am glad to die&quot;.<sup
+              ><a
+                href="https://en.wikipedia.org/wiki/Edward_VI_of_England#cite_note-177"
+                >[176]</a
+              ></sup
+            >
+          </p>
+          <p>
+            Edward made his final appearance in public on 1 July, when he showed
+            himself at his window in Greenwich Palace, horrifying those who saw
+            him by his &quot;thin and wasted&quot; condition. During the next
+            two days, large crowds arrived hoping to see the king again, but on
+            3 July, they were told that the weather was too chilly for him to
+            appear. Edward died at the age of 15 at
+            <a
+              href="https://en.wikipedia.org/wiki/Greenwich_Palace"
+              title="Greenwich Palace"
+              >Greenwich Palace</a
+            >
+            at 8 pm on 6 July 1553. According to
+            <a href="https://en.wikipedia.org/wiki/John_Foxe" title="John Foxe"
+              >John Foxe</a
+            >&apos;s legendary account of his death, his last words were:
+            &quot;I am faint; Lord have mercy upon me, and take my
+            spirit&quot;.<sup
+              ><a
+                href="https://en.wikipedia.org/wiki/Edward_VI_of_England#cite_note-178"
+                >[177]</a
+              ></sup
+            >
+            He was buried in the
+            <a
+              href="https://en.wikipedia.org/wiki/Henry_VII_Lady_Chapel"
+              title="Henry VII Lady Chapel"
+              >Henry VII Lady Chapel</a
+            >
+            at
+            <a
+              href="https://en.wikipedia.org/wiki/Westminster_Abbey"
+              title="Westminster Abbey"
+              >Westminster Abbey</a
+            >
+            on 8 August 1553, with reformed rites performed by
+            <a
+              href="https://en.wikipedia.org/wiki/Thomas_Cranmer"
+              title="Thomas Cranmer"
+              >Thomas Cranmer</a
+            >. The procession was led by &quot;a grett company of chylderyn in
+            ther surples&quot; and watched by Londoners &quot;wepyng and
+            lamenting&quot;; the funeral chariot, draped in cloth of gold, was
+            topped by an effigy of Edward, with crown, sceptre, and garter.<sup
+              ><a
+                href="https://en.wikipedia.org/wiki/Edward_VI_of_England#cite_note-179"
+                >[178]</a
+              ></sup
+            >
+            Edward&apos;s burial place was unmarked until as late as 1966, when
+            an inscribed stone was laid in the chapel floor by
+            <a
+              href="https://en.wikipedia.org/wiki/Christ%27s_Hospital"
+              title="Christ's Hospital"
+              >Christ&apos;s Hospital</a
+            >
+            school to commemorate their founder. The inscription reads as
+            follows: &quot;In Memory Of King Edward VI Buried In This Chapel
+            This Stone Was Placed Here By Christ&apos;s Hospital In Thanksgiving
+            For Their Founder 7 October 1966&quot;.<sup
+              ><a
+                href="https://en.wikipedia.org/wiki/Edward_VI_of_England#cite_note-180"
+                >[179]</a
+              ></sup
+            >
+          </p>
+          <p>
+            The cause of Edward VI&apos;s death is not certain. As with many
+            royal deaths in the 16th century, rumours of poisoning abounded, but
+            no evidence has been found to support these.<sup
+              ><a
+                href="https://en.wikipedia.org/wiki/Edward_VI_of_England#cite_note-181"
+                >[180]</a
+              ></sup
+            >
+            The Duke of Northumberland, whose unpopularity was underlined by the
+            events that followed Edward&apos;s death, was widely believed to
+            have ordered the imagined poisoning.<sup
+              ><a
+                href="https://en.wikipedia.org/wiki/Edward_VI_of_England#cite_note-182"
+                >[181]</a
+              ></sup
+            >
+            Another theory held that Edward had been poisoned by Catholics
+            seeking to bring Mary to the throne.<sup
+              ><a
+                href="https://en.wikipedia.org/wiki/Edward_VI_of_England#cite_note-183"
+                >[182]</a
+              ></sup
+            >
+            The surgeon who opened Edward&apos;s chest after his death found
+            that &quot;the disease whereof his majesty died was the disease of
+            the lungs&quot;.<sup
+              ><a
+                href="https://en.wikipedia.org/wiki/Edward_VI_of_England#cite_note-Sk260-184"
+                >[183]</a
+              ></sup
+            >
+            The Venetian ambassador reported that Edward had died of
+            consumption&mdash;in other words,
+            <a
+              href="https://en.wikipedia.org/wiki/Tuberculosis"
+              title="Tuberculosis"
+              >tuberculosis</a
+            >&mdash;a diagnosis accepted by many historians.<sup
+              ><a
+                href="https://en.wikipedia.org/wiki/Edward_VI_of_England#cite_note-185"
+                >[184]</a
+              ></sup
+            >
+            Skidmore believes that Edward contracted tuberculosis after a bout
+            of
+            <a href="https://en.wikipedia.org/wiki/Measles" title="Measles"
+              >measles</a
+            >
+            and
+            <a href="https://en.wikipedia.org/wiki/Smallpox" title="Smallpox"
+              >smallpox</a
+            >
+            in 1552 that suppressed his natural immunity to the disease.<sup
+              ><a
+                href="https://en.wikipedia.org/wiki/Edward_VI_of_England#cite_note-Sk260-184"
+                >[183]</a
+              ></sup
+            >
+            Loach suggests instead that his symptoms were typical of acute
+            <a
+              href="https://en.wikipedia.org/wiki/Bronchopneumonia"
+              title="Bronchopneumonia"
+              >bronchopneumonia</a
+            >, leading to a &quot;suppurating pulmonary infection&quot; or
+            <a
+              href="https://en.wikipedia.org/wiki/Lung_abscess"
+              title="Lung abscess"
+              >lung abscess</a
+            >,
+            <a href="https://en.wikipedia.org/wiki/Sepsis" title="Sepsis"
+              >septicaemia</a
+            >, and
+            <a
+              href="https://en.wikipedia.org/wiki/Renal_failure"
+              title="Renal failure"
+              >kidney failure</a
+            >
+          </p>
+        </section>
+
+        <section id="ladyjane">
+          <h3>Queen Jane and Queen Mary</h3>
+          <p>
+            Lady Mary was last seen by Edward in February, and was kept informed
+            about the state of her half-brother&apos;s health by Northumberland
+            and through her contacts with the imperial ambassadors.<sup
+              ><a
+                href="https://en.wikipedia.org/wiki/Edward_VI_of_England#cite_note-186"
+                >[185]</a
+              ></sup
+            >
+            Aware of Edward&apos;s imminent death, she left
+            <a
+              href="https://en.wikipedia.org/wiki/Hunsdon_House"
+              title="Hunsdon House"
+              >Hunsdon House</a
+            >, near London, and sped to her estates around
+            <a
+              href="https://en.wikipedia.org/wiki/Kenninghall"
+              title="Kenninghall"
+              >Kenninghall</a
+            >
+            in Norfolk, where she could count on the support of her
+            <a href="https://en.wikipedia.org/wiki/Tenants" title="Tenants"
+              >tenants</a
+            >.<sup
+              ><a
+                href="https://en.wikipedia.org/wiki/Edward_VI_of_England#cite_note-187"
+                >[186]</a
+              ></sup
+            >
+            Northumberland sent ships to the Norfolk coast to prevent her escape
+            or the arrival of reinforcements from the continent. He delayed the
+            announcement of the king&apos;s death while he gathered his forces,
+            and Jane Grey was taken to the Tower on 10 July.<sup
+              ><a
+                href="https://en.wikipedia.org/wiki/Edward_VI_of_England#cite_note-188"
+                >[187]</a
+              ></sup
+            >
+            On the same day, she was proclaimed queen in the streets of London,
+            to murmurings of discontent. The Privy Council received a message
+            from Mary asserting her &quot;right and title&quot; to the throne
+            and commanding that the Council proclaim her queen, as she had
+            already proclaimed herself.<sup
+              ><a
+                href="https://en.wikipedia.org/wiki/Edward_VI_of_England#cite_note-189"
+                >[188]</a
+              ></sup
+            >
+            The Council replied that Jane was queen by Edward&apos;s authority
+            and that Mary, by contrast, was illegitimate and supported only by
+            &quot;a few lewd, base people&quot;.<sup
+              ><a
+                href="https://en.wikipedia.org/wiki/Edward_VI_of_England#cite_note-190"
+                >[189]</a
+              ></sup
+            >
+          </p>
+          <p>
+            Northumberland soon realised that he had miscalculated drastically,
+            not least in failing to secure Mary&apos;s person before
+            Edward&apos;s death.<sup
+              ><a
+                href="https://en.wikipedia.org/wiki/Edward_VI_of_England#cite_note-191"
+                >[190]</a
+              ></sup
+            >
+            Although many of those who rallied to Mary were conservatives hoping
+            for the defeat of Protestantism, her supporters also included many
+            for whom her lawful claim to the throne overrode religious
+            considerations.<sup
+              ><a
+                href="https://en.wikipedia.org/wiki/Edward_VI_of_England#cite_note-192"
+                >[191]</a
+              ></sup
+            >
+            Northumberland was obliged to relinquish control of a nervous
+            Council in London and launch an unplanned pursuit of Mary into
+            <a
+              href="https://en.wikipedia.org/wiki/East_Anglia"
+              title="East Anglia"
+              >East Anglia</a
+            >, from where news was arriving of her growing support, which
+            included a number of nobles and gentlemen and &quot;innumerable
+            companies of the common people&quot;.<sup
+              ><a
+                href="https://en.wikipedia.org/wiki/Edward_VI_of_England#cite_note-193"
+                >[192]</a
+              ></sup
+            >
+            On 14 July Northumberland marched out of London with three thousand
+            men, reaching
+            <a href="https://en.wikipedia.org/wiki/Cambridge" title="Cambridge"
+              >Cambridge</a
+            >
+            the next day; meanwhile, Mary rallied her forces at
+            <a
+              href="https://en.wikipedia.org/wiki/Framlingham_Castle"
+              title="Framlingham Castle"
+              >Framlingham Castle</a
+            >
+            in Suffolk, gathering an army of nearly twenty thousand by 19
+            July.<sup
+              ><a
+                href="https://en.wikipedia.org/wiki/Edward_VI_of_England#cite_note-194"
+                >[193]</a
+              ></sup
+            >
+          </p>
+          <p>
+            It now dawned on the Privy Council that it had made a terrible
+            mistake. Led by the
+            <a
+              href="https://en.wikipedia.org/wiki/Henry_Fitzalan,_19th_Earl_of_Arundel"
+              title="Henry Fitzalan, 19th Earl of Arundel"
+              >Earl of Arundel</a
+            >
+            and the Earl of Pembroke, on 19 July the Council publicly proclaimed
+            Mary as queen; Jane&apos;s nine-day reign came to an end. The
+            proclamation triggered wild rejoicing throughout London.<sup
+              ><a
+                href="https://en.wikipedia.org/wiki/Edward_VI_of_England#cite_note-195"
+                >[194]</a
+              ></sup
+            >
+            Stranded in Cambridge, Northumberland proclaimed Mary
+            himself&mdash;as he had been commanded to do by a letter from the
+            Council.<sup
+              ><a
+                href="https://en.wikipedia.org/wiki/Edward_VI_of_England#cite_note-196"
+                >[195]</a
+              ></sup
+            >
+            <a
+              href="https://en.wikipedia.org/wiki/William_Paget,_1st_Baron_Paget"
+              title="William Paget, 1st Baron Paget"
+              >William Paget</a
+            >
+            and the
+            <a
+              href="https://en.wikipedia.org/wiki/Henry_FitzAlan,_19th_Earl_of_Arundel"
+              title="Henry FitzAlan, 19th Earl of Arundel"
+              >Earl of Arundel</a
+            >
+            rode to Framlingham to beg Mary&apos;s pardon, and Arundel arrested
+            Northumberland on 24 July. Northumberland was beheaded on 22 August,
+            shortly after renouncing Protestantism.<sup
+              ><a
+                href="https://en.wikipedia.org/wiki/Edward_VI_of_England#cite_note-197"
+                >[196]</a
+              ></sup
+            >
+            His recantation dismayed his daughter-in-law, Jane, who followed him
+            to the scaffold on 12 February 1554, after her father&apos;s
+            involvement in
+            <a
+              href="https://en.wikipedia.org/wiki/Wyatt%27s_rebellion"
+              title="Wyatt's rebellion"
+              >Wyatt&apos;s rebellion</a
+            >.<sup
+              ><a
+                href="https://en.wikipedia.org/wiki/Edward_VI_of_England#cite_note-198"
+              ></a
+            ></sup>
+          </p>
+        </section>
       </section>
 
       <section id="legacy">
