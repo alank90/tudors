@@ -107,21 +107,6 @@ article a {
   color: #222;
   text-decoration-color: var(--highlight);
 }
-
-/* === Adjustments === */
-
-/* Scroll all the way up even if the first section starts a couple hundred pixels down the page */
-section:first-of-type {
-  margin-top: -300px;
-  padding-top: 350px;
-}
-
-article,
-section:last-of-type,
-section:last-of-type p:last-of-type {
-  margin-bottom: 0;
-  padding-bottom: 0;
-}
 </style>
 
 <template>

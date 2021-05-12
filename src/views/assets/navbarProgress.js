@@ -48,6 +48,8 @@ const navbarProgress = querySelector => {
     });
   } // end function drawPath()
 
+  // syncPath() will recompute stroke-dasharray values on new element
+  // intersect trigger
   function syncPath() {
     const someElsAreVisible = () =>
         nav.querySelectorAll(`.${visibleClass}`).length > 0,
@@ -82,6 +84,8 @@ const navbarProgress = querySelector => {
     lastPathEnd = pathEnd;
   } // end the syncpath() Function
 
+  // markVisibleSection() toggles .visible class on
+  // observed <li> elements
   function markVisibleSection(observedEls) {
     observedEls.forEach(observedEl => {
       const id = observedEl.target.getAttribute("id"),
