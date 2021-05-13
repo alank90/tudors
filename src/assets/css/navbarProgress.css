@@ -36,9 +36,14 @@ nav a {
   transition: all 300ms ease-in-out;
 }
 
+nav li:not(.visible) > a {
+  color: rgba(34, 34, 34, 0.6);
+  transform: translateX(5px);
+}
+
 nav li.visible > a {
-  color: #222;
-  transform: translate(15px);
+  color: rgb(34, 34, 34);
+  transform: translateX(15px);
 }
 
 nav svg {
@@ -60,10 +65,14 @@ nav path {
   stroke-linejoin: round;
 }
 
+article > section {
+  margin: 15px 
+}
+
 /* === Adjustments === */
 
 /* Scroll all the way up even if the first section starts a couple hundred pixels down the page */
-section:first-of-type {
+section:first-child {
   margin-top: -300px;
   padding-top: 350px;
 }

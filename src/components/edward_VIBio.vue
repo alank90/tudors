@@ -1,9 +1,12 @@
 <script>
 import navbarProgress from "../views/assets/navbarProgress.js";
+import navBarScroll from "../views/assets/navBarScroll.js";
+
 export default {
   mounted() {
     const querySelector = "nav.edward-bio";
     navbarProgress(querySelector);
+    navBarScroll();
   }
 };
 </script>
@@ -100,12 +103,10 @@ article {
   padding-top: 50px;
 }
 
-a {
-  color: var(--color-text);
-}
 article a {
   color: #222;
-  text-decoration-color: var(--highlight);
+  text-decoration-color: #376119;
+  text-decoration-thickness: 2px;
 }
 </style>
 
