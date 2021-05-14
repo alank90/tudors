@@ -114,39 +114,53 @@ article a {
   <div class="component-container">
     <nav class="edward-bio">
       <ul>
-        <li><a href="#intro">Intro</a></li>
-        <li>
+        <li data-name="intro"><a href="#intro">Intro</a></li>
+        <li data-name="earlylife">
           <a href="#earlylife">Early Life</a>
           <ul>
-            <li><a href="#birth">Birth</a></li>
-            <li><a href="#upbringing">Upbringing and education</a></li>
-            <li><a href="#wooing">The Rough Wooing</a></li>
+            <li data-name="birth"><a href="#birth">Birth</a></li>
+            <li data-name="upbringing">
+              <a href="#upbringing">Upbringing and education</a>
+            </li>
+            <li data-name="wooing"><a href="#wooing">The Rough Wooing</a></li>
           </ul>
         </li>
-        <li>
+        <li data-name="accession">
           <a href="#accession">Accession To The Throne</a>
         </li>
-        <li>
+        <li data-name="somerset">
           <a href="#somerset">Somerset Protectorate</a>
           <ul>
-            <li><a href="#council">Council of Regency</a></li>
-            <li><a href="#seymour">Thomas Seymour</a></li>
-            <li><a href="#war">War</a></li>
-            <li><a href="#rebellion">Rebellion</a></li>
-            <li><a href="#fallofsomerset">Fall of Somerset</a></li>
+            <li data-name="council">
+              <a href="#council">Council of Regency</a>
+            </li>
+            <li data-name="seymour"><a href="#seymour">Thomas Seymour</a></li>
+            <li data-name="war"><a href="#war">War</a></li>
+            <li data-name="rebellion"><a href="#rebellion">Rebellion</a></li>
+            <li data-name="fallofsomerset">
+              <a href="#fallofsomerset">Fall of Somerset</a>
+            </li>
           </ul>
         </li>
-        <li><a href="#northumberland">Northumberland's leadership</a></li>
-        <li><a href="#reformation">Reformation</a></li>
-        <li>
+        <li data-name="northumberland">
+          <a href="#northumberland">Northumberland's leadership</a>
+        </li>
+        <li data-name="reformation"><a href="#reformation">Reformation</a></li>
+        <li data-name="succession">
           <a href="#succession">Succession crisis</a>
           <ul>
-            <li><a href="devise">Devise for the succession</a></li>
-            <li><a href="illness">Illness and death</a></li>
-            <li><a href="ladyjane">Lady Jane and Queen Mary</a></li>
+            <li data-name="devise">
+              <a href="#devise">Devise for the succession</a>
+            </li>
+            <li data-name="illness">
+              <a href="#illness">Illness and death</a>
+            </li>
+            <li data-name="ladyjane">
+              <a href="#ladyjane">Lady Jane and Queen Mary</a>
+            </li>
           </ul>
         </li>
-        <li><a href="#legacy">Protestant legacy</a></li>
+        <li data-name="legacy"><a href="#legacy">Protestant legacy</a></li>
       </ul>
       <svg xmlns="http://www.w3.org/2000/svg">
         <path />
