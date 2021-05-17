@@ -5,31 +5,38 @@ const navBarScroll = () => {
   //
   function scrollNavBar(observedEls) {
     const navBar = document.querySelector(".edward-bio");
-    const pathEl = document.querySelector("path");
+    const scrollPageHeight = window.innerHeight + window.scrollY; //Page height w/scrolling
+    console.log("scrollPage Height", scrollPageHeight);
+    const viewportHeight = window.innerHeight;
 
     observedEls.forEach(observedEl => {
       if (observedEl.isIntersecting) {
-        // Filter out the nav observed elements //
-        // Observed element gets selected when a <section> comes into view //
-        if (observedEl.target.nodeName === "SECTION") {
-          const idStr = observedEl.target.id;
-          const navStr = document.querySelector(`[data-name=${idStr}]`);
-          console.log("NavStr is ", navStr);
+        console.log("New Element to observe: ");
+        // idStr is the <section> that has come into view //
+        const idStr = observedEl.target.id;
+        // navStr is the corresponding nav entry
+        const navStr = document.querySelector(`[data-name=${idStr}]`);
+        console.log("NavStr is ", navStr);
+        const navStrPosition = navStr.getBoundingClientRect();
+        console.log("Navbar Element Position: ", navStrPosition);
+        console.log("viewport height: ", viewportHeight);
+        console.log(
+          "The <article> section element in view is: ",
+          observedEl.target
+        );
+        const navStrTop = navStrPosition.top;
+        console.log(
+          "The top of the currently observed nav entry is: ",
+          navStrTop
+        );
 
-          const navElementTop = navStr.getBoundingClientRect();
-          const pageHeight = window.innerHeight;
-          console.log("Element Position: ", navElementTop);
-          console.log("Page height: ", pageHeight);
-          console.log("The observed id is: ", idStr);
-          console.log("Element in view is: ", observedEl.target);
-
-          // If navElementTop.top > pageHeight the navElement isnt visible //
-          // We then translateY the navBar up
-          /* if (navElementTop.top > pageHeight) {
-            navBar.style.transform = "translateY(-200px)";
-            console.log("Adjusting navBar.");
-            pathEl.style.transform = "translateY(-200px)";
-          } */
+        // Check if the newly entered <article> section's corresponding navbar entry
+        // is out of viewport's range
+        if (navStrTop > viewportHeight) {
+          const shiftAmt = `${navStrTop + 125}px`;
+          // Move the navBar up via the translateY() transform
+          navBar.style.transform = `translateY(-${shiftAmt})`;
+          console.log("shiftAmt is : ", shiftAmt);
         }
       }
     });
