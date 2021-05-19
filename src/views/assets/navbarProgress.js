@@ -114,6 +114,9 @@ const navbarProgress = querySelector => {
   // ============ Setup Observer's on all appropriate section[id]'s ======= //
   const observer = new IntersectionObserver(markVisibleSection);
   elementsToObserve.forEach(thisEl => observer.observe(thisEl));
+
+  // add Transition property to the navbar
+  nav.style.transition = "all .5s";
 };
 
 export default navbarProgress;

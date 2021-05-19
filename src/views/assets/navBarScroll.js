@@ -5,8 +5,8 @@ const navBarScroll = () => {
   //
   function scrollNavBar(observedEls) {
     const navBar = document.querySelector(".edward-bio");
-    const scrollPageHeight = window.innerHeight + window.scrollY; //Page height w/scrolling
-    console.log("scrollPage Height", scrollPageHeight);
+    /* const scrollPageHeight = window.innerHeight + window.scrollY; //Page height w/scrolling
+    console.log("scrollPage Height", scrollPageHeight); */
     const viewportHeight = window.innerHeight;
 
     observedEls.forEach(observedEl => {
@@ -18,7 +18,7 @@ const navBarScroll = () => {
         const navStr = document.querySelector(`[data-name=${idStr}]`);
         console.log("NavStr is ", navStr);
         const navStrPosition = navStr.getBoundingClientRect();
-        console.log("Navbar Element Position: ", navStrPosition);
+        console.log("Navbar Element Top Position: ", navStrPosition);
         console.log("viewport height: ", viewportHeight);
         console.log(
           "The <article> section element in view is: ",
