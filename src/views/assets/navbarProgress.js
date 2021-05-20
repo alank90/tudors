@@ -115,7 +115,7 @@ const navbarProgress = querySelector => {
   const observer = new IntersectionObserver(markVisibleSection);
   elementsToObserve.forEach(thisEl => observer.observe(thisEl));
 
-  // add Transition property to the navbar
+  // Add transition property to the navbar when translateY() used
   nav.style.transition = "all .5s";
 };
 
