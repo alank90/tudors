@@ -4,7 +4,6 @@ const navBarScroll = () => {
   const navBar = document.querySelector(".edward-bio");
   const navBarTop = navBar.getBoundingClientRect().top;
 
-  //
   function scrollNavBar(observedEls) {
     console.log("navBarTop position is : ", navBarTop);
     const viewportHeight = window.innerHeight;
@@ -21,6 +20,7 @@ const navBarScroll = () => {
         const sectionElPosition = observedEl.target.getBoundingClientRect();
 
         const navElTop = navElPosition.top;
+        let totalShiftAmount = 0;
         let shiftAmt = navElTop;
 
         const sectionElTop = sectionElPosition.top;
@@ -40,10 +40,14 @@ const navBarScroll = () => {
         // entered the viewport from the top
         if (sectionElTop < sectionElBottom && sectionElTop > 0) {
           console.log("Scrolling Down!!!");
-          shiftAmt = `${navElTop + 15}px`;
-          // Move the navBar up via the translateY() transform
-          navBar.style.transform = `translateY(-${shiftAmt})`;
-          console.log("nav element is up shiftAmt : ", shiftAmt);
+          if (navElTop > viewportHeight) {
+            totalShiftAmount += 15;
+            console.log("The total shift amount is: ", totalShiftAmount);
+            shiftAmt = `${navElTop + 15}px`;
+            // Move the navBar up via the translateY() transform
+            // navBar.style.transform = `translateY(-${shiftAmt})`;
+            console.log("nav element is up shiftAmt : ", shiftAmt);
+          }
         } else if (
           sectionElPosition.top < 0 &&
           navStr.dataset.name !== "intro"
