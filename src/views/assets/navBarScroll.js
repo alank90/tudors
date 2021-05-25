@@ -3,6 +3,7 @@ const navBarScroll = () => {
   const elementsToObserve = document.querySelectorAll("section[id]");
   const navBar = document.querySelector(".edward-bio");
   const navBarTop = navBar.getBoundingClientRect().top;
+  let totalShiftAmount = 0;
 
   function scrollNavBar(observedEls) {
     console.log("navBarTop position is : ", navBarTop);
@@ -16,11 +17,12 @@ const navBarScroll = () => {
         // navStr is the corresponding nav entry
         const navStr = document.querySelector(`[data-name=${idStr}]`);
         console.log("NavStr is ", navStr);
-        const navElPosition = navStr.getBoundingClientRect();
+        const navElDimensions = navStr.getBoundingClientRect();
+        console.log("navElDimensions are: ", navElDimensions);
         const sectionElPosition = observedEl.target.getBoundingClientRect();
 
-        const navElTop = navElPosition.top;
-        let totalShiftAmount = 0;
+        const navElTop = navElDimensions.top;
+
         let shiftAmt = navElTop;
 
         const sectionElTop = sectionElPosition.top;
@@ -41,12 +43,10 @@ const navBarScroll = () => {
         if (sectionElTop < sectionElBottom && sectionElTop > 0) {
           console.log("Scrolling Down!!!");
           if (navElTop > viewportHeight) {
-            totalShiftAmount += 15;
-            console.log("The total shift amount is: ", totalShiftAmount);
-            shiftAmt = `${navElTop + 15}px`;
+            totalShiftAmount += -navElDimensions.height - 100;
             // Move the navBar up via the translateY() transform
-            // navBar.style.transform = `translateY(-${shiftAmt})`;
-            console.log("nav element is up shiftAmt : ", shiftAmt);
+            navBar.style.transform = `translateY(${totalShiftAmount}px)`;
+            console.log("nav element is up totalShiftAmt : ", totalShiftAmount);
           }
         } else if (
           sectionElPosition.top < 0 &&
