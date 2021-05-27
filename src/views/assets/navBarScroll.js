@@ -55,15 +55,31 @@ const navBarScroll = () => {
           // Check if observedEl.target corresponding navbar entry is
           // visible. If not let's TranslateY() the navbar down
           console.log(
-            `Lets check if current navElement ${navElTop} is in view ${viewportHeight}`
+            `Lets check if current navElement ${navElTop} is in viewport (less then 50px)`
           );
-          // Move the navBar down via the translateY() transform
-          // totalShiftAmount += navElDimensions.height + 100;
-          console.log(
-            `Nav entry ${observedEl.target.id} is not in view. Let's shift navbar up ${totalShiftAmount}`
+          if (navElTop < 50) {
+            // Move the navBar down via the translateY() transform
+            totalShiftAmount += navElDimensions.height + 100;
+            navBar.style.transform = `translateY(${totalShiftAmount}px)`;
+            console.log(
+              `Nav entry ${observedEl.target.id} is not in view. Let's shift navbar up ${totalShiftAmount}`
+            );
+          }
+        } else {
+          // get the first nav el and reset the navbar to original
+          // position if it is and totalShiftAmt is not zero(there has been scrolling)
+          const firstNavEl = document.querySelector(
+            ".component-container ul > li:first-child"
           );
-          /* navBar.style.transform = `translateY(${totalShiftAmount})`; */
+
+          if (firstNavEl.dataset.name === "intro" && totalShiftAmount !== 0) {
+            console.log(`Back at top, totalShiftAmt is ${totalShiftAmount}`);
+            // Return navbar to starting position and zero out totalShiftAmt
+            totalShiftAmount = 0;
+            navBar.style.transform = `translateY(${totalShiftAmount}px)`;
+          }
         }
+        console.log(`The totalShiftAmt is now: ${totalShiftAmount}`);
       }
     });
   }
