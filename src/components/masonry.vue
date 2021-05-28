@@ -80,7 +80,9 @@
         @mouseleave="toggleMasonryTitle"
         class="masonry-content"
       >
-        <img src="../assets/img/mary_i.png" alt="Picture of Mary I" />
+        <router-link to="/Mary_I">
+          <img src="../assets/img/mary_i.png" alt="Picture of Mary I" />
+        </router-link>
         <h3 class="masonry-title">Mary I</h3>
         <p class="masonry-description">
           Mary I (18 February 1516 – 17 November 1558), also known as Mary
