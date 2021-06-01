@@ -7,7 +7,7 @@
 </template>
 
 <script>
-import maryBio from "../components/mary_IBio.vue";
+import maryBio from "../components/mary_IBio";
 
 export default {
   components: {

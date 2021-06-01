@@ -1,3 +1,13 @@
+<script>
+import navbarProgress from "../views/assets/navbarProgress.js";
+
+export default {
+  mounted() {
+    const querySelector = "nav.mary-bio";
+    navbarProgress(querySelector);
+  }
+};
+</script>
 <style scoped>
 @import url("https://fonts.googleapis.com/css2?family=PT+Mono&family=PT+Sans:wght@400;700&display=swap");
 @import ".././assets/css/navbarProgress.css";
@@ -59,6 +69,13 @@ img {
   border-radius: 7px;
 }
 
+.mary-image {
+  max-width: 450px;
+  float: right;
+  margin-top: 20px;
+  border-radius: 5px;
+}
+
 /* === Grid and base layout === */
 .component-container {
   display: grid;
@@ -91,11 +108,34 @@ article a {
   <div class="component-container">
     <nav class="mary-bio">
       <ul>
-        <li><a href="#intro">Intro</a></li>
-        <li><a href="#intro">Intro</a></li>
-        <li><a href="#intro">Intro</a></li>
-        <li><a href="#intro">Intro</a></li>
-        <li><a href="#intro">Intro</a></li>
+        <li data-name="intro"><a href="#intro">Intro</a></li>
+        <li data-name="birth"><a href="#birth">Birth and family</a></li>
+        <li data-name="childhood"><a href="#childhood">Childhood</a></li>
+        <li data-name="adolescence"><a href="#adolescence">Adolesence</a></li>
+        <li data-name="adulthood"><a href="#adulthood">Adulthood</a></li>
+        <li data-name="accession"><a href="#accession">Accesion</a></li>
+        <li data-name="reign">
+          <a href="#reign">Reign</a>
+          <ul>
+            <li data-name="marriage">
+              <a href="#marriage">Spanish Marriage</a>
+            </li>
+            <li data-name="pregnancy">
+              <a href="#pregnancy">False Pregnancy</a>
+            </li>
+            <li data-name="religious-policy">
+              <a href="#religious-policy">Religious Policy</a>
+            </li>
+            <li data-name="foreign-policy">
+              <a href="#foreign-policy">Foreign policy</a>
+            </li>
+            <li data-name="commerce">
+              <a href="#commerce">Commerce and revenue</a>
+            </li>
+          </ul>
+        </li>
+        <li data-name="death"><a href="#death">Death</a></li>
+        <li data-name="legacy"><a href="#legacy">Legacy</a></li>
       </ul>
       <svg xmlns="http://www.w3.org/2000/svg">
         <path />
@@ -106,6 +146,11 @@ article a {
       <section id="intro">
         <h2>Intro</h2>
         <hr />
+        <img
+          class="mary-image"
+          src="../assets/img/maryTheFirst.jpg"
+          alt="Mary the I"
+        />
         <p>
           <strong>Mary I</strong> (18 February 1516 &ndash; 17 November 1558),
           also known as <strong>Mary Tudor</strong>, and as &quot;<strong
@@ -367,47 +412,57 @@ article a {
       <section id="childhood">
         <h2>Childhood</h2>
         <hr />
-        Mary was a precocious child.[11] In July 1520, when scarcely four and a
-        half years old, she entertained a visiting French delegation with a
-        performance on the virginals (a type of harpsichord).[12] A great part
-        of her early education came from her mother, who consulted the Spanish
-        humanist Juan Luis Vives for advice and commissioned him to write De
-        Institutione Feminae Christianae, a treatise on the education of
-        girls.[13] By the age of nine, Mary could read and write Latin.[14] She
-        studied French, Spanish, music, dance, and perhaps Greek.[15] Henry VIII
-        doted on his daughter and boasted to the Venetian ambassador Sebastian
-        Giustiniani that Mary never cried.[16] Mary had a fair complexion with
-        pale blue eyes and red or reddish-golden hair. She was ruddy-cheeked, a
-        trait she inherited from her father.[17] Despite his affection for Mary,
-        Henry was deeply disappointed that his marriage had produced no
-        sons.[18] By the time Mary was nine years old, it was apparent that
-        Henry and Catherine would have no more children, leaving Henry without a
-        legitimate male heir.[19] In 1525, Henry sent Mary to the border of
-        Wales to preside, presumably in name only, over the Council of Wales and
-        the Marches.[20] She was given her own court based at Ludlow Castle and
-        many of the royal prerogatives normally reserved for a Prince of Wales.
-        Vives and others called her the Princess of Wales, although she was
-        never technically invested with the title.[21] She appears to have spent
-        three years in the Welsh Marches, making regular visits to her father's
-        court, before returning permanently to the home counties around London
-        in mid-1528.[22] Throughout Mary's childhood, Henry negotiated potential
-        future marriages for her. When she was only two years old, she was
-        promised to Francis, the infant son of King Francis I of France, but the
-        contract was repudiated after three years.[23] In 1522, at the age of
-        six, she was instead contracted to marry her 22-year-old first cousin,
-        Holy Roman Emperor Charles V.[24] However, the engagement was broken off
-        within a few years by Charles with Henry's agreement.[25] Cardinal
-        Wolsey, Henry's chief adviser, then resumed marriage negotiations with
-        the French, and Henry suggested that Mary marry the Dauphin's father,
-        King Francis I himself, who was eager for an alliance with England.[26]
-        A marriage treaty was signed which provided that Mary marry either
-        Francis I or his second son Henry, Duke of Orleans,[27] but Wolsey
-        secured an alliance with France without the marriage. In 1528 Wolsey's
-        agent Thomas Magnus discussed the idea of her marriage to her cousin
-        James V of Scotland with the Scottish diplomat Adam Otterburn.[28]
-        According to the Venetian Mario Savorgnano, by this time Mary was
-        developing into a pretty, well-proportioned young lady with a fine
-        complexion
+        <p>
+          Mary was a precocious child.[11] In July 1520, when scarcely four and
+          a half years old, she entertained a visiting French delegation with a
+          performance on the virginals (a type of harpsichord).[12] A great part
+          of her early education came from her mother, who consulted the Spanish
+          humanist Juan Luis Vives for advice and commissioned him to write De
+          Institutione Feminae Christianae, a treatise on the education of
+          girls.[13] By the age of nine, Mary could read and write Latin.[14]
+          She studied French, Spanish, music, dance, and perhaps Greek.[15]
+          Henry VIII doted on his daughter and boasted to the Venetian
+          ambassador Sebastian Giustiniani that Mary never cried.[16] Mary had a
+          fair complexion with pale blue eyes and red or reddish-golden hair.
+          She was ruddy-cheeked, a trait she inherited from her father.[17]
+        </p>
+        <p>
+          Despite his affection for Mary, Henry was deeply disappointed that his
+          marriage had produced no sons.[18] By the time Mary was nine years
+          old, it was apparent that Henry and Catherine would have no more
+          children, leaving Henry without a legitimate male heir.[19] In 1525,
+          Henry sent Mary to the border of Wales to preside, presumably in name
+          only, over the Council of Wales and the Marches.[20] She was given her
+          own court based at Ludlow Castle and many of the royal prerogatives
+          normally reserved for a Prince of Wales. Vives and others called her
+          the Princess of Wales, although she was never technically invested
+          with the title.[21] She appears to have spent three years in the Welsh
+          Marches, making regular visits to her father's court, before returning
+          permanently to the home counties around London in mid-1528.[22]
+        </p>
+        <p>
+          Throughout Mary's childhood, Henry negotiated potential future
+          marriages for her. When she was only two years old, she was promised
+          to Francis, the infant son of King Francis I of France, but the
+          contract was repudiated after three years.[23] In 1522, at the age of
+          six, she was instead contracted to marry her 22-year-old first cousin,
+          Holy Roman Emperor Charles V.[24] However, the engagement was broken
+          off within a few years by Charles with Henry's agreement.[25] Cardinal
+          Wolsey, Henry's chief adviser, then resumed marriage negotiations with
+          the French, and Henry suggested that Mary marry the Dauphin's father,
+          King Francis I himself, who was eager for an alliance with
+          England.[26] A marriage treaty was signed which provided that Mary
+          marry either Francis I or his second son Henry, Duke of Orleans,[27]
+          but Wolsey secured an alliance with France without the marriage. In
+          1528 Wolsey's agent Thomas Magnus discussed the idea of her marriage
+          to her cousin James V of Scotland with the Scottish diplomat Adam
+          Otterburn.[28]
+        </p>
+        <p>
+          According to the Venetian Mario Savorgnano, by this time Mary was
+          developing into a pretty, well-proportioned young lady with a fine
+          complexion
+        </p>
       </section>
       <section id="adolescence">
         <h2>Adolescence</h2>
@@ -606,77 +661,95 @@ article a {
       <section id="adulthood">
         <h2>Adulthood</h2>
         <hr />
-        In 1536, Queen Anne fell from the king's favour and was beheaded.
-        Elizabeth, like Mary, was declared illegitimate and stripped of her
-        succession rights.[43] Within two weeks of Anne's execution, Henry
-        married Jane Seymour, who urged her husband to make peace with Mary.[44]
-        Henry insisted that Mary recognise him as head of the Church of England,
-        repudiate papal authority, acknowledge that the marriage between her
-        parents was unlawful, and accept her own illegitimacy. She attempted to
-        reconcile with him by submitting to his authority as far as "God and my
-        conscience" permitted, but was eventually bullied into signing a
-        document agreeing to all of Henry's demands.[45] Reconciled with her
-        father, Mary resumed her place at court.[46] Henry granted her a
-        household, which included the reinstatement of Mary's favourite, Susan
-        Clarencieux.[47] Mary's privy purse expenses for this period show that
-        Hatfield House, the Palace of Beaulieu (also called Newhall), Richmond
-        and Hunsdon were among her principal places of residence, as well as
-        Henry's palaces at Greenwich, Westminster and Hampton Court.[48] Her
-        expenses included fine clothes and gambling at cards, one of her
-        favourite pastimes.[49] Rebels in the North of England, including Lord
-        Hussey, Mary's former chamberlain, campaigned against Henry's religious
-        reforms, and one of their demands was that Mary be made legitimate. The
-        rebellion, known as the Pilgrimage of Grace, was ruthlessly
-        suppressed.[50] Along with other rebels, Hussey was executed, but there
-        is no suggestion that Mary was directly involved.[51] The next year,
-        1537, Jane died after giving birth to a son, Edward. Mary was made
-        godmother to her half-brother and acted as chief mourner at the queen's
-        funeral.[52] Mary as a young woman Mary in 1544 Mary was courted by Duke
-        Philip of Bavaria from late 1539, but he was Lutheran and his suit for
-        her hand was unsuccessful.[53] Over 1539, the king's chief minister,
-        Thomas Cromwell, negotiated a potential alliance with the Duchy of
-        Cleves. Suggestions that Mary marry the Duke of Cleves, who was the same
-        age, came to nothing, but a match between Henry and the Duke's sister
-        Anne was agreed.[54] When the king saw Anne for the first time in late
-        December 1539, a week before the scheduled wedding, he found her
-        unattractive but was unable, for diplomatic reasons and without a
-        suitable pretext, to cancel the marriage.[55] Cromwell fell from favour
-        and was arrested for treason in June 1540; one of the unlikely charges
-        against him was that he had plotted to marry Mary himself.[56] Anne
-        consented to the annulment of the marriage, which had not been
-        consummated, and Cromwell was beheaded.[57] In 1541, Henry had the
-        Countess of Salisbury, Mary's old governess and godmother, executed on
-        the pretext of a Catholic plot in which her son Reginald Pole was
-        implicated.[58] Her executioner was "a wretched and blundering youth"
-        who "literally hacked her head and shoulders to pieces".[59] In 1542,
-        following the execution of Henry's fifth wife, Catherine Howard, the
-        unmarried Henry invited Mary to attend the royal Christmas
-        festivities.[60] At court, while her father was between marriages and
-        thus without a consort, Mary acted as hostess.[61] In 1543, Henry
-        married his sixth and last wife, Catherine Parr, who was able to bring
-        the family closer together.[62] Henry returned Mary and Elizabeth to the
-        line of succession, through the Act of Succession 1544, placing them
-        after Edward. But both remained legally illegitimate.[63] Henry VIII
-        died in 1547, and Edward succeeded him. Mary inherited estates in
-        Norfolk, Suffolk and Essex, and was granted Hunsdon and Beaulieu as her
-        own.[64] Since Edward was still a child, rule passed to a regency
-        council dominated by Protestants, who attempted to establish their faith
-        throughout the country. For example, the Act of Uniformity 1549
-        prescribed Protestant rites for church services, such as the use of
-        Thomas Cranmer's Book of Common Prayer. Mary remained faithful to Roman
-        Catholicism and defiantly celebrated traditional Mass in her own chapel.
-        She appealed to her cousin Emperor Charles V to apply diplomatic
-        pressure demanding that she be allowed to practise her religion.[65] For
-        most of Edward's reign, Mary remained on her own estates and rarely
-        attended court.[66] A plan between May and July 1550 to smuggle her out
-        of England to the safety of the European mainland came to nothing.[67]
-        Religious differences between Mary and Edward continued. When Mary was
-        in her thirties, she attended a reunion with Edward and Elizabeth for
-        Christmas 1550, where the 13-year-old Edward embarrassed Mary, and
-        reduced both her and himself to tears in front of the court, by publicly
-        reproving her for ignoring his laws regarding worship.[68] Mary
-        repeatedly refused Edward's demands that she abandon Catholicism, and
-        Edward persistently refused to drop his demands.
+        <p>
+          In 1536, Queen Anne fell from the king's favour and was beheaded.
+          Elizabeth, like Mary, was declared illegitimate and stripped of her
+          succession rights.[43] Within two weeks of Anne's execution, Henry
+          married Jane Seymour, who urged her husband to make peace with
+          Mary.[44] Henry insisted that Mary recognise him as head of the Church
+          of England, repudiate papal authority, acknowledge that the marriage
+          between her parents was unlawful, and accept her own illegitimacy. She
+          attempted to reconcile with him by submitting to his authority as far
+          as "God and my conscience" permitted, but was eventually bullied into
+          signing a document agreeing to all of Henry's demands.[45] Reconciled
+          with her father, Mary resumed her place at court.[46] Henry granted
+          her a household, which included the reinstatement of Mary's favourite,
+          Susan Clarencieux.[47] Mary's privy purse expenses for this period
+          show that Hatfield House, the Palace of Beaulieu (also called
+          Newhall), Richmond and Hunsdon were among her principal places of
+          residence, as well as Henry's palaces at Greenwich, Westminster and
+          Hampton Court.[48] Her expenses included fine clothes and gambling at
+          cards, one of her favourite pastimes.[49] Rebels in the North of
+          England, including Lord Hussey, Mary's former chamberlain, campaigned
+          against Henry's religious reforms, and one of their demands was that
+          Mary be made legitimate. The rebellion, known as the Pilgrimage of
+          Grace, was ruthlessly suppressed.[50] Along with other rebels, Hussey
+          was executed, but there is no suggestion that Mary was directly
+          involved.[51] The next year, 1537, Jane died after giving birth to a
+          son, Edward. Mary was made godmother to her half-brother and acted as
+          chief mourner at the queen's funeral.[52]
+        </p>
+        <img
+          class="shape-outside"
+          src="../assets/img/adult_mary.jpg"
+          alt="Mary as Young Adult"
+        />
+        <p>
+          Mary as a young woman Mary in 1544 Mary was courted by Duke Philip of
+          Bavaria from late 1539, but he was Lutheran and his suit for her hand
+          was unsuccessful.[53] Over 1539, the king's chief minister, Thomas
+          Cromwell, negotiated a potential alliance with the Duchy of Cleves.
+          Suggestions that Mary marry the Duke of Cleves, who was the same age,
+          came to nothing, but a match between Henry and the Duke's sister Anne
+          was agreed.[54] When the king saw Anne for the first time in late
+          December 1539, a week before the scheduled wedding, he found her
+          unattractive but was unable, for diplomatic reasons and without a
+          suitable pretext, to cancel the marriage.[55] Cromwell fell from
+          favour and was arrested for treason in June 1540; one of the unlikely
+          charges against him was that he had plotted to marry Mary himself.[56]
+          Anne consented to the annulment of the marriage, which had not been
+          consummated, and Cromwell was beheaded.[57]
+        </p>
+        <p>
+          1541, Henry had the Countess of Salisbury, Mary's old governess and
+          godmother, executed on the pretext of a Catholic plot in which her son
+          Reginald Pole was implicated.[58] Her executioner was "a wretched and
+          blundering youth" who "literally hacked her head and shoulders to
+          pieces".[59] In 1542, following the execution of Henry's fifth wife,
+          Catherine Howard, the unmarried Henry invited Mary to attend the royal
+          Christmas festivities.[60] At court, while her father was between
+          marriages and thus without a consort, Mary acted as hostess.[61] In
+          1543, Henry married his sixth and last wife, Catherine Parr, who was
+          able to bring the family closer together.[62] Henry returned Mary and
+          Elizabeth to the line of succession, through the Act of Succession
+          1544, placing them after Edward. But both remained legally
+          illegitimate.[63]
+        </p>
+        <p>
+          Henry VIII died in 1547, and Edward succeeded him. Mary inherited
+          estates in Norfolk, Suffolk and Essex, and was granted Hunsdon and
+          Beaulieu as her own.[64] Since Edward was still a child, rule passed
+          to a regency council dominated by Protestants, who attempted to
+          establish their faith throughout the country. For example, the Act of
+          Uniformity 1549 prescribed Protestant rites for church services, such
+          as the use of Thomas Cranmer's Book of Common Prayer. Mary remained
+          faithful to Roman Catholicism and defiantly celebrated traditional
+          Mass in her own chapel. She appealed to her cousin Emperor Charles V
+          to apply diplomatic pressure demanding that she be allowed to practise
+          her religion.[65]
+        </p>
+        <p>
+          For most of Edward's reign, Mary remained on her own estates and
+          rarely attended court.[66] A plan between May and July 1550 to smuggle
+          her out of England to the safety of the European mainland came to
+          nothing.[67] Religious differences between Mary and Edward continued.
+          When Mary was in her thirties, she attended a reunion with Edward and
+          Elizabeth for Christmas 1550, where the 13-year-old Edward embarrassed
+          Mary, and reduced both her and himself to tears in front of the court,
+          by publicly reproving her for ignoring his laws regarding worship.[68]
+          Mary repeatedly refused Edward's demands that she abandon Catholicism,
+          and Edward persistently refused to drop his demands.
+        </p>
       </section>
       <section id="accession">
         <h2>Accession</h2>
@@ -962,6 +1035,11 @@ article a {
               ></sup
             >
           </p>
+          <img
+            class="shape-outside"
+            src="../assets/img/Philip_II.jpg"
+            alt="Phillip of Spain"
+          />
           <p>
             Lord Chancellor Gardiner and the
             <a
