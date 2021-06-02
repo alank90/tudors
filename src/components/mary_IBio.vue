@@ -297,11 +297,7 @@ article a {
           >
           to survive infancy. Her mother had suffered many miscarriages.<sup
             class="reference"
-            ><a
-              href="https://en.wikipedia.org/wiki/Mary_I_of_England#cite_note-2"
-              >[2]</a
-            ></sup
-          >
+          ></sup>
           Before Mary&apos;s birth, four previous pregnancies had resulted in a
           <a href="https://en.wikipedia.org/wiki/Stillborn" title="Stillborn"
             >stillborn</a
@@ -311,22 +307,13 @@ article a {
             href="https://en.wikipedia.org/wiki/Henry,_Duke_of_Cornwall"
             title="Henry, Duke of Cornwall"
             >Henry, Duke of Cornwall</a
-          >.<sup class="reference"
-            ><a
-              href="https://en.wikipedia.org/wiki/Mary_I_of_England#cite_note-3"
-              >[3]</a
-            ></sup
-          >
+          >.<sup class="reference"></sup>
         </p>
         <p>
           Mary was baptised into the Catholic faith at the Church of the
           Observant Friars in Greenwich three days after her birth.<sup
             class="reference"
-            ><a
-              href="https://en.wikipedia.org/wiki/Mary_I_of_England#cite_note-4"
-              >[4]</a
-            ></sup
-          >
+          ></sup>
           Her godparents included
           <a
             href="https://en.wikipedia.org/wiki/Lord_Chancellor"
@@ -347,12 +334,7 @@ article a {
             href="https://en.wikipedia.org/wiki/Agnes_Howard,_Duchess_of_Norfolk"
             title="Agnes Howard, Duchess of Norfolk"
             >Agnes Howard, Duchess of Norfolk</a
-          >.<sup class="reference"
-            ><a
-              href="https://en.wikipedia.org/wiki/Mary_I_of_England#cite_note-5"
-              >[5]</a
-            ></sup
-          >
+          >.<sup class="reference"></sup>
           Henry VIII&apos;s cousin, once removed,
           <a
             href="https://en.wikipedia.org/wiki/Margaret_Pole,_Countess_of_Salisbury"
@@ -365,32 +347,18 @@ article a {
             >confirmation</a
           >, which was conducted immediately after the baptism.<sup
             class="reference"
-            ><a
-              href="https://en.wikipedia.org/wiki/Mary_I_of_England#cite_note-6"
-              >[6]</a
-            ></sup
-          >
+          ></sup>
           The following year, Mary became a godmother herself when she was named
           as one of the sponsors of her cousin
           <a
             href="https://en.wikipedia.org/wiki/Frances_Grey,_Duchess_of_Suffolk"
             title=""
             >Frances Brandon</a
-          >.<sup class="reference"
-            ><a
-              href="https://en.wikipedia.org/wiki/Mary_I_of_England#cite_note-7"
-              >[7]</a
-            ></sup
-          >
+          >.<sup class="reference"></sup>
           In 1520, the Countess of Salisbury was appointed Mary&apos;s
           <a href="https://en.wikipedia.org/wiki/Governess" title="Governess"
             >governess</a
-          >.<sup class="reference"
-            ><a
-              href="https://en.wikipedia.org/wiki/Mary_I_of_England#cite_note-8"
-              >[8]</a
-            ></sup
-          >
+          >.<sup class="reference"></sup>
           <a
             href="https://en.wikipedia.org/wiki/John_Hussey,_1st_Baron_Hussey_of_Sleaford"
             title="John Hussey, 1st Baron Hussey of Sleaford"
@@ -413,50 +381,49 @@ article a {
         <h2>Childhood</h2>
         <hr />
         <p>
-          Mary was a precocious child.[11] In July 1520, when scarcely four and
-          a half years old, she entertained a visiting French delegation with a
-          performance on the virginals (a type of harpsichord).[12] A great part
-          of her early education came from her mother, who consulted the Spanish
+          Mary was a precocious child. In July 1520, when scarcely four and a
+          half years old, she entertained a visiting French delegation with a
+          performance on the virginals (a type of harpsichord). A great part of
+          her early education came from her mother, who consulted the Spanish
           humanist Juan Luis Vives for advice and commissioned him to write De
           Institutione Feminae Christianae, a treatise on the education of
-          girls.[13] By the age of nine, Mary could read and write Latin.[14]
-          She studied French, Spanish, music, dance, and perhaps Greek.[15]
-          Henry VIII doted on his daughter and boasted to the Venetian
-          ambassador Sebastian Giustiniani that Mary never cried.[16] Mary had a
-          fair complexion with pale blue eyes and red or reddish-golden hair.
-          She was ruddy-cheeked, a trait she inherited from her father.[17]
+          girls. By the age of nine, Mary could read and write Latin. She
+          studied French, Spanish, music, dance, and perhaps Greek. Henry VIII
+          doted on his daughter and boasted to the Venetian ambassador Sebastian
+          Giustiniani that Mary never cried. Mary had a fair complexion with
+          pale blue eyes and red or reddish-golden hair. She was ruddy-cheeked,
+          a trait she inherited from her father.
         </p>
         <p>
           Despite his affection for Mary, Henry was deeply disappointed that his
-          marriage had produced no sons.[18] By the time Mary was nine years
-          old, it was apparent that Henry and Catherine would have no more
-          children, leaving Henry without a legitimate male heir.[19] In 1525,
-          Henry sent Mary to the border of Wales to preside, presumably in name
-          only, over the Council of Wales and the Marches.[20] She was given her
-          own court based at Ludlow Castle and many of the royal prerogatives
-          normally reserved for a Prince of Wales. Vives and others called her
-          the Princess of Wales, although she was never technically invested
-          with the title.[21] She appears to have spent three years in the Welsh
-          Marches, making regular visits to her father's court, before returning
-          permanently to the home counties around London in mid-1528.[22]
+          marriage had produced no sons. By the time Mary was nine years old, it
+          was apparent that Henry and Catherine would have no more children,
+          leaving Henry without a legitimate male heir. In 1525, Henry sent Mary
+          to the border of Wales to preside, presumably in name only, over the
+          Council of Wales and the Marches. She was given her own court based at
+          Ludlow Castle and many of the royal prerogatives normally reserved for
+          a Prince of Wales. Vives and others called her the Princess of Wales,
+          although she was never technically invested with the title. She
+          appears to have spent three years in the Welsh Marches, making regular
+          visits to her father's court, before returning permanently to the home
+          counties around London in mid-1528.
         </p>
         <p>
           Throughout Mary's childhood, Henry negotiated potential future
           marriages for her. When she was only two years old, she was promised
           to Francis, the infant son of King Francis I of France, but the
-          contract was repudiated after three years.[23] In 1522, at the age of
-          six, she was instead contracted to marry her 22-year-old first cousin,
-          Holy Roman Emperor Charles V.[24] However, the engagement was broken
-          off within a few years by Charles with Henry's agreement.[25] Cardinal
-          Wolsey, Henry's chief adviser, then resumed marriage negotiations with
-          the French, and Henry suggested that Mary marry the Dauphin's father,
-          King Francis I himself, who was eager for an alliance with
-          England.[26] A marriage treaty was signed which provided that Mary
-          marry either Francis I or his second son Henry, Duke of Orleans,[27]
-          but Wolsey secured an alliance with France without the marriage. In
-          1528 Wolsey's agent Thomas Magnus discussed the idea of her marriage
-          to her cousin James V of Scotland with the Scottish diplomat Adam
-          Otterburn.[28]
+          contract was repudiated after three years. In 1522, at the age of six,
+          she was instead contracted to marry her 22-year-old first cousin, Holy
+          Roman Emperor Charles V. However, the engagement was broken off within
+          a few years by Charles with Henry's agreement. Cardinal Wolsey,
+          Henry's chief adviser, then resumed marriage negotiations with the
+          French, and Henry suggested that Mary marry the Dauphin's father, King
+          Francis I himself, who was eager for an alliance with England. A
+          marriage treaty was signed which provided that Mary marry either
+          Francis I or his second son Henry, Duke of Orleans, but Wolsey secured
+          an alliance with France without the marriage. In 1528 Wolsey's agent
+          Thomas Magnus discussed the idea of her marriage to her cousin James V
+          of Scotland with the Scottish diplomat Adam Otterburn.
         </p>
         <p>
           According to the Venetian Mario Savorgnano, by this time Mary was
@@ -517,29 +484,16 @@ article a {
             href="https://en.wikipedia.org/wiki/War_of_the_League_of_Cognac"
             title="War of the League of Cognac"
             >War of the League of Cognac</a
-          >.<sup class="reference"
-            ><a
-              href="https://en.wikipedia.org/wiki/Mary_I_of_England#cite_note-30"
-              >[30]</a
-            ></sup
-          >
+          >.<sup class="reference"></sup>
         </p>
         <p>
           From 1531, Mary was often sick with irregular menstruation and
           depression, although it is not clear whether this was caused by
-          stress, puberty or a more deep-seated disease.<sup class="reference"
-            ><a
-              href="https://en.wikipedia.org/wiki/Mary_I_of_England#cite_note-31"
-              >[31]</a
-            ></sup
-          >
+          stress, puberty or a more deep-seated disease.<sup
+            class="reference"
+          ></sup>
           She was not permitted to see her mother, whom Henry had sent to live
-          away from court.<sup class="reference"
-            ><a
-              href="https://en.wikipedia.org/wiki/Mary_I_of_England#cite_note-32"
-              >[32]</a
-            ></sup
-          >
+          away from court.<sup class="reference"></sup>
           In early 1533, Henry married
           <a
             href="https://en.wikipedia.org/wiki/Anne_Boleyn"
@@ -571,18 +525,8 @@ article a {
             href="https://en.wikipedia.org/wiki/Elizabeth_I_of_England"
             title="Elizabeth I of England"
             >Elizabeth</a
-          >, Anne&apos;s daughter.<sup class="reference"
-            ><a
-              href="https://en.wikipedia.org/wiki/Mary_I_of_England#cite_note-33"
-              >[33]</a
-            ></sup
-          >
-          Mary&apos;s household was dissolved;<sup class="reference"
-            ><a
-              href="https://en.wikipedia.org/wiki/Mary_I_of_England#cite_note-34"
-              >[34]</a
-            ></sup
-          >
+          >, Anne&apos;s daughter.<sup class="reference"></sup> Mary&apos;s
+          household was dissolved;<sup class="reference"></sup>
           her servants (including the Countess of Salisbury) were dismissed and,
           in December 1533, she was sent to join the household of the infant
           Elizabeth at
@@ -590,62 +534,30 @@ article a {
             href="https://en.wikipedia.org/wiki/Hatfield,_Hertfordshire"
             title="Hatfield, Hertfordshire"
             >Hatfield, Hertfordshire</a
-          >.<sup class="reference"
-            ><a
-              href="https://en.wikipedia.org/wiki/Mary_I_of_England#cite_note-35"
-              >[35]</a
-            ></sup
-          >
+          >.<sup class="reference"></sup>
         </p>
         <p>
           Mary determinedly refused to acknowledge that Anne was the queen or
           that Elizabeth was a princess, further enraging King Henry.<sup
             class="reference"
-            ><a
-              href="https://en.wikipedia.org/wiki/Mary_I_of_England#cite_note-36"
-              >[36]</a
-            ></sup
-          >
+          ></sup>
           Under strain and with her movements restricted, Mary was frequently
           ill, which the royal physician attributed to her &quot;ill
-          treatment&quot;.<sup class="reference"
-            ><a
-              href="https://en.wikipedia.org/wiki/Mary_I_of_England#cite_note-37"
-              >[37]</a
-            ></sup
-          >
+          treatment&quot;.<sup class="reference"></sup>
           The Imperial ambassador
           <a href="https://en.wikipedia.org/wiki/Eustace_Chapuys" title=""
             >Eustace Chapuys</a
           >
           became her close adviser, and interceded, unsuccessfully, on her
-          behalf at court.<sup class="reference"
-            ><a
-              href="https://en.wikipedia.org/wiki/Mary_I_of_England#cite_note-38"
-              >[38]</a
-            ></sup
-          >
-          The relationship between Mary and her father worsened; they did not
-          speak to each other for three years.<sup class="reference"
-            ><a
-              href="https://en.wikipedia.org/wiki/Mary_I_of_England#cite_note-39"
-              >[39]</a
-            ></sup
-          >
-          Although both she and her mother were ill, Mary was refused permission
-          to visit Catherine.<sup class="reference"
-            ><a
-              href="https://en.wikipedia.org/wiki/Mary_I_of_England#cite_note-40"
-              >[40]</a
-            ></sup
-          >
+          behalf at court.<sup class="reference"></sup> The relationship between
+          Mary and her father worsened; they did not speak to each other for
+          three years.<sup class="reference"></sup> Although both she and her
+          mother were ill, Mary was refused permission to visit Catherine.<sup
+            class="reference"
+          ></sup>
           When Catherine died in 1536, Mary was &quot;inconsolable&quot;.<sup
             class="reference"
-            ><a
-              href="https://en.wikipedia.org/wiki/Mary_I_of_England#cite_note-41"
-              >[41]</a
-            ></sup
-          >
+          ></sup>
           Catherine was interred in
           <a
             href="https://en.wikipedia.org/wiki/Peterborough_Cathedral"
@@ -664,30 +576,30 @@ article a {
         <p>
           In 1536, Queen Anne fell from the king's favour and was beheaded.
           Elizabeth, like Mary, was declared illegitimate and stripped of her
-          succession rights.[43] Within two weeks of Anne's execution, Henry
-          married Jane Seymour, who urged her husband to make peace with
-          Mary.[44] Henry insisted that Mary recognise him as head of the Church
-          of England, repudiate papal authority, acknowledge that the marriage
-          between her parents was unlawful, and accept her own illegitimacy. She
-          attempted to reconcile with him by submitting to his authority as far
-          as "God and my conscience" permitted, but was eventually bullied into
-          signing a document agreeing to all of Henry's demands.[45] Reconciled
-          with her father, Mary resumed her place at court.[46] Henry granted
-          her a household, which included the reinstatement of Mary's favourite,
-          Susan Clarencieux.[47] Mary's privy purse expenses for this period
-          show that Hatfield House, the Palace of Beaulieu (also called
-          Newhall), Richmond and Hunsdon were among her principal places of
-          residence, as well as Henry's palaces at Greenwich, Westminster and
-          Hampton Court.[48] Her expenses included fine clothes and gambling at
-          cards, one of her favourite pastimes.[49] Rebels in the North of
-          England, including Lord Hussey, Mary's former chamberlain, campaigned
-          against Henry's religious reforms, and one of their demands was that
-          Mary be made legitimate. The rebellion, known as the Pilgrimage of
-          Grace, was ruthlessly suppressed.[50] Along with other rebels, Hussey
-          was executed, but there is no suggestion that Mary was directly
-          involved.[51] The next year, 1537, Jane died after giving birth to a
-          son, Edward. Mary was made godmother to her half-brother and acted as
-          chief mourner at the queen's funeral.[52]
+          succession rights. Within two weeks of Anne's execution, Henry married
+          Jane Seymour, who urged her husband to make peace with Mary. Henry
+          insisted that Mary recognise him as head of the Church of England,
+          repudiate papal authority, acknowledge that the marriage between her
+          parents was unlawful, and accept her own illegitimacy. She attempted
+          to reconcile with him by submitting to his authority as far as "God
+          and my conscience" permitted, but was eventually bullied into signing
+          a document agreeing to all of Henry's demands. Reconciled with her
+          father, Mary resumed her place at court. Henry granted her a
+          household, which included the reinstatement of Mary's favourite, Susan
+          Clarencieux. Mary's privy purse expenses for this period show that
+          Hatfield House, the Palace of Beaulieu (also called Newhall), Richmond
+          and Hunsdon were among her principal places of residence, as well as
+          Henry's palaces at Greenwich, Westminster and Hampton Court. Her
+          expenses included fine clothes and gambling at cards, one of her
+          favourite pastimes. Rebels in the North of England, including Lord
+          Hussey, Mary's former chamberlain, campaigned against Henry's
+          religious reforms, and one of their demands was that Mary be made
+          legitimate. The rebellion, known as the Pilgrimage of Grace, was
+          ruthlessly suppressed. Along with other rebels, Hussey was executed,
+          but there is no suggestion that Mary was directly involved. The next
+          year, 1537, Jane died after giving birth to a son, Edward. Mary was
+          made godmother to her half-brother and acted as chief mourner at the
+          queen's funeral.
         </p>
         <img
           class="shape-outside"
@@ -697,58 +609,57 @@ article a {
         <p>
           Mary as a young woman Mary in 1544 Mary was courted by Duke Philip of
           Bavaria from late 1539, but he was Lutheran and his suit for her hand
-          was unsuccessful.[53] Over 1539, the king's chief minister, Thomas
+          was unsuccessful. Over 1539, the king's chief minister, Thomas
           Cromwell, negotiated a potential alliance with the Duchy of Cleves.
           Suggestions that Mary marry the Duke of Cleves, who was the same age,
           came to nothing, but a match between Henry and the Duke's sister Anne
-          was agreed.[54] When the king saw Anne for the first time in late
-          December 1539, a week before the scheduled wedding, he found her
-          unattractive but was unable, for diplomatic reasons and without a
-          suitable pretext, to cancel the marriage.[55] Cromwell fell from
-          favour and was arrested for treason in June 1540; one of the unlikely
-          charges against him was that he had plotted to marry Mary himself.[56]
-          Anne consented to the annulment of the marriage, which had not been
-          consummated, and Cromwell was beheaded.[57]
+          was agreed. When the king saw Anne for the first time in late December
+          1539, a week before the scheduled wedding, he found her unattractive
+          but was unable, for diplomatic reasons and without a suitable pretext,
+          to cancel the marriage. Cromwell fell from favour and was arrested for
+          treason in June 1540; one of the unlikely charges against him was that
+          he had plotted to marry Mary himself. Anne consented to the annulment
+          of the marriage, which had not been consummated, and Cromwell was
+          beheaded.
         </p>
         <p>
           1541, Henry had the Countess of Salisbury, Mary's old governess and
           godmother, executed on the pretext of a Catholic plot in which her son
-          Reginald Pole was implicated.[58] Her executioner was "a wretched and
+          Reginald Pole was implicated. Her executioner was "a wretched and
           blundering youth" who "literally hacked her head and shoulders to
-          pieces".[59] In 1542, following the execution of Henry's fifth wife,
+          pieces". In 1542, following the execution of Henry's fifth wife,
           Catherine Howard, the unmarried Henry invited Mary to attend the royal
-          Christmas festivities.[60] At court, while her father was between
-          marriages and thus without a consort, Mary acted as hostess.[61] In
-          1543, Henry married his sixth and last wife, Catherine Parr, who was
-          able to bring the family closer together.[62] Henry returned Mary and
-          Elizabeth to the line of succession, through the Act of Succession
-          1544, placing them after Edward. But both remained legally
-          illegitimate.[63]
+          Christmas festivities. At court, while her father was between
+          marriages and thus without a consort, Mary acted as hostess. In 1543,
+          Henry married his sixth and last wife, Catherine Parr, who was able to
+          bring the family closer together. Henry returned Mary and Elizabeth to
+          the line of succession, through the Act of Succession 1544, placing
+          them after Edward. But both remained legally illegitimate.
         </p>
         <p>
           Henry VIII died in 1547, and Edward succeeded him. Mary inherited
           estates in Norfolk, Suffolk and Essex, and was granted Hunsdon and
-          Beaulieu as her own.[64] Since Edward was still a child, rule passed
-          to a regency council dominated by Protestants, who attempted to
-          establish their faith throughout the country. For example, the Act of
-          Uniformity 1549 prescribed Protestant rites for church services, such
-          as the use of Thomas Cranmer's Book of Common Prayer. Mary remained
-          faithful to Roman Catholicism and defiantly celebrated traditional
-          Mass in her own chapel. She appealed to her cousin Emperor Charles V
-          to apply diplomatic pressure demanding that she be allowed to practise
-          her religion.[65]
+          Beaulieu as her own. Since Edward was still a child, rule passed to a
+          regency council dominated by Protestants, who attempted to establish
+          their faith throughout the country. For example, the Act of Uniformity
+          1549 prescribed Protestant rites for church services, such as the use
+          of Thomas Cranmer's Book of Common Prayer. Mary remained faithful to
+          Roman Catholicism and defiantly celebrated traditional Mass in her own
+          chapel. She appealed to her cousin Emperor Charles V to apply
+          diplomatic pressure demanding that she be allowed to practise her
+          religion.
         </p>
         <p>
           For most of Edward's reign, Mary remained on her own estates and
-          rarely attended court.[66] A plan between May and July 1550 to smuggle
-          her out of England to the safety of the European mainland came to
-          nothing.[67] Religious differences between Mary and Edward continued.
-          When Mary was in her thirties, she attended a reunion with Edward and
-          Elizabeth for Christmas 1550, where the 13-year-old Edward embarrassed
-          Mary, and reduced both her and himself to tears in front of the court,
-          by publicly reproving her for ignoring his laws regarding worship.[68]
-          Mary repeatedly refused Edward's demands that she abandon Catholicism,
-          and Edward persistently refused to drop his demands.
+          rarely attended court. A plan between May and July 1550 to smuggle her
+          out of England to the safety of the European mainland came to nothing.
+          Religious differences between Mary and Edward continued. When Mary was
+          in her thirties, she attended a reunion with Edward and Elizabeth for
+          Christmas 1550, where the 13-year-old Edward embarrassed Mary, and
+          reduced both her and himself to tears in front of the court, by
+          publicly reproving her for ignoring his laws regarding worship. Mary
+          repeatedly refused Edward's demands that she abandon Catholicism, and
+          Edward persistently refused to drop his demands.
         </p>
       </section>
       <section id="accession">
@@ -756,12 +667,7 @@ article a {
         <hr />
         <p>
           On 6 July 1553, at the age of 15, Edward VI died of a lung infection,
-          possibly tuberculosis.<sup class="reference"
-            ><a
-              href="https://en.wikipedia.org/wiki/Mary_I_of_England#cite_note-70"
-              >[70]</a
-            ></sup
-          >
+          possibly tuberculosis.<sup class="reference"></sup>
           He did not want the crown to go to Mary because he feared she would
           restore Catholicism and undo his and their father&apos;s reforms, and
           so he planned to exclude her from the line of succession. His advisers
@@ -773,12 +679,7 @@ article a {
             title="John Dudley, 1st Duke of Northumberland"
             >John Dudley, 1st Duke of Northumberland</a
           >, and perhaps others, Edward excluded both from the line of
-          succession in his will.<sup class="reference"
-            ><a
-              href="https://en.wikipedia.org/wiki/Mary_I_of_England#cite_note-71"
-              >[71]</a
-            ></sup
-          >
+          succession in his will.<sup class="reference"></sup>
         </p>
         <p>
           Contradicting the
@@ -807,11 +708,7 @@ article a {
           warned that the summons was a pretext on which to capture her and
           thereby facilitate Jane&apos;s accession to the throne.<sup
             class="reference"
-            ><a
-              href="https://en.wikipedia.org/wiki/Mary_I_of_England#cite_note-72"
-              >[72]</a
-            ></sup
-          >
+          ></sup>
           Therefore, instead of heading to London from her residence at Hunsdon,
           Mary fled to
           <a
@@ -825,24 +722,14 @@ article a {
             title="Kett's Rebellion"
             >Kett&apos;s Rebellion</a
           >. Many adherents to the Catholic faith, opponents of Dudley&apos;s,
-          lived there.<sup class="reference"
-            ><a
-              href="https://en.wikipedia.org/wiki/Mary_I_of_England#cite_note-73"
-              >[73]</a
-            ></sup
-          >
+          lived there.<sup class="reference"></sup>
           On 9 July, from
           <a
             href="https://en.wikipedia.org/wiki/Kenninghall"
             title="Kenninghall"
             >Kenninghall</a
           >, Norfolk, she wrote to the privy council with orders for her
-          proclamation as Edward&apos;s successor.<sup class="reference"
-            ><a
-              href="https://en.wikipedia.org/wiki/Mary_I_of_England#cite_note-74"
-              >[74]</a
-            ></sup
-          >
+          proclamation as Edward&apos;s successor.<sup class="reference"></sup>
         </p>
         <p>
           On 10 July 1553, Lady Jane was proclaimed queen by Dudley and his
@@ -853,24 +740,9 @@ article a {
             href="https://en.wikipedia.org/wiki/Framlingham_Castle"
             title="Framlingham Castle"
             >Framlingham Castle</a
-          >, Suffolk.<sup class="reference"
-            ><a
-              href="https://en.wikipedia.org/wiki/Mary_I_of_England#cite_note-75"
-              >[75]</a
-            ></sup
-          >
-          Dudley&apos;s support collapsed,<sup class="reference"
-            ><a
-              href="https://en.wikipedia.org/wiki/Mary_I_of_England#cite_note-76"
-              >[76]</a
-            ></sup
-          >
-          and Jane was deposed on 19 July.<sup class="reference"
-            ><a
-              href="https://en.wikipedia.org/wiki/Mary_I_of_England#cite_note-77"
-              >[77]</a
-            ></sup
-          >
+          >, Suffolk.<sup class="reference"></sup> Dudley&apos;s support
+          collapsed,<sup class="reference"></sup> and Jane was deposed on 19
+          July.<sup class="reference"></sup>
           She and Dudley were imprisoned in the
           <a
             href="https://en.wikipedia.org/wiki/Tower_of_London"
@@ -903,12 +775,7 @@ article a {
             href="https://en.wikipedia.org/wiki/Edward_Courtenay,_1st_Earl_of_Devon_(1553_creation)"
             title="Edward Courtenay, 1st Earl of Devon (1553 creation)"
             >Edward Courtenay</a
-          >.<sup class="reference"
-            ><a
-              href="https://en.wikipedia.org/wiki/Mary_I_of_England#cite_note-79"
-              >[79]</a
-            ></sup
-          >
+          >.<sup class="reference"></sup>
           Mary understood that the young Lady Jane was essentially a pawn in
           Dudley&apos;s scheme, and Dudley was the only conspirator of rank
           executed for
@@ -926,12 +793,7 @@ article a {
             href="https://en.wikipedia.org/wiki/Henry_Grey,_1st_Duke_of_Suffolk"
             title="Lord Chancellor"
             >Henry Grey, 1st Duke of Suffolk</a
-          >, was released.<sup class="reference"
-            ><a
-              href="https://en.wikipedia.org/wiki/Mary_I_of_England#cite_note-80"
-              >[80]</a
-            ></sup
-          >
+          >, was released.<sup class="reference"></sup>
           Mary was left in a difficult position, as almost all the
           <a
             href="https://en.wikipedia.org/wiki/Privy_Council_of_England"
@@ -940,11 +802,7 @@ article a {
           >
           had been implicated in the plot to put Lady Jane on the throne.<sup
             class="reference"
-            ><a
-              href="https://en.wikipedia.org/wiki/Mary_I_of_England#cite_note-81"
-              >[81]</a
-            ></sup
-          >
+          ></sup>
           She appointed Gardiner to the council and made him both
           <a
             href="https://en.wikipedia.org/wiki/Bishop_of_Winchester"
@@ -961,12 +819,7 @@ article a {
           became
           <a href="https://en.wikipedia.org/wiki/Mistress_of_the_Robes" title=""
             >Mistress of the Robes</a
-          >.<sup class="reference"
-            ><a
-              href="https://en.wikipedia.org/wiki/Mary_I_of_England#cite_note-82"
-              >[82]</a
-            ></sup
-          >
+          >.<sup class="reference"></sup>
           On 1 October 1553, Gardiner
           <a
             href="https://en.wikipedia.org/wiki/Coronation_of_the_British_monarch"
@@ -1010,12 +863,7 @@ article a {
               href="https://en.wikipedia.org/wiki/Philip_II_of_Spain"
               title="Philip II of Spain"
               >Prince Philip of Spain</a
-            >.<sup class="reference"
-              ><a
-                href="https://en.wikipedia.org/wiki/Mary_I_of_England#cite_note-84"
-                >[84]</a
-              ></sup
-            >
+            >.<sup class="reference"></sup>
             Philip had a
             <a
               class="mw-redirect"
@@ -1028,12 +876,9 @@ article a {
             negotiations, a portrait of Philip, by
             <a href="https://en.wikipedia.org/wiki/Titian" title="Titian"
               >Titian</a
-            >, was sent to her in the latter half of 1553.<sup class="reference"
-              ><a
-                href="https://en.wikipedia.org/wiki/Mary_I_of_England#cite_note-85"
-                >[85]</a
-              ></sup
-            >
+            >, was sent to her in the latter half of 1553.<sup
+              class="reference"
+            ></sup>
           </p>
           <img
             class="shape-outside"
@@ -1054,20 +899,10 @@ article a {
               href="https://en.wikipedia.org/wiki/Habsburg"
               title="Habsburg"
               >Habsburgs</a
-            >.<sup class="reference"
-              ><a
-                href="https://en.wikipedia.org/wiki/Mary_I_of_England#cite_note-86"
-                >[86]</a
-              ></sup
-            >
-            The marriage was unpopular with the English; Gardiner and his allies
-            opposed it on the basis of patriotism, while Protestants were
-            motivated by a fear of Catholicism.<sup class="reference"
-              ><a
-                href="https://en.wikipedia.org/wiki/Mary_I_of_England#cite_note-87"
-                >[87]</a
-              ></sup
-            >
+            >.<sup class="reference"></sup> The marriage was unpopular with the
+            English; Gardiner and his allies opposed it on the basis of
+            patriotism, while Protestants were motivated by a fear of
+            Catholicism.<sup class="reference"></sup>
             When Mary insisted on marrying Philip, insurrections broke out.
             <a
               class="mw-redirect"
@@ -1088,21 +923,12 @@ article a {
               href="https://en.wikipedia.org/wiki/Henry_Grey,_1st_Duke_of_Suffolk"
               title="Henry Grey, 1st Duke of Suffolk"
               >Duke of Suffolk</a
-            >, Lady Jane&apos;s father.<sup class="reference"
-              ><a
-                href="https://en.wikipedia.org/wiki/Mary_I_of_England#cite_note-88"
-                >[88]</a
-              ></sup
-            >
-            Mary declared publicly that she would summon Parliament to discuss
-            the marriage and if Parliament decided that the marriage was not to
-            the kingdom&apos;s advantage, she would refrain from pursuing
-            it.<sup class="reference"
-              ><a
-                href="https://en.wikipedia.org/wiki/Mary_I_of_England#cite_note-89"
-                >[89]</a
-              ></sup
-            >
+            >, Lady Jane&apos;s father.<sup class="reference"></sup> Mary
+            declared publicly that she would summon Parliament to discuss the
+            marriage and if Parliament decided that the marriage was not to the
+            kingdom&apos;s advantage, she would refrain from pursuing it.<sup
+              class="reference"
+            ></sup>
             On reaching London, Wyatt was defeated and captured. Wyatt, the Duke
             of Suffolk, Lady Jane, and her husband
             <a
@@ -1119,12 +945,7 @@ article a {
               href="https://en.wikipedia.org/wiki/Woodstock_Palace"
               title="Woodstock Palace"
               >Woodstock Palace</a
-            >.<sup class="reference"
-              ><a
-                href="https://en.wikipedia.org/wiki/Mary_I_of_England#cite_note-90"
-                >[90]</a
-              ></sup
-            >
+            >.<sup class="reference"></sup>
           </p>
           <p>
             Mary was&mdash;excluding the brief, disputed reigns of the
@@ -1149,11 +970,7 @@ article a {
             husband&apos;s upon marriage, and it was feared that any man she
             married would thereby become King of England in fact and name.<sup
               class="reference"
-              ><a
-                href="https://en.wikipedia.org/wiki/Mary_I_of_England#cite_note-91"
-                >[91]</a
-              ></sup
-            >
+            ></sup>
             While Mary&apos;s grandparents
             <a
               class="mw-redirect"
@@ -1164,11 +981,7 @@ article a {
             had retained sovereignty of their respective realms during their
             marriage, there was no precedent to follow in England.<sup
               class="reference"
-              ><a
-                href="https://en.wikipedia.org/wiki/Mary_I_of_England#cite_note-92"
-                >[92]</a
-              ></sup
-            >
+            ></sup>
             Under the terms of
             <a
               href="https://en.wikipedia.org/wiki/Act_for_the_Marriage_of_Queen_Mary_to_Philip_of_Spain"
@@ -1185,19 +998,9 @@ article a {
             lifetime only. England would not be obliged to provide military
             support to Philip&apos;s father in any war, and Philip could not act
             without his wife&apos;s consent or appoint foreigners to office in
-            England.<sup class="reference"
-              ><a
-                href="https://en.wikipedia.org/wiki/Mary_I_of_England#cite_note-93"
-                >[93]</a
-              ></sup
-            >
-            Philip was unhappy with these conditions but ready to agree for the
-            sake of securing the marriage.<sup class="reference"
-              ><a
-                href="https://en.wikipedia.org/wiki/Mary_I_of_England#cite_note-94"
-                >[94]</a
-              ></sup
-            >
+            England.<sup class="reference"></sup> Philip was unhappy with these
+            conditions but ready to agree for the sake of securing the
+            marriage.<sup class="reference"></sup>
             He had no amorous feelings for Mary and sought the marriage for its
             political and strategic gains; his aide
             <a
@@ -1213,12 +1016,7 @@ article a {
               href="https://en.wikipedia.org/wiki/Low_Countries"
               title="Low Countries"
               >Low Countries</a
-            >.&quot;<sup class="reference"
-              ><a
-                href="https://en.wikipedia.org/wiki/Mary_I_of_England#cite_note-95"
-                >[95]</a
-              ></sup
-            >
+            >.&quot;<sup class="reference"></sup>
           </p>
           <p>
             To elevate his son to Mary&apos;s rank, Emperor Charles V ceded to
@@ -1228,12 +1026,7 @@ article a {
               title="Kingdom of Jerusalem"
               >Kingdom of Jerusalem</a
             >. Mary thus became Queen of Naples and titular Queen of Jerusalem
-            upon marriage.<sup class="reference"
-              ><a
-                href="https://en.wikipedia.org/wiki/Mary_I_of_England#cite_note-waller90-96"
-                >[96]</a
-              ></sup
-            >
+            upon marriage.<sup class="reference"></sup>
             Their wedding at
             <a
               href="https://en.wikipedia.org/wiki/Winchester_Cathedral"
@@ -1241,12 +1034,7 @@ article a {
               >Winchester Cathedral</a
             >
             on 25 July 1554 took place just two days after their first
-            meeting.<sup class="reference"
-              ><a
-                href="https://en.wikipedia.org/wiki/Mary_I_of_England#cite_note-97"
-                >[97]</a
-              ></sup
-            >
+            meeting.<sup class="reference"></sup>
             Philip could not speak English, and so they spoke a mixture of
             Spanish, French, and Latin
           </p>
@@ -1258,12 +1046,7 @@ article a {
             In September 1554, Mary stopped menstruating. She gained weight, and
             felt nauseated in the mornings. For these reasons, almost the
             entirety of her court, including her doctors, believed she was
-            pregnant.<sup class="reference"
-              ><a
-                href="https://en.wikipedia.org/wiki/Mary_I_of_England#cite_note-99"
-                >[99]</a
-              ></sup
-            >
+            pregnant.<sup class="reference"></sup>
             Parliament passed an
             <a
               href="https://en.wikipedia.org/wiki/Treason_Act_1554"
@@ -1272,39 +1055,20 @@ article a {
             >
             in the event of Mary&apos;s death in childbirth.<sup
               class="reference"
-              ><a
-                href="https://en.wikipedia.org/wiki/Mary_I_of_England#cite_note-100"
-                >[100]</a
-              ></sup
-            >
+            ></sup>
             In the last week of April 1555, Elizabeth was released from house
             arrest, and called to court as a witness to the birth, which was
-            expected imminently.<sup class="reference"
-              ><a
-                href="https://en.wikipedia.org/wiki/Mary_I_of_England#cite_note-101"
-                >[101]</a
-              ></sup
-            >
-            According to Giovanni Michieli, the Venetian ambassador, Philip may
-            have planned to marry Elizabeth in the event of Mary&apos;s death in
-            childbirth,<sup class="reference"
-              ><a
-                href="https://en.wikipedia.org/wiki/Mary_I_of_England#cite_note-102"
-                >[102]</a
-              ></sup
-            >
+            expected imminently.<sup class="reference"></sup> According to
+            Giovanni Michieli, the Venetian ambassador, Philip may have planned
+            to marry Elizabeth in the event of Mary&apos;s death in
+            childbirth,<sup class="reference"></sup>
             but in a letter to his brother-in-law,
             <a
               href="https://en.wikipedia.org/wiki/Maximilian_II,_Holy_Roman_Emperor"
               title="Guildford Dudley"
               >Maximilian of Austria</a
             >, Philip expressed uncertainty as to whether his wife was
-            pregnant.<sup class="reference"
-              ><a
-                href="https://en.wikipedia.org/wiki/Mary_I_of_England#cite_note-103"
-                >[103]</a
-              ></sup
-            >
+            pregnant.<sup class="reference"></sup>
           </p>
           <p>
             Thanksgiving services in the
@@ -1312,19 +1076,11 @@ article a {
               >diocese of London</a
             >
             were held at the end of April after false rumours that Mary had
-            given birth to a son spread across Europe.<sup class="reference"
-              ><a
-                href="https://en.wikipedia.org/wiki/Mary_I_of_England#cite_note-104"
-                >[104]</a
-              ></sup
-            >
+            given birth to a son spread across Europe.<sup
+              class="reference"
+            ></sup>
             Through May and June, the apparent delay in delivery fed gossip that
-            Mary was not pregnant.<sup class="reference"
-              ><a
-                href="https://en.wikipedia.org/wiki/Mary_I_of_England#cite_note-105"
-                >[105]</a
-              ></sup
-            >
+            Mary was not pregnant.<sup class="reference"></sup>
             <a
               href="https://en.wikipedia.org/wiki/Susan_Clarencieux"
               title="Susan Clarencieux"
@@ -1335,68 +1091,31 @@ article a {
               href="https://en.wikipedia.org/wiki/Antoine_de_Noailles"
               title="Antoine de Noailles"
               >Antoine de Noailles</a
-            >.<sup class="reference"
-              ><a
-                href="https://en.wikipedia.org/wiki/Mary_I_of_England#cite_note-106"
-                >[106]</a
-              ></sup
-            >
-            Mary continued to exhibit signs of pregnancy until July 1555, when
-            her abdomen receded. Michieli dismissively ridiculed the pregnancy
-            as more likely to &quot;end in wind rather than anything
-            else&quot;.<sup class="reference"
-              ><a
-                href="https://en.wikipedia.org/wiki/Mary_I_of_England#cite_note-107"
-                >[107]</a
-              ></sup
-            >
+            >.<sup class="reference"></sup> Mary continued to exhibit signs of
+            pregnancy until July 1555, when her abdomen receded. Michieli
+            dismissively ridiculed the pregnancy as more likely to &quot;end in
+            wind rather than anything else&quot;.<sup class="reference"></sup>
             It was most likely a
             <a
               href="https://en.wikipedia.org/wiki/False_pregnancy"
               title="False pregnancy"
               >false pregnancy</a
             >, perhaps induced by Mary&apos;s overwhelming desire to have a
-            child.<sup class="reference"
-              ><a
-                href="https://en.wikipedia.org/wiki/Mary_I_of_England#cite_note-108"
-                >[108]</a
-              ></sup
-            >
-            In August, soon after the disgrace of the false pregnancy, which
-            Mary considered &quot;God&apos;s punishment&quot; for her having
-            &quot;tolerated heretics&quot; in her realm,<sup class="reference"
-              ><a
-                href="https://en.wikipedia.org/wiki/Mary_I_of_England#cite_note-109"
-                >[109]</a
-              ></sup
-            >
+            child.<sup class="reference"></sup> In August, soon after the
+            disgrace of the false pregnancy, which Mary considered
+            &quot;God&apos;s punishment&quot; for her having &quot;tolerated
+            heretics&quot; in her realm,<sup class="reference"></sup>
             Philip left England to command his armies against France in
             <a href="https://en.wikipedia.org/wiki/Flanders" title="Flanders"
               >Flanders</a
-            >.<sup class="reference"
-              ><a
-                href="https://en.wikipedia.org/wiki/Mary_I_of_England#cite_note-110"
-                >[110]</a
-              ></sup
-            >
-            Mary was heartbroken and fell into a deep depression. Michieli was
-            touched by the queen&apos;s grief; he wrote she was
-            &quot;extraordinarily in love&quot; with her husband and
-            disconsolate at his departure.<sup class="reference"
-              ><a
-                href="https://en.wikipedia.org/wiki/Mary_I_of_England#cite_note-111"
-                >[111]</a
-              ></sup
-            >
+            >.<sup class="reference"></sup> Mary was heartbroken and fell into a
+            deep depression. Michieli was touched by the queen&apos;s grief; he
+            wrote she was &quot;extraordinarily in love&quot; with her husband
+            and disconsolate at his departure.<sup class="reference"></sup>
           </p>
           <p>
             Elizabeth remained at court until October, apparently restored to
-            favour.<sup class="reference"
-              ><a
-                href="https://en.wikipedia.org/wiki/Mary_I_of_England#cite_note-112"
-                >[112]</a
-              ></sup
-            >
+            favour.<sup class="reference"></sup>
             In the absence of any children, Philip was concerned that one of the
             next claimants to the English throne after his sister-in-law was the
             <a
@@ -1444,24 +1163,14 @@ article a {
               href="https://en.wikipedia.org/wiki/Hugh_Latimer"
               title="Hugh Latimer"
               >Hugh Latimer</a
-            >&mdash;were imprisoned.<sup class="reference"
-              ><a
-                href="https://en.wikipedia.org/wiki/Mary_I_of_England#cite_note-114"
-                >[114]</a
-              ></sup
-            >
+            >&mdash;were imprisoned.<sup class="reference"></sup>
             Mary&apos;s first Parliament, which assembled in early October,
             declared her parents&apos; marriage valid and
             <a
               href="https://en.wikipedia.org/wiki/First_Statute_of_Repeal"
               title="First Statute of Repeal"
               >abolished Edward&apos;s religious laws</a
-            >.<sup class="reference"
-              ><a
-                href="https://en.wikipedia.org/wiki/Mary_I_of_England#cite_note-115"
-                >[115]</a
-              ></sup
-            >
+            >.<sup class="reference"></sup>
             Church doctrine was restored to the form it had taken in the 1539
             <a
               href="https://en.wikipedia.org/wiki/Six_Articles_(1539)"
@@ -1472,12 +1181,7 @@ article a {
             celibacy. Married priests were deprived of their
             <a href="https://en.wikipedia.org/wiki/Benefice" title="Benefice"
               >benefices</a
-            >.<sup class="reference"
-              ><a
-                href="https://en.wikipedia.org/wiki/Mary_I_of_England#cite_note-116"
-                >[116]</a
-              ></sup
-            >
+            >.<sup class="reference"></sup>
           </p>
           <p>
             Mary had always rejected the break with Rome her father instituted
@@ -1501,23 +1205,13 @@ article a {
               >confiscated</a
             >
             monastery lands were not returned to the church but remained in the
-            hands of their influential new owners.<sup class="reference"
-              ><a
-                href="https://en.wikipedia.org/wiki/Mary_I_of_England#cite_note-117"
-                >[117]</a
-              ></sup
-            >
+            hands of their influential new owners.<sup class="reference"></sup>
             By the end of 1554, the pope had approved the deal, and the
             <a
               href="https://en.wikipedia.org/wiki/Revival_of_the_Heresy_Acts"
               title="Revival of the Heresy Acts"
               >Heresy Acts were revived</a
-            >.<sup class="reference"
-              ><a
-                href="https://en.wikipedia.org/wiki/Mary_I_of_England#cite_note-118"
-                >[118]</a
-              ></sup
-            >
+            >.<sup class="reference"></sup>
           </p>
           <p>
             Around 800 rich Protestants, including
@@ -1530,19 +1224,9 @@ article a {
               href="https://en.wikipedia.org/wiki/Marian_exiles"
               title="Marian exiles"
               >exile</a
-            >.<sup class="reference"
-              ><a
-                href="https://en.wikipedia.org/wiki/Mary_I_of_England#cite_note-119"
-                >[119]</a
-              ></sup
-            >
-            Those who stayed and persisted in publicly proclaiming their beliefs
-            became targets of heresy laws.<sup class="reference"
-              ><a
-                href="https://en.wikipedia.org/wiki/Mary_I_of_England#cite_note-Solly-120"
-                >[120]</a
-              ></sup
-            >
+            >.<sup class="reference"></sup> Those who stayed and persisted in
+            publicly proclaiming their beliefs became targets of heresy
+            laws.<sup class="reference"></sup>
             The first executions occurred over five days in February 1555: John
             Rogers on 4 February,
             <a
@@ -1556,12 +1240,7 @@ article a {
               title="Rowland Taylor"
               >Rowland Taylor</a
             >
-            and John Hooper on 9 February.<sup class="reference"
-              ><a
-                href="https://en.wikipedia.org/wiki/Mary_I_of_England#cite_note-121"
-                >[121]</a
-              ></sup
-            >
+            and John Hooper on 9 February.<sup class="reference"></sup>
             Cranmer, the imprisoned
             <a
               href="https://en.wikipedia.org/wiki/Archbishop_of_Canterbury"
@@ -1580,27 +1259,17 @@ article a {
               >Latimer</a
             >
             being burned at the stake. He recanted, repudiated Protestant
-            theology, and rejoined the Catholic faith.<sup class="reference"
-              ><a
-                href="https://en.wikipedia.org/wiki/Mary_I_of_England#cite_note-122"
-                >[122]</a
-              ></sup
-            >
+            theology, and rejoined the Catholic faith.<sup
+              class="reference"
+            ></sup>
             Under the normal process of the law, he should have been absolved as
             a repentant, but Mary refused to reprieve him. On the day of his
             burning, he dramatically withdrew his recantation.<sup
               class="reference"
-              ><a
-                href="https://en.wikipedia.org/wiki/Mary_I_of_England#cite_note-123"
-                >[123]</a
-              ></sup
-            >
-            In total, 283 were executed, most by burning.<sup class="reference"
-              ><a
-                href="https://en.wikipedia.org/wiki/Mary_I_of_England#cite_note-124"
-                >[124]</a
-              ></sup
-            >
+            ></sup>
+            In total, 283 were executed, most by burning.<sup
+              class="reference"
+            ></sup>
             The burnings proved so unpopular that even
             <a
               href="https://en.wikipedia.org/wiki/Alfonso_de_Castro"
@@ -1608,42 +1277,23 @@ article a {
               >Alfonso de Castro</a
             >, one of Philip&apos;s own ecclesiastical staff, condemned them<sup
               class="reference"
-              ><a
-                href="https://en.wikipedia.org/wiki/Mary_I_of_England#cite_note-125"
-                >[125]</a
-              ></sup
-            >
+            ></sup>
             and another adviser,
             <a
               href="https://en.wikipedia.org/wiki/Simon_Renard"
               title="Simon Renard"
               >Simon Renard</a
             >, warned him that such &quot;cruel enforcement&quot; could
-            &quot;cause a revolt&quot;.<sup class="reference"
-              ><a
-                href="https://en.wikipedia.org/wiki/Mary_I_of_England#cite_note-126"
-                >[126]</a
-              ></sup
-            >
-            Mary persevered with the policy, which continued until her death and
+            &quot;cause a revolt&quot;.<sup class="reference"></sup> Mary
+            persevered with the policy, which continued until her death and
             exacerbated anti-Catholic and anti-Spanish feeling among the English
-            people.<sup class="reference"
-              ><a
-                href="https://en.wikipedia.org/wiki/Mary_I_of_England#cite_note-127"
-                >[127]</a
-              ></sup
-            >
+            people.<sup class="reference"></sup>
             The victims became lauded as
             <a
               href="https://en.wikipedia.org/wiki/List_of_Protestant_martyrs_of_the_English_Reformation"
               title="List of Protestant martyrs of the English Reformation"
               >martyrs</a
-            >.<sup class="reference"
-              ><a
-                href="https://en.wikipedia.org/wiki/Mary_I_of_England#cite_note-128"
-                >[128]</a
-              ></sup
-            >
+            >.<sup class="reference"></sup>
           </p>
           <p>
             <a
@@ -1651,12 +1301,7 @@ article a {
               title="Reginald Pole"
               >Reginald Pole</a
             >, the son of Mary&apos;s executed governess, arrived as papal
-            legate in November 1554.<sup class="reference"
-              ><a
-                href="https://en.wikipedia.org/wiki/Mary_I_of_England#cite_note-129"
-                >[129]</a
-              ></sup
-            >
+            legate in November 1554.<sup class="reference"></sup>
             He was ordained a priest and appointed Archbishop of Canterbury
             immediately after Cranmer&apos;s execution in March 1556.
           </p>
@@ -1693,12 +1338,7 @@ article a {
               title="Plantations of Ireland"
               >plantation</a
             >
-            began.<sup class="reference"
-              ><a
-                href="https://en.wikipedia.org/wiki/Mary_I_of_England#cite_note-132"
-                >[132]</a
-              ></sup
-            >
+            began.<sup class="reference"></sup>
             Their principal towns were respectively named Maryborough (now
             <a
               href="https://en.wikipedia.org/wiki/Portlaoise"
@@ -1732,12 +1372,7 @@ article a {
             >, attempted to assemble an invasion force in France. The plot,
             known as the Dudley conspiracy, was betrayed, and the conspirators
             in England were rounded up. Dudley remained in exile in France, and
-            Noailles prudently left Britain.<sup class="reference"
-              ><a
-                href="https://en.wikipedia.org/wiki/Mary_I_of_England#cite_note-133"
-                >[133]</a
-              ></sup
-            >
+            Noailles prudently left Britain.<sup class="reference"></sup>
           </p>
           <p>
             Philip returned to England from March to July 1557 to persuade Mary
@@ -1750,12 +1385,9 @@ article a {
             it because French trade would be jeopardised, it contravened the
             foreign war provisions of the marriage treaty, and a bad economic
             legacy from Edward VI&apos;s reign and a series of poor harvests
-            meant England lacked supplies and finances.<sup class="reference"
-              ><a
-                href="https://en.wikipedia.org/wiki/Mary_I_of_England#cite_note-134"
-                >[134]</a
-              ></sup
-            >
+            meant England lacked supplies and finances.<sup
+              class="reference"
+            ></sup>
             War was only declared in June 1557 after Reginald Pole&apos;s
             nephew,
             <a
@@ -1770,11 +1402,7 @@ article a {
             >
             with French help, in a failed attempt to depose Mary.<sup
               class="reference"
-              ><a
-                href="https://en.wikipedia.org/wiki/Mary_I_of_England#cite_note-135"
-                >[135]</a
-              ></sup
-            >
+            ></sup>
             As a result of the war, relations between England and the Papacy
             became strained, since
             <a href="https://en.wikipedia.org/wiki/Pope_Paul_IV" title=""
@@ -1785,24 +1413,16 @@ article a {
               href="https://en.wikipedia.org/wiki/Henry_II_of_France"
               title="Henry II of France"
               >Henry II of France</a
-            >.<sup class="reference"
-              ><a
-                href="https://en.wikipedia.org/wiki/Mary_I_of_England#cite_note-136"
-                >[136]</a
-              ></sup
-            >
+            >.<sup class="reference"></sup>
             In August, English forces were victorious in the aftermath of the
             <a
               href="https://en.wikipedia.org/wiki/Battle_of_St._Quentin_(1557)"
               title="Battle of St. Quentin (1557)"
               >Battle of Saint Quentin</a
             >, with one eyewitness reporting, &quot;Both sides fought most
-            choicely, and the English best of all.&quot;<sup class="reference"
-              ><a
-                href="https://en.wikipedia.org/wiki/Mary_I_of_England#cite_note-137"
-                >[137]</a
-              ></sup
-            >
+            choicely, and the English best of all.&quot;<sup
+              class="reference"
+            ></sup>
             Celebrations were brief, as in January 1558 French forces
             <a
               href="https://en.wikipedia.org/wiki/Siege_of_Calais_(1558)"
@@ -1812,11 +1432,7 @@ article a {
             mainland. Although the territory was financially burdensome, its
             loss was a mortifying blow to the queen&apos;s prestige.<sup
               class="reference"
-              ><a
-                href="https://en.wikipedia.org/wiki/Mary_I_of_England#cite_note-138"
-                >[138]</a
-              ></sup
-            >
+            ></sup>
             According to
             <a
               href="https://en.wikipedia.org/wiki/Holinshed%27s_Chronicles"
@@ -1829,31 +1445,38 @@ article a {
         </section>
         <section id="commerce">
           <h3>Commerce and revenue</h3>
-          The years of Mary's reign were consistently wet. The persistent rain
-          and flooding led to famine.[140] Another problem was the decline of
-          the Antwerp cloth trade.[141] Despite Mary's marriage to Philip,
-          England did not benefit from Spain's enormously lucrative trade with
-          the New World.[142] The mercantilist Spanish guarded their trade
-          routes jealously, and Mary could not condone English smuggling or
-          piracy against her husband.[143] In an attempt to increase trade and
-          rescue the English economy, Mary's counsellors continued
-          Northumberland's policy of seeking out new commercial opportunities.
-          She granted a royal charter to the Muscovy Company under governor
-          Sebastian Cabot,[144] and commissioned a world atlas from Diogo
-          Homem.[145] Adventurers such as John Lok and William Towerson sailed
-          south in an attempt to develop links with the coast of Africa.[146]
-          Financially, Mary's regime tried to reconcile a modern form of
-          government—with correspondingly higher spending—with a medieval system
-          of collecting taxation and dues.[147] Mary retained the Edwardian
-          appointee William Paulet, 1st Marquess of Winchester, as Lord High
-          Treasurer and assigned him to oversee the revenue collection system. A
-          failure to apply new tariffs to new forms of imports meant that a key
-          source of revenue was neglected. To solve this, Mary's government
-          published a revised "Book of Rates" (1558), which listed the tariffs
-          and duties for every import. This publication was not extensively
-          reviewed until 1604.[148] English coinage was debased under both Henry
-          VIII and Edward VI. Mary drafted plans for currency reform but they
-          were not implemented until after her death.
+          <p>
+            The years of Mary's reign were consistently wet. The persistent rain
+            and flooding led to famine. Another problem was the decline of the
+            Antwerp cloth trade. Despite Mary's marriage to Philip, England did
+            not benefit from Spain's enormously lucrative trade with the New
+            World. The mercantilist Spanish guarded their trade routes
+            jealously, and Mary could not condone English smuggling or piracy
+            against her husband. In an attempt to increase trade and rescue the
+            English economy, Mary's counsellors continued Northumberland's
+            policy of seeking out new commercial opportunities. She granted a
+            royal charter to the Muscovy Company under governor Sebastian Cabot,
+            and commissioned a world atlas from Diogo Homem. Adventurers such as
+            John Lok and William Towerson sailed south in an attempt to develop
+            links with the coast of Africa.
+          </p>
+          <p>
+            Financially, Mary's regime tried to reconcile a modern form of
+            government—with correspondingly higher spending—with a medieval
+            system of collecting taxation and dues. Mary retained the Edwardian
+            appointee William Paulet, 1st Marquess of Winchester, as Lord High
+            Treasurer and assigned him to oversee the revenue collection system.
+            A failure to apply new tariffs to new forms of imports meant that a
+            key source of revenue was neglected. To solve this, Mary's
+            government published a revised "Book of Rates" (1558), which listed
+            the tariffs and duties for every import. This publication was not
+            extensively reviewed until 1604.
+          </p>
+          <p>
+            English coinage was debased under both Henry VIII and Edward VI.
+            Mary drafted plans for currency reform but they were not implemented
+            until after her death.
+          </p>
         </section>
       </section>
       <section id="death">
@@ -1861,35 +1484,14 @@ article a {
         <hr />
         <p>
           After Philip&apos;s visit in 1557, Mary again thought she was
-          pregnant, with a baby due in March 1558.<sup class="reference"
-            ><a
-              href="https://en.wikipedia.org/wiki/Mary_I_of_England#cite_note-150"
-              >[150]</a
-            ></sup
-          >
+          pregnant, with a baby due in March 1558.<sup class="reference"></sup>
           She decreed in her will that her husband would be the regent during
-          the minority of their child.<sup class="reference"
-            ><a
-              href="https://en.wikipedia.org/wiki/Mary_I_of_England#cite_note-151"
-              >[151]</a
-            ></sup
-          >
-          But no child was born, and Mary was forced to accept that her
-          half-sister Elizabeth would be her lawful successor.<sup
-            class="reference"
-            ><a
-              href="https://en.wikipedia.org/wiki/Mary_I_of_England#cite_note-152"
-              >[152]</a
-            ></sup
-          >
+          the minority of their child.<sup class="reference"></sup> But no child
+          was born, and Mary was forced to accept that her half-sister Elizabeth
+          would be her lawful successor.<sup class="reference"></sup>
         </p>
         <p>
-          Mary was weak and ill from May 1558.<sup class="reference"
-            ><a
-              href="https://en.wikipedia.org/wiki/Mary_I_of_England#cite_note-153"
-              >[153]</a
-            ></sup
-          >
+          Mary was weak and ill from May 1558.<sup class="reference"></sup>
           In pain, possibly from
           <a
             href="https://en.wikipedia.org/wiki/Ovarian_cyst"
@@ -1901,12 +1503,7 @@ article a {
             href="https://en.wikipedia.org/wiki/Uterine_cancer"
             title="Uterine cancer"
             >uterine cancer</a
-          >,<sup class="reference"
-            ><a
-              href="https://en.wikipedia.org/wiki/Mary_I_of_England#cite_note-154"
-              >[154]</a
-            ></sup
-          >
+          >,<sup class="reference"></sup>
           she died on 17 November 1558, aged 42, at
           <a
             href="https://en.wikipedia.org/wiki/St_James%27s_Palace"
@@ -1925,11 +1522,7 @@ article a {
             >Joan</a
           >: &quot;I felt a reasonable regret for her death.&quot;<sup
             class="reference"
-            ><a
-              href="https://en.wikipedia.org/wiki/Mary_I_of_England#cite_note-155"
-              >[155]</a
-            ></sup
-          >
+          ></sup>
         </p>
         <p>
           Although Mary&apos;s will stated that she wished to be buried next to
@@ -1972,21 +1565,13 @@ article a {
             >bishop of Winchester</a
           >, praised Mary: &quot;She was a king&apos;s daughter; she was a
           king&apos;s sister; she was a king&apos;s wife. She was a queen, and
-          by the same title a king also.&quot;<sup class="reference"
-            ><a
-              href="https://en.wikipedia.org/wiki/Mary_I_of_England#cite_note-157"
-              >[157]</a
-            ></sup
-          >
-          She was the first woman to successfully claim the throne of England,
+          by the same title a king also.&quot;<sup class="reference"></sup> She
+          was the first woman to successfully claim the throne of England,
           despite competing claims and determined opposition, and enjoyed
           popular support and sympathy during the earliest parts of her reign,
-          especially from the Roman Catholics of England.<sup class="reference"
-            ><a
-              href="https://en.wikipedia.org/wiki/Mary_I_of_England#cite_note-158"
-              >[158]</a
-            ></sup
-          >
+          especially from the Roman Catholics of England.<sup
+            class="reference"
+          ></sup>
         </p>
         <p>
           Protestant writers at the time, and since, have often condemned
@@ -1995,12 +1580,7 @@ article a {
           <a href="https://en.wikipedia.org/wiki/Sobriquet" title="Sobriquet"
             >sobriquet</a
           >
-          &quot;Bloody Mary&quot;.<sup class="reference"
-            ><a
-              href="https://en.wikipedia.org/wiki/Mary_I_of_England#cite_note-159"
-              >[159]</a
-            ></sup
-          >
+          &quot;Bloody Mary&quot;.<sup class="reference"></sup>
           <a href="https://en.wikipedia.org/wiki/John_Knox" title="John Knox"
             >John Knox</a
           >
@@ -2026,22 +1606,14 @@ article a {
             >John Foxe</a
           >. Foxe&apos;s book remained popular throughout the following
           centuries and helped shape enduring perceptions of Mary as a
-          bloodthirsty tyrant.<sup class="reference"
-            ><a
-              href="https://en.wikipedia.org/wiki/Mary_I_of_England#cite_note-160"
-              >[160]</a
-            ></sup
-          >
-          Historian Lucy Wooding notes misogynistic undertones in descriptions
-          of Mary. &quot;She&apos;s simultaneously being lambasted for being
+          bloodthirsty tyrant.<sup class="reference"></sup> Historian Lucy
+          Wooding notes misogynistic undertones in descriptions of Mary.
+          &quot;She&apos;s simultaneously being lambasted for being
           &apos;vindictive and fierce&apos; and &apos;spineless and weak&apos;,
           criticized for such actions as showing clemency to political prisoners
-          and yielding authority to her husband.&quot;<sup class="reference"
-            ><a
-              href="https://en.wikipedia.org/wiki/Mary_I_of_England#cite_note-Solly-120"
-              >[120]</a
-            ></sup
-          >
+          and yielding authority to her husband.&quot;<sup
+            class="reference"
+          ></sup>
         </p>
         <p>
           Mary is remembered in the 21st century for her vigorous efforts to
@@ -2059,38 +1631,19 @@ article a {
           authoritarian, and scholarship since then has tended to view the
           older, simpler assessments of Mary with increasing reservations.<sup
             class="reference"
-            ><a
-              href="https://en.wikipedia.org/wiki/Mary_I_of_England#cite_note-161"
-              >[161]</a
-            ></sup
-          >
+          ></sup>
           A historiographical revisionism since the 1980s has improved her
-          reputation among scholars to some degree.<sup class="reference"
-            ><a
-              href="https://en.wikipedia.org/wiki/Mary_I_of_England#cite_note-162"
-              >[162]</a
-            ></sup
-          >
+          reputation among scholars to some degree.<sup class="reference"></sup>
           <a
             href="https://en.wikipedia.org/wiki/Christopher_Haigh"
             title="Christopher Haigh"
             >Christopher Haigh</a
           >
           argued that her revival of religious festivities and Catholic
-          practices was generally welcomed.<sup class="reference"
-            ><a
-              href="https://en.wikipedia.org/wiki/Mary_I_of_England#cite_note-163"
-              >[163]</a
-            ></sup
-          >
-          Haigh concluded that the &quot;last years of Mary&apos;s reign were
-          not a gruesome preparation for Protestant victory, but a continuing
-          consolidation of Catholic strength.&quot;<sup class="reference"
-            ><a
-              href="https://en.wikipedia.org/wiki/Mary_I_of_England#cite_note-164"
-              >[164]</a
-            ></sup
-          >
+          practices was generally welcomed.<sup class="reference"></sup> Haigh
+          concluded that the &quot;last years of Mary&apos;s reign were not a
+          gruesome preparation for Protestant victory, but a continuing
+          consolidation of Catholic strength.&quot;<sup class="reference"></sup>
         </p>
         <p>
           Catholic historians, such as
@@ -2100,46 +1653,24 @@ article a {
             >John Lingard</a
           >, thought Mary&apos;s policies failed not because they were wrong but
           because she had too short a reign to establish them and because of
-          natural disasters beyond her control.<sup class="reference"
-            ><a
-              href="https://en.wikipedia.org/wiki/Mary_I_of_England#cite_note-165"
-              >[165]</a
-            ></sup
-          >
-          In other countries, the Catholic Counter-Reformation was spearheaded
-          by Jesuit missionaries, but Mary&apos;s chief religious advisor,
-          Cardinal Reginald Pole, refused to allow the Jesuits into England.<sup
+          natural disasters beyond her control.<sup class="reference"></sup> In
+          other countries, the Catholic Counter-Reformation was spearheaded by
+          Jesuit missionaries, but Mary&apos;s chief religious advisor, Cardinal
+          Reginald Pole, refused to allow the Jesuits into England.<sup
             class="reference"
-            ><a
-              href="https://en.wikipedia.org/wiki/Mary_I_of_England#cite_note-166"
-              >[166]</a
-            ></sup
-          >
+          ></sup>
           Her marriage to Philip was unpopular among her subjects and her
           religious policies resulted in deep-seated resentment.<sup
             class="reference"
-            ><a
-              href="https://en.wikipedia.org/wiki/Mary_I_of_England#cite_note-167"
-              >[167]</a
-            ></sup
-          >
+          ></sup>
           The military loss of Calais to France was a bitter humiliation to
           English pride. Failed harvests increased public discontent.<sup
             class="reference"
-            ><a
-              href="https://en.wikipedia.org/wiki/Mary_I_of_England#cite_note-168"
-              >[168]</a
-            ></sup
-          >
+          ></sup>
           Philip spent most of his time abroad, while his wife remained in
           England, leaving her depressed at his absence and undermined by their
           inability to have children. After Mary&apos;s death, Philip sought to
-          marry Elizabeth but she refused him.<sup class="reference"
-            ><a
-              href="https://en.wikipedia.org/wiki/Mary_I_of_England#cite_note-169"
-              >[169]</a
-            ></sup
-          >
+          marry Elizabeth but she refused him.<sup class="reference"></sup>
           Although Mary&apos;s rule was ultimately ineffectual and unpopular,
           the policies of fiscal reform, naval expansion, and colonial
           exploration that were later lauded as Elizabethan accomplishments were
