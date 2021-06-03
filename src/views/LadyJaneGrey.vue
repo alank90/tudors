@@ -1,18 +1,16 @@
 <template>
   <div class="container">
-    <h1>Mary the I</h1>
+    <h1>Lady Jane Grey</h1>
 
-    <maryBio></maryBio>
+    <ladyJaneBio></ladyJaneBio>
   </div>
 </template>
 
 <script>
-import maryBio from "../components/mary_I_Bio";
+import ladyJaneBio from "../components/ladyJaneGrey_Bio";
 
 export default {
-  components: {
-    maryBio
-  }
+  components: { ladyJaneBio }
 };
 </script>
 

@@ -61,10 +61,12 @@
         @mouseleave="toggleMasonryTitle"
         class="masonry-content"
       >
-        <img
-          src="../assets/img/lady_jane_grey.png"
-          alt="Picture of Lady Jane Grey"
-        />
+        <router-link to="/Lady_Jane_Grey">
+          <img
+            src="../assets/img/lady_jane_grey.png"
+            alt="Picture of Lady Jane Grey"
+          />
+        </router-link>
         <h3 class="masonry-title">Lady Jane Grey</h3>
         <p class="masonry-description">
           Lady Jane Grey (c.1537 – 12 February 1554), also known as Lady Jane

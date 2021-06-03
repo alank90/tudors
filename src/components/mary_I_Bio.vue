@@ -845,14 +845,12 @@ article a {
             producing an heir, which would prevent the Protestant Elizabeth
             (still next-in-line under the terms of
             <a
-              class="mw-redirect"
               href="https://en.wikipedia.org/wiki/Henry_VIII%27s_will"
               title="Henry VIII's will"
               >Henry VIII&apos;s will</a
             >
             and the
             <a
-              class="mw-redirect"
               href="https://en.wikipedia.org/wiki/Act_of_Succession_of_1544"
               title=""
               >Act of Succession of 1544</a
@@ -866,7 +864,6 @@ article a {
             >.<sup class="reference"></sup>
             Philip had a
             <a
-              class="mw-redirect"
               href="https://en.wikipedia.org/wiki/Charles,_Prince_of_Asturias"
               title="Charles, Prince of Asturias"
               >son</a
@@ -894,10 +891,7 @@ article a {
             >
             unsuccessfully petitioned her to consider marrying an Englishman,
             fearing that England would be relegated to a dependency of the
-            <a
-              class="mw-redirect"
-              href="https://en.wikipedia.org/wiki/Habsburg"
-              title="Habsburg"
+            <a href="https://en.wikipedia.org/wiki/Habsburg" title="Habsburg"
               >Habsburgs</a
             >.<sup class="reference"></sup> The marriage was unpopular with the
             English; Gardiner and his allies opposed it on the basis of
@@ -905,7 +899,6 @@ article a {
             Catholicism.<sup class="reference"></sup>
             When Mary insisted on marrying Philip, insurrections broke out.
             <a
-              class="mw-redirect"
               href="https://en.wikipedia.org/wiki/Thomas_Wyatt_the_younger"
               title="Thomas Wyatt the younger"
               >Thomas Wyatt the younger</a
@@ -932,7 +925,6 @@ article a {
             On reaching London, Wyatt was defeated and captured. Wyatt, the Duke
             of Suffolk, Lady Jane, and her husband
             <a
-              class="mw-redirect"
               href="https://en.wikipedia.org/wiki/Guildford_Dudley"
               title="Guildford Dudley"
               >Guildford Dudley</a
@@ -973,7 +965,6 @@ article a {
             ></sup>
             While Mary&apos;s grandparents
             <a
-              class="mw-redirect"
               href="https://en.wikipedia.org/wiki/Ferdinand_and_Isabella"
               title="Ferdinand and Isabella"
               >Ferdinand and Isabella</a
@@ -1004,7 +995,6 @@ article a {
             He had no amorous feelings for Mary and sought the marriage for its
             political and strategic gains; his aide
             <a
-              class="mw-redirect"
               href="https://en.wikipedia.org/wiki/Ruy_G%C3%B3mez_de_Silva"
               title="Ruy Gómez de Silva"
               >Ruy G&oacute;mez de Silva</a
@@ -1139,6 +1129,11 @@ article a {
         </section>
         <section id="religious-policy">
           <h3>Religious policy</h3>
+          <img
+            src="../assets/img/gold_coin_mary.png"
+            alt="Gold coin image of Mary"
+            class="shape-outside"
+          />
           <p>
             In the month following her accession, Mary issued a proclamation
             that she would not compel any of her subjects to follow her
@@ -1445,6 +1440,7 @@ article a {
         </section>
         <section id="commerce">
           <h3>Commerce and revenue</h3>
+
           <p>
             The years of Mary's reign were consistently wet. The persistent rain
             and flooding led to famine. Another problem was the decline of the
@@ -1460,6 +1456,11 @@ article a {
             John Lok and William Towerson sailed south in an attempt to develop
             links with the coast of Africa.
           </p>
+          <img
+            class="shape-outside"
+            src="../assets/img/mary_shilling.png"
+            alt="Edward as child"
+          />
           <p>
             Financially, Mary's regime tried to reconcile a modern form of
             government—with correspondingly higher spending—with a medieval
