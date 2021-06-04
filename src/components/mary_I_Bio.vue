@@ -307,7 +307,7 @@ article a {
             href="https://en.wikipedia.org/wiki/Henry,_Duke_of_Cornwall"
             title="Henry, Duke of Cornwall"
             >Henry, Duke of Cornwall</a
-          >.<sup class="reference"></sup>
+          >.
         </p>
         <p>
           Mary was baptised into the Catholic faith at the Church of the
@@ -334,8 +334,7 @@ article a {
             href="https://en.wikipedia.org/wiki/Agnes_Howard,_Duchess_of_Norfolk"
             title="Agnes Howard, Duchess of Norfolk"
             >Agnes Howard, Duchess of Norfolk</a
-          >.<sup class="reference"></sup>
-          Henry VIII&apos;s cousin, once removed,
+          >. Henry VIII&apos;s cousin, once removed,
           <a
             href="https://en.wikipedia.org/wiki/Margaret_Pole,_Countess_of_Salisbury"
             title="Margaret Pole, Countess of Salisbury"
@@ -354,11 +353,10 @@ article a {
             href="https://en.wikipedia.org/wiki/Frances_Grey,_Duchess_of_Suffolk"
             title=""
             >Frances Brandon</a
-          >.<sup class="reference"></sup>
-          In 1520, the Countess of Salisbury was appointed Mary&apos;s
+          >. In 1520, the Countess of Salisbury was appointed Mary&apos;s
           <a href="https://en.wikipedia.org/wiki/Governess" title="Governess"
             >governess</a
-          >.<sup class="reference"></sup>
+          >.
           <a
             href="https://en.wikipedia.org/wiki/John_Hussey,_1st_Baron_Hussey_of_Sleaford"
             title="John Hussey, 1st Baron Hussey of Sleaford"
@@ -484,7 +482,7 @@ article a {
             href="https://en.wikipedia.org/wiki/War_of_the_League_of_Cognac"
             title="War of the League of Cognac"
             >War of the League of Cognac</a
-          >.<sup class="reference"></sup>
+          >.
         </p>
         <p>
           From 1531, Mary was often sick with irregular menstruation and
@@ -493,8 +491,7 @@ article a {
             class="reference"
           ></sup>
           She was not permitted to see her mother, whom Henry had sent to live
-          away from court.<sup class="reference"></sup>
-          In early 1533, Henry married
+          away from court. In early 1533, Henry married
           <a
             href="https://en.wikipedia.org/wiki/Anne_Boleyn"
             title="Anne Boleyn"
@@ -526,15 +523,14 @@ article a {
             title="Elizabeth I of England"
             >Elizabeth</a
           >, Anne&apos;s daughter.<sup class="reference"></sup> Mary&apos;s
-          household was dissolved;<sup class="reference"></sup>
-          her servants (including the Countess of Salisbury) were dismissed and,
-          in December 1533, she was sent to join the household of the infant
-          Elizabeth at
+          household was dissolved; her servants (including the Countess of
+          Salisbury) were dismissed and, in December 1533, she was sent to join
+          the household of the infant Elizabeth at
           <a
             href="https://en.wikipedia.org/wiki/Hatfield,_Hertfordshire"
             title="Hatfield, Hertfordshire"
             >Hatfield, Hertfordshire</a
-          >.<sup class="reference"></sup>
+          >.
         </p>
         <p>
           Mary determinedly refused to acknowledge that Anne was the queen or
@@ -543,8 +539,7 @@ article a {
           ></sup>
           Under strain and with her movements restricted, Mary was frequently
           ill, which the royal physician attributed to her &quot;ill
-          treatment&quot;.<sup class="reference"></sup>
-          The Imperial ambassador
+          treatment&quot;. The Imperial ambassador
           <a href="https://en.wikipedia.org/wiki/Eustace_Chapuys" title=""
             >Eustace Chapuys</a
           >
@@ -667,19 +662,18 @@ article a {
         <hr />
         <p>
           On 6 July 1553, at the age of 15, Edward VI died of a lung infection,
-          possibly tuberculosis.<sup class="reference"></sup>
-          He did not want the crown to go to Mary because he feared she would
-          restore Catholicism and undo his and their father&apos;s reforms, and
-          so he planned to exclude her from the line of succession. His advisers
-          told him that he could not disinherit only one of his half-sisters: he
-          would have to disinherit Elizabeth as well, even though she was a
-          Protestant. Guided by
+          possibly tuberculosis. He did not want the crown to go to Mary because
+          he feared she would restore Catholicism and undo his and their
+          father&apos;s reforms, and so he planned to exclude her from the line
+          of succession. His advisers told him that he could not disinherit only
+          one of his half-sisters: he would have to disinherit Elizabeth as
+          well, even though she was a Protestant. Guided by
           <a
             href="https://en.wikipedia.org/wiki/John_Dudley,_1st_Duke_of_Northumberland"
             title="John Dudley, 1st Duke of Northumberland"
             >John Dudley, 1st Duke of Northumberland</a
           >, and perhaps others, Edward excluded both from the line of
-          succession in his will.<sup class="reference"></sup>
+          succession in his will.
         </p>
         <p>
           Contradicting the
@@ -722,14 +716,13 @@ article a {
             title="Kett's Rebellion"
             >Kett&apos;s Rebellion</a
           >. Many adherents to the Catholic faith, opponents of Dudley&apos;s,
-          lived there.<sup class="reference"></sup>
-          On 9 July, from
+          lived there. On 9 July, from
           <a
             href="https://en.wikipedia.org/wiki/Kenninghall"
             title="Kenninghall"
             >Kenninghall</a
           >, Norfolk, she wrote to the privy council with orders for her
-          proclamation as Edward&apos;s successor.<sup class="reference"></sup>
+          proclamation as Edward&apos;s successor.
         </p>
         <p>
           On 10 July 1553, Lady Jane was proclaimed queen by Dudley and his
@@ -742,8 +735,7 @@ article a {
             >Framlingham Castle</a
           >, Suffolk.<sup class="reference"></sup> Dudley&apos;s support
           collapsed,<sup class="reference"></sup> and Jane was deposed on 19
-          July.<sup class="reference"></sup>
-          She and Dudley were imprisoned in the
+          July. She and Dudley were imprisoned in the
           <a
             href="https://en.wikipedia.org/wiki/Tower_of_London"
             title="Tower of London"
@@ -775,8 +767,7 @@ article a {
             href="https://en.wikipedia.org/wiki/Edward_Courtenay,_1st_Earl_of_Devon_(1553_creation)"
             title="Edward Courtenay, 1st Earl of Devon (1553 creation)"
             >Edward Courtenay</a
-          >.<sup class="reference"></sup>
-          Mary understood that the young Lady Jane was essentially a pawn in
+          >. Mary understood that the young Lady Jane was essentially a pawn in
           Dudley&apos;s scheme, and Dudley was the only conspirator of rank
           executed for
           <a
@@ -793,8 +784,8 @@ article a {
             href="https://en.wikipedia.org/wiki/Henry_Grey,_1st_Duke_of_Suffolk"
             title="Lord Chancellor"
             >Henry Grey, 1st Duke of Suffolk</a
-          >, was released.<sup class="reference"></sup>
-          Mary was left in a difficult position, as almost all the
+          >, was released. Mary was left in a difficult position, as almost all
+          the
           <a
             href="https://en.wikipedia.org/wiki/Privy_Council_of_England"
             title="Privy Council of England"
@@ -819,8 +810,7 @@ article a {
           became
           <a href="https://en.wikipedia.org/wiki/Mistress_of_the_Robes" title=""
             >Mistress of the Robes</a
-          >.<sup class="reference"></sup>
-          On 1 October 1553, Gardiner
+          >. On 1 October 1553, Gardiner
           <a
             href="https://en.wikipedia.org/wiki/Coronation_of_the_British_monarch"
             title="Coronation of the British monarch"
@@ -861,8 +851,7 @@ article a {
               href="https://en.wikipedia.org/wiki/Philip_II_of_Spain"
               title="Philip II of Spain"
               >Prince Philip of Spain</a
-            >.<sup class="reference"></sup>
-            Philip had a
+            >. Philip had a
             <a
               href="https://en.wikipedia.org/wiki/Charles,_Prince_of_Asturias"
               title="Charles, Prince of Asturias"
@@ -896,8 +885,8 @@ article a {
             >.<sup class="reference"></sup> The marriage was unpopular with the
             English; Gardiner and his allies opposed it on the basis of
             patriotism, while Protestants were motivated by a fear of
-            Catholicism.<sup class="reference"></sup>
-            When Mary insisted on marrying Philip, insurrections broke out.
+            Catholicism. When Mary insisted on marrying Philip, insurrections
+            broke out.
             <a
               href="https://en.wikipedia.org/wiki/Thomas_Wyatt_the_younger"
               title="Thomas Wyatt the younger"
@@ -937,7 +926,7 @@ article a {
               href="https://en.wikipedia.org/wiki/Woodstock_Palace"
               title="Woodstock Palace"
               >Woodstock Palace</a
-            >.<sup class="reference"></sup>
+            >.
           </p>
           <p>
             Mary was&mdash;excluding the brief, disputed reigns of the
@@ -990,8 +979,7 @@ article a {
             support to Philip&apos;s father in any war, and Philip could not act
             without his wife&apos;s consent or appoint foreigners to office in
             England.<sup class="reference"></sup> Philip was unhappy with these
-            conditions but ready to agree for the sake of securing the
-            marriage.<sup class="reference"></sup>
+            conditions but ready to agree for the sake of securing the marriage.
             He had no amorous feelings for Mary and sought the marriage for its
             political and strategic gains; his aide
             <a
@@ -1006,7 +994,7 @@ article a {
               href="https://en.wikipedia.org/wiki/Low_Countries"
               title="Low Countries"
               >Low Countries</a
-            >.&quot;<sup class="reference"></sup>
+            >.&quot;
           </p>
           <p>
             To elevate his son to Mary&apos;s rank, Emperor Charles V ceded to
@@ -1016,15 +1004,13 @@ article a {
               title="Kingdom of Jerusalem"
               >Kingdom of Jerusalem</a
             >. Mary thus became Queen of Naples and titular Queen of Jerusalem
-            upon marriage.<sup class="reference"></sup>
-            Their wedding at
+            upon marriage. Their wedding at
             <a
               href="https://en.wikipedia.org/wiki/Winchester_Cathedral"
               title="Winchester Cathedral"
               >Winchester Cathedral</a
             >
-            on 25 July 1554 took place just two days after their first
-            meeting.<sup class="reference"></sup>
+            on 25 July 1554 took place just two days after their first meeting.
             Philip could not speak English, and so they spoke a mixture of
             Spanish, French, and Latin
           </p>
@@ -1036,8 +1022,7 @@ article a {
             In September 1554, Mary stopped menstruating. She gained weight, and
             felt nauseated in the mornings. For these reasons, almost the
             entirety of her court, including her doctors, believed she was
-            pregnant.<sup class="reference"></sup>
-            Parliament passed an
+            pregnant. Parliament passed an
             <a
               href="https://en.wikipedia.org/wiki/Treason_Act_1554"
               title="Treason Act 1554"
@@ -1050,15 +1035,13 @@ article a {
             arrest, and called to court as a witness to the birth, which was
             expected imminently.<sup class="reference"></sup> According to
             Giovanni Michieli, the Venetian ambassador, Philip may have planned
-            to marry Elizabeth in the event of Mary&apos;s death in
-            childbirth,<sup class="reference"></sup>
+            to marry Elizabeth in the event of Mary&apos;s death in childbirth,
             but in a letter to his brother-in-law,
             <a
               href="https://en.wikipedia.org/wiki/Maximilian_II,_Holy_Roman_Emperor"
               title="Guildford Dudley"
               >Maximilian of Austria</a
-            >, Philip expressed uncertainty as to whether his wife was
-            pregnant.<sup class="reference"></sup>
+            >, Philip expressed uncertainty as to whether his wife was pregnant.
           </p>
           <p>
             Thanksgiving services in the
@@ -1070,7 +1053,7 @@ article a {
               class="reference"
             ></sup>
             Through May and June, the apparent delay in delivery fed gossip that
-            Mary was not pregnant.<sup class="reference"></sup>
+            Mary was not pregnant.
             <a
               href="https://en.wikipedia.org/wiki/Susan_Clarencieux"
               title="Susan Clarencieux"
@@ -1084,8 +1067,7 @@ article a {
             >.<sup class="reference"></sup> Mary continued to exhibit signs of
             pregnancy until July 1555, when her abdomen receded. Michieli
             dismissively ridiculed the pregnancy as more likely to &quot;end in
-            wind rather than anything else&quot;.<sup class="reference"></sup>
-            It was most likely a
+            wind rather than anything else&quot;. It was most likely a
             <a
               href="https://en.wikipedia.org/wiki/False_pregnancy"
               title="False pregnancy"
@@ -1094,20 +1076,20 @@ article a {
             child.<sup class="reference"></sup> In August, soon after the
             disgrace of the false pregnancy, which Mary considered
             &quot;God&apos;s punishment&quot; for her having &quot;tolerated
-            heretics&quot; in her realm,<sup class="reference"></sup>
-            Philip left England to command his armies against France in
+            heretics&quot; in her realm, Philip left England to command his
+            armies against France in
             <a href="https://en.wikipedia.org/wiki/Flanders" title="Flanders"
               >Flanders</a
             >.<sup class="reference"></sup> Mary was heartbroken and fell into a
             deep depression. Michieli was touched by the queen&apos;s grief; he
             wrote she was &quot;extraordinarily in love&quot; with her husband
-            and disconsolate at his departure.<sup class="reference"></sup>
+            and disconsolate at his departure.
           </p>
           <p>
             Elizabeth remained at court until October, apparently restored to
-            favour.<sup class="reference"></sup>
-            In the absence of any children, Philip was concerned that one of the
-            next claimants to the English throne after his sister-in-law was the
+            favour. In the absence of any children, Philip was concerned that
+            one of the next claimants to the English throne after his
+            sister-in-law was the
             <a
               href="https://en.wikipedia.org/wiki/Mary,_Queen_of_Scots"
               title="Mary, Queen of Scots"
@@ -1158,15 +1140,14 @@ article a {
               href="https://en.wikipedia.org/wiki/Hugh_Latimer"
               title="Hugh Latimer"
               >Hugh Latimer</a
-            >&mdash;were imprisoned.<sup class="reference"></sup>
-            Mary&apos;s first Parliament, which assembled in early October,
-            declared her parents&apos; marriage valid and
+            >&mdash;were imprisoned. Mary&apos;s first Parliament, which
+            assembled in early October, declared her parents&apos; marriage
+            valid and
             <a
               href="https://en.wikipedia.org/wiki/First_Statute_of_Repeal"
               title="First Statute of Repeal"
               >abolished Edward&apos;s religious laws</a
-            >.<sup class="reference"></sup>
-            Church doctrine was restored to the form it had taken in the 1539
+            >. Church doctrine was restored to the form it had taken in the 1539
             <a
               href="https://en.wikipedia.org/wiki/Six_Articles_(1539)"
               title="Six Articles (1539)"
@@ -1176,7 +1157,7 @@ article a {
             celibacy. Married priests were deprived of their
             <a href="https://en.wikipedia.org/wiki/Benefice" title="Benefice"
               >benefices</a
-            >.<sup class="reference"></sup>
+            >.
           </p>
           <p>
             Mary had always rejected the break with Rome her father instituted
@@ -1200,13 +1181,13 @@ article a {
               >confiscated</a
             >
             monastery lands were not returned to the church but remained in the
-            hands of their influential new owners.<sup class="reference"></sup>
-            By the end of 1554, the pope had approved the deal, and the
+            hands of their influential new owners. By the end of 1554, the pope
+            had approved the deal, and the
             <a
               href="https://en.wikipedia.org/wiki/Revival_of_the_Heresy_Acts"
               title="Revival of the Heresy Acts"
               >Heresy Acts were revived</a
-            >.<sup class="reference"></sup>
+            >.
           </p>
           <p>
             Around 800 rich Protestants, including
@@ -1220,8 +1201,7 @@ article a {
               title="Marian exiles"
               >exile</a
             >.<sup class="reference"></sup> Those who stayed and persisted in
-            publicly proclaiming their beliefs became targets of heresy
-            laws.<sup class="reference"></sup>
+            publicly proclaiming their beliefs became targets of heresy laws.
             The first executions occurred over five days in February 1555: John
             Rogers on 4 February,
             <a
@@ -1235,8 +1215,7 @@ article a {
               title="Rowland Taylor"
               >Rowland Taylor</a
             >
-            and John Hooper on 9 February.<sup class="reference"></sup>
-            Cranmer, the imprisoned
+            and John Hooper on 9 February. Cranmer, the imprisoned
             <a
               href="https://en.wikipedia.org/wiki/Archbishop_of_Canterbury"
               title=""
@@ -1282,13 +1261,12 @@ article a {
             &quot;cause a revolt&quot;.<sup class="reference"></sup> Mary
             persevered with the policy, which continued until her death and
             exacerbated anti-Catholic and anti-Spanish feeling among the English
-            people.<sup class="reference"></sup>
-            The victims became lauded as
+            people. The victims became lauded as
             <a
               href="https://en.wikipedia.org/wiki/List_of_Protestant_martyrs_of_the_English_Reformation"
               title="List of Protestant martyrs of the English Reformation"
               >martyrs</a
-            >.<sup class="reference"></sup>
+            >.
           </p>
           <p>
             <a
@@ -1296,9 +1274,9 @@ article a {
               title="Reginald Pole"
               >Reginald Pole</a
             >, the son of Mary&apos;s executed governess, arrived as papal
-            legate in November 1554.<sup class="reference"></sup>
-            He was ordained a priest and appointed Archbishop of Canterbury
-            immediately after Cranmer&apos;s execution in March 1556.
+            legate in November 1554. He was ordained a priest and appointed
+            Archbishop of Canterbury immediately after Cranmer&apos;s execution
+            in March 1556.
           </p>
         </section>
         <section id="foreign-policy">
@@ -1333,8 +1311,8 @@ article a {
               title="Plantations of Ireland"
               >plantation</a
             >
-            began.<sup class="reference"></sup>
-            Their principal towns were respectively named Maryborough (now
+            began. Their principal towns were respectively named Maryborough
+            (now
             <a
               href="https://en.wikipedia.org/wiki/Portlaoise"
               title="Portlaoise"
@@ -1367,7 +1345,7 @@ article a {
             >, attempted to assemble an invasion force in France. The plot,
             known as the Dudley conspiracy, was betrayed, and the conspirators
             in England were rounded up. Dudley remained in exile in France, and
-            Noailles prudently left Britain.<sup class="reference"></sup>
+            Noailles prudently left Britain.
           </p>
           <p>
             Philip returned to England from March to July 1557 to persuade Mary
@@ -1408,8 +1386,7 @@ article a {
               href="https://en.wikipedia.org/wiki/Henry_II_of_France"
               title="Henry II of France"
               >Henry II of France</a
-            >.<sup class="reference"></sup>
-            In August, English forces were victorious in the aftermath of the
+            >. In August, English forces were victorious in the aftermath of the
             <a
               href="https://en.wikipedia.org/wiki/Battle_of_St._Quentin_(1557)"
               title="Battle of St. Quentin (1557)"
@@ -1485,15 +1462,14 @@ article a {
         <hr />
         <p>
           After Philip&apos;s visit in 1557, Mary again thought she was
-          pregnant, with a baby due in March 1558.<sup class="reference"></sup>
-          She decreed in her will that her husband would be the regent during
-          the minority of their child.<sup class="reference"></sup> But no child
-          was born, and Mary was forced to accept that her half-sister Elizabeth
-          would be her lawful successor.<sup class="reference"></sup>
+          pregnant, with a baby due in March 1558. She decreed in her will that
+          her husband would be the regent during the minority of their
+          child.<sup class="reference"></sup> But no child was born, and Mary
+          was forced to accept that her half-sister Elizabeth would be her
+          lawful successor.
         </p>
         <p>
-          Mary was weak and ill from May 1558.<sup class="reference"></sup>
-          In pain, possibly from
+          Mary was weak and ill from May 1558. In pain, possibly from
           <a
             href="https://en.wikipedia.org/wiki/Ovarian_cyst"
             title="Ovarian cyst"
@@ -1504,8 +1480,7 @@ article a {
             href="https://en.wikipedia.org/wiki/Uterine_cancer"
             title="Uterine cancer"
             >uterine cancer</a
-          >,<sup class="reference"></sup>
-          she died on 17 November 1558, aged 42, at
+          >, she died on 17 November 1558, aged 42, at
           <a
             href="https://en.wikipedia.org/wiki/St_James%27s_Palace"
             title="St James's Palace"
@@ -1581,7 +1556,7 @@ article a {
           <a href="https://en.wikipedia.org/wiki/Sobriquet" title="Sobriquet"
             >sobriquet</a
           >
-          &quot;Bloody Mary&quot;.<sup class="reference"></sup>
+          &quot;Bloody Mary&quot;.
           <a href="https://en.wikipedia.org/wiki/John_Knox" title="John Knox"
             >John Knox</a
           >
@@ -1634,7 +1609,7 @@ article a {
             class="reference"
           ></sup>
           A historiographical revisionism since the 1980s has improved her
-          reputation among scholars to some degree.<sup class="reference"></sup>
+          reputation among scholars to some degree.
           <a
             href="https://en.wikipedia.org/wiki/Christopher_Haigh"
             title="Christopher Haigh"
@@ -1644,7 +1619,7 @@ article a {
           practices was generally welcomed.<sup class="reference"></sup> Haigh
           concluded that the &quot;last years of Mary&apos;s reign were not a
           gruesome preparation for Protestant victory, but a continuing
-          consolidation of Catholic strength.&quot;<sup class="reference"></sup>
+          consolidation of Catholic strength.&quot;
         </p>
         <p>
           Catholic historians, such as
@@ -1671,11 +1646,10 @@ article a {
           Philip spent most of his time abroad, while his wife remained in
           England, leaving her depressed at his absence and undermined by their
           inability to have children. After Mary&apos;s death, Philip sought to
-          marry Elizabeth but she refused him.<sup class="reference"></sup>
-          Although Mary&apos;s rule was ultimately ineffectual and unpopular,
-          the policies of fiscal reform, naval expansion, and colonial
-          exploration that were later lauded as Elizabethan accomplishments were
-          started in Mary&apos;s reign.
+          marry Elizabeth but she refused him. Although Mary&apos;s rule was
+          ultimately ineffectual and unpopular, the policies of fiscal reform,
+          naval expansion, and colonial exploration that were later lauded as
+          Elizabethan accomplishments were started in Mary&apos;s reign.
         </p>
       </section>
     </article>
