@@ -14,43 +14,30 @@ export default {
 
   methods: {
     initToTopButton: function() {
+      // Note we use arrow function definition for callback because
+      // "this" is then inherited from parent scope, which allows for
+      // this.isVisible to be used in eventListener.
       document.addEventListener("scroll", () => {
         const viewportHeight = window.innerHeight;
         const scrollTop = window.scrollY;
-        console.log("scrollTop is ", scrollTop);
-        console.log(` viewportis $, ${viewportHeight}`);
         if (scrollTop > viewportHeight) {
           this.isVisible = true;
           if (document.querySelector(".goTop")) {
             const backToTopButton = document.querySelector(".goTop");
             backToTopButton.classList.add("isVisible");
-            console.log(`${backToTopButton}`);
           }
         } else {
           if (document.querySelector(".goTop")) {
             const backToTopButton = document.querySelector(".goTop");
             backToTopButton.classList.remove("isVisible");
             this.isVisible = false;
-            console.log(`${backToTopButton}`);
           }
         }
       });
     },
     backToTop: function() {
       const el = document.querySelector("html");
-      console.log(`The el is ${el}`);
       el.scrollTop = 0;
-      console.log(`The scrollTop should now be zero : ${el.scrollTop}`);
-
-      /* $("html,body")
-        .stop()
-        .animate(
-          {
-            scrollTop: 0
-          },
-          "slow",
-          "swing"
-        ); */
     }
   },
   mounted: function() {
@@ -60,6 +47,12 @@ export default {
   }
 };
 </script>
+
+<style>
+html {
+  scroll-behavior: smooth;
+}
+</style>
 
 <style scoped>
 @import url("https://use.fontawesome.com/releases/v5.4.1/css/all.css");

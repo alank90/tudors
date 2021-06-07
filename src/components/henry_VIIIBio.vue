@@ -390,12 +390,17 @@
         </p>
       </section>
     </article>
+
+    <back-to-top></back-to-top>
   </div>
 </template>
 
 <script>
 import navbarProgress from "../views/assets/navbarProgress.js";
+import backToTop from "../components/backToTop.vue";
+
 export default {
+  components: { backToTop },
   mounted() {
     const querySelector = "nav.henry-bio";
     navbarProgress(querySelector);

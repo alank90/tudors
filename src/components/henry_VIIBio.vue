@@ -1,6 +1,9 @@
 <script>
 import navbarProgress from "../views/assets/navbarProgress.js";
+import backToTop from "../components/backToTop.vue";
+
 export default {
+  components: { backToTop },
   mounted() {
     const querySelector = "nav.henry-bio";
     navbarProgress(querySelector);
@@ -525,5 +528,7 @@ section:last-of-type p:last-of-type {
         </div>
       </section>
     </article>
+
+    <back-to-top></back-to-top>
   </div>
 </template>
