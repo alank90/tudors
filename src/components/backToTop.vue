@@ -14,22 +14,34 @@ export default {
 
   methods: {
     initToTopButton: function() {
-      document.addEventListener(
-        "scroll",
-        function() {
-          const backToTopButton = document.querySelector(".goTop");
-          const scrollTop = window.scrollY;
-          if (scrollTop > 250) {
-            backToTopButton.addClass("isVisible");
-            this.isVisible = true;
-          } else {
-            backToTopButton.removeClass("isVisible");
-            this.isVisible = false;
+      document.addEventListener("scroll", () => {
+        const viewportHeight = window.innerHeight;
+        const scrollTop = window.scrollY;
+        console.log("scrollTop is ", scrollTop);
+        console.log(` viewportis $, ${viewportHeight}`);
+        if (scrollTop > viewportHeight) {
+          this.isVisible = true;
+          if (document.querySelector(".goTop")) {
+            const backToTopButton = document.querySelector(".goTop");
+            backToTopButton.classList.add("isVisible");
+            console.log(`${backToTopButton}`);
           }
-        }.bind(this)
-      );
+        } else {
+          if (document.querySelector(".goTop")) {
+            const backToTopButton = document.querySelector(".goTop");
+            backToTopButton.classList.remove("isVisible");
+            this.isVisible = false;
+            console.log(`${backToTopButton}`);
+          }
+        }
+      });
     },
     backToTop: function() {
+      const el = document.querySelector("html");
+      console.log(`The el is ${el}`);
+      el.scrollTop = 0;
+      console.log(`The scrollTop should now be zero : ${el.scrollTop}`);
+
       /* $("html,body")
         .stop()
         .animate(
@@ -53,7 +65,6 @@ export default {
 @import url("https://use.fontawesome.com/releases/v5.4.1/css/all.css");
 
 .goTop {
-  background-color: #010e1b;
   background-color: rgba(1, 14, 27, 0.7);
   border: none;
   border-radius: 50%;
@@ -73,7 +84,6 @@ export default {
 }
 
 .goTop:hover {
-  background-color: #010e1b;
   background-color: rgba(1, 14, 27, 0.9);
   opacity: 1;
 }

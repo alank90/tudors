@@ -1,7 +1,9 @@
 <script>
 import navbarProgress from "../views/assets/navbarProgress";
+import backToTop from "../components/backToTop.vue";
 
 export default {
+  components: { backToTop },
   mounted() {
     const querySelector = "nav.lady-jane-bio";
     navbarProgress(querySelector);
@@ -1111,6 +1113,8 @@ article a {
         </p>
       </section>
     </article>
+
+    <backToTop></backToTop>
   </div>
   <!-- End .component-container -->
 </template>
