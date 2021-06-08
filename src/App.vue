@@ -27,7 +27,15 @@
       <router-view />
     </main>
 
-    <footer class="main-footer">The footer</footer>
+    <footer class="main-footer">
+      <a href="https://www.britannica.com/topic/House-of-Tudor" target="_blank"
+        >House of Tudor</a
+      ><a href="https://www.englishmonarchs.co.uk/tudor_21.htm" target="_blank"
+        >Tudor Kings and Queens</a
+      ><a href="https://www.britroyals.com/tudortree.asp" target="_blank"
+        >Tudor Family Tree</a
+      >
+    </footer>
   </div>
 </template>
 
@@ -86,7 +94,6 @@ body {
   font-family: var(--default-font);
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
-  /* text-align: center; */
   color: var(--color-text);
   height: 100vh;
   letter-spacing: var(--letter-spacing);
@@ -119,7 +126,15 @@ body {
 }
 
 .main-footer {
-  font-size: 2.5rem;
+  display: flex;
+  font-size: 1.5rem;
+  background: var(--footer-gradient);
+  justify-content: space-around;
+}
+
+.main-footer > a {
+  text-decoration: none;
+  color: var(--color-text);
 }
 
 li a {

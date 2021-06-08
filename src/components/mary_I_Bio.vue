@@ -3,7 +3,7 @@ import navbarProgress from "../views/assets/navbarProgress.js";
 import backToTop from "../components/backToTop.vue";
 
 export default {
-  components: {backToTop},
+  components: { backToTop },
   mounted() {
     const querySelector = "nav.mary-bio";
     navbarProgress(querySelector);

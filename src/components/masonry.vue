@@ -9,6 +9,7 @@
         <router-link to="/Henry_VII">
           <img
             src="../assets/img/henry_vii.png"
+            title="Click to read more..."
             alt="Picture of Henry VII"
             class="masonry-content"
           />
@@ -47,7 +48,11 @@
         class="masonry-content"
       >
         <router-link to="/edward_vi">
-          <img src="../assets/img/edward_vi.png" alt="Picture of Edward VI" />
+          <img
+            src="../assets/img/edward_vi.png"
+            title="Click to read more..."
+            alt="Picture of Edward VI"
+          />
         </router-link>
         <h3 class="masonry-title">Edward VI</h3>
         <p class="masonry-description">
@@ -64,6 +69,7 @@
         <router-link to="/Lady_Jane_Grey">
           <img
             src="../assets/img/lady_jane_grey.png"
+            title="Click to read more..."
             alt="Picture of Lady Jane Grey"
           />
         </router-link>
@@ -83,7 +89,11 @@
         class="masonry-content"
       >
         <router-link to="/Mary_I">
-          <img src="../assets/img/mary_i.png" alt="Picture of Mary I" />
+          <img
+            src="../assets/img/mary_i.png"
+            title="Click to read more..."
+            alt="Picture of Mary I"
+          />
         </router-link>
         <h3 class="masonry-title">Mary I</h3>
         <p class="masonry-description">
@@ -101,6 +111,7 @@
         <router-link to="Elizabeth_I">
           <img
             src="../assets/img/elizabeth_i.png"
+            title="Click to read more..."
             alt="Picture of Elizabeth I"
           />
         </router-link>
@@ -121,9 +132,6 @@
 <script>
 export default {
   name: "masonry",
-  data() {
-    return {};
-  },
   props: {
     msg: String
   },
@@ -160,19 +168,16 @@ export default {
     "one   two    three"
     "four  five    six"
     "....  eight   ...";
-  grid-template-columns:
-    repeat(2, minmax(250px, 1fr))
-    minmax(
-      300px,
-      1fr
-    ); /* [2] Make columns adjust according to the available viewport */
+  grid-template-columns: repeat(
+    3,
+    minmax(250px, 1fr)
+  ); /* [2] Make columns adjust according to the available viewport */
 }
 .henry_vii {
   grid-area: one;
 }
 .henry_viii {
   grid-area: two;
-  cursor: pointer;
 }
 .ed_vi {
   grid-area: three;
@@ -188,7 +193,6 @@ export default {
 }
 .eliz_i {
   grid-area: eight;
-  cursor: pointer;
 }
 
 .masonry-brick {
