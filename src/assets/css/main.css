@@ -16,12 +16,14 @@
   --nav-bg-gradient: linear-gradient(
     90deg,
     rgba(217, 7, 7, 1) 0%,
-    rgba(233, 77, 64, 1) 50%,
-    rgba(255, 190, 160, 1) 100%
+    rgba(237, 194, 4, 1) 100%
   );
-  --footer-background: rgb(69,124,32);
-  --footer-gradient: linear-gradient(90deg, rgba(69,124,32,1) 0%, rgba(122,204,65,1) 100%); 
+  --footer-background: rgb(69, 124, 32);
+  --footer-gradient: linear-gradient(
+    90deg,
+    rgba(217, 7, 7, 1) 0%,
+    rgba(237, 194, 4, 1) 50%,
+    rgba(65, 118, 28, 1) 100%
+  );
 }
 /* ============ End Global Variables ==================== */
-
-

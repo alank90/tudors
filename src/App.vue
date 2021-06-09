@@ -148,9 +148,9 @@ li a:hover {
 
 li a.router-link-exact-active {
   background: linear-gradient(
-    45deg,
-    rgba(233, 77, 64, 1) 0%,
-    rgba(255, 190, 160, 1) 100%
+    90deg,
+    rgba(217, 7, 7, 1) 0%,
+    rgba(237, 194, 4, 1) 100%
   );
   mix-blend-mode: lighten;
   color: #fff;
@@ -229,4 +229,41 @@ li a.router-link-exact-active {
 }
 
 /* End Link hover effect */
+
+a[href^="http"] {
+  margin: 0;
+  padding: 0;
+  border: 0 none;
+  position: relative;
+  outline: none;
+
+  text-decoration: none;
+  color: rgba(31, 29, 29, 0.794);
+  font-weight: 600;
+  z-index: 1;
+}
+
+a[href^="http"]:before {
+  content: "";
+  position: absolute;
+  width: 100%;
+  height: 3px;
+  bottom: 0;
+  left: 0;
+  background: rgb(217, 7, 7);
+  background: linear-gradient(
+    90deg,
+    rgba(217, 7, 7, 1) 0%,
+    rgba(248, 229, 143, 0.9135855025603992) 100%
+  );
+  visibility: hidden;
+  border-radius: 5px;
+  transform: scaleX(0);
+  transition: 0.25s linear;
+}
+a[href^="http"]:hover:before,
+a[href^="http"]:focus:before {
+  visibility: visible;
+  transform: scaleX(1);
+}
 </style>

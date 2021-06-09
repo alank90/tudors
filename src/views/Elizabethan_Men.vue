@@ -39,6 +39,12 @@ export default {
 .container {
   position: relative;
   min-height: 900px;
+  background: rgb(225, 222, 208);
+  background: linear-gradient(
+    90deg,
+    rgba(225, 222, 208, 1) 0%,
+    rgba(248, 229, 143, 0.9135855025603992) 100%
+  );
 }
 
 h1 {

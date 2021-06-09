@@ -1,6 +1,6 @@
 <template>
   <div class="component-container">
-    <nav class="henry-bio">
+    <nav class="elizabeth-bio">
       <ul>
         <li><a href="#intro">Intro</a></li>
         <li>
@@ -637,7 +637,8 @@ import backToTop from "../components/backToTop.vue";
 export default {
   components: { backToTop },
   mounted() {
-    navbarProgress();
+    const querySelector = "nav.elizabeth-bio";
+    navbarProgress(querySelector);
   }
 };
 </script>
