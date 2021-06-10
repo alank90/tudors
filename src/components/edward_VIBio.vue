@@ -218,7 +218,7 @@ article a {
           <a
             href="https://en.wikipedia.org/wiki/Edward_Seymour,_1st_Duke_of_Somerset"
             title="Edward Seymour, 1st Duke of Somerset"
-            >Edward Seymour, 1st Duke of Somerset</a
+            ><span>Edward Seymour, 1st Duke of Somerset</span></a
           >
           (1547&ndash;1549), and then by
           <a

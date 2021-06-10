@@ -135,6 +135,7 @@ body {
 .main-footer > a {
   text-decoration: none;
   color: var(--color-text);
+  -webkit-text-stroke: 0.5px rgb(231, 238, 167);
 }
 
 li a {
@@ -231,14 +232,39 @@ li a.router-link-exact-active {
 /* End Link hover effect */
 
 a[href^="http"] {
+  background: linear-gradient(90deg, rgba(217, 7, 7, 1), rgba(248, 229, 143, 1))
+    bottom left/0% 3px no-repeat;
+  padding-bottom: 3px;
+  line-height: 1.4em;
+  transition: 0.25s linear;
+  text-decoration: none;
+}
+
+a[href^="http"] span {
+  background: #da1207;
+  background: linear-gradient(to right, #da1207 0%, #e89705 100%);
+  background-clip: text;
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+
+a[href^="http"]:hover {
+  background-size: 100% 3px;
+}
+
+/* a[href^="http"] {
+  background: linear-gradient(90deg, rgba(217, 7, 7, 1), rgba(248, 229, 143, 1))
+    bottom left/0% 3px no-repeat;
+  padding-bottom: 3px;
+  line-height: 1.4em;
+  transition: 0.25s linear;
+  text-decoration: none;
   margin: 0;
   padding: 0;
   border: 0 none;
   position: relative;
   outline: none;
-
   text-decoration: none;
-  color: rgba(31, 29, 29, 0.794);
   font-weight: 600;
   z-index: 1;
 }
@@ -261,9 +287,23 @@ a[href^="http"]:before {
   transform: scaleX(0);
   transition: 0.25s linear;
 }
+
+a[href^="http"] span {
+  background: #da1207;
+  background: linear-gradient(to right, #da1207 0%, #e89705 100%);
+  background-clip: text;
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+
 a[href^="http"]:hover:before,
 a[href^="http"]:focus:before {
   visibility: visible;
   transform: scaleX(1);
-}
+  background-size: 100% 3px;
+} */
+
+/* a[href^="http"]:visited {
+  color: rgba(228, 200, 226, 0.914);
+} */
 </style>
