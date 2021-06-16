@@ -150,14 +150,22 @@ li a:hover {
 li a.router-link-exact-active {
   background: linear-gradient(
     90deg,
-    rgba(217, 7, 7, 1) 0%,
-    rgba(237, 194, 4, 1) 100%
+    rgb(236, 186, 4) 0%,
+    rgb(231, 135, 5) 50%,
+    rgb(236, 186, 4) 100%
   );
   mix-blend-mode: lighten;
   color: #fff;
-  border-radius: 5px;
   padding: 10px;
   cursor: none;
+}
+
+.link span {
+  background: #4c8b20;
+  background: linear-gradient(to right, #4c8b20 0%, #db1313 100%);
+  background-clip: text;
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
 }
 
 /* Link Hover effect */
@@ -231,7 +239,8 @@ li a.router-link-exact-active {
 
 /* End Link hover effect */
 
-a[href^="http"] {
+a[href^="http"],
+a[href^="/"]:not(.link) {
   background: linear-gradient(90deg, rgba(217, 7, 7, 1), rgba(248, 229, 143, 1))
     bottom left/0% 3px no-repeat;
   padding-bottom: 3px;
@@ -240,7 +249,8 @@ a[href^="http"] {
   text-decoration: none;
 }
 
-a[href^="http"] span {
+a[href^="http"] span,
+a[href^="/"]:not(.link) span {
   background: #da1207;
   background: linear-gradient(to right, #da1207 0%, #e89705 100%);
   background-clip: text;
@@ -248,62 +258,8 @@ a[href^="http"] span {
   -webkit-text-fill-color: transparent;
 }
 
-a[href^="http"]:hover {
+a[href^="http"]:hover,
+a[href^="/"]:not(.link):hover {
   background-size: 100% 3px;
 }
-
-/* a[href^="http"] {
-  background: linear-gradient(90deg, rgba(217, 7, 7, 1), rgba(248, 229, 143, 1))
-    bottom left/0% 3px no-repeat;
-  padding-bottom: 3px;
-  line-height: 1.4em;
-  transition: 0.25s linear;
-  text-decoration: none;
-  margin: 0;
-  padding: 0;
-  border: 0 none;
-  position: relative;
-  outline: none;
-  text-decoration: none;
-  font-weight: 600;
-  z-index: 1;
-}
-
-a[href^="http"]:before {
-  content: "";
-  position: absolute;
-  width: 100%;
-  height: 3px;
-  bottom: 0;
-  left: 0;
-  background: rgb(217, 7, 7);
-  background: linear-gradient(
-    90deg,
-    rgba(217, 7, 7, 1) 0%,
-    rgba(248, 229, 143, 0.9135855025603992) 100%
-  );
-  visibility: hidden;
-  border-radius: 5px;
-  transform: scaleX(0);
-  transition: 0.25s linear;
-}
-
-a[href^="http"] span {
-  background: #da1207;
-  background: linear-gradient(to right, #da1207 0%, #e89705 100%);
-  background-clip: text;
-  -webkit-background-clip: text;
-  -webkit-text-fill-color: transparent;
-}
-
-a[href^="http"]:hover:before,
-a[href^="http"]:focus:before {
-  visibility: visible;
-  transform: scaleX(1);
-  background-size: 100% 3px;
-} */
-
-/* a[href^="http"]:visited {
-  color: rgba(228, 200, 226, 0.914);
-} */
 </style>

@@ -158,7 +158,7 @@ article a {
           &quot;<strong>Nine Days&apos; Queen</strong>&quot;, was an English
           noblewoman and
           <a href="https://en.wikipedia.org/wiki/De_facto" title="De facto"
-            >de facto</a
+            ><span>de facto</span></a
           >
           Queen of England and Ireland from 10 July until 19 July 1553.
         </p>
@@ -167,58 +167,52 @@ article a {
           <a
             href="https://en.wikipedia.org/wiki/Henry_VII_of_England"
             title="Jane Grey (disambiguation)"
-            >Henry VII</a
+            ><span>Henry VII</span></a
           >
           through his younger daughter
           <a
             href="https://en.wikipedia.org/wiki/Mary_Tudor,_Queen_of_France"
             title="Mary Tudor, Queen of France"
-            >Mary</a
+            ><span>Mary</span></a
           >, and was a first cousin once removed of
           <a href="https://en.wikipedia.org/wiki/Edward_VI" title=""
-            >Edward VI</a
+            ><span>Edward VI</span></a
           >. She had an excellent
           <a
             href="https://en.wikipedia.org/wiki/Renaissance_humanism"
             title="Renaissance humanism"
-            >humanist</a
+            ><span>humanist</span></a
           >
           education and a reputation as one of the most learned young women of
           her day. In May 1553, she married
           <a
             href="https://en.wikipedia.org/wiki/Lord_Guildford_Dudley"
             title="Lord Guildford Dudley"
-            >Lord Guildford Dudley</a
+            ><span>Lord Guildford Dudley</span></a
           >, a younger son of Edward&apos;s chief minister
           <a
             href="https://en.wikipedia.org/wiki/John_Dudley,_Duke_of_Northumberland"
             title="John Dudley, Duke of Northumberland"
-            >John Dudley, Duke of Northumberland</a
+            ><span>John Dudley, Duke of Northumberland</span></a
           >. In June 1553, Edward VI wrote his will, nominating Jane and her
           male heirs as successors to the Crown, in part because his half-sister
-          <a
-            href="https://en.wikipedia.org/wiki/Mary_I_of_England"
-            title="Mary I of England"
-            >Mary</a
-          >
+          <a href="/Mary_I" title="Mary I of England"><span>Mary</span></a>
           was Roman Catholic, while Jane was a committed Protestant and would
           support the reformed
           <a
             href="https://en.wikipedia.org/wiki/Church_of_England"
             title="Church of England"
-            >Church of England</a
+            ><span>Church of England</span></a
           >, whose foundation Edward claimed to have laid. The will removed his
           half-sisters, Mary and
-          <a
-            href="https://en.wikipedia.org/wiki/Elizabeth_I_of_England"
-            title="Elizabeth I of England"
-            >Elizabeth</a
+          <a href="/Elizabeth_I" title="Elizabeth I of England"
+            ><span>Elizabeth</span></a
           >, from the line of succession on account of their illegitimacy,
           subverting their claims under the
           <a
             href="https://en.wikipedia.org/wiki/Third_Succession_Act"
             title="Third Succession Act"
-            >Third Succession Act</a
+            ><span>Third Succession Act</span></a
           >.
         </p>
         <p>
@@ -227,13 +221,13 @@ article a {
           <a
             href="https://en.wikipedia.org/wiki/Tower_of_London"
             title="Tower of London"
-            >Tower of London</a
+            ><span>Tower of London</span></a
           >. Support for Mary grew very quickly, and most of Jane&apos;s
           supporters abandoned her. The
           <a
             href="https://en.wikipedia.org/wiki/Privy_Council_of_England"
             title="Privy Council of England"
-            >Privy Council of England</a
+            ><span>Privy Council of England</span></a
           >
           suddenly changed sides and proclaimed Mary as queen on 19 July 1553,
           deposing Jane. Her primary supporter, her father-in-law the Duke of
@@ -245,18 +239,18 @@ article a {
           <a
             href="https://en.wikipedia.org/wiki/Henry_Grey,_1st_Duke_of_Suffolk"
             title="Henry Grey, 1st Duke of Suffolk"
-            >Henry Grey, 1st Duke of Suffolk</a
+            ><span>Henry Grey, 1st Duke of Suffolk</span></a
           >, became involved with
           <a
             href="https://en.wikipedia.org/wiki/Wyatt%27s_rebellion"
             title="Wyatt's rebellion"
-            >Wyatt&apos;s rebellion</a
+            ><span>Wyatt&apos;s rebellion</span></a
           >
           against Queen Mary&apos;s intention to marry
           <a
             href="https://en.wikipedia.org/wiki/Philip_II_of_Spain"
             title="Philip II of Spain"
-            >Philip II of Spain</a
+            ><span>Philip II of Spain</span></a
           >. Both Jane and her husband were executed on 12 February 1554.&nbsp;
         </p>
       </section>
@@ -269,23 +263,23 @@ article a {
           <a
             href="https://en.wikipedia.org/wiki/Henry_Grey,_1st_Duke_of_Suffolk"
             title="Henry Grey, 1st Duke of Suffolk"
-            >Henry Grey, 1st Duke of Suffolk</a
+            ><span>Henry Grey, 1st Duke of Suffolk</span></a
           >, and his wife,
           <a
             href="https://en.wikipedia.org/wiki/Frances_Grey,_Duchess_of_Suffolk"
             title="Edward VI"
-            >Frances</a
+            ><span>Frances</span></a
           >. The traditional view is that she was born at
           <a
             href="https://en.wikipedia.org/wiki/Bradgate_Park"
             title="Bradgate Park"
-            >Bradgate Park</a
+            ><span>Bradgate Park</span></a
           >
           in
           <a
             href="https://en.wikipedia.org/wiki/Leicestershire"
             title="Leicestershire"
-            >Leicestershire</a
+            ><span>Leicestershire</span></a
           >
           in October 1537, while more recent research indicates that she was
           born somewhat earlier, possibly in London, in late 1536 or in the
@@ -293,77 +287,79 @@ article a {
           <a
             href="https://en.wikipedia.org/wiki/King_Henry_VIII"
             title="King Henry VIII"
-            >King Henry VIII</a
+            ><span>King Henry VIII</span></a
           >&apos;s younger sister,
           <a
             href="https://en.wikipedia.org/wiki/Mary_Tudor,_Queen_of_France"
             title="Mary Tudor, Queen of France"
-            >Mary</a
+            ><span>Mary</span></a
           >. Jane had two younger sisters:
           <a
             href="https://en.wikipedia.org/wiki/Lady_Katherine_Grey"
             title="Lady Katherine Grey"
-            >Lady Katherine</a
+            ><span>Lady Katherine</span></a
           >
           and
           <a
             href="https://en.wikipedia.org/wiki/Lady_Mary_Grey"
             title="Lady Mary Grey"
-            >Lady Mary</a
+            ><span>Lady Mary</span></a
           >. Through their mother, the three sisters were great-granddaughters
           of
           <a
             href="https://en.wikipedia.org/wiki/Henry_VII_of_England"
             title="Henry VII of England"
-            >Henry VII</a
+            ><span>Henry VII</span></a
           >; grandnieces of Henry VIII; and first cousins once removed of
           <a href="https://en.wikipedia.org/wiki/Edward_VI" title="Edward VI"
-            >Edward VI</a
+            ><span>Edward VI</span></a
           >,
           <a href="https://en.wikipedia.org/wiki/Mary_I" title="Mary I"
-            >Mary I</a
+            ><span>Mary I</span></a
           >
           and
           <a
             href="https://en.wikipedia.org/wiki/Elizabeth_I"
             title="Elizabeth I"
-            >Elizabeth I</a
+            ><span>Elizabeth I</span></a
           >.
         </p>
         <p>
           Jane received a humanist education, studying
-          <a href="https://en.wikipedia.org/wiki/Latin" title="Latin">Latin</a>,
+          <a href="https://en.wikipedia.org/wiki/Latin" title="Latin"
+            ><span>Latin</span></a
+          >,
           <a
             href="https://en.wikipedia.org/wiki/Greek_language"
             title="Greek language"
-            >Greek</a
+            ><span>Greek</span></a
           >
           and
           <a
             href="https://en.wikipedia.org/wiki/Hebrew_language"
             title="Hebrew language"
-            >Hebrew</a
+            ><span>Hebrew</span></a
           >
           with
           <a
             href="https://en.wikipedia.org/wiki/John_Aylmer_(bishop)"
             title="John Aylmer (bishop)"
-            >John Aylmer</a
+            ><span>John Aylmer</span></a
           >, and Italian with
           <a
             href="https://en.wikipedia.org/wiki/Michelangelo_Florio"
             title="Michelangelo Florio"
-            >Michelangelo Florio</a
+            ><span>Michelangelo Florio</span></a
           >. Through the influence of her father and her tutors, she became a
           committed Protestant and also corresponded with the
           <a href="https://en.wikipedia.org/wiki/Z%C3%BCrich" title="Zürich"
-            >Z&uuml;rich</a
+            ><span>Z&uuml;rich</span></a
           >
           reformer
           <a
             href="https://en.wikipedia.org/wiki/Heinrich_Bullinger"
             title="Heinrich Bullinger"
-            >Heinrich Bullinger</a
+            ><span>Heinrich Bullinger</span></a
           >.
         </p>
         <p>
@@ -375,10 +371,11 @@ article a {
           ></sup>
           as harsh. To the visiting scholar
           <a href="https://en.wikipedia.org/wiki/Roger_Ascham" title=""
-            >Roger Ascham</a
+            ><span>Roger Ascham</span></a
           >, who found her reading
-          <a href="https://en.wikipedia.org/wiki/Plato" title="Plato">Plato</a>,
-          she is said to have complained:&nbsp;
+          <a href="https://en.wikipedia.org/wiki/Plato" title="Plato"
+            ><span>Plato</span></a
+          >, she is said to have complained:&nbsp;
         </p>
         <blockquote>
           <p>
@@ -389,12 +386,7 @@ article a {
             made the world; or else I am so sharply taunted, so cruelly
             threatened, yea presently sometimes with pinches, nips and bobs and
             other ways (which I will not name for the honour I bear them) ...
-            that I think myself in hell.<sup class="reference"
-              ><a
-                href="https://en.wikipedia.org/wiki/Lady_Jane_Grey#cite_note-13"
-                >[13]</a
-              ></sup
-            >
+            that I think myself in hell.
           </p>
         </blockquote>
         <p>
@@ -403,28 +395,28 @@ article a {
           <a
             href="https://en.wikipedia.org/wiki/Thomas_Seymour,_1st_Baron_Seymour_of_Sudeley"
             title="Thomas Seymour, 1st Baron Seymour of Sudeley"
-            >Thomas Seymour</a
+            ><span>Thomas Seymour</span></a
           >, who soon married Henry VIII&apos;s widow,
           <a
             href="https://en.wikipedia.org/wiki/Catherine_Parr"
             title="Catherine Parr"
-            >Catherine Parr</a
+            ><span>Catherine Parr</span></a
           >. Jane lived with the couple at
           <a
             href="https://en.wikipedia.org/wiki/Sudeley_Castle"
             title="Sudeley Castle"
-            >Sudeley Castle</a
+            ><span>Sudeley Castle</span></a
           >
           in
           <a
             href="https://en.wikipedia.org/wiki/Gloucestershire"
             title="Gloucestershire"
-            >Gloucestershire</a
+            ><span>Gloucestershire</span></a
           >, as an attendant to Catherine, until Catherine&apos;s
           <a
             href="https://en.wikipedia.org/wiki/Death_in_childbirth"
             title="Death in childbirth"
-            >death in childbirth</a
+            ><span>death in childbirth</span></a
           >
           in September 1548
         </p>
@@ -441,12 +433,12 @@ article a {
           <a
             href="https://en.wikipedia.org/wiki/Lord_Protector"
             title="Lord Protector"
-            >Lord Protector</a
+            ><span>Lord Protector</span></a
           >,
           <a
             href="https://en.wikipedia.org/wiki/Edward_Seymour,_1st_Duke_of_Somerset"
             title=""
-            >Edward Seymour, 1st Duke of Somerset</a
+            ><span>Edward Seymour, 1st Duke of Somerset</span></a
           >, felt threatened by Thomas&apos; popularity with the young King
           Edward. Among other things, Thomas Seymour was charged with proposing
           Jane as a bride for the king.
@@ -456,42 +448,42 @@ article a {
           <a
             href="https://en.wikipedia.org/wiki/Attainder"
             title="William Herbert, 1st Earl of Pembroke (1551 creation)"
-            >attainder</a
+            ><span>attainder</span></a
           >
           and execution, Jane&apos;s father was lucky to stay largely out of
           trouble. After his fourth interrogation by the
           <a
             href="https://en.wikipedia.org/wiki/Privy_Council_of_England"
             title="Privy Council of England"
-            >King&apos;s Council</a
+            ><span>King&apos;s Council</span></a
           >, he proposed his daughter Jane as a bride for the Protector&apos;s
           eldest son,
           <a
             href="https://en.wikipedia.org/wiki/Edward_Seymour,_1st_Earl_of_Hertford"
             title="Edward Seymour, 1st Earl of Hertford"
-            >Lord Hertford</a
+            ><span>Lord Hertford</span></a
           >. Nothing came of this, however, and Jane was not engaged until 25
           May 1553, her bridegroom being
           <a
             href="https://en.wikipedia.org/wiki/Lord_Guildford_Dudley"
             title="Lord Guildford Dudley"
-            >Lord Guildford Dudley</a
+            ><span>Lord Guildford Dudley</span></a
           >, a younger son of
           <a
             href="https://en.wikipedia.org/wiki/John_Dudley,_1st_Duke_of_Northumberland"
             title="Roger Ascham"
-            >John Dudley, 1st Duke of Northumberland</a
+            ><span>John Dudley, 1st Duke of Northumberland</span></a
           >. The Duke,
           <a
             href="https://en.wikipedia.org/wiki/Lord_President_of_the_Council"
             title="Lord President of the Council"
-            >Lord President</a
+            ><span>Lord President</span></a
           >
           of the
           <a
             href="https://en.wikipedia.org/wiki/Privy_council"
             title="Privy council"
-            >King&apos;s Council</a
+            ><span>King&apos;s Council</span></a
           >
           from late 1549, was then the most powerful man in the country.<sup
             class="reference"
@@ -500,44 +492,40 @@ article a {
           <a
             href="https://en.wikipedia.org/wiki/Durham_House_(London)"
             title="Durham House (London)"
-            >Durham House</a
+            ><span>Durham House</span></a
           >
           in a triple wedding, in which Jane&apos;s sister
           <a
             href="https://en.wikipedia.org/wiki/Lady_Catherine_Grey"
             title="Lady Catherine Grey"
-            >Catherine</a
+            ><span>Catherine</span></a
           >
           was matched with the heir of the
           <a
             href="https://en.wikipedia.org/wiki/William_Herbert,_1st_Earl_of_Pembroke_(1551_creation)"
             title=""
-            >Earl of Pembroke</a
+            ><span>Earl of Pembroke</span></a
           >,
           <a
             href="https://en.wikipedia.org/wiki/Henry_Herbert,_2nd_Earl_of_Pembroke"
             title="Henry Herbert, 2nd Earl of Pembroke"
-            >Lord Herbert</a
+            ><span>Lord Herbert</span></a
           >, and another
           <a
             href="https://en.wikipedia.org/wiki/Katherine_Hastings,_Countess_of_Huntingdon"
             title="Katherine Hastings, Countess of Huntingdon"
-            >Katherine</a
+            ><span>Katherine</span></a
           >, Lord Guildford&apos;s sister, with
           <a
             href="https://en.wikipedia.org/wiki/Henry_Hastings,_3rd_Earl_of_Huntingdon"
             title="Henry Hastings, 3rd Earl of Huntingdon"
-            >Henry Hastings</a
+            ><span>Henry Hastings</span></a
           >, the
           <a
             href="https://en.wikipedia.org/wiki/Francis_Hastings,_2nd_Earl_of_Huntingdon"
             title="Francis Hastings, 2nd Earl of Huntingdon"
-            >Earl of Huntingdon</a
-          >&apos;s heir.<sup class="reference"
-            ><a
-              href="https://en.wikipedia.org/wiki/Lady_Jane_Grey#cite_note-21"
-            ></a
-          ></sup>
+            ><span>Earl of Huntingdon</span></a
+          >&apos;s heir.
         </p>
       </section>
 
@@ -557,7 +545,7 @@ article a {
           ></sup>
           and also bypassed the claims of the descendants of his elder sister,
           <a href="https://en.wikipedia.org/wiki/Margaret_Tudor" title=""
-            >Margaret</a
+            ><span>Margaret</span></a
           >, who had married into the Scottish royal house and nobility.
         </p>
         <p>
@@ -566,13 +554,13 @@ article a {
           <a
             href="https://en.wikipedia.org/wiki/Catherine_of_Aragon"
             title="Catherine of Aragon"
-            >Catherine of Aragon</a
+            ><span>Catherine of Aragon</span></a
           >
           and
           <a
             href="https://en.wikipedia.org/wiki/Anne_Boleyn"
             title="Edward Seymour, 1st Duke of Somerset"
-            >Anne Boleyn</a
+            ><span>Anne Boleyn</span></a
           >
           had been declared void.<sup class="reference"></sup> When the
           15-year-old Edward VI lay dying in the early summer of 1553, his
@@ -583,23 +571,8 @@ article a {
           before he named his Protestant cousin &quot;Lady Jane and her heirs
           male&quot; as his successors, probably in June 1553; the intent was to
           ensure his Protestant legacy, thereby bypassing Mary, who was a Roman
-          Catholic.<sup class="reference"
-            ><a
-              href="https://en.wikipedia.org/wiki/Lady_Jane_Grey#cite_note-Alford_2002_171–172-23"
-              >[23]</a
-            ></sup
-          ><sup class="reference"></sup
-          ><sup class="reference"></sup> Edward&apos;s decision to name Jane
-          Grey herself was possibly instigated by Northumberland.<sup
-            class="reference"
-          ></sup
-          ><sup class="reference"></sup><sup class="reference"></sup
-          ><sup class="reference"
-            ><a
-              href="https://en.wikipedia.org/wiki/Lady_Jane_Grey#cite_note-auto-31"
-              >[31]</a
-            ></sup
-          >
+          Catholic. Edward&apos;s decision to name Jane Grey herself was
+          possibly instigated by Northumberland.
         </p>
         <p>
           Edward VI personally supervised the copying of his will which was
@@ -608,54 +581,44 @@ article a {
           <a
             href="https://en.wikipedia.org/wiki/Privy_Council"
             title="Privy Council"
-            >Privy Council</a
+            ><span>Privy Council</span></a
           >, peers, bishops, judges, and
           <a
             href="https://en.wikipedia.org/wiki/Court_of_Aldermen"
             title="Court of Aldermen"
-            >London aldermen</a
+            ><span>London aldermen</span></a
           >. Edward also announced to have his &quot;declaration&quot; passed in
           <a
             href="https://en.wikipedia.org/wiki/Parliament_of_England"
             title="Parliament of England"
-            >parliament</a
+            ><span>parliament</span></a
           >
           in September, and the necessary
-          <a href="https://en.wikipedia.org/wiki/Writs" title="Writs">writs</a>
-          were prepared.<sup class="reference"
-            ><a
-              href="https://en.wikipedia.org/wiki/Lady_Jane_Grey#cite_note-auto-31"
-              >[31]</a
-            ></sup
+          <a href="https://en.wikipedia.org/wiki/Writs" title="Writs"
+            ><span>writs</span></a
           >
-          The King died on 6 July 1553, but his death was not announced until
-          four days later. On 9 July Jane was informed that she was now queen,
-          and according to her own later claims, accepted the crown only with
-          reluctance. On 10 July, she was officially proclaimed Queen of
-          England, France and Ireland after she had taken up secure residence in
-          the
+          were prepared. The King died on 6 July 1553, but his death was not
+          announced until four days later. On 9 July Jane was informed that she
+          was now queen, and according to her own later claims, accepted the
+          crown only with reluctance. On 10 July, she was officially proclaimed
+          Queen of England, France and Ireland after she had taken up secure
+          residence in the
           <a
             href="https://en.wikipedia.org/wiki/Tower_of_London"
             title="Tower of London"
-            >Tower of London</a
+            ><span>Tower of London</span></a
           >, where English monarchs customarily resided from the time of
           accession until coronation. Jane refused to name her husband Dudley as
           king, because that would require an
           <a
             href="https://en.wikipedia.org/wiki/Act_of_Parliament"
             title="Act of Parliament"
-            >Act of Parliament</a
-          >.<sup class="reference"
-            ><a
-              href="https://en.wikipedia.org/wiki/Lady_Jane_Grey#cite_note-Ives_p._189-34"
-              >[34]</a
-            ></sup
-          >
-          She would agree only to make him
+            ><span>Act of Parliament</span></a
+          >. She would agree only to make him
           <a
             href="https://en.wikipedia.org/wiki/Duke_of_Clarence"
             title="Duke of Clarence"
-            >Duke of Clarence</a
+            ><span>Duke of Clarence</span></a
           >.<sup
             class="noprint Inline-Template Template-Fact"
             style="white-space: nowrap"
@@ -664,8 +627,10 @@ article a {
                 href="https://en.wikipedia.org/wiki/Wikipedia:Citation_needed"
                 title="Wikipedia:Citation needed"
                 ><span
-                  title="This claim needs references to reliable sources. (April 2018)"
-                  >citation needed</span
+                  ><span
+                    title="This claim needs references to reliable sources. (April 2018)"
+                    >citation needed</span
+                  ></span
                 ></a
               ></em
             >]</sup
@@ -676,26 +641,26 @@ article a {
           <a
             href="https://en.wikipedia.org/wiki/Political_power"
             title="Political power"
-            >power</a
+            ><span>power</span></a
           >
           after Edward&apos;s death. Most importantly, he had to isolate and,
           ideally, capture Mary Tudor to prevent her from gathering support. As
           soon as Mary was sure of King Edward&apos;s demise, she left her
           residence at
           <a href="https://en.wikipedia.org/wiki/Hunsdon" title="Hunsdon"
-            >Hunsdon</a
+            ><span>Hunsdon</span></a
           >
           and set out to
           <a
             href="https://en.wikipedia.org/wiki/East_Anglia"
             title="East Anglia"
-            >East Anglia</a
+            ><span>East Anglia</span></a
           >, where she began to rally her supporters. Northumberland set out
           from London with troops on 14 July to capture Mary. The
           <a
             href="https://en.wikipedia.org/wiki/Privy_Council_of_England"
             title="Privy Council of England"
-            >Privy Council</a
+            ><span>Privy Council</span></a
           >
           switched their allegiance and proclaimed Mary queen in London, on 19
           July. The historical consensus assumes that this was in recognition of
@@ -706,7 +671,7 @@ article a {
           <a
             href="https://en.wikipedia.org/wiki/Henry_FitzAlan,_19th_Earl_of_Arundel"
             title="Henry FitzAlan, 19th Earl of Arundel"
-            >Henry FitzAlan, 19th Earl of Arundel</a
+            ><span>Henry FitzAlan, 19th Earl of Arundel</span></a
           >&mdash;whom Northumberland had arrested and detained twice as an ally
           of Somerset, before rehabilitating&mdash;engineered a coup
           d&apos;&eacute;tat in the Privy Council in Northumberland&apos;s
@@ -733,98 +698,86 @@ article a {
           <a
             href="https://en.wikipedia.org/wiki/High_treason"
             title="High treason"
-            >high treason</a
+            ><span>high treason</span></a
           >, as were her husband, two of his brothers, and the former
           <a
             href="https://en.wikipedia.org/wiki/Archbishop_of_Canterbury"
             title="Margaret Tudor"
-            >archbishop of Canterbury</a
+            ><span>archbishop of Canterbury</span></a
           >,
           <a
             href="https://en.wikipedia.org/wiki/Thomas_Cranmer"
             title="Thomas Cranmer"
-            >Thomas Cranmer</a
-          >.<sup class="reference"
-            ><a
-              href="https://en.wikipedia.org/wiki/Lady_Jane_Grey#cite_note-auto1-38"
-              >[38]</a
-            ></sup
-          >
-          Their trial, by a special commission, took place on 13 November 1553,
-          at
+            ><span>Thomas Cranmer</span></a
+          >. Their trial, by a special commission, took place on 13 November
+          1553, at
           <a
             href="https://en.wikipedia.org/wiki/Guildhall,_London"
             title="Guildhall, London"
-            >Guildhall</a
+            ><span>Guildhall</span></a
           >
           in the
           <a
             href="https://en.wikipedia.org/wiki/City_of_London"
             title="David Starkey"
-            >City of London</a
+            ><span>City of London</span></a
           >. The commission was chaired by
           <a
             href="https://en.wikipedia.org/wiki/Thomas_White_(merchant)"
             title="Thomas White (merchant)"
-            >Sir Thomas White</a
+            ><span>Sir Thomas White</span></a
           >,
           <a
             href="https://en.wikipedia.org/wiki/Lord_Mayor_of_London"
             title="Lord Mayor of London"
-            >Lord Mayor of London</a
+            ><span>Lord Mayor of London</span></a
           >, and
           <a
             href="https://en.wikipedia.org/wiki/Thomas_Howard,_3rd_Duke_of_Norfolk"
             title="Thomas Howard, 3rd Duke of Norfolk"
-            >Thomas Howard, 3rd Duke of Norfolk</a
+            ><span>Thomas Howard, 3rd Duke of Norfolk</span></a
           >. Other members included
           <a
             href="https://en.wikipedia.org/wiki/Edward_Stanley,_3rd_Earl_of_Derby"
             title=""
-            >Edward Stanley, 3rd Earl of Derby</a
+            ><span>Edward Stanley, 3rd Earl of Derby</span></a
           >
           and
           <a
             href="https://en.wikipedia.org/wiki/John_Bourchier,_2nd_Earl_of_Bath"
             title="John Bourchier, 2nd Earl of Bath"
-            >John Bourchier, 2nd Earl of Bath</a
+            ><span>John Bourchier, 2nd Earl of Bath</span></a
           >. As was to be expected, all defendants were found guilty and
           sentenced to death. Jane&apos;s guilt, of having treacherously assumed
           the title and the power of the monarch, was evidenced by a number of
-          documents she had signed as &quot;Jane the Quene&quot;.<sup
-            class="reference"
-            ><a
-              href="https://en.wikipedia.org/wiki/Lady_Jane_Grey#cite_note-auto1-38"
-              >[38]</a
-            ></sup
-          >
-          Her sentence was to &quot;be burned alive on Tower Hill or beheaded as
-          the Queen pleases&quot; (<a
+          documents she had signed as &quot;Jane the Quene&quot;. Her sentence
+          was to &quot;be burned alive on Tower Hill or beheaded as the Queen
+          pleases&quot; (<a
             href="https://en.wikipedia.org/wiki/Execution_by_burning#Historical_usage"
             title="Execution by burning"
-            >burning</a
+            ><span>burning</span></a
           >
           was the
           <a
             href="https://en.wikipedia.org/wiki/Burning_of_women_in_England"
             title="Burning of women in England"
-            >traditional English punishment</a
+            ><span>traditional English punishment</span></a
           >
           for
           <a href="https://en.wikipedia.org/wiki/Treason" title="Treason"
-            >treason</a
+            ><span>treason</span></a
           >
           committed by women). The
           <a
             href="https://en.wikipedia.org/wiki/List_of_ambassadors_of_the_Kingdom_of_England_to_the_Holy_Roman_Emperor"
             title="List of ambassadors of the Kingdom of England to the Holy Roman Emperor"
-            >imperial ambassador</a
+            ><span>imperial ambassador</span></a
           >
           reported to
           <a
             href="https://en.wikipedia.org/wiki/Charles_V,_Holy_Roman_Emperor"
             title="Charles V, Holy Roman Emperor"
-            >Charles V, Holy Roman Emperor</a
+            ><span>Charles V, Holy Roman Emperor</span></a
           >, that her life was to be spared.
         </p>
 
@@ -846,7 +799,7 @@ article a {
             <a
               href="https://en.wikipedia.org/wiki/Inner_Temple_Library"
               title="Inner Temple Library"
-              >Inner Temple Library</a
+              ><span>Inner Temple Library</span></a
             >, London.
           </p>
         </div>
@@ -856,13 +809,13 @@ article a {
           <a
             href="https://en.wikipedia.org/wiki/Thomas_Wyatt_the_Younger"
             title="Thomas Wyatt the Younger"
-            >Thomas Wyatt the Younger</a
+            ><span>Thomas Wyatt the Younger</span></a
           >
           in January 1554 against Queen Mary&apos;s marriage plans with
           <a
             href="https://en.wikipedia.org/wiki/Philip_II_of_Spain"
             title="Philip II of Spain"
-            >Philip of Spain</a
+            ><span>Philip of Spain</span></a
           >
           sealed Jane&apos;s fate. Her father, Henry Grey, 1st Duke of Suffolk,
           and his two brothers joined the rebellion, and so the government
@@ -873,7 +826,7 @@ article a {
           <a
             href="https://en.wikipedia.org/wiki/John_Feckenham"
             title="John Feckenham"
-            >John Feckenham</a
+            ><span>John Feckenham</span></a
           >
           to Jane, who was initially not pleased about this.<sup
             class="reference"
@@ -886,11 +839,11 @@ article a {
           On the morning of 12 February 1554, the authorities took Guildford
           from his rooms at the Tower of London to the public
           <a href="https://en.wikipedia.org/wiki/Execution" title="Execution"
-            >execution</a
+            ><span>execution</span></a
           >
           place at
           <a href="https://en.wikipedia.org/wiki/Tower_Hill" title=""
-            >Tower Hill</a
+            ><span>Tower Hill</span></a
           >, where he was beheaded. A horse and cart brought his remains back to
           the Tower, past the rooms where Jane was staying. Seeing her
           husband&apos;s corpse return, Jane is reported to have exclaimed:
@@ -898,7 +851,7 @@ article a {
           <a
             href="https://en.wikipedia.org/wiki/Tower_Green"
             title="Tower Green"
-            >Tower Green</a
+            ><span>Tower Green</span></a
           >, inside the Tower, to be beheaded. According to the account of her
           execution given in the anonymous
           <em>Chronicle of Queen Jane and of Two Years of Queen Mary</em>, which
@@ -906,7 +859,7 @@ article a {
           <a
             href="https://en.wikipedia.org/wiki/Raphael_Holinshed"
             title="Raphael Holinshed"
-            >Raphael Holinshed</a
+            ><span>Raphael Holinshed</span></a
           >&apos;s depiction, Jane gave a speech upon ascending the scaffold:
         </p>
         <blockquote>
@@ -916,12 +869,7 @@ article a {
             unlawful, and the consenting thereunto by me: but touching the
             procurement and desire thereof by me or on my behalf, I do wash my
             hands thereof in innocency, before God, and the face of you, good
-            Christian people, this day.<sup class="reference"
-              ><a
-                href="https://en.wikipedia.org/wiki/Lady_Jane_Grey#cite_note-ladyjane-44"
-                >[44]</a
-              ></sup
-            >
+            Christian people, this day.
           </p>
         </blockquote>
         <div class="img-container-right">
@@ -937,19 +885,9 @@ article a {
         </div>
         <p>
           While admitting to action considered unlawful, she declared that
-          &quot;I do wash my hands thereof in innocence&quot;.<sup
-            class="reference"
-            ><a
-              href="https://en.wikipedia.org/wiki/Lady_Jane_Grey#cite_note-45"
-            ></a></sup
-          ><sup class="reference"
-            ><a
-              href="https://en.wikipedia.org/wiki/Lady_Jane_Grey#cite_note-46"
-            ></a
-          ></sup>
-          Jane then recited
+          &quot;I do wash my hands thereof in innocence&quot;. Jane then recited
           <a href="https://en.wikipedia.org/wiki/Psalm_51" title="Psalm 51"
-            >Psalm 51</a
+            ><span>Psalm 51</span></a
           >
           (<em>Have mercy upon me, O God</em>) in English, and handed her gloves
           and handkerchief to her maid. The executioner asked her forgiveness,
@@ -962,58 +900,38 @@ article a {
           <a
             href="https://en.wikipedia.org/wiki/Thomas_Brydges"
             title="Thomas Brydges"
-            >Sir Thomas Brydges</a
+            ><span>Sir Thomas Brydges</span></a
           >, the Deputy Lieutenant of the Tower, helped her find her way. With
           her head on the block, Jane spoke the last words of Jesus as recounted
           by
           <a
             href="https://en.wikipedia.org/wiki/Gospel_of_Luke"
             title="Gospel of Luke"
-            >Luke</a
-          >: &quot;Lord, into thy hands I commend my spirit!&quot;<sup
-            class="reference"
-            ><a
-              href="https://en.wikipedia.org/wiki/Lady_Jane_Grey#cite_note-ladyjane-44"
-            ></a
-          ></sup>
+            ><span>Luke</span></a
+          >: &quot;Lord, into thy hands I commend my spirit!&quot;
         </p>
         <p>
           Jane and Guildford are buried in the Chapel of
           <a
             href="https://en.wikipedia.org/wiki/Church_of_St_Peter_ad_Vincula"
             title=""
-            >St Peter ad Vincula</a
+            ><span>St Peter ad Vincula</span></a
           >
           on the north side of Tower Green. No memorial stone was erected at
-          their grave.<sup class="reference"
-            ><a
-              href="https://en.wikipedia.org/wiki/Lady_Jane_Grey#cite_note-47"
-            ></a
-          ></sup>
-          Jane&apos;s father, the Duke of Suffolk, was executed 11 days after
-          Jane, on 23 February 1554.<sup class="reference"
-            ><a
-              href="https://en.wikipedia.org/wiki/Lady_Jane_Grey#cite_note-CP-48"
-            ></a
-          ></sup>
-          Her mother, the Duchess of Suffolk, married her Master of the Horse
-          and
+          their grave. Jane&apos;s father, the Duke of Suffolk, was executed 11
+          days after Jane, on 23 February 1554 Her mother, the Duchess of
+          Suffolk, married her Master of the Horse and
           <a
             href="https://en.wikipedia.org/wiki/Chamberlain_(office)"
             title="Chamberlain (office)"
-            >chamberlain</a
+            ><span>chamberlain</span></a
           >,
           <a
             href="https://en.wikipedia.org/wiki/Adrian_Stokes_(Master_of_Horse)"
             title="Edward Stanley, 3rd Earl of Derby"
-            >Adrian Stokes</a
-          >, in March 1555.<sup class="reference"
-            ><a
-              href="https://en.wikipedia.org/wiki/Lady_Jane_Grey#cite_note-49"
-            ></a
-          ></sup>
-          She was fully pardoned by Mary and allowed to live at Court with her
-          two surviving daughters. She died in 1559.&nbsp;
+            ><span>Adrian Stokes</span></a
+          >, in March 1555. She was fully pardoned by Mary and allowed to live
+          at Court with her two surviving daughters. She died in 1559.&nbsp;
         </p>
       </section>
 
@@ -1025,31 +943,26 @@ article a {
           <a
             href="https://en.wikipedia.org/wiki/Albert_Pollard"
             title="Albert Pollard"
-            >Albert Pollard</a
+            ><span>Albert Pollard</span></a
           >
-          called her,<sup class="reference"
-            ><a
-              href="https://en.wikipedia.org/wiki/Lady_Jane_Grey#cite_note-50"
-            ></a
-          ></sup>
-          was only 16 or 17 years old at the time of her execution. During and
-          in the aftermath of the
+          called her, was only 16 or 17 years old at the time of her execution.
+          During and in the aftermath of the
           <a
             href="https://en.wikipedia.org/wiki/List_of_Protestant_martyrs_of_the_English_Reformation"
             title="List of Protestant martyrs of the English Reformation"
-            >Marian persecutions</a
+            ><span>Marian persecutions</span></a
           >, Jane became viewed as a Protestant martyr for centuries, featuring
           prominently in the several editions of the
           <em
             ><a
               href="https://en.wikipedia.org/wiki/Book_of_Martyrs"
               title="Church of St Peter ad Vincula"
-              >Book of Martyrs</a
+              ><span>Book of Martyrs</span></a
             ></em
           >
           (<em>Actes and Monuments of these Latter and Perillous Dayes</em>) by
           <a href="https://en.wikipedia.org/wiki/John_Foxe" title="John Foxe"
-            >John Foxe</a
+            ><span>John Foxe</span></a
           >. The tale of Lady Jane grew to legendary proportions in popular
           culture, producing romantic biographies, novels, plays, operas,
           paintings, and films.
@@ -1057,46 +970,24 @@ article a {
         <p>
           Jane Grey is the only English monarch in the last 500 years (though
           the legitimacy of her short reign is disputed) of whom no proven
-          contemporary portrait survives.<sup class="reference"
-            ><a
-              href="https://en.wikipedia.org/wiki/Lady_Jane_Grey#cite_note-guardian-1"
-              >[1]</a
-            ></sup
-          ><sup class="reference"
-            ><a
-              href="https://en.wikipedia.org/wiki/Lady_Jane_Grey#cite_note-telegraph-51"
-            ></a
-          ></sup>
-          A painting in London&apos;s
+          contemporary portrait survives. A painting in London&apos;s
           <a
             href="https://en.wikipedia.org/wiki/National_Portrait_Gallery_(United_Kingdom)"
             title="National Portrait Gallery (United Kingdom)"
-            >National Portrait Gallery</a
+            ><span>National Portrait Gallery</span></a
           >
           was thought to be Jane for many years, but in 1996 it was confirmed to
-          be of Catherine Parr.<sup class="reference"
-            ><a
-              href="https://en.wikipedia.org/wiki/Lady_Jane_Grey#cite_note-yale-52"
-              >[52]</a
-            ></sup
-          >
-          A portrait believed by some experts to be of Jane was discovered in a
-          private home in 2005. Painted 40 to 50 years after Jane&apos;s death,
-          the &quot;<a
+          be of Catherine Parr. A portrait believed by some experts to be of
+          Jane was discovered in a private home in 2005. Painted 40 to 50 years
+          after Jane&apos;s death, the &quot;<a
             href="https://en.wikipedia.org/wiki/Streatham_portrait"
             title="Streatham portrait"
-            >Streatham portrait</a
+            ><span>Streatham portrait</span></a
           >&quot; (so called after the area of London in which it resided for
           decades) depicts a young woman dressed in a red gown, adorned with
-          jewels and holding a prayer book.<sup class="reference"
-            ><a
-              href="https://en.wikipedia.org/wiki/Lady_Jane_Grey#cite_note-guardian-1"
-              >[1]</a
-            ></sup
-          >
-          Historian and Tudor specialist
+          jewels and holding a prayer book. Historian and Tudor specialist
           <a href="https://en.wikipedia.org/wiki/David_Starkey" title=""
-            >David Starkey</a
+            ><span>David Starkey</span></a
           >
           is sceptical, &quot;It&apos;s an appallingly bad picture and
           there&apos;s absolutely no reason to suppose it&apos;s got anything to
@@ -1107,7 +998,7 @@ article a {
           <a
             href="https://en.wikipedia.org/wiki/Yale_Center_for_British_Art"
             title="Yale Center for British Art"
-            >Yale Center for British Art</a
+            ><span>Yale Center for British Art</span></a
           >
           in the United States of America.
         </p>

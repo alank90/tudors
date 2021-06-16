@@ -913,34 +913,41 @@ article a {
 
         <section id="seymour">
           <h3>Thomas Seymour</h3>
-          Somerset faced less manageable opposition from his younger brother
-          Thomas Seymour, who has been described as a "worm in the bud".[67] As
-          King Edward's uncle, Thomas Seymour demanded the governorship of the
-          king's person and a greater share of power.[68] Somerset tried to buy
-          his brother off with a barony, an appointment to the Lord Admiralship,
-          and a seat on the Privy Council—but Thomas was bent on scheming for
-          power. He began smuggling pocket money to King Edward, telling him
-          that Somerset held the purse strings too tight, making him a "beggarly
-          king".[69] He also urged him to throw off the Protector within two
-          years and "bear rule as other kings do"; but Edward, schooled to defer
-          to the Council, failed to co-operate.[70] In the spring of 1547, using
-          Edward's support to circumvent Somerset's opposition, Thomas Seymour
-          secretly married Henry VIII's widow Catherine Parr, whose Protestant
-          household included the 11-year-old Lady Jane Grey and the 13-year-old
-          Lady Elizabeth.[71] In summer 1548, a pregnant Catherine Parr
-          discovered Thomas Seymour embracing Lady Elizabeth.[72] As a result,
-          Elizabeth was removed from Catherine Parr's household and transferred
-          to Sir Anthony Denny's. That September, Catherine Parr died shortly
-          after childbirth, and Thomas Seymour promptly resumed his attentions
-          to Elizabeth by letter, planning to marry her. Elizabeth was
-          receptive, but, like Edward, unready to agree to anything unless
-          permitted by the Council.[73] In January 1549, the Council had Thomas
-          Seymour arrested on various charges, including embezzlement at the
-          Bristol mint. King Edward, whom Seymour was accused of planning to
-          marry to Lady Jane Grey, himself testified about the pocket money.
-          Lack of clear evidence for treason ruled out a trial, so Seymour was
-          condemned instead by an Act of Attainder and beheaded on 20 March
-          1549.
+          <p>
+            Somerset faced less manageable opposition from his younger brother
+            Thomas Seymour, who has been described as a "worm in the bud".[67]
+            As King Edward's uncle, Thomas Seymour demanded the governorship of
+            the king's person and a greater share of power. Somerset tried to
+            buy his brother off with a barony, an appointment to the Lord
+            Admiralship, and a seat on the Privy Council—but Thomas was bent on
+            scheming for power. He began smuggling pocket money to King Edward,
+            telling him that Somerset held the purse strings too tight, making
+            him a "beggarly king". He also urged him to throw off the Protector
+            within two years and "bear rule as other kings do"; but Edward,
+            schooled to defer to the Council, failed to co-operate.
+          </p>
+          <p>
+            In the spring of 1547, using Edward's support to circumvent
+            Somerset's opposition, Thomas Seymour secretly married Henry VIII's
+            widow Catherine Parr, whose Protestant household included the
+            11-year-old Lady Jane Grey and the 13-year-old Lady Elizabeth. In
+            summer 1548, a pregnant Catherine Parr discovered Thomas Seymour
+            embracing Lady Elizabeth. As a result, Elizabeth was removed from
+            Catherine Parr's household and transferred to Sir Anthony Denny's.
+            That September, Catherine Parr died shortly after childbirth, and
+            Thomas Seymour promptly resumed his attentions to Elizabeth by
+            letter, planning to marry her. Elizabeth was receptive, but, like
+            Edward, unready to agree to anything unless permitted by the
+            Council.
+          </p>
+          <p>
+            In January 1549, the Council had Thomas Seymour arrested on various
+            charges, including embezzlement at the Bristol mint. King Edward,
+            whom Seymour was accused of planning to marry to Lady Jane Grey,
+            himself testified about the pocket money. Lack of clear evidence for
+            treason ruled out a trial, so Seymour was condemned instead by an
+            Act of Attainder and beheaded on 20 March 1549.
+          </p>
         </section>
 
         <section id="war">

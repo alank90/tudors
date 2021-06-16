@@ -66,6 +66,14 @@
           Henry married Catherine of Aragon, Arthur’s widow, and the attendant
           lavish entertainments ate into the modest royal reserves.
         </p>
+        <div class="img-container-right">
+          <img src="../assets/img/mourning_henry.jpg" alt="Henry mourning" />
+          <p>
+            Illustration from Vaux Passional thought to show Henry (top)
+            mourning his mother, with his sisters, Mary and Margaret, at age 11,
+            1503
+          </p>
+        </div>
         <p>
           Henry and his ministers exploited the dislike inspired by his father’s
           energetic pursuit of royal rights by sacrificing, without a thought,
@@ -249,6 +257,14 @@
 
       <section id="reforms">
         <h2>Domestic reforms</h2>
+        <div class="img-container-left">
+          <img
+            class="shape-outside"
+            src="../assets/img/henry_at_40.jpg"
+            alt="Henry VII at 40"
+          />
+          <p>Henry at 40</p>
+        </div>
         <p>
           Cromwell’s decade, the 1530s, was the only period of the reign during
           which a coherent body of policies was purposefully carried through.
@@ -428,6 +444,47 @@ h2 {
   border-left: 4px solid var(--highlight);
 }
 
+img {
+  max-width: 100%;
+  height: auto;
+  border-radius: 7px;
+}
+
+.shape-outside {
+  width: 300px;
+  margin: 10px 10px 10px 0;
+  border-radius: 50%;
+}
+
+.img-container-left {
+  max-width: 400px;
+  height: auto;
+  float: left;
+  -webkit-shape-outside: circle();
+  shape-outside: circle();
+  margin-top: 10px;
+  margin-right: 5px;
+  margin-bottom: 10px;
+  border-radius: 5px;
+  text-align: center;
+  font-weight: 575;
+}
+.img-container-left > p {
+  margin-top: -10px;
+  font-weight: 600;
+  font-style: italic;
+}
+
+.img-container-right {
+  max-width: 400px;
+  height: auto;
+  float: right;
+  margin: 15px;
+  border-radius: 5px;
+  text-align: center;
+  font-weight: 575;
+}
+
 p {
   text-justify: auto;
   text-align: left;
@@ -464,11 +521,6 @@ a[href*="/TheSixWives"] {
   float: right;
   cursor: pointer;
   width: 250px;
-}
-
-img {
-  width: 100%;
-  border-radius: 7px;
 }
 
 /* === Grid and base layout === */

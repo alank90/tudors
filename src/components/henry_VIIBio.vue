@@ -85,6 +85,41 @@ li.arthur_tudor {
   flex-shrink: 0.9;
 }
 
+.shape-outside {
+  width: 300px;
+  margin: 10px 10px 10px 0;
+  border-radius: 50%;
+}
+
+.img-container-left {
+  max-width: 400px;
+  height: auto;
+  float: left;
+  -webkit-shape-outside: circle();
+  shape-outside: circle();
+  margin-top: 10px;
+  margin-right: 5px;
+  margin-bottom: 10px;
+  border-radius: 5px;
+  text-align: center;
+  font-weight: 575;
+}
+.img-container-left > p {
+  margin-top: -10px;
+  font-weight: 600;
+  font-style: italic;
+}
+
+.img-container-right {
+  max-width: 400px;
+  height: auto;
+  float: right;
+  margin: 15px;
+  border-radius: 5px;
+  text-align: center;
+  font-weight: 575;
+}
+
 img {
   width: 100%;
   border-radius: 7px;
@@ -163,22 +198,22 @@ section:last-of-type p:last-of-type {
           <strong>Henry VII</strong> (<a
             href="https://en.wikipedia.org/wiki/Welsh_language"
             title=""
-            >Welsh</a
+            ><span>Welsh</span></a
           >: <i lang="cy">Harri Tudur</i>; 28 January 1457 &ndash; 21 April
           1509) was the
           <a href="https://en.wikipedia.org/wiki/King_of_England" title=""
-            >King of England</a
+            ><span>King of England</span></a
           >
           and
           <a
             href="https://en.wikipedia.org/wiki/Lord_of_Ireland"
             title="Lord of Ireland"
-            >Lord of Ireland</a
+            ><span>Lord of Ireland</span></a
           >
           from his seizure of the crown on 22 August 1485 until his death in
           1509. He was the first monarch of the
           <a href="https://en.wikipedia.org/wiki/House_of_Tudor" title=""
-            >House of Tudor</a
+            ><span>House of Tudor</span></a
           >.
         </p>
         <p>
@@ -214,15 +249,14 @@ section:last-of-type p:last-of-type {
         <p>
           Henry VII was born at Pembroke Castle on 28 January 1457 to Lady
           Margaret Beaufort, Countess of Richmond. His father, Edmund Tudor, 1st
-          Earl of Richmond, died three months before his birth.[1] Henry's
-          paternal grandfather, Owen Tudor, originally from the Tudors of
-          Penmynydd, Isle of Anglesey in Wales, had been a page in the court of
-          King Henry V. He rose to become one of the "Squires to the Body to the
-          King" after military service at the Battle of Agincourt.[2] Owen is
-          said to have secretly married the widow of Henry V, Catherine of
-          Valois. One of their sons was Edmund, Henry's father. Edmund was
-          created Earl of Richmond in 1452, and "formally declared legitimate by
-          Parliament".[3]
+          Earl of Richmond, died three months before his birth. Henry's paternal
+          grandfather, Owen Tudor, originally from the Tudors of Penmynydd, Isle
+          of Anglesey in Wales, had been a page in the court of King Henry V. He
+          rose to become one of the "Squires to the Body to the King" after
+          military service at the Battle of Agincourt. Owen is said to have
+          secretly married the widow of Henry V, Catherine of Valois. One of
+          their sons was Edmund, Henry's father. Edmund was created Earl of
+          Richmond in 1452, and "formally declared legitimate by Parliament".
         </p>
         <p>
           Henry's mother, Margaret, provided Henry's main claim to the English
@@ -241,34 +275,33 @@ section:last-of-type p:last-of-type {
           Gaunt's nephew Richard II legitimised Gaunt's children by Katherine
           Swynford by Letters Patent in 1397. In 1407, Henry IV, Gaunt's son by
           his first wife, issued new Letters Patent confirming the legitimacy of
-          his half-siblings but also declaring them ineligible for the
-          throne.[4] Henry IV's action was of doubtful legality, as the
-          Beauforts were previously legitimised by an Act of Parliament, but it
-          further weakened Henry's claim.[citation needed] Nonetheless, by 1483
-          Henry was the senior male Lancastrian claimant remaining after the
-          deaths in battle, by murder or execution of Henry VI (son of Henry V
-          and Catherine of Valois), his son Edward of Westminster, Prince of
-          Wales, and the other Beaufort line of descent through Lady Margaret's
-          uncle, Edmund Beaufort, 2nd Duke of Somerset.
+          his half-siblings but also declaring them ineligible for the throne.
+          Henry IV's action was of doubtful legality, as the Beauforts were
+          previously legitimised by an Act of Parliament, but it further
+          weakened Henry's claim.[citation needed] Nonetheless, by 1483 Henry
+          was the senior male Lancastrian claimant remaining after the deaths in
+          battle, by murder or execution of Henry VI (son of Henry V and
+          Catherine of Valois), his son Edward of Westminster, Prince of Wales,
+          and the other Beaufort line of descent through Lady Margaret's uncle,
+          Edmund Beaufort, 2nd Duke of Somerset.
         </p>
         <p>
           Henry also made some political capital out of his Welsh ancestry in
           attracting military support and safeguarding his army's passage
-          through Wales on its way to the Battle of Bosworth.[5][6] He came from
-          an old, established Anglesey family that claimed descent from
-          Cadwaladr, in legend, the last ancient British king,[7] and on
-          occasion Henry displayed the red dragon of Cadwaladr.[5] He took it,
-          as well as the standard of St. George, on his procession through
-          London after the victory at Bosworth.[8] A contemporary writer and
-          Henry's biographer, Bernard André, also made much of Henry's Welsh
-          descent.
+          through Wales on its way to the Battle of Bosworth. He came from an
+          old, established Anglesey family that claimed descent from Cadwaladr,
+          in legend, the last ancient British king, and on occasion Henry
+          displayed the red dragon of Cadwaladr. He took it, as well as the
+          standard of St. George, on his procession through London after the
+          victory at Bosworth. A contemporary writer and Henry's biographer,
+          Bernard André, also made much of Henry's Welsh descent.
         </p>
         <p>
           In 1456, Henry's father Edmund Tudor was captured while fighting for
           Henry VI in South Wales against the Yorkists. He died shortly
           afterwards in Carmarthen Castle. His younger brother, Jasper Tudor,
           the Earl of Pembroke, undertook to protect Edmund's widow Margaret,
-          who was 13 years old when she gave birth to Henry.[9] When Edward IV
+          who was 13 years old when she gave birth to Henry. When Edward IV
           became King in 1461, Jasper Tudor went into exile abroad. Pembroke
           Castle, and later the Earldom of Pembroke, were granted to the Yorkist
           William Herbert, who also assumed the guardianship of Margaret
@@ -278,14 +311,14 @@ section:last-of-type p:last-of-type {
           Henry lived in the Herbert household until 1469, when Richard Neville,
           Earl of Warwick (the "Kingmaker"), went over to the Lancastrians.
           Herbert was captured fighting for the Yorkists and executed by
-          Warwick.[11] When Warwick restored Henry VI in 1470, Jasper Tudor
-          returned from exile and brought Henry to court.[11] When the Yorkist
-          Edward IV regained the throne in 1471, Henry fled with other
-          Lancastrians to Brittany. He spent most of the next 14 years under the
-          protection of Francis II, Duke of Brittany. In November 1476, Francis
-          fell ill and his principal advisers were more amenable to negotiating
-          with King Edward. Henry was handed over and escorted to the Breton
-          port of Saint-Malo. While there, he feigned stomach cramps and in the
+          Warwick. When Warwick restored Henry VI in 1470, Jasper Tudor returned
+          from exile and brought Henry to court. When the Yorkist Edward IV
+          regained the throne in 1471, Henry fled with other Lancastrians to
+          Brittany. He spent most of the next 14 years under the protection of
+          Francis II, Duke of Brittany. In November 1476, Francis fell ill and
+          his principal advisers were more amenable to negotiating with King
+          Edward. Henry was handed over and escorted to the Breton port of
+          Saint-Malo. While there, he feigned stomach cramps and in the
           confusion fled into a monastery. Following the Battle of Tewkesbury in
           1471, Edward prepared to order Henry's extraction and probable
           execution. The townspeople took exception to his behaviour and Francis
@@ -295,31 +328,38 @@ section:last-of-type p:last-of-type {
       </section>
       <section id="accession">
         <h2>Rise to the throne</h2>
+        <div class="img-container-right">
+          <img
+            src="../assets/img/elizabeth_of_york.jpg"
+            alt="Elizabeth of York"
+          />
+          <p>Elizabeth of York</p>
+        </div>
         <p>
           By 1483, Henry's mother was actively promoting him as an alternative
           to Richard III, despite her being married to Lord Stanley, a Yorkist.
           At Rennes Cathedral on Christmas Day 1483, Henry pledged to marry
           Elizabeth of York, the eldest daughter of Edward IV. She was Edward's
           heir since the presumed death of her brothers, the Princes in the
-          Tower, King Edward V and Richard of Shrewsbury, Duke of York.[12] With
+          Tower, King Edward V and Richard of Shrewsbury, Duke of York. With
           money and supplies borrowed from his host, Francis II of Brittany,
           Henry tried to land in England, but his conspiracy unravelled
           resulting in the execution of his primary co-conspirator, Henry
-          Stafford, 2nd Duke of Buckingham.[13] Now supported by Francis II's
-          prime minister, Pierre Landais, Richard III attempted to extradite
-          Henry from Brittany, but Henry escaped to France.[14] He was welcomed
-          by the French, who readily supplied him with troops and equipment for
-          a second invasion.
+          Stafford, 2nd Duke of Buckingham. Now supported by Francis II's prime
+          minister, Pierre Landais, Richard III attempted to extradite Henry
+          from Brittany, but Henry escaped to France. He was welcomed by the
+          French, who readily supplied him with troops and equipment for a
+          second invasion.
         </p>
         <p>
           Henry gained the support of the Woodvilles, in-laws of the late Edward
           IV, and sailed with a small French and Scottish force, landing at Mill
-          Bay near Dale, Pembrokeshire.[15] He marched toward England
-          accompanied by his uncle Jasper and John de Vere, 13th Earl of Oxford.
-          Wales was historically a Lancastrian stronghold, and Henry owed the
-          support he gathered to his Welsh birth and ancestry, being directly
-          descended, through his father, from Rhys ap Gruffydd.[16] He amassed
-          an army of about 5,000 soldiers.
+          Bay near Dale, Pembrokeshire. He marched toward England accompanied by
+          his uncle Jasper and John de Vere, 13th Earl of Oxford. Wales was
+          historically a Lancastrian stronghold, and Henry owed the support he
+          gathered to his Welsh birth and ancestry, being directly descended,
+          through his father, from Rhys ap Gruffydd. He amassed an army of about
+          5,000 soldiers.
         </p>
         <p>
           Henry devised a plan to seize the throne by engaging Richard quickly
@@ -342,32 +382,31 @@ section:last-of-type p:last-of-type {
         <p>
           o secure his hold on the throne, Henry declared himself king by right
           of conquest retroactively from 21 August 1485, the day before Bosworth
-          Field.[19] Thus, anyone who had fought for Richard against him would
-          be guilty of treason and Henry could legally confiscate the lands and
+          Field. Thus, anyone who had fought for Richard against him would be
+          guilty of treason and Henry could legally confiscate the lands and
           property of Richard III, while restoring his own. Henry spared
           Richard's nephew and designated heir, John de la Pole, Earl of
           Lincoln, and made the Yorkist heiress Margaret Plantagenet Countess of
           Salisbury suo jure. He took care not to address the baronage or summon
           Parliament until after his coronation, which took place in Westminster
-          Abbey on 30 October 1485.[20] After his coronation Henry issued an
-          edict that any gentleman who swore fealty to him would,
-          notwithstanding any previous attainder, be secure in his property and
-          person.
+          Abbey on 30 October 1485. After his coronation Henry issued an edict
+          that any gentleman who swore fealty to him would, notwithstanding any
+          previous attainder, be secure in his property and person.
         </p>
         <p>
-          Henry honoured his pledge of December 1483 to marry Elizabeth of
-          York.[13][21] They were third cousins, as both were
-          great-great-grandchildren of John of Gaunt.[22] Henry and Elizabeth
-          were married on 18 January 1486 at Westminster Abbey.[citation needed]
-          The marriage unified the warring houses and gave his children a strong
-          claim to the throne. The unification of the houses of York and
-          Lancaster by this marriage is symbolised by the heraldic emblem of the
-          Tudor rose, a combination of the white rose of York and the red rose
-          of Lancaster. It also ended future discussion as to whether the
-          descendants of the fourth son of Edward III, Edmund, Duke of York,
-          through marriage to Philippa, heiress of the second son, Lionel, Duke
-          of Clarence, had a superior or inferior claim to those of the third
-          son John of Gaunt, who had held the throne for three generations.
+          Henry honoured his pledge of December 1483 to marry Elizabeth of York.
+          They were third cousins, as both were great-great-grandchildren of
+          John of Gaunt. Henry and Elizabeth were married on 18 January 1486 at
+          Westminster Abbey.[citation needed] The marriage unified the warring
+          houses and gave his children a strong claim to the throne. The
+          unification of the houses of York and Lancaster by this marriage is
+          symbolised by the heraldic emblem of the Tudor rose, a combination of
+          the white rose of York and the red rose of Lancaster. It also ended
+          future discussion as to whether the descendants of the fourth son of
+          Edward III, Edmund, Duke of York, through marriage to Philippa,
+          heiress of the second son, Lionel, Duke of Clarence, had a superior or
+          inferior claim to those of the third son John of Gaunt, who had held
+          the throne for three generations.
         </p>
         <p>
           In addition, Henry had Parliament repeal Titulus Regius, the statute
@@ -384,26 +423,26 @@ section:last-of-type p:last-of-type {
           Henry married Elizabeth of York with the hope of uniting the Yorkist
           and Lancastrian sides of the Plantagenet dynastic disputes, and he was
           largely successful. However, such a level of paranoia persisted that
-          anyone (John de la Pole, Earl of Lincoln,[24] for example) with blood
-          ties to the Plantagenets was suspected of coveting the throne.[25]
-          Henry secured his crown principally by dividing and undermining the
-          power of the nobility, especially through the aggressive use of bonds
-          and recognisances to secure loyalty. He also enacted laws against
-          livery and maintenance, the great lords' practice of having large
-          numbers of "retainers" who wore their lord's badge or uniform and
-          formed a potential private army.
+          anyone (John de la Pole, Earl of Lincoln, for example) with blood ties
+          to the Plantagenets was suspected of coveting the throne. Henry
+          secured his crown principally by dividing and undermining the power of
+          the nobility, especially through the aggressive use of bonds and
+          recognisances to secure loyalty. He also enacted laws against livery
+          and maintenance, the great lords' practice of having large numbers of
+          "retainers" who wore their lord's badge or uniform and formed a
+          potential private army.
         </p>
         <p>
           Henry began taking precautions against rebellion while still in
           Leicester after Bosworth Field. For instance, Edward, Earl of Warwick,
           the ten-year-old son of Edward IV's brother George, Duke of Clarence,
-          was the senior surviving male of the House of York.[26] Before
-          departing for London, Henry sent Robert Willoughby to Sheriff Hutton
-          in Yorkshire, to arrest Warwick and take him to the Tower of
-          London.[27] Despite such precautions, Henry faced several rebellions
-          over the next twelve years.[citation needed] The first was the 1486
-          rebellion of the Stafford brothers, abetted by Viscount Lovell, which
-          collapsed without fighting
+          was the senior surviving male of the House of York. Before departing
+          for London, Henry sent Robert Willoughby to Sheriff Hutton in
+          Yorkshire, to arrest Warwick and take him to the Tower of London.
+          Despite such precautions, Henry faced several rebellions over the next
+          twelve years.[citation needed] The first was the 1486 rebellion of the
+          Stafford brothers, abetted by Viscount Lovell, which collapsed without
+          fighting
         </p>
         <p>
           Next, in 1487, Yorkists led by Lincoln rebelled in support of Lambert
@@ -436,7 +475,7 @@ section:last-of-type p:last-of-type {
           security for access to his person.
         </p>
         <p>
-          n 1499, Henry had the Earl of Warwick executed.[32] However, he spared
+          n 1499, Henry had the Earl of Warwick executed. However, he spared
           Warwick's elder sister Margaret. She survived until 1541, when she was
           executed by Henry VIII.
         </p>
