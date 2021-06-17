@@ -21,7 +21,7 @@
         </p>
       </div>
     </div>
-    <router-view />
+    <!-- <router-view /> -->
     <div class="masonry-brick henry_viii">
       <div
         @mouseover="toggleMasonryTitle"
@@ -197,6 +197,9 @@ export default {
 
 .masonry-brick {
   color: #2f3640;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
   opacity: 0.75;
   transition: opacity 0.25s ease-in-out;
 }

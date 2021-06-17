@@ -239,8 +239,8 @@ li a.router-link-exact-active {
 
 /* End Link hover effect */
 
-a[href^="http"],
-a[href^="/"]:not(.link) {
+a[href^="http"]:not(footer > a),
+a[href^="/"]:not(.link):not(footer > a) {
   background: linear-gradient(90deg, rgba(217, 7, 7, 1), rgba(248, 229, 143, 1))
     bottom left/0% 3px no-repeat;
   padding-bottom: 3px;
@@ -249,7 +249,7 @@ a[href^="/"]:not(.link) {
   text-decoration: none;
 }
 
-a[href^="http"] span,
+a[href^="http"]:not(footer > a) span,
 a[href^="/"]:not(.link) span {
   background: #da1207;
   background: linear-gradient(to right, #da1207 0%, #e89705 100%);
@@ -258,7 +258,7 @@ a[href^="/"]:not(.link) span {
   -webkit-text-fill-color: transparent;
 }
 
-a[href^="http"]:hover,
+a[href^="http"]:not(footer > a):hover,
 a[href^="/"]:not(.link):hover {
   background-size: 100% 3px;
 }
