@@ -85,18 +85,32 @@ li.arthur_tudor {
   flex-shrink: 0.9;
 }
 
-.shape-outside {
-  width: 300px;
+.shape-outside-right {
+  float: right;
+  max-width: 350px;
   margin: 10px 10px 10px 0;
   border-radius: 50%;
+  -webkit-shape-outside: circle();
+  shape-outside: circle();
+}
+
+img[src^="/img/henryvii_w_advisors"]::after {
+  content: "Test text";
+  position: absolute;
+  left: 0;
+  /*top: 24px;
+  min-width: 200px;
+  border: 1px #aaaaaa solid;
+  border-radius: 10px;
+  background-color: #ffffcc;
+  padding: 12px;
+  color: #000000; */
 }
 
 .img-container-left {
   max-width: 400px;
   height: auto;
   float: left;
-  -webkit-shape-outside: circle();
-  shape-outside: circle();
   margin-top: 10px;
   margin-right: 5px;
   margin-bottom: 10px;
@@ -118,6 +132,13 @@ li.arthur_tudor {
   border-radius: 5px;
   text-align: center;
   font-weight: 575;
+}
+
+.img-container-right > p {
+  margin-top: -10px;
+  font-weight: 600;
+  font-style: italic;
+  text-align: center;
 }
 
 img {
@@ -379,8 +400,15 @@ section:last-of-type p:last-of-type {
           France and Lord of Ireland. On his succession, Henry became entitled
           to bear the Royal Arms of England.
         </p>
+
+        <img
+          class="shape-outside-right"
+          src="../assets/img/henryvii_w_advisors.jpg"
+          alt="Henry with advisors"
+        />
+
         <p>
-          o secure his hold on the throne, Henry declared himself king by right
+          To secure his hold on the throne, Henry declared himself king by right
           of conquest retroactively from 21 August 1485, the day before Bosworth
           Field. Thus, anyone who had fought for Richard against him would be
           guilty of treason and Henry could legally confiscate the lands and
