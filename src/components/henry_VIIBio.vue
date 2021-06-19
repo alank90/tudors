@@ -85,26 +85,16 @@ li.arthur_tudor {
   flex-shrink: 0.9;
 }
 
-.shape-outside-right {
+.container-right {
+   max-width: 400px;
+  height: auto;
   float: right;
+}
+
+.img-inside-container {
   max-width: 350px;
   margin: 10px 10px 10px 0;
   border-radius: 50%;
-  -webkit-shape-outside: circle();
-  shape-outside: circle();
-}
-
-img[src^="/img/henryvii_w_advisors"]::after {
-  content: "Test text";
-  position: absolute;
-  left: 0;
-  /*top: 24px;
-  min-width: 200px;
-  border: 1px #aaaaaa solid;
-  border-radius: 10px;
-  background-color: #ffffcc;
-  padding: 12px;
-  color: #000000; */
 }
 
 .img-container-left {
@@ -115,30 +105,21 @@ img[src^="/img/henryvii_w_advisors"]::after {
   margin-right: 5px;
   margin-bottom: 10px;
   border-radius: 5px;
-  text-align: center;
-  font-weight: 575;
-}
-.img-container-left > p {
-  margin-top: -10px;
-  font-weight: 600;
-  font-style: italic;
 }
 
 .img-container-right {
   max-width: 400px;
   height: auto;
   float: right;
-  margin: 15px;
-  border-radius: 5px;
-  text-align: center;
-  font-weight: 575;
+  shape-outside: circle(50%);
 }
 
-.img-container-right > p {
-  margin-top: -10px;
-  font-weight: 600;
-  font-style: italic;
+figcaption {
+  max-width: 80%;
+  margin: 0 auto;
+  font-size: 1.1rem;
   text-align: center;
+  font-weight: 600;
 }
 
 img {
@@ -349,13 +330,13 @@ section:last-of-type p:last-of-type {
       </section>
       <section id="accession">
         <h2>Rise to the throne</h2>
-        <div class="img-container-right">
+        <figure class="container-right">
           <img
             src="../assets/img/elizabeth_of_york.jpg"
             alt="Elizabeth of York"
           />
-          <p>Elizabeth of York</p>
-        </div>
+          <figcaption>Elizabeth of York</figcaption>
+        </figure>
         <p>
           By 1483, Henry's mother was actively promoting him as an alternative
           to Richard III, despite her being married to Lord Stanley, a Yorkist.
@@ -401,11 +382,17 @@ section:last-of-type p:last-of-type {
           to bear the Royal Arms of England.
         </p>
 
-        <img
-          class="shape-outside-right"
-          src="../assets/img/henryvii_w_advisors.jpg"
-          alt="Henry with advisors"
-        />
+        <figure class="img-container-right">
+          <img
+            class="img-inside-container"
+            src="../assets/img/henryvii_w_advisors.jpg"
+            alt="Henry with advisors"
+          />
+          <figcaption>
+            Henry VII (centre), with his advisors Sir Richard Empson and Edmund
+            Dudley
+          </figcaption>
+        </figure>
 
         <p>
           To secure his hold on the throne, Henry declared himself king by right
