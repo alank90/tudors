@@ -61,15 +61,6 @@ p:not(.intro)::first-letter {
   font-weight: 550;
 }
 
-.shape-outside {
-  float: left;
-  width: 300px;
-  margin: 10px 10px 10px 0;
-  border-radius: 50%;
-  -webkit-shape-outside: circle();
-  shape-outside: circle();
-}
-
 img {
   max-width: 100%;
   height: auto;

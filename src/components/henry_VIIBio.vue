@@ -14,6 +14,7 @@ export default {
 <style scoped>
 @import url("https://fonts.googleapis.com/css2?family=PT+Mono&family=PT+Sans:wght@400;700&display=swap");
 @import ".././assets/css/navbarProgress.css";
+
 * {
   --highlight: #db100e;
   --body-pad-top: 70px;
@@ -86,9 +87,11 @@ li.arthur_tudor {
 }
 
 .container-right {
-   max-width: 400px;
+  max-width: 400px;
   height: auto;
   float: right;
+  margin: 5px;
+  padding: 8px;
 }
 
 .img-inside-container {
@@ -111,6 +114,8 @@ li.arthur_tudor {
   max-width: 400px;
   height: auto;
   float: right;
+  margin: 5px;
+  padding: 5px;
   shape-outside: circle(50%);
 }
 
@@ -120,6 +125,7 @@ figcaption {
   font-size: 1.1rem;
   text-align: center;
   font-weight: 600;
+  margin-bottom: 5px;
 }
 
 img {

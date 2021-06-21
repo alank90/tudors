@@ -59,23 +59,62 @@ p:not(.intro)::first-letter {
   font-weight: 550;
 }
 
-.shape-outside {
+.container-right {
+  max-width: 400px;
+  height: auto;
+  float: right;
+  text-align: center;
+  margin: 5px;
+  padding: 8px;
+}
+
+.container-left {
+  max-width: 400px;
+  height: auto;
   float: left;
-  width: 300px;
+  text-align: center;
+  margin: 5px;
+  padding: 8px;
+}
+
+.img-inside-container {
+  max-width: 350px;
   margin: 10px 10px 10px 0;
   border-radius: 50%;
-  -webkit-shape-outside: circle();
-  shape-outside: circle();
+}
+
+.img-container-left {
+  max-width: 400px;
+  height: auto;
+  float: left;
+  text-align: center;
+  margin: 5px;
+  padding: 5px;
+  shape-outside: circle(50%);
+}
+
+.img-container-right {
+  max-width: 400px;
+  height: auto;
+  float: right;
+  text-align: center;
+  margin: 5px;
+  padding: 5px;
+  shape-outside: circle(50%);
+}
+
+figcaption {
+  max-width: 80%;
+  margin: 0 auto;
+  font-size: 1.1rem;
+  text-align: center;
+  font-weight: 600;
+  margin-bottom: 5px;
 }
 
 .shilling {
   float: right;
   width: 315px;
-}
-
-.jane-grey {
-  float: right;
-  width: 220px;
 }
 
 img {
@@ -311,11 +350,16 @@ article a {
         <section id="birth">
           <h3>Birth</h3>
 
-          <img
-            class="shape-outside"
-            src="../assets/img/edward_child.png"
-            alt="Edward as child"
-          />
+          <figure class="img-container-left">
+            <img
+              class="img-inside-container"
+              src="../assets/img/edward_child.png"
+              alt="Edward as child"
+            />
+            <figcaption>
+              Prince Edward in 1538, by Hans Holbein the Younger.
+            </figcaption>
+          </figure>
 
           <p>
             Edward was born on 12 October 1537 in his mother&apos;s room inside
@@ -1673,29 +1717,24 @@ article a {
             of 1543 and have been described as bizarre and illogical.
           </p>
 
-          <div class="jane-grey">
-            <a
-              target="_blank"
-              href="https://en.wikipedia.org/wiki/File:Streathamladyjayne.jpg"
-              ><img
-                alt="A stiff Elizabethan-style three-quarter portrait of Lady Jane Grey wearing elaborate formal dress and holding a prayer book. She is a tall, pale, rather horsey-faced young woman."
-                src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Streathamladyjayne.jpg/220px-Streathamladyjayne.jpg"
-                class="thumbimage"
-                srcset="
-                  //upload.wikimedia.org/wikipedia/commons/thumb/8/87/Streathamladyjayne.jpg/330px-Streathamladyjayne.jpg 1.5x,
-                  //upload.wikimedia.org/wikipedia/commons/thumb/8/87/Streathamladyjayne.jpg/440px-Streathamladyjayne.jpg 2x
-                "
-            /></a>
-
-            <div>
+          <figure class="container-right">
+            <img
+              src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Streathamladyjayne.jpg/220px-Streathamladyjayne.jpg"
+              srcset="
+                //upload.wikimedia.org/wikipedia/commons/thumb/8/87/Streathamladyjayne.jpg/330px-Streathamladyjayne.jpg 1.5x,
+                //upload.wikimedia.org/wikipedia/commons/thumb/8/87/Streathamladyjayne.jpg/440px-Streathamladyjayne.jpg 2x
+              "
+              alt="A stiff Elizabethan-style three-quarter portrait of Lady Jane Grey wearing elaborate formal dress and holding a prayer book. She is a tall, pale, rather horsey-faced young woman."
+            />
+            <figcaption>
               <a
                 href="https://en.wikipedia.org/wiki/Lady_Jane_Grey"
                 target="_blank"
                 title="Lady Jane Grey"
                 ><span>Lady Jane Grey</span></a
               >, who was proclaimed queen four days after Edward&apos;s death.
-            </div>
-          </div>
+            </figcaption>
+          </figure>
 
           <p>
             In early June, Edward personally supervised the drafting of a clean
