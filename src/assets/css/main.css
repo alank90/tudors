@@ -29,6 +29,19 @@
 /* ================ End Global Variables ======================= */
 
 /* ================ CSS Global Stylings ======================== */
+* {
+  --highlight: #db100e;
+  --body-pad-top: 70px;
+  margin: 0;
+  padding: 0;
+}
+
+img {
+  max-width: 100%;
+  height: auto;
+  border-radius: 7px;
+}
+
 .container-right {
   max-width: 400px;
   height: auto;

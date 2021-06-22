@@ -15,13 +15,6 @@ export default {
 @import url("https://fonts.googleapis.com/css2?family=PT+Mono&family=PT+Sans:wght@400;700&display=swap");
 @import ".././assets/css/navbarProgress.css";
 
-* {
-  --highlight: #db100e;
-  --body-pad-top: 70px;
-  margin: 0;
-  padding: 0;
-}
-
 section:not(:last-of-type) {
   padding-bottom: 15px;
 }
@@ -84,53 +77,6 @@ li:not(.arthur_tudor) {
 }
 li.arthur_tudor {
   flex-shrink: 0.9;
-}
-
-.container-right {
-  max-width: 400px;
-  height: auto;
-  float: right;
-  margin: 5px;
-  padding: 8px;
-}
-
-.img-inside-container {
-  max-width: 350px;
-  margin: 10px 10px 10px 0;
-  border-radius: 50%;
-}
-
-.img-container-left {
-  max-width: 400px;
-  height: auto;
-  float: left;
-  margin-top: 10px;
-  margin-right: 5px;
-  margin-bottom: 10px;
-  border-radius: 5px;
-}
-
-.img-container-right {
-  max-width: 400px;
-  height: auto;
-  float: right;
-  margin: 5px;
-  padding: 5px;
-  shape-outside: circle(50%);
-}
-
-figcaption {
-  max-width: 80%;
-  margin: 0 auto;
-  font-size: 1.1rem;
-  text-align: center;
-  font-weight: 600;
-  margin-bottom: 5px;
-}
-
-img {
-  width: 100%;
-  border-radius: 7px;
 }
 
 /* === Grid and base layout === */
@@ -336,6 +282,7 @@ section:last-of-type p:last-of-type {
       </section>
       <section id="accession">
         <h2>Rise to the throne</h2>
+        <hr />
         <figure class="container-right">
           <img
             src="../assets/img/elizabeth_of_york.jpg"

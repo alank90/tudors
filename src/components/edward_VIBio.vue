@@ -59,68 +59,9 @@ p:not(.intro)::first-letter {
   font-weight: 550;
 }
 
-.container-right {
-  max-width: 400px;
-  height: auto;
-  float: right;
-  text-align: center;
-  margin: 5px;
-  padding: 8px;
-}
-
-.container-left {
-  max-width: 400px;
-  height: auto;
-  float: left;
-  text-align: center;
-  margin: 5px;
-  padding: 8px;
-}
-
-.img-inside-container {
-  max-width: 350px;
-  margin: 10px 10px 10px 0;
-  border-radius: 50%;
-}
-
-.img-container-left {
-  max-width: 400px;
-  height: auto;
-  float: left;
-  text-align: center;
-  margin: 5px;
-  padding: 5px;
-  shape-outside: circle(50%);
-}
-
-.img-container-right {
-  max-width: 400px;
-  height: auto;
-  float: right;
-  text-align: center;
-  margin: 5px;
-  padding: 5px;
-  shape-outside: circle(50%);
-}
-
-figcaption {
-  max-width: 80%;
-  margin: 0 auto;
-  font-size: 1.1rem;
-  text-align: center;
-  font-weight: 600;
-  margin-bottom: 5px;
-}
-
 .shilling {
   float: right;
   width: 315px;
-}
-
-img {
-  max-width: 100%;
-  height: auto;
-  border-radius: 7px;
 }
 
 /* === Grid and base layout === */

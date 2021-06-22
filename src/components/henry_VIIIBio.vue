@@ -66,14 +66,14 @@
           Henry married Catherine of Aragon, Arthur’s widow, and the attendant
           lavish entertainments ate into the modest royal reserves.
         </p>
-        <div class="img-container-right">
+        <figure class="container-right">
           <img src="../assets/img/mourning_henry.jpg" alt="Henry mourning" />
-          <p>
+          <figcaption>
             Illustration from Vaux Passional thought to show Henry (top)
             mourning his mother, with his sisters, Mary and Margaret, at age 11,
             1503
-          </p>
-        </div>
+          </figcaption>
+        </figure>
         <p>
           Henry and his ministers exploited the dislike inspired by his father’s
           energetic pursuit of royal rights by sacrificing, without a thought,
@@ -257,14 +257,10 @@
 
       <section id="reforms">
         <h2>Domestic reforms</h2>
-        <div class="img-container-left">
-          <img
-            class="shape-outside"
-            src="../assets/img/henry_at_40.jpg"
-            alt="Henry VII at 40"
-          />
-          <p>Henry at 40</p>
-        </div>
+        <figure class="container-left">
+          <img src="../assets/img/henry_at_40.jpg" alt="Henry VII at 40" />
+          <figcaption>Henry at 40</figcaption>
+        </figure>
         <p>
           Cromwell’s decade, the 1530s, was the only period of the reign during
           which a coherent body of policies was purposefully carried through.
@@ -427,12 +423,6 @@ export default {
 <style scoped>
 @import url("https://fonts.googleapis.com/css2?family=PT+Mono&family=PT+Sans:wght@400;700&display=swap");
 @import ".././assets/css/navbarProgress.css";
-* {
-  --highlight: #db100e;
-  --body-pad-top: 70px;
-  margin: 0;
-  padding: 0;
-}
 
 section:not(:last-of-type) {
   padding-bottom: 15px;
@@ -442,47 +432,6 @@ h2 {
   font-family: var(--font-cinzel);
   padding-left: 10px;
   border-left: 4px solid var(--highlight);
-}
-
-img {
-  max-width: 100%;
-  height: auto;
-  border-radius: 7px;
-}
-
-.shape-outside {
-  width: 300px;
-  margin: 10px 10px 10px 0;
-  border-radius: 50%;
-}
-
-.img-container-left {
-  max-width: 400px;
-  height: auto;
-  float: left;
-  -webkit-shape-outside: circle();
-  shape-outside: circle();
-  margin-top: 10px;
-  margin-right: 5px;
-  margin-bottom: 10px;
-  border-radius: 5px;
-  text-align: center;
-  font-weight: 575;
-}
-.img-container-left > p {
-  margin-top: -10px;
-  font-weight: 600;
-  font-style: italic;
-}
-
-.img-container-right {
-  max-width: 400px;
-  height: auto;
-  float: right;
-  margin: 15px;
-  border-radius: 5px;
-  text-align: center;
-  font-weight: 575;
 }
 
 p {

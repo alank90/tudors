@@ -646,12 +646,6 @@ export default {
 <style scoped>
 @import url("https://fonts.googleapis.com/css2?family=PT+Mono&family=PT+Sans:wght@400;700&display=swap");
 @import ".././assets/css/navbarProgress.css";
-* {
-  --highlight: #db100e;
-  --body-pad-top: 70px;
-  margin: 0;
-  padding: 0;
-}
 
 h2 {
   font-family: var(--font-cinzel);
