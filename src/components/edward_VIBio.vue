@@ -59,11 +59,6 @@ p:not(.intro)::first-letter {
   font-weight: 550;
 }
 
-.shilling {
-  float: right;
-  width: 315px;
-}
-
 /* === Grid and base layout === */
 .component-container {
   display: grid;
@@ -1205,27 +1200,20 @@ article a {
           full sovereignty, whereas Somerset had asserted the right to
           near-sovereignty as Protector&quot;.
         </p>
-        <div class="shilling">
-          <div>
-            <a
-              href="https://en.wikipedia.org/wiki/File:King_Edward_VI_shilling.jpg"
-              ><img
-                alt="Shilling"
-                src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/King_Edward_VI_shilling.jpg/310px-King_Edward_VI_shilling.jpg"
-                srcset="
-                  //upload.wikimedia.org/wikipedia/commons/thumb/5/53/King_Edward_VI_shilling.jpg/465px-King_Edward_VI_shilling.jpg 1.5x,
-                  //upload.wikimedia.org/wikipedia/commons/thumb/5/53/King_Edward_VI_shilling.jpg/620px-King_Edward_VI_shilling.jpg 2x
-                "/></a
-            >&nbsp;
-          </div>
 
-          <div>
+        <figure class="container-right">
+          <a
+            href="https://en.wikipedia.org/wiki/File:King_Edward_VI_shilling.jpg"
+            ><img alt="Shilling" src="../assets/img/King_Edward_VI_shilling.png"
+          /></a>
+          <figcaption>
             <a href="https://en.wikipedia.org/wiki/Shilling" title="Shilling"
               ><span>Shilling</span></a
             >
             with portrait of Edward VI, struck 1551&ndash;1553
-          </div>
-        </div>
+          </figcaption>
+        </figure>
+
         <p>
           Warwick&apos;s war policies were more pragmatic than Somerset&apos;s,
           and they have earned him criticism for weakness. In 1550, he signed a
@@ -1996,7 +1984,7 @@ article a {
 
       <section id="legacy">
         <h2>Protestant legacy</h2>
-        <hr />
+
         <p>
           Although Edward reigned for only six years and died at the age of 15,
           his reign made a lasting contribution to the

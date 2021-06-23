@@ -282,7 +282,6 @@ section:last-of-type p:last-of-type {
       </section>
       <section id="accession">
         <h2>Rise to the throne</h2>
-        <hr />
         <figure class="container-right">
           <img
             src="../assets/img/elizabeth_of_york.jpg"
