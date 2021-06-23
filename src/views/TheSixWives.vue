@@ -9,7 +9,9 @@
           data-name="Catherine of Aragon"
           alt="Catherine of Aragon"
         />
-        <figcaption>Catherine of Aragon (m. 1509 - 1533 Annulled)</figcaption>
+        <figcaption class="caption">
+          Catherine of Aragon (m. 1509 - 1533 Annulled)
+        </figcaption>
       </figure>
       <figure>
         <img
@@ -17,7 +19,9 @@
           data-name="Anne Boleyn"
           alt="Anne Boleyn"
         />
-        <figcaption>Anne Boleyn (m. 1533 - 1536 Executed)</figcaption>
+        <figcaption class="caption">
+          Anne Boleyn (m. 1533 - 1536 Executed)
+        </figcaption>
       </figure>
       <figure>
         <img
@@ -25,7 +29,9 @@
           data-name="Jane Seymour"
           alt="Jane Seymour"
         />
-        <figcaption>Jane Seymour (m. 1536 - 1537 Died)</figcaption>
+        <figcaption class="caption">
+          Jane Seymour (m. 1536 - 1537 Died)
+        </figcaption>
       </figure>
       <figure>
         <img
@@ -33,7 +39,9 @@
           data-name="Anne of Cleves"
           alt="Anne of Cleves"
         />
-        <figcaption>Anne of Cleves (m. 1540 Jan. - July Annulled)</figcaption>
+        <figcaption class="caption">
+          Anne of Cleves (m. 1540 Jan. - July Annulled)
+        </figcaption>
       </figure>
       <figure>
         <img
@@ -41,7 +49,9 @@
           data-name="Catherine Howard"
           alt="Catherine Howard"
         />
-        <figcaption>Catherine Howard (m. 1540 - 1542 Executed)</figcaption>
+        <figcaption class="caption">
+          Catherine Howard (m. 1540 - 1542 Executed)
+        </figcaption>
       </figure>
       <figure>
         <img
@@ -49,7 +59,9 @@
           src="../assets/img/TheWives/Catherine-Parr.jpg"
           alt="Catherine Parr"
         />
-        <figcaption>Catherine Parr (m. 1543 - 1547 Widowed)</figcaption>
+        <figcaption class="caption">
+          Catherine Parr (m. 1543 - 1547 Widowed)
+        </figcaption>
       </figure>
       <figure>
         <img
@@ -89,6 +101,7 @@ export default {
     // This will setup the event listener and then render the appropriate
     // modal for the image clicked
     const elContainer = document.querySelector(".figure-container");
+
     // Here we place our modal logic to toggle it
     const modal = document.querySelector(".modal");
     const closeBtn = document.querySelector(".close-btn");
@@ -122,6 +135,21 @@ export default {
         };
       }
     });
+
+    // Add event listener's to fade border on image hover
+    document.querySelectorAll("img").forEach(item => {
+      item.addEventListener("mouseover", ev => {
+        if (ev.target.dataset.name != "HenryVIII") {
+          elContainer.style.borderColor = "#ffe6e6";
+        }
+      });
+    });
+
+    document.querySelectorAll("img").forEach(item => {
+      item.addEventListener("mouseleave", () => {
+        elContainer.style.borderColor = "#e94d4d";
+      });
+    });
   }
 };
 </script>
@@ -141,20 +169,23 @@ h2 {
   height: 800px;
   border-radius: 50%;
   padding: 0;
-  margin: 140px auto 160px;
+  margin: 165px auto 160px;
   border: solid 5px #e94d4d;
+  transition: border ease-out 0.5s;
 }
 
 figure {
   position: absolute;
-  width: 100px;
+  width: 10vw;
   top: 50%;
   left: 50%;
+  overflow: visible;
 }
 
-figcaption {
+figcaption.caption {
   font-family: var(--font-p);
-  width: 200%;
+  max-width: 700px;
+  width: 20vw;
   text-align: left;
   font-weight: 575;
 }

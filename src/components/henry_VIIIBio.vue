@@ -23,11 +23,14 @@
       <section id="intro">
         <h2>Intro</h2>
         <router-link to="TheSixWives">
-          <img
-            src="../assets/img/six_wives.jpg"
-            alt="Six Wives of Henry the VIII"
-            title="Click to find out more about Henry the VIII's wives "
-          />
+          <figure>
+            <img
+              src="../assets/img/six_wives.jpg"
+              alt="Six Wives of Henry the VIII"
+              title="Click to find out more about Henry the VIII's wives "
+            />
+            <figcaption>Henry VIII's Wifes</figcaption>
+          </figure>
         </router-link>
 
         <p class="intro">

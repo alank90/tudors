@@ -237,10 +237,15 @@ li a.router-link-exact-active {
   transform: translate3d(0, -2px, 0);
 }
 
-/* End Link hover effect */
+/* ==== End Link hover effect ======= */
 
+a[href="/TheSixWives"] {
+  text-decoration: none;
+}
+
+/* ==== <a> tag hover effect ======== */
 a[href^="http"]:not(footer > a),
-a[href^="/"]:not(.link):not(footer > a) {
+a[href^="/"]:not(.link):not(footer > a):not([href="/TheSixWives"]) {
   background: linear-gradient(90deg, rgba(217, 7, 7, 1), rgba(248, 229, 143, 1))
     bottom left/0% 3px no-repeat;
   padding-bottom: 3px;
@@ -250,7 +255,7 @@ a[href^="/"]:not(.link):not(footer > a) {
 }
 
 a[href^="http"]:not(footer > a) span,
-a[href^="/"]:not(.link) span {
+a[href^="/"]:not(.link):not([href="/TheSixWives"]) span {
   background: #da1207;
   background: linear-gradient(to right, #da1207 0%, #e89705 100%);
   background-clip: text;
@@ -259,7 +264,8 @@ a[href^="/"]:not(.link) span {
 }
 
 a[href^="http"]:not(footer > a):hover,
-a[href^="/"]:not(.link):hover {
+a[href^="/"]:not(.link):not([href="/TheSixWives"]):hover {
   background-size: 100% 3px;
 }
+/* ======== End <a> tag hover effects ===== */
 </style>

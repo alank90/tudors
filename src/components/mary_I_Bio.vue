@@ -56,28 +56,6 @@ p:not(.intro)::first-letter {
   font-weight: 550;
 }
 
-.shape-outside {
-  float: left;
-  width: 300px;
-  margin: 10px 10px 10px 0;
-  border-radius: 50%;
-  -webkit-shape-outside: circle();
-  shape-outside: circle();
-}
-
-img {
-  max-width: 100%;
-  height: auto;
-  border-radius: 7px;
-}
-
-.mary-image {
-  max-width: 450px;
-  float: right;
-  margin-top: 20px;
-  border-radius: 5px;
-}
-
 /* === Grid and base layout === */
 .component-container {
   display: grid;
@@ -147,12 +125,14 @@ article a {
     <article id="top">
       <section id="intro">
         <h2>Intro</h2>
-        <hr />
-        <img
-          class="mary-image"
-          src="../assets/img/maryTheFirst.jpg"
-          alt="Mary the I"
-        />
+        <figure class="img-container-right">
+          <img
+            class="img-inside-container"
+            src="../assets/img/maryTheFirst.jpg"
+            alt="Mary the I"
+          />
+          <figcaption>Portrait by Antonis Mor, 1554</figcaption>
+        </figure>
         <p>
           <strong>Mary I</strong> (18 February 1516 &ndash; 17 November 1558),
           also known as <strong>Mary Tudor</strong>, and as &quot;<strong
@@ -379,7 +359,7 @@ article a {
       </section>
       <section id="childhood">
         <h2>Childhood</h2>
-        <hr />
+        
         <p>
           Mary was a precocious child. In July 1520, when scarcely four and a
           half years old, she entertained a visiting French delegation with a
@@ -433,7 +413,7 @@ article a {
       </section>
       <section id="adolescence">
         <h2>Adolescence</h2>
-        <hr />
+       
         <p>
           Meanwhile, the marriage of Mary&apos;s parents was in jeopardy.
           Disappointed at the lack of a male heir, and eager to remarry, Henry
@@ -569,7 +549,7 @@ article a {
       </section>
       <section id="adulthood">
         <h2>Adulthood</h2>
-        <hr />
+        
         <p>
           In 1536, Queen Anne fell from the king's favour and was beheaded.
           Elizabeth, like Mary, was declared illegitimate and stripped of her
