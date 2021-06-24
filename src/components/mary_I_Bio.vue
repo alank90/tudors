@@ -359,7 +359,7 @@ article a {
       </section>
       <section id="childhood">
         <h2>Childhood</h2>
-        
+
         <p>
           Mary was a precocious child. In July 1520, when scarcely four and a
           half years old, she entertained a visiting French delegation with a
@@ -413,7 +413,7 @@ article a {
       </section>
       <section id="adolescence">
         <h2>Adolescence</h2>
-       
+
         <p>
           Meanwhile, the marriage of Mary&apos;s parents was in jeopardy.
           Disappointed at the lack of a male heir, and eager to remarry, Henry
@@ -549,7 +549,7 @@ article a {
       </section>
       <section id="adulthood">
         <h2>Adulthood</h2>
-        
+
         <p>
           In 1536, Queen Anne fell from the king's favour and was beheaded.
           Elizabeth, like Mary, was declared illegitimate and stripped of her
@@ -578,26 +578,30 @@ article a {
           made godmother to her half-brother and acted as chief mourner at the
           queen's funeral.
         </p>
-        <img
-          class="shape-outside"
-          src="../assets/img/adult_mary.jpg"
-          alt="Mary as Young Adult"
-        />
+
+        <figure class="img-container-left">
+          <img
+            class="img-inside-container"
+            src="../assets/img/adult_mary.jpg"
+            alt="Mary as Young Adult"
+          />
+          <figcaption>Mary as a young woman in 1544</figcaption>
+        </figure>
+
         <p>
-          Mary as a young woman Mary in 1544 Mary was courted by Duke Philip of
-          Bavaria from late 1539, but he was Lutheran and his suit for her hand
-          was unsuccessful. Over 1539, the king's chief minister, Thomas
-          Cromwell, negotiated a potential alliance with the Duchy of Cleves.
-          Suggestions that Mary marry the Duke of Cleves, who was the same age,
-          came to nothing, but a match between Henry and the Duke's sister Anne
-          was agreed. When the king saw Anne for the first time in late December
-          1539, a week before the scheduled wedding, he found her unattractive
-          but was unable, for diplomatic reasons and without a suitable pretext,
-          to cancel the marriage. Cromwell fell from favour and was arrested for
-          treason in June 1540; one of the unlikely charges against him was that
-          he had plotted to marry Mary himself. Anne consented to the annulment
-          of the marriage, which had not been consummated, and Cromwell was
-          beheaded.
+          Mary was courted by Duke Philip of Bavaria from late 1539, but he was
+          Lutheran and his suit for her hand was unsuccessful. Over 1539, the
+          king's chief minister, Thomas Cromwell, negotiated a potential
+          alliance with the Duchy of Cleves. Suggestions that Mary marry the
+          Duke of Cleves, who was the same age, came to nothing, but a match
+          between Henry and the Duke's sister Anne was agreed. When the king saw
+          Anne for the first time in late December 1539, a week before the
+          scheduled wedding, he found her unattractive but was unable, for
+          diplomatic reasons and without a suitable pretext, to cancel the
+          marriage. Cromwell fell from favour and was arrested for treason in
+          June 1540; one of the unlikely charges against him was that he had
+          plotted to marry Mary himself. Anne consented to the annulment of the
+          marriage, which had not been consummated, and Cromwell was beheaded.
         </p>
         <p>
           1541, Henry had the Countess of Salisbury, Mary's old governess and
@@ -841,11 +845,14 @@ article a {
               ><span>Titian</span></a
             >, was sent to her in the latter half of 1553.
           </p>
-          <img
-            class="shape-outside"
-            src="../assets/img/Philip_II.jpg"
-            alt="Phillip of Spain"
-          />
+          <figure class="img-container-left">
+            <img
+              class="img-inside-container"
+              src="../assets/img/Philip_II.jpg"
+              alt="Philip of Spain"
+            />
+            <figcaption>Philip of Spain by Titian</figcaption>
+          </figure>
           <p>
             Lord Chancellor Gardiner and the
             <a
