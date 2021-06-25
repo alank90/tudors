@@ -252,7 +252,6 @@ article a {
       </section>
       <section id="birth">
         <h2>Birth and family</h2>
-        <hr />
         <p>
           Mary was born on 18 February 1516 at the
           <a
@@ -645,7 +644,6 @@ article a {
       </section>
       <section id="accession">
         <h2>Accession</h2>
-        <hr />
         <p>
           On 6 July 1553, at the age of 15, Edward VI died of a lung infection,
           possibly tuberculosis. He did not want the crown to go to Mary because
