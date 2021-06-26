@@ -1,7 +1,7 @@
-const navBarScroll = () => {
+const navBarScroll = querySelector => {
   // ============== Vars ========================== //
   const elementsToObserve = document.querySelectorAll("section[id]");
-  const navBar = document.querySelector(".edward-bio");
+  const navBar = document.querySelector(querySelector);
 
   let totalShiftAmount = 0;
 
@@ -51,7 +51,6 @@ const navBarScroll = () => {
           );
 
           if (firstNavEl.dataset.name === "intro" && totalShiftAmount !== 0) {
-            console.log(`Back at top, totalShiftAmt is ${totalShiftAmount}`);
             // Return navbar to starting position and zero out totalShiftAmt
             totalShiftAmount = 0;
             navBar.style.transform = `translateY(${totalShiftAmount}px)`;

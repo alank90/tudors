@@ -755,15 +755,8 @@ article a {
           >, that her life was to be spared.
         </p>
 
-        <figure class="img-container-right">
-          <img
-            class="img-inside-container"
-            alt="Official Letter"
-            src="../assets/img/open-letterII.png"
-          />
-
-          &nbsp;
-
+        <figure class="container-right">
+          <img alt="Official Letter" src="../assets/img/open-letter.png" />
           <figcaption>
             Official letter of Lady Jane Grey signing herself as &quot;Jane the
             Quene&quot;.

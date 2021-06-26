@@ -1,12 +1,14 @@
 <script>
 import navbarProgress from "../views/assets/navbarProgress.js";
 import backToTop from "../components/backToTop.vue";
+import navBarScroll from "../views/assets/navBarScroll.js";
 
 export default {
   components: { backToTop },
   mounted() {
     const querySelector = "nav.mary-bio";
     navbarProgress(querySelector);
+    navBarScroll(querySelector);
   }
 };
 </script>
@@ -1092,11 +1094,18 @@ article a {
         </section>
         <section id="religious-policy">
           <h3>Religious policy</h3>
-          <img
-            src="../assets/img/gold_coin_mary.png"
-            alt="Gold coin image of Mary"
-            class="shape-outside"
-          />
+
+          <figure class="img-container-right">
+            <img
+              class="img-inside-container"
+              src="../assets/img/gold_coin_mary.png"
+              alt="Gold coin image of Mary"
+            />
+            <figcaption>
+              Gold medal showing Mary as "Defender of the Faith", 1555
+            </figcaption>
+          </figure>
+
           <p>
             In the month following her accession, Mary issued a proclamation
             that she would not compel any of her subjects to follow her
@@ -1414,11 +1423,16 @@ article a {
             John Lok and William Towerson sailed south in an attempt to develop
             links with the coast of Africa.
           </p>
-          <img
-            class="shape-outside"
-            src="../assets/img/mary_shilling.png"
-            alt="Edward as child"
-          />
+
+          <figure class="img-container-right">
+            <img
+              class="img-inner-container"
+              src="../assets/img/mary_shilling.png"
+              alt="Mary shilling"
+            />
+            <figcaption>Mary shilling</figcaption>
+          </figure>
+
           <p>
             Financially, Mary's regime tried to reconcile a modern form of
             government—with correspondingly higher spending—with a medieval
@@ -1440,7 +1454,7 @@ article a {
       </section>
       <section id="death">
         <h2>Death</h2>
-        <hr />
+
         <p>
           After Philip&apos;s visit in 1557, Mary again thought she was
           pregnant, with a baby due in March 1558. She decreed in her will that
@@ -1508,7 +1522,7 @@ article a {
 
       <section id="legacy">
         <h2>Legacy</h2>
-        <hr />
+
         <p>
           At her funeral service,
           <a

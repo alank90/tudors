@@ -8,7 +8,7 @@ export default {
   mounted() {
     const querySelector = "nav.edward-bio";
     navbarProgress(querySelector);
-    navBarScroll();
+    navBarScroll(querySelector);
   }
 };
 </script>
@@ -581,7 +581,6 @@ article a {
 
       <section id="accession">
         <h2>Accession to throne</h2>
-        <hr />
         <p>
           The nine-year-old Edward wrote to his father and stepmother on 10
           January 1547 from
