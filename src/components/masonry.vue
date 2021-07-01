@@ -8,7 +8,7 @@
       >
         <router-link to="/Henry_VII">
           <img
-            src="../assets/img/henry_vii.png"
+            src="../assets/img/henry_vii.jpg"
             title="Click to read more..."
             alt="Picture of Henry VII"
             class="masonry-content"
@@ -160,7 +160,6 @@ export default {
 <!-- Add "scoped" attribute to limit CSS to this component only -->
 <style scoped>
 /* Masonry CSS */
-
 .masonry {
   display: grid;
   grid-gap: 1em; /* [1] Add some gap between rows and columns */
@@ -170,7 +169,7 @@ export default {
     "....  eight   ...";
   grid-template-columns: repeat(
     3,
-    minmax(250px, 1fr)
+    minmax(200px, 1fr)
   ); /* [2] Make columns adjust according to the available viewport */
 }
 .henry_vii {
@@ -217,13 +216,13 @@ export default {
   font-weight: 700;
   position: absolute;
   opacity: 0;
-  top: 50%;
+  top: 150px;
   left: 0;
   right: 0;
   margin-left: auto;
   margin-right: auto;
   font-size: 1.6rem;
-  width: 300px; /* Need a specific value to work */
+  max-width: 100%; /* Need a specific value to work */
   color: #f8f5f1;
   padding: 1rem 1.5rem;
   transition: opacity 0.4s ease-in;

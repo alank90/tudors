@@ -2,8 +2,12 @@
   <div id="app">
     <header class="main-head">
       <span class="main-head-span">The Tudors</span>
-      <nav class="main-head-nav">
-        <ul>
+      <nav class="main-head-nav" id="ham-nav">
+        <!-- The Hamburger -->
+        <label for="hamburger">&#9776;</label>
+        <input type="checkbox" id="hamburger" />
+        <!-- Menu Items -->
+        <ul id="ham-items">
           <li>
             <router-link class="link link--elara" to="/"
               ><span>Home</span></router-link
@@ -58,6 +62,7 @@
   display: grid;
   grid-template-columns: repeat(12, [col-start] 1fr);
   grid-template-rows: auto 1fr auto;
+  width: 100vw;
 }
 
 /* Default Mobile screen Layout */
@@ -68,18 +73,20 @@
 /* Grid Media Queries */
 @media (min-width: 500px) {
   main,
+  .main-head,
   .main-footer {
     grid-column: col-start 4 / span 8;
   }
 }
 
 @media (min-width: 700px) {
-  #app > main {
+  main {
     grid-column: col-start 2 / span 10;
     grid-row: 2 / 3;
     padding: 15px 5px 10px 5px;
   }
 
+  .main-head,
   .main-footer {
     grid-column: col-start / span 12;
   }
@@ -268,4 +275,39 @@ a[href^="/"]:not(.link):not([href="/TheSixWives"]):hover {
   background-size: 100% 3px;
 }
 /* ======== End <a> tag hover effects ===== */
+
+/* ======= Hamburger Menu CSS ============= */
+/* Hide Hamburger */
+#ham-nav label,
+#hamburger {
+  display: none;
+}
+/* On Small Screens */
+@media screen and (max-width: 768px) {
+  /* Break into vertical menu */
+  #ham-items li {
+    display: block;
+    border-top: 1px solid #333;
+  }
+  /* Show hamburger Icon */
+  #ham-nav label {
+    display: inline-block;
+    color: white;
+    background: #da1507;
+    font-style: normal;
+    font-style: 1.2em;
+    padding: 10px;
+  }
+
+  /* Toggle Show/Hide Menu */
+  #ham-items {
+    display: none;
+  }
+
+  #ham-nav input:checked ~ #ham-items {
+    display: block;
+  }
+}
+
+/* ======= End Hamburger CSS ============== */
 </style>
