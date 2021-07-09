@@ -117,13 +117,11 @@ body {
 }
 
 .main-head-span {
-  flex-basis: 20%;
   font-family: "Cinzel Decorative", Helvetica;
   color: var(--color-text);
 }
 
 .main-head-nav {
-  flex-basis: 40%;
   margin-left: auto; /* this forces nav-menu to far right */
 }
 
@@ -288,6 +286,8 @@ a[href^="/"]:not(.link):not([href="/TheSixWives"]):hover {
   #ham-items li {
     display: block;
     border-top: 1px solid #333;
+    padding: 5px;
+    margin: 3px;
   }
   /* Show hamburger Icon */
   #ham-nav label {
@@ -296,16 +296,26 @@ a[href^="/"]:not(.link):not([href="/TheSixWives"]):hover {
     background: #da1507;
     font-style: normal;
     font-style: 1.2em;
+    margin-left: 50%;
     padding: 10px;
+  }
+
+  .main-head-nav {
+    flex: 0 1 auto;
   }
 
   /* Toggle Show/Hide Menu */
   #ham-items {
-    display: none;
+    visibility: hidden;
+    opacity: 0;
+    max-height: 0;
+    transition: opacity 0.8s ease-out, max-height 0.8s;
   }
 
   #ham-nav input:checked ~ #ham-items {
-    display: block;
+    visibility: visible;
+    opacity: 1;
+    max-height: 200px;
   }
 }
 

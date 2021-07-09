@@ -161,13 +161,7 @@ p.intro::first-letter {
       <div class="earl-of-essex visible">
         <h2>The Earl of Essex</h2>
         <p class="intro">
-          <strong>Robert Devereux, 2nd Earl of Essex</strong>, 10 November
-          1565<sup
-            ><a
-              href="https://en.wikipedia.org/wiki/Robert_Devereux,_2nd_Earl_of_Essex#cite_note-1"
-              >[1]</a
-            ></sup
-          >
+          <strong>Robert Devereux, 2nd Earl of Essex</strong>, 10 November 1565
           &ndash; 25 February 1601) was an English nobleman and a favourite of
           <a
             href="https://en.wikipedia.org/wiki/Elizabeth_I"
@@ -383,16 +377,10 @@ p.intro::first-letter {
           In all of his campaigns Essex secured the loyalty of his officers by
           conferring knighthoods, an honour the Queen herself dispensed
           sparingly, and by the end of his time in Ireland more than half the
-          knights in England owed their rank to him.<sup
-            ><a
-              href="https://en.wikipedia.org/wiki/Robert_Devereux,_2nd_Earl_of_Essex#cite_note-11"
-              >[11]</a
-            ></sup
-          >
-          The rebels were said to have joked that, &quot;he never drew sword but
-          to make knights.&quot; But his practice of conferring knighthoods
-          could in time enable Essex to challenge the powerful factions at
-          Cecil&apos;s command.
+          knights in England owed their rank to him. The rebels were said to
+          have joked that, &quot;he never drew sword but to make knights.&quot;
+          But his practice of conferring knighthoods could in time enable Essex
+          to challenge the powerful factions at Cecil&apos;s command.
         </p>
         <p>
           He was the second Chancellor of
@@ -454,12 +442,7 @@ p.intro::first-letter {
             >Sir Christopher Blount</a
           >, was injured in the resulting skirmish, and Essex withdrew with his
           men to Essex House. Essex surrendered after Crown forces besieged
-          Essex House.<sup
-            ><a
-              href="https://en.wikipedia.org/wiki/Robert_Devereux,_2nd_Earl_of_Essex#cite_note-15"
-              >[15]</a
-            ></sup
-          >
+          Essex House.
         </p>
         <h3>Treason trial and death</h3>
         <p>
@@ -520,12 +503,7 @@ p.intro::first-letter {
               title="A Conference about the Next Succession to the Crown of England"
               >A Conference about the Next Succession to the Crown of England</a
             ></em
-          >, works which favoured a Catholic successor friendly to Spain.<sup
-            ><a
-              href="https://en.wikipedia.org/wiki/Robert_Devereux,_2nd_Earl_of_Essex#cite_note-19"
-              >[19]</a
-            ></sup
-          >
+          >, works which favoured a Catholic successor friendly to Spain.
           However Knollys denied hearing Cecil make the statement. Thanking God
           again, Cecil expressed his gratitude that Essex was exposed as a
           <a href="https://en.wikipedia.org/wiki/Traitor" title="Traitor"
@@ -1002,25 +980,14 @@ p.intro::first-letter {
             title="Henry III of France"
             >Henry III</a
           >
-          afforded him valuable political instruction.<sup
-            ><a
-              href="https://en.wikipedia.org/wiki/Francis_Bacon#cite_note-FOOTNOTEAdamsonMitchell1911136-14"
-              >[12]</a
-            ></sup
-          >
-          For the next three years he visited
+          afforded him valuable political instruction. For the next three years
+          he visited
           <a href="https://en.wikipedia.org/wiki/Blois" title="Blois">Blois</a>,
           <a href="https://en.wikipedia.org/wiki/Poitiers" title="Poitiers"
             >Poitiers</a
           >,
           <a href="https://en.wikipedia.org/wiki/Tours" title="Tours">Tours</a>,
-          Italy, and Spain.<sup
-            ><a
-              href="https://en.wikipedia.org/wiki/Francis_Bacon#cite_note-travels-15"
-              >[13]</a
-            ></sup
-          >
-          There is no evidence that he studied at the
+          Italy, and Spain. There is no evidence that he studied at the
           <a
             href="https://en.wikipedia.org/wiki/University_of_Poitiers"
             title="University of Poitiers"
@@ -1042,12 +1009,7 @@ p.intro::first-letter {
             href="https://en.wikipedia.org/wiki/Robert_Dudley,_1st_Earl_of_Leicester"
             title="Robert Dudley, 1st Earl of Leicester"
             >Leicester</a
-          >, as well as for the queen.<sup
-            ><a
-              href="https://en.wikipedia.org/wiki/Francis_Bacon#cite_note-travels-15"
-              >[13]</a
-            ></sup
-          >
+          >, as well as for the queen.
         </p>
         <p>
           The sudden death of his father in February 1579 prompted Bacon to
@@ -1144,15 +1106,9 @@ p.intro::first-letter {
           >. At this time, he began to write on the condition of parties in the
           church, as well as on the topic of philosophical reform in the lost
           tract <em>Temporis Partus Maximus</em>. Yet he failed to gain a
-          position that he thought would lead him to success.<sup
-            ><a
-              href="https://en.wikipedia.org/wiki/Francis_Bacon#cite_note-FOOTNOTEAdamsonMitchell1911136-14"
-              >[12]</a
-            ></sup
-          >
-          He showed signs of sympathy to Puritanism, attending the sermons of
-          the Puritan chaplain of Gray&apos;s Inn and accompanying his mother to
-          the
+          position that he thought would lead him to success. He showed signs of
+          sympathy to Puritanism, attending the sermons of the Puritan chaplain
+          of Gray&apos;s Inn and accompanying his mother to the
           <a
             href="https://en.wikipedia.org/wiki/Temple_Church"
             title="Temple Church"
@@ -1200,11 +1156,6 @@ p.intro::first-letter {
           >, although he did not formally take office until 1608; the post was
           worth &pound;1,600 a year.<sup
             ><a
-              href="https://en.wikipedia.org/wiki/Francis_Bacon#cite_note-FOOTNOTEAdamsonMitchell1911136-14"
-              >[12]</a
-            ></sup
-          ><sup
-            ><a
               href="https://en.wikipedia.org/wiki/Francis_Bacon#cite_note-FOOTNOTEPeltonen2007-3"
               >[3]</a
             ></sup
@@ -1250,17 +1201,7 @@ p.intro::first-letter {
           made him a significant influence toward the consolidation of the
           United Kingdom; and he later would advocate for the integration of
           Ireland into the Union. Closer constitutional ties, he believed, would
-          bring greater peace and strength to these countries.<sup
-            ><a
-              href="https://en.wikipedia.org/wiki/Francis_Bacon#cite_note-letters-20"
-              >[18]</a
-            ></sup
-          ><sup
-            ><a
-              href="https://en.wikipedia.org/wiki/Francis_Bacon#cite_note-ecc.015-21"
-              >[19]</a
-            ></sup
-          >
+          bring greater peace and strength to these countries.
         </p>
         <h3>
           <span>Final years of the Queen&apos;s reign</span>
@@ -1271,23 +1212,8 @@ p.intro::first-letter {
             href="https://en.wikipedia.org/wiki/Robert_Devereux,_2nd_Earl_of_Essex"
             title="Robert Devereux, 2nd Earl of Essex"
             >The 2nd Earl of Essex</a
-          >, Queen Elizabeth&apos;s favourite.<sup
-            ><a
-              href="https://en.wikipedia.org/wiki/Francis_Bacon#cite_note-Hammer-22"
-              >[20]</a
-            ></sup
-          >
-          By 1591 he acted as the earl&apos;s confidential adviser.<sup
-            ><a
-              href="https://en.wikipedia.org/wiki/Francis_Bacon#cite_note-FOOTNOTEAdamsonMitchell1911136-14"
-              >[12]</a
-            ></sup
-          ><sup
-            ><a
-              href="https://en.wikipedia.org/wiki/Francis_Bacon#cite_note-Hammer-22"
-              >[20]</a
-            ></sup
-          >
+          >, Queen Elizabeth&apos;s favourite. By 1591 he acted as the
+          earl&apos;s confidential adviser.
         </p>
         <p>
           In 1592 he was commissioned to write a tract in response to the Jesuit
