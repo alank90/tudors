@@ -166,13 +166,14 @@ p.intro::first-letter {
           <a
             href="https://en.wikipedia.org/wiki/Elizabeth_I"
             title="Elizabeth I"
-            >Elizabeth I</a
+          >
+            <span>Elizabeth I</span></a
           >. Politically ambitious, and a committed general, he was placed under
           house arrest following a poor campaign in Ireland during the
           <a
             href="https://en.wikipedia.org/wiki/Nine_Years%27_War_(Ireland)"
             title="Nine Years' War (Ireland)"
-            >Nine Years&apos; War</a
+            ><span>Nine Years&apos; War</span></a
           >
           in 1599. In 1601, he led an abortive
           <em>coup d&apos;&eacute;tat </em>
@@ -187,33 +188,33 @@ p.intro::first-letter {
           <a
             href="https://en.wikipedia.org/wiki/Herefordshire"
             title="Herefordshire"
-            >Herefordshire</a
+            ><span>Herefordshire</span></a
           >, the son of
           <a
             href="https://en.wikipedia.org/wiki/Walter_Devereux,_1st_Earl_of_Essex"
             title="Walter Devereux, 1st Earl of Essex"
-            >Walter Devereux, 1st Earl of Essex</a
+            ><span>Walter Devereux, 1st Earl of Essex</span></a
           >, and
           <a
             href="https://en.wikipedia.org/wiki/Lettice_Knollys"
             title="Lettice Knollys"
-            >Lettice Knollys</a
+            ><span>Lettice Knollys</span></a
           >. His maternal great-grandmother
           <a
             href="https://en.wikipedia.org/wiki/Mary_Boleyn"
             title="Mary Boleyn"
-            >Mary Boleyn</a
+            ><span>Mary Boleyn</span></a
           >
           was a sister of
           <a
             href="https://en.wikipedia.org/wiki/Anne_Boleyn"
             title="Anne Boleyn"
-            >Anne Boleyn</a
+            ><span>Anne Boleyn</span></a
           >, the mother of Queen Elizabeth I, making him a
           <a
             href="https://en.wikipedia.org/wiki/Cousin#First_cousins_twice_removed"
             title="Cousin"
-            >first-cousin-twice-removed</a
+            ><span>first-cousin-twice-removed</span></a
           >
           of the Queen.&nbsp;
         </p>
@@ -227,26 +228,15 @@ p.intro::first-letter {
           <a
             href="https://en.wikipedia.org/wiki/Master_of_the_Horse"
             title="Master of the Horse"
-            >Master of the Horse</a
-          >.<sup
-            ><a
-              href="https://en.wikipedia.org/wiki/Robert_Devereux,_2nd_Earl_of_Essex#cite_note-8"
-              >[8]</a
-            ></sup
-          >
-          After Leicester&apos;s death in 1588, the Queen transferred the late
-          Earl&apos;s royal monopoly on sweet wines to Essex, providing him with
-          revenue from taxes. In 1593, he was made a member of her
+            ><span>Master of the Horse</span></a
+          >. After Leicester&apos;s death in 1588, the Queen transferred the
+          late Earl&apos;s royal monopoly on sweet wines to Essex, providing him
+          with revenue from taxes. In 1593, he was made a member of her
           <a
             href="https://en.wikipedia.org/wiki/Privy_Council_of_England"
             title="Privy Council of England"
-            >Privy Council</a
-          >.<sup
-            ><a
-              href="https://en.wikipedia.org/wiki/Robert_Devereux,_2nd_Earl_of_Essex#cite_note-compeerage-9"
-              >[9]</a
-            ></sup
-          >
+            ><span>Privy Council</span></a
+          >.
         </p>
         <p>
           Essex underestimated the Queen, however, and his later behaviour
@@ -255,7 +245,7 @@ p.intro::first-letter {
           <a
             href="https://en.wikipedia.org/wiki/Robert_Cecil,_1st_Earl_of_Salisbury"
             title="Robert Cecil, 1st Earl of Salisbury"
-            >Robert Cecil</a
+            ><span>Robert Cecil</span></a
           >. On one occasion during a heated Privy Council debate on the
           problems in Ireland, the Queen reportedly cuffed an insolent Essex
           round the ear, prompting him to half draw his sword on her.
@@ -265,34 +255,34 @@ p.intro::first-letter {
           <a
             href="https://en.wikipedia.org/wiki/Francis_Drake"
             title="Francis Drake"
-            >Francis Drake</a
+            ><span>Francis Drake</span></a
           >&apos;s
           <a
             href="https://en.wikipedia.org/wiki/English_Armada"
             title="English Armada"
-            >English Armada</a
+            ><span>English Armada</span></a
           >, which sailed to Spain in an unsuccessful attempt to press home the
           English advantage following the defeat of the
           <a
             href="https://en.wikipedia.org/wiki/Spanish_Armada"
             title="Spanish Armada"
-            >Spanish Armada</a
+            ><span>Spanish Armada</span></a
           >, although the Queen had ordered him not to take part. In 1591, he
           was given command of a force sent to the assistance of King
           <a
             href="https://en.wikipedia.org/wiki/Henry_IV_of_France"
             title="Henry IV of France"
-            >Henry IV of France</a
+            ><span>Henry IV of France</span></a
           >. In 1596, he distinguished himself by the
           <a
             href="https://en.wikipedia.org/wiki/Capture_of_C%C3%A1diz"
             title="Capture of Cádiz"
-            >capture of C&aacute;diz</a
+            ><span>capture of C&aacute;diz</span></a
           >. During the
           <a
             href="https://en.wikipedia.org/wiki/Islands_Voyage"
             title="Islands Voyage"
-            >Islands Voyage</a
+            ><span>Islands Voyage</span></a
           >
           expedition to the
           <a href="https://en.wikipedia.org/wiki/Azores" title="Azores"
@@ -302,7 +292,7 @@ p.intro::first-letter {
           <a
             href="https://en.wikipedia.org/wiki/Walter_Raleigh"
             title="Walter Raleigh"
-            >Walter Raleigh</a
+            ><span>Walter Raleigh</span></a
           >
           as his second-in-command, he defied the Queen&apos;s orders, pursuing
           the Spanish treasure fleet without first defeating the Spanish battle
@@ -313,7 +303,7 @@ p.intro::first-letter {
           <a
             href="https://en.wikipedia.org/wiki/3rd_Spanish_Armada"
             title="3rd Spanish Armada"
-            >3rd Spanish Armada</a
+            ><span>3rd Spanish Armada</span></a
           >
           first appeared off the English coast in October 1597, the English
           fleet was far out to sea, with the coast almost undefended, and panic
@@ -330,12 +320,12 @@ p.intro::first-letter {
           <a
             href="https://en.wikipedia.org/wiki/Lord_Lieutenant_of_Ireland"
             title="Lord Lieutenant of Ireland"
-            >Lord Lieutenant of Ireland</a
+            ><span>Lord Lieutenant of Ireland</span></a
           >, a post which he talked himself into in 1599. The
           <a
             href="https://en.wikipedia.org/wiki/Nine_Years%27_War_(Ireland)"
             title="Nine Years' War (Ireland)"
-            >Nine Years&apos; War</a
+            ><span>Nine Years&apos; War</span></a
           >
           (1595&ndash;1603) was in its middle stages, and no English commander
           had been successful. More military force was required to defeat the
@@ -343,7 +333,7 @@ p.intro::first-letter {
           <a
             href="https://en.wikipedia.org/wiki/Hugh_O%27Neill,_3rd_Earl_of_Tyrone"
             title="Hugh O'Neill, 3rd Earl of Tyrone"
-            >Hugh O&apos;Neill, the Earl of Tyrone</a
+            ><span>Hugh O&apos;Neill, the Earl of Tyrone</span></a
           >, and supplied from Spain and Scotland.
         </p>
         <p>
@@ -359,7 +349,7 @@ p.intro::first-letter {
           <a
             href="https://en.wikipedia.org/wiki/Privy_Council_of_the_United_Kingdom"
             title="Privy Council of the United Kingdom"
-            >Privy Council</a
+            ><span>Privy Council</span></a
           >
           that he would confront O&apos;Neill in
           <a href="https://en.wikipedia.org/wiki/Ulster" title="Ulster"
@@ -387,7 +377,7 @@ p.intro::first-letter {
           <a
             href="https://en.wikipedia.org/wiki/University_of_Dublin"
             title="University of Dublin"
-            >Trinity College, Dublin</a
+            ><span>Trinity College, Dublin</span></a
           >, serving from 1598 to 1601.&nbsp;
         </p>
         <h3>Essex rebellion</h3>
@@ -396,7 +386,7 @@ p.intro::first-letter {
           <a
             href="https://en.wikipedia.org/wiki/Essex%27s_Rebellion"
             title="Essex's Rebellion"
-            >Essex&apos;s Rebellion</a
+            ><span>Essex&apos;s Rebellion</span></a
           >
         </div>
         <p>
@@ -408,38 +398,38 @@ p.intro::first-letter {
           <a
             href="https://en.wikipedia.org/wiki/Essex_House_(London)"
             title="Essex House (London)"
-            >Essex House</a
+            ><span>Essex House</span></a
           >, his town mansion on the
           <a
             href="https://en.wikipedia.org/wiki/Strand,_London"
             title="Strand, London"
-            >Strand</a
+            ><span>Strand</span></a
           >, and gathered his followers. On the morning of 8 February, he
           marched out of Essex House with a party of nobles and gentlemen (some
           later involved in the 1605
           <a
             href="https://en.wikipedia.org/wiki/Gunpowder_Plot"
             title="Gunpowder Plot"
-            >Gunpowder Plot</a
+            ><span>Gunpowder Plot</span></a
           >) and entered the city of London in an attempt to force an audience
           with the Queen. Cecil immediately had him proclaimed a traitor. A
           force under
           <a
             href="https://en.wikipedia.org/wiki/John_Leveson"
             title="John Leveson"
-            >Sir John Leveson</a
+            ><span>Sir John Leveson</span></a
           >
           placed a barrier across the street at
           <a
             href="https://en.wikipedia.org/wiki/Ludgate_Hill"
             title="Ludgate Hill"
-            >Ludgate Hill</a
+            ><span>Ludgate Hill</span></a
           >. When Essex&apos;s men tried to force their way through,
           Essex&apos;s stepfather,
           <a
             href="https://en.wikipedia.org/wiki/Christopher_Blount"
             title="Christopher Blount"
-            >Sir Christopher Blount</a
+            ><span>Sir Christopher Blount</span></a
           >, was injured in the resulting skirmish, and Essex withdrew with his
           men to Essex House. Essex surrendered after Crown forces besieged
           Essex House.
@@ -475,7 +465,7 @@ p.intro::first-letter {
           <a
             href="https://en.wikipedia.org/wiki/Catholic_Church"
             title="Catholic Church"
-            >Catholics</a
+            ><span>Catholics</span></a
           >, swearing that &quot;papists have been hired and suborned to witness
           against me.&quot; Essex also asserted that Cecil had stated that none
           in the world but the
@@ -494,14 +484,17 @@ p.intro::first-letter {
           <a
             href="https://en.wikipedia.org/wiki/Robert_Persons"
             title="Robert Persons"
-            >Robert Persons</a
+            ><span>Robert Persons</span></a
           >
           or Persons&apos;
           <em
             ><a
               href="https://en.wikipedia.org/wiki/A_Conference_about_the_Next_Succession_to_the_Crown_of_England"
               title="A Conference about the Next Succession to the Crown of England"
-              >A Conference about the Next Succession to the Crown of England</a
+              ><span
+                >A Conference about the Next Succession to the Crown of
+                England</span
+              ></a
             ></em
           >, works which favoured a Catholic successor friendly to Spain.
           However Knollys denied hearing Cecil make the statement. Thanking God
@@ -517,12 +510,12 @@ p.intro::first-letter {
           <a
             href="https://en.wikipedia.org/wiki/Tower_of_London"
             title="Tower of London"
-            >Tower of London</a
+            ><span>Tower of London</span></a
           >. It was reported to have taken three strokes by the executioner
           <a
             href="https://en.wikipedia.org/wiki/Thomas_Derrick"
             title="Thomas Derrick"
-            >Thomas Derrick</a
+            ><span>Thomas Derrick</span></a
           >
           to complete the beheading. Previously Thomas Derrick had been
           convicted of rape but was pardoned by the Earl of Essex himself
@@ -531,7 +524,7 @@ p.intro::first-letter {
           <a
             href="https://en.wikipedia.org/wiki/Walter_Raleigh"
             title="Walter Raleigh"
-            >Walter Raleigh</a
+            ><span>Walter Raleigh</span></a
           >&apos;s own execution on 29 October 1618, it was alleged that Raleigh
           had said to a co-conspirator, &quot;Do not, as my Lord Essex did, take
           heed of a preacher. By his persuasion, he confessed, and made himself
@@ -542,7 +535,7 @@ p.intro::first-letter {
           <a
             href="https://en.wikipedia.org/wiki/Penelope_Devereux"
             title="Penelope Devereux"
-            >Penelope, Lady Rich</a
+            ><span>Penelope, Lady Rich</span></a
           >
           as his co-conspirator: the Queen, who was determined to show as much
           clemency as possible, ignored the charge.
@@ -552,7 +545,7 @@ p.intro::first-letter {
           <a
             href="https://en.wikipedia.org/wiki/Thomas_Lee_(army_captain)"
             title="Thomas Lee (army captain)"
-            >Thomas Lee</a
+            ><span>Thomas Lee</span></a
           >
           was apprehended as he kept watch on the door to the Queen&apos;s
           chambers. His plan had been to confine her until she signed a warrant
@@ -567,13 +560,13 @@ p.intro::first-letter {
           <a
             href="https://en.wikipedia.org/wiki/James_I_of_England"
             title="James I of England"
-            >James I</a
+            ><span>James I</span></a
           >
           reinstated the earldom in favour of the disinherited son,
           <a
             href="https://en.wikipedia.org/wiki/Robert_Devereux,_3rd_Earl_of_Essex"
             title="Robert Devereux, 3rd Earl of Essex"
-            >Robert Devereux, 3rd Earl of Essex</a
+            ><span>Robert Devereux, 3rd Earl of Essex</span></a
           >.
         </p>
         <h3><span>The Essex Ring</span></h3>
@@ -583,14 +576,14 @@ p.intro::first-letter {
           <a
             href="https://en.wikipedia.org/wiki/John_Webster"
             title="John Webster"
-            >John Webster</a
+            ><span>John Webster</span></a
           >
           in his 1623 play
           <em
             ><a
               href="https://en.wikipedia.org/wiki/The_Devil%27s_Law_Case"
               title="The Devil's Law Case"
-              >The Devil&apos;s Law Case</a
+              ><span>The Devil&apos;s Law Case</span></a
             ></em
           >
           suggesting that it was known at this time, but the first printed
@@ -607,7 +600,7 @@ p.intro::first-letter {
             ><a
               href="https://en.wikipedia.org/wiki/The_History_of_England_(Hume)"
               title="The History of England (Hume)"
-              >History of England</a
+              ><span>History of England</span></a
             ></em
           >
           says that Elizabeth had given Essex a ring after the expedition to
@@ -616,7 +609,7 @@ p.intro::first-letter {
           <a
             href="https://en.wikipedia.org/wiki/Catherine_Howard,_Countess_of_Nottingham"
             title="Catherine Howard, Countess of Nottingham"
-            >Countess of Nottingham</a
+            ><span>Countess of Nottingham</span></a
           >, but the countess kept the ring as her husband was an enemy of
           Essex, as a result of which Essex was executed. On her deathbed, the
           countess is said to have confessed this to Elizabeth, who angrily
@@ -625,7 +618,7 @@ p.intro::first-letter {
           <a
             href="https://en.wikipedia.org/wiki/Westminster_Abbey"
             title="Westminster Abbey"
-            >Westminster Abbey</a
+            ><span>Westminster Abbey</span></a
           >
           possess a gold ring which is claimed to be this one.
         </p>
@@ -635,13 +628,13 @@ p.intro::first-letter {
           <a
             href="https://en.wikipedia.org/wiki/John_Lingard"
             title="John Lingard"
-            >John Lingard</a
+            ><span>John Lingard</span></a
           >
           in his history of England says the story appears to be a fiction,
           <a
             href="https://en.wikipedia.org/wiki/Lytton_Strachey"
             title="Lytton Strachey"
-            >Lytton Strachey</a
+            ><span>Lytton Strachey</span></a
           >
           states &quot;Such a narrative is appropriate enough to the place where
           it was first fully elaborated &mdash; a sentimental novelette, but it
@@ -649,7 +642,7 @@ p.intro::first-letter {
           <a
             href="https://en.wikipedia.org/wiki/Alison_Weir"
             title="Alison Weir"
-            >Alison Weir</a
+            ><span>Alison Weir</span></a
           >
           calls it a fabrication. >
         </p>
@@ -658,13 +651,13 @@ p.intro::first-letter {
           <a
             href="https://en.wikipedia.org/wiki/Gaetano_Donizetti"
             title="Gaetano Donizetti"
-            >Gaetano Donizetti</a
+            ><span>Gaetano Donizetti</span></a
           >&apos;s opera
           <em
             ><a
               href="https://en.wikipedia.org/wiki/Roberto_Devereux"
               title="Roberto Devereux"
-              >Roberto Devereux</a
+              ><span>Roberto Devereux</span></a
             ></em
           >, with a further twist added to the story, in that Essex is cheating
           on both the Queen and his best friend by having an affair with Lady
@@ -691,30 +684,30 @@ p.intro::first-letter {
           <a
             href="https://en.wikipedia.org/wiki/Attorney_General_for_England_and_Wales"
             title="Attorney General for England and Wales"
-            >Attorney General</a
+            ><span>Attorney General</span></a
           >
           and as
           <a
             href="https://en.wikipedia.org/wiki/Lord_Chancellor"
             title="Lord Chancellor"
-            >Lord Chancellor</a
+            ><span>Lord Chancellor</span></a
           >
           of
           <a
             href="https://en.wikipedia.org/wiki/Kingdom_of_England"
             title="Kingdom of England"
-            >England</a
+            ><span>England</span></a
           >. His works are seen as developing the
           <a
             href="https://en.wikipedia.org/wiki/Scientific_method"
             title="Scientific method"
-            >scientific method</a
+            ><span>scientific method</span></a
           >
           and remained influential through the
           <a
             href="https://en.wikipedia.org/wiki/Scientific_revolution"
             title="Scientific revolution"
-            >scientific revolution</a
+            ><span>scientific revolution</span></a
           >
         </p>
         <p>
@@ -730,13 +723,13 @@ p.intro::first-letter {
           <a
             href="https://en.wikipedia.org/wiki/Inductive_reasoning"
             title="Inductive reasoning"
-            >inductive reasoning</a
+            ><span>inductive reasoning</span></a
           >
           and careful observation of events in
           <a
             href="https://en.wikipedia.org/wiki/Nature_(philosophy)"
             title="Nature (philosophy)"
-            >nature</a
+            ><span>nature</span></a
           >. Most importantly, he argued science could be achieved by use of a
           sceptical and methodical approach whereby scientists aim to avoid
           misleading themselves. Although his most specific proposals about such
@@ -744,7 +737,7 @@ p.intro::first-letter {
           <a
             href="https://en.wikipedia.org/wiki/Baconian_method"
             title="Baconian method"
-            >Baconian method</a
+            ><span>Baconian method</span></a
           >, did not have long-lasting influence, the general idea of the
           importance and possibility of a sceptical methodology makes Bacon the
           father of the scientific method. This method was a new rhetorical and
@@ -753,7 +746,7 @@ p.intro::first-letter {
           <a
             href="https://en.wikipedia.org/wiki/Methodology"
             title="Methodology"
-            >methodology</a
+            ><span>methodology</span></a
           >.
         </p>
         <p>
@@ -773,7 +766,7 @@ p.intro::first-letter {
           <a
             href="https://en.wikipedia.org/wiki/Trinity_College,_Cambridge"
             title="Trinity College, Cambridge"
-            >Trinity College, Cambridge</a
+            ><span>Trinity College, Cambridge</span></a
           >, where he rigorously followed the medieval curriculum, largely in
           Latin.
         </p>
@@ -782,30 +775,30 @@ p.intro::first-letter {
           <a
             href="https://en.wikipedia.org/wiki/Queen%27s_counsel"
             title="Queen's counsel"
-            >Queen&apos;s counsel</a
+            ><span>Queen&apos;s counsel</span></a
           >
           designation, conferred in 1597 when
           <a
             href="https://en.wikipedia.org/wiki/Elizabeth_I_of_England"
             title="Elizabeth I of England"
-            >Elizabeth I of England</a
+            ><span>Elizabeth I of England</span></a
           >
           reserved him as her legal advisor. After the accession of
           <a
             href="https://en.wikipedia.org/wiki/James_VI_and_I"
             title="James VI and I"
-            >James VI and I</a
+            ><span>James VI and I</span></a
           >
           in 1603, Bacon was
           <a
             href="https://en.wikipedia.org/wiki/Knight_Bachelor"
             title="Knight Bachelor"
-            >knighted</a
+            ><span>knighted</span></a
           >, then created
           <a
             href="https://en.wikipedia.org/wiki/Baron_Verulam"
             title="Baron Verulam"
-            >Baron Verulam</a
+            ><span>Baron Verulam</span></a
           >
           in 1618 and Viscount St Alban in 1621.
         </p>
@@ -818,14 +811,14 @@ p.intro::first-letter {
           <a
             href="https://en.wikipedia.org/wiki/John_Aubrey"
             title="John Aubrey"
-            >John Aubrey</a
+            ><span>John Aubrey</span></a
           >
           stating that he had contracted it while studying the effects of
           freezing on meat preservation. He is buried at
           <a
             href="https://en.wikipedia.org/wiki/St_Michael%27s_Church,_St_Albans"
             title="St Michael's Church, St Albans"
-            >St Michael&apos;s Church, St Albans</a
+            ><span>St Michael&apos;s Church, St Albans</span></a
           >, Hertfordshire.
         </p>
         <p><br /></p>
@@ -836,13 +829,13 @@ p.intro::first-letter {
           <a
             href="https://en.wikipedia.org/wiki/York_House,_Strand"
             title="York House, Strand"
-            >York House</a
+            ><span>York House</span></a
           >
           near the
           <a
             href="https://en.wikipedia.org/wiki/Strand,_London"
             title="Strand, London"
-            >Strand</a
+            ><span>Strand</span></a
           >
           in
           <a href="https://en.wikipedia.org/wiki/London" title="London"
@@ -851,12 +844,12 @@ p.intro::first-letter {
           <a
             href="https://en.wikipedia.org/wiki/Nicholas_Bacon_(Lord_Keeper)"
             title="Nicholas Bacon (Lord Keeper)"
-            >Sir Nicholas Bacon</a
+            ><span>Sir Nicholas Bacon</span></a
           >
           (<a
             href="https://en.wikipedia.org/wiki/Lord_Keeper_of_the_Great_Seal"
             title="Lord Keeper of the Great Seal"
-            >Lord Keeper of the Great Seal</a
+            ><span>Lord Keeper of the Great Seal</span></a
           >) by his second wife,
           <a href="https://en.wikipedia.org/wiki/Anne_Bacon" title="Anne Bacon"
             >Anne (Cooke) Bacon</a
@@ -864,21 +857,21 @@ p.intro::first-letter {
           <a
             href="https://en.wikipedia.org/wiki/Renaissance_humanism"
             title="Renaissance humanism"
-            >Renaissance humanist</a
+            ><span>Renaissance humanist</span></a
           >
           <a
             href="https://en.wikipedia.org/wiki/Anthony_Cooke"
             title="Anthony Cooke"
-            >Anthony Cooke</a
+            ><span>Anthony Cooke</span></a
           >. His mother&apos;s sister was married to
           <a
             href="https://en.wikipedia.org/wiki/William_Cecil,_1st_Baron_Burghley"
             title="William Cecil, 1st Baron Burghley"
-            >William Cecil, 1st Baron Burghley</a
+            ><span>William Cecil, 1st Baron Burghley</span></a
           >, making Burghley Bacon&apos;s uncle.<sup
             ><a
               href="https://en.wikipedia.org/wiki/Francis_Bacon#cite_note-FOOTNOTEPollard1911816-11"
-              >[9]</a
+              ><span>[9]</span></a
             ></sup
           >
         </p>
@@ -893,13 +886,13 @@ p.intro::first-letter {
           <a
             href="https://en.wikipedia.org/wiki/Trinity_College,_Cambridge"
             title="Trinity College, Cambridge"
-            >Trinity College</a
+            ><span>Trinity College</span></a
           >
           at the
           <a
             href="https://en.wikipedia.org/wiki/University_of_Cambridge"
             title="University of Cambridge"
-            >University of Cambridge</a
+            ><span>University of Cambridge</span></a
           >
           on 5 April 1573 at the age of 12,<sup
             ><a href="https://en.wikipedia.org/wiki/Francis_Bacon#cite_note-12"
@@ -910,18 +903,18 @@ p.intro::first-letter {
           <a
             href="https://en.wikipedia.org/wiki/Anthony_Bacon_(1558%E2%80%931601)"
             title="Anthony Bacon (1558–1601)"
-            >Anthony Bacon</a
+            ><span>Anthony Bacon</span></a
           >
           under the personal tutelage of
           <a
             href="https://en.wikipedia.org/wiki/John_Whitgift"
             title="John Whitgift"
-            >Dr John Whitgift</a
+            ><span>Dr John Whitgift</span></a
           >, future
           <a
             href="https://en.wikipedia.org/wiki/Archbishop_of_Canterbury"
             title="Archbishop of Canterbury"
-            >Archbishop of Canterbury</a
+            ><span>Archbishop of Canterbury</span></a
           >. Bacon&apos;s education was conducted largely in Latin and followed
           the medieval curriculum. It was at
           <a href="https://en.wikipedia.org/wiki/Cambridge" title="Cambridge"
@@ -931,7 +924,7 @@ p.intro::first-letter {
           <a
             href="https://en.wikipedia.org/wiki/Queen_Elizabeth_I"
             title="Queen Elizabeth I"
-            >Queen Elizabeth</a
+            ><span>Queen Elizabeth</span></a
           >, who was impressed by his precocious intellect, and was accustomed
           to calling him &quot;The young lord keeper&quot;.<sup
             ><a href="https://en.wikipedia.org/wiki/Francis_Bacon#cite_note-13"
@@ -949,7 +942,7 @@ p.intro::first-letter {
           <a
             href="https://en.wikipedia.org/wiki/Aristotelianism"
             title="Aristotelianism"
-            >Aristotelian philosophy</a
+            ><span>Aristotelian philosophy</span></a
           >, which seemed to him barren, disputatious and wrong in its
           objectives.
         </p>
@@ -967,31 +960,34 @@ p.intro::first-letter {
           <a
             href="https://en.wikipedia.org/wiki/Gray%27s_Inn"
             title="Gray's Inn"
-            >Gray&apos;s Inn</a
+            ><span>Gray&apos;s Inn</span></a
           >. A few months later, Francis went abroad with Sir
           <a
             href="https://en.wikipedia.org/wiki/Amias_Paulet"
             title="Amias Paulet"
-            >Amias Paulet</a
+            ><span>Amias Paulet</span></a
           >, the English ambassador at Paris, while Anthony continued his
           studies at home. The state of government and society in France under
           <a
             href="https://en.wikipedia.org/wiki/Henry_III_of_France"
             title="Henry III of France"
-            >Henry III</a
+            ><span>Henry III</span></a
           >
           afforded him valuable political instruction. For the next three years
           he visited
-          <a href="https://en.wikipedia.org/wiki/Blois" title="Blois">Blois</a>,
+          <a href="https://en.wikipedia.org/wiki/Blois" title="Blois"
+            ><span>Blois</span></a
+          >,
           <a href="https://en.wikipedia.org/wiki/Poitiers" title="Poitiers"
             >Poitiers</a
           >,
-          <a href="https://en.wikipedia.org/wiki/Tours" title="Tours">Tours</a>,
-          Italy, and Spain. There is no evidence that he studied at the
+          <a href="https://en.wikipedia.org/wiki/Tours" title="Tours"
+            ><span>Tours</span></a
+          >, Italy, and Spain. There is no evidence that he studied at the
           <a
             href="https://en.wikipedia.org/wiki/University_of_Poitiers"
             title="University of Poitiers"
-            >University of Poitiers</a
+            ><span>University of Poitiers</span></a
           >.<sup
             ><a href="https://en.wikipedia.org/wiki/Francis_Bacon#cite_note-16"
               >[14]</a
@@ -1003,12 +999,12 @@ p.intro::first-letter {
           <a
             href="https://en.wikipedia.org/wiki/Francis_Walsingham"
             title="Francis Walsingham"
-            >Walsingham</a
+            ><span>Walsingham</span></a
           >, Burghley, and
           <a
             href="https://en.wikipedia.org/wiki/Robert_Dudley,_1st_Earl_of_Leicester"
             title="Robert Dudley, 1st Earl of Leicester"
-            >Leicester</a
+            ><span>Leicester</span></a
           >, as well as for the queen.
         </p>
         <p>
@@ -1031,7 +1027,7 @@ p.intro::first-letter {
           <a
             href="https://en.wikipedia.org/wiki/Marks_(manor_house)"
             title="Marks (manor house)"
-            >Marks</a
+            ><span>Marks</span></a
           >
           near
           <a href="https://en.wikipedia.org/wiki/Romford" title="Romford"
@@ -1047,19 +1043,19 @@ p.intro::first-letter {
           <a
             href="https://en.wikipedia.org/wiki/William_Cecil,_1st_Baron_Burghley"
             title="William Cecil, 1st Baron Burghley"
-            >Lord Burghley</a
+            ><span>Lord Burghley</span></a
           >, he applied for a post at court that might enable him to pursue a
           life of learning, but his application failed. For two years he worked
           quietly at
           <a
             href="https://en.wikipedia.org/wiki/Gray%27s_Inn"
             title="Gray's Inn"
-            >Gray&apos;s Inn</a
+            ><span>Gray&apos;s Inn</span></a
           >, until he was admitted as an
           <a
             href="https://en.wikipedia.org/wiki/Outer_barrister"
             title="Outer barrister"
-            >outer barrister</a
+            ><span>outer barrister</span></a
           >
           in 1582.<sup
             ><a href="https://en.wikipedia.org/wiki/Francis_Bacon#cite_note-18"
@@ -1072,37 +1068,37 @@ p.intro::first-letter {
           <a
             href="https://en.wikipedia.org/wiki/Member_of_Parliament_(UK)"
             title="Member of Parliament (UK)"
-            >MP</a
+            ><span>MP</span></a
           >
           for
           <a
             href="https://en.wikipedia.org/wiki/Bossiney_(UK_Parliament_constituency)"
             title="Bossiney (UK Parliament constituency)"
-            >Bossiney, Cornwall</a
+            ><span>Bossiney, Cornwall</span></a
           >, in a
           <a
             href="https://en.wikipedia.org/wiki/By-election"
             title="By-election"
-            >by-election</a
+            ><span>by-election</span></a
           >
           in 1581. In 1584 he took his seat in
           <a
             href="https://en.wikipedia.org/wiki/Parliament_of_England"
             title="Parliament of England"
-            >Parliament</a
+            ><span>Parliament</span></a
           >
           for
           <a
             c
             href="https://en.wikipedia.org/wiki/Melcombe_Regis_(UK_Parliament_constituency)"
             title="Melcombe Regis (UK Parliament constituency)"
-            >Melcombe</a
+            ><span>Melcombe</span></a
           >
           in Dorset, and in 1586 for
           <a
             href="https://en.wikipedia.org/wiki/Taunton_(UK_Parliament_constituency)"
             title="Taunton (UK Parliament constituency)"
-            >Taunton</a
+            ><span>Taunton</span></a
           >. At this time, he began to write on the condition of parties in the
           church, as well as on the topic of philosophical reform in the lost
           tract <em>Temporis Partus Maximus</em>. Yet he failed to gain a
@@ -1112,13 +1108,13 @@ p.intro::first-letter {
           <a
             href="https://en.wikipedia.org/wiki/Temple_Church"
             title="Temple Church"
-            >Temple Church</a
+            ><span>Temple Church</span></a
           >
           to hear
           <a
             href="https://en.wikipedia.org/wiki/Walter_Travers"
             title="Walter Travers"
-            >Walter Travers</a
+            ><span>Walter Travers</span></a
           >. This led to the publication of his earliest surviving tract, which
           criticized the English church&apos;s suppression of the Puritan
           clergy. In the Parliament of 1586, he openly urged execution for the
@@ -1126,7 +1122,7 @@ p.intro::first-letter {
           <a
             href="https://en.wikipedia.org/wiki/Mary,_Queen_of_Scots"
             title="Mary, Queen of Scots"
-            >Mary, Queen of Scots</a
+            ><span>Mary, Queen of Scots</span></a
           >.
         </p>
         <p>
@@ -1139,52 +1135,47 @@ p.intro::first-letter {
           <a
             href="https://en.wikipedia.org/wiki/Reader_(Inns_of_Court)"
             title="Reader (Inns of Court)"
-            >Reader</a
+            ><span>Reader</span></a
           >
           in 1587, delivering his first set of lectures in Lent the following
           year. In 1589, he received the valuable appointment of
           <a
             href="https://en.wikipedia.org/wiki/Reversion_(law)"
             title="Reversion (law)"
-            >reversion</a
+            ><span>reversion</span></a
           >
           to the Clerkship of the
           <a
             href="https://en.wikipedia.org/wiki/Star_Chamber"
             title="Star Chamber"
-            >Star Chamber</a
+            ><span>Star Chamber</span></a
           >, although he did not formally take office until 1608; the post was
-          worth &pound;1,600 a year.<sup
-            ><a
-              href="https://en.wikipedia.org/wiki/Francis_Bacon#cite_note-FOOTNOTEPeltonen2007-3"
-              >[3]</a
-            ></sup
-          >
+          worth &pound;1,600 a year.
         </p>
         <p>
           In 1588 he became MP for
           <a
             href="https://en.wikipedia.org/wiki/Liverpool_(UK_Parliament_constituency)"
             title="Liverpool (UK Parliament constituency)"
-            >Liverpool</a
+            ><span>Liverpool</span></a
           >
           and then for
           <a
             href="https://en.wikipedia.org/wiki/Middlesex_(UK_Parliament_constituency)"
             title="Middlesex (UK Parliament constituency)"
-            >Middlesex</a
+            ><span>Middlesex</span></a
           >
           in 1593. He later sat three times for
           <a
             href="https://en.wikipedia.org/wiki/Ipswich_(UK_Parliament_constituency)"
             title="Ipswich (UK Parliament constituency)"
-            >Ipswich</a
+            ><span>Ipswich</span></a
           >
           (1597, 1601, 1604) and once for
           <a
             href="https://en.wikipedia.org/wiki/Cambridge_University_(UK_Parliament_constituency)"
             title="Cambridge University (UK Parliament constituency)"
-            >Cambridge University</a
+            ><span>Cambridge University</span></a
           >
           (1614).<sup
             ><a href="https://en.wikipedia.org/wiki/Francis_Bacon#cite_note-19"
@@ -1211,7 +1202,7 @@ p.intro::first-letter {
           <a
             href="https://en.wikipedia.org/wiki/Robert_Devereux,_2nd_Earl_of_Essex"
             title="Robert Devereux, 2nd Earl of Essex"
-            >The 2nd Earl of Essex</a
+            ><span>The 2nd Earl of Essex</span></a
           >, Queen Elizabeth&apos;s favourite. By 1591 he acted as the
           earl&apos;s confidential adviser.
         </p>
@@ -1220,14 +1211,14 @@ p.intro::first-letter {
           <a
             href="https://en.wikipedia.org/wiki/Robert_Parsons_(Jesuit)"
             title="Robert Parsons (Jesuit)"
-            >Robert Parson</a
+            ><span>Robert Parson</span></a
           >&apos;s anti-government polemic, which he titled
           <em>Certain observations made upon a libel</em>, identifying England
           with the ideals of democratic
           <a
             href="https://en.wikipedia.org/wiki/History_of_Athens"
             title="History of Athens"
-            >Athens</a
+            ><span>Athens</span></a
           >
           against the belligerence of Spain.
         </p>
@@ -1248,25 +1239,25 @@ p.intro::first-letter {
           <a
             href="https://en.wikipedia.org/wiki/Attorney-General_for_England_and_Wales"
             title="Attorney-General for England and Wales"
-            >Attorney General</a
+            ><span>Attorney General</span></a
           >
           fell vacant in 1594, Lord Essex&apos;s influence was not enough to
           secure the position for Bacon and it was given to Sir
           <a
             href="https://en.wikipedia.org/wiki/Edward_Coke"
             title="Edward Coke"
-            >Edward Coke</a
+            ><span>Edward Coke</span></a
           >. Likewise, Bacon failed to secure the lesser office of
           <a
             href="https://en.wikipedia.org/wiki/Solicitor-General_for_England_and_Wales"
             title="Solicitor-General for England and Wales"
-            >Solicitor General</a
+            ><span>Solicitor General</span></a
           >
           in 1595, the Queen pointedly snubbing him by appointing Sir
           <a
             href="https://en.wikipedia.org/wiki/Thomas_Fleming_(judge)"
             title="Thomas Fleming (judge)"
-            >Thomas Fleming</a
+            ><span>Thomas Fleming</span></a
           >
           instead. To console him for these disappointments, Essex presented him
           with a property at
@@ -1283,7 +1274,7 @@ p.intro::first-letter {
           <a
             href="https://en.wikipedia.org/wiki/Queen%27s_Counsel"
             title="Queen's Counsel"
-            >Queen&apos;s Counsel</a
+            ><span>Queen&apos;s Counsel</span></a
           >
           designate, when Queen Elizabeth reserved him as her legal counsel. In
           1597, he was also given a patent, giving him precedence at the Bar.
@@ -1293,7 +1284,7 @@ p.intro::first-letter {
           <a
             href="https://en.wikipedia.org/wiki/Elizabeth_Hatton"
             title="Elizabeth Hatton"
-            >Elizabeth Hatton</a
+            ><span>Elizabeth Hatton</span></a
           >.<sup
             ><a
               href="https://en.wikipedia.org/wiki/Francis_Bacon#cite_note-28"
@@ -1316,7 +1307,7 @@ p.intro::first-letter {
           <a
             href="https://en.wikipedia.org/wiki/Attorney_General_for_England_and_Wales"
             title="Attorney General for England and Wales"
-            >Attorney General</a
+            ><span>Attorney General</span></a
           >
           Sir Edward Coke at Essex&apos;s treason trial. After the execution,
           the Queen ordered Bacon to write the official government account of
@@ -1334,7 +1325,7 @@ p.intro::first-letter {
           <a
             href="https://en.wikipedia.org/wiki/William_Rawley"
             title="William Rawley"
-            >William Rawley</a
+            ><span>William Rawley</span></a
           >, as a judge Bacon was always tender-hearted, &quot;looking upon the
           examples with the eye of severity, but upon the person with the eye of
           pity and compassion&quot;. And also that &quot;he was free from
@@ -1366,7 +1357,7 @@ p.intro::first-letter {
             <a
               href="https://en.wiktionary.org/wiki/exenterate"
               title="wiktionary:exenterate"
-              >exenterate</a
+              ><span>exenterate</span></a
             >
             it.
           </p>
@@ -1394,14 +1385,14 @@ p.intro::first-letter {
           <a
             href="https://en.wikipedia.org/wiki/Thomas_Hobbes"
             title="Thomas Hobbes"
-            >Thomas Hobbes</a
+            ><span>Thomas Hobbes</span></a
           >, Bacon&apos;s fellow-philosopher and friend. Being unwittingly on
           his deathbed, the philosopher dictated his last letter to his absent
           host and friend
           <a
             href="https://en.wikipedia.org/wiki/Thomas_Howard,_21st_Earl_of_Arundel"
             title="Thomas Howard, 21st Earl of Arundel"
-            >Lord Arundel</a
+            ><span>Lord Arundel</span></a
           >:
         </p>
         <blockquote>
@@ -1410,12 +1401,12 @@ p.intro::first-letter {
             <a
               href="https://en.wikipedia.org/wiki/Pliny_the_Elder"
               title="Pliny the Elder"
-              >Caius Plinius the elder</a
+              ><span>Caius Plinius the elder</span></a
             >, who lost his life by trying an experiment about the burning of
             <a
               href="https://en.wikipedia.org/wiki/Mount_Vesuvius"
               title="Mount Vesuvius"
-              >Mount Vesuvius</a
+              ><span>Mount Vesuvius</span></a
             >; for I was also desirous to try an experiment or two touching the
             conservation and in-duration of bodies. As for the experiment
             itself, it succeeded excellently well; but in the journey between
@@ -1469,7 +1460,7 @@ p.intro::first-letter {
           <a
             href="https://en.wikipedia.org/wiki/St._Michael%27s_Church,_St._Albans"
             title="St. Michael's Church, St. Albans"
-            >St Michael&apos;s church</a
+            ><span>St Michael&apos;s church</span></a
           >
           in St Albans. At the news of his death, over 30 great minds collected
           together their eulogies of him, which were then later published in
@@ -1732,7 +1723,7 @@ p.intro::first-letter {
       </div>
       <!-- ===== End of William Shakespeare Markup ====== -->
 
-      <!-- ======= Christopher hatton Markup ============ -->
+      <!-- ======= Christopher Hatton Markup ============ -->
 
       <div class="chris-hatton">
         <h2>Christopher Hatton</h2>
@@ -1741,13 +1732,13 @@ p.intro::first-letter {
           <a
             href="https://en.wikipedia.org/wiki/Knight_of_the_Garter"
             title="Knight of the Garter"
-            >KG</a
+            ><span>KG</span></a
           >
           (1540 &ndash; 20 November 1591) was an English politician,
           <a
             href="https://en.wikipedia.org/wiki/Lord_Chancellor"
             title="Lord Chancellor"
-            >Lord Chancellor</a
+            ><span>Lord Chancellor</span></a
           >
           of
           <a href="https://en.wikipedia.org/wiki/England" title="England"
@@ -1762,12 +1753,12 @@ p.intro::first-letter {
             class="mw-redirect"
             href="https://en.wikipedia.org/wiki/Elizabeth_I_of_England"
             title="Elizabeth I of England"
-            >Elizabeth I of England</a
+            ><span>Elizabeth I of England</span></a
           >. He was one of the judges who found
           <a
             href="https://en.wikipedia.org/wiki/Mary,_Queen_of_Scots"
             title="Mary, Queen of Scots"
-            >Mary, Queen of Scots</a
+            ><span>Mary, Queen of Scots</span></a
           >
           guilty of treason.&nbsp;
         </p>
