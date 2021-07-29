@@ -1,15 +1,5 @@
 import Vue from "vue";
 import VueRouter from "vue-router";
-import Home from "../views/Home.vue";
-import Timeline from "../views/Timeline.vue";
-import Henry_VIII from "../views/Henry_VIII.vue";
-import TheSixWives from "../views/TheSixWives.vue";
-import Elizabeth_I from "../views/Elizabeth_I.vue";
-import Elizabethan_Men from "../views/Elizabethan_Men.vue";
-import Henry_VII from "../views/Henry_VII.vue";
-import Edward_VI from "../views/Edward_VI.vue";
-import Lady_Jane_Grey from "../views/LadyJaneGrey";
-import Mary_I from "../views/Mary_I.vue";
 
 Vue.use(VueRouter);
 
@@ -17,52 +7,72 @@ const routes = [
   {
     path: "/",
     name: "Home",
-    component: Home
+    component: function() {
+      return import(/* webpackChunkName: "Home" */ "../views/Home")
+    }
   },
   {
     path: "/timeline",
     name: "Timeline",
-    component: Timeline
+    component: function() {
+      return import(/* webpackChunkName: "Timeline" */ "../views/Timeline")
+    }
   },
   {
     path: "/Henry_VII",
     name: "Henry_VII",
-    component: Henry_VII
+    component: function() {
+      return import(/* webpackChunkName: "Henry_VII" */ "../views/Henry_VII")
+    }
   },
   {
     path: "/Henry_VIII",
     name: "Henry_VIII",
-    component: Henry_VIII
+    component: function() {
+      return import(/* webpackChunkName: "Henry_VIII" */ "../views/Henry_VIII")
+    }
   },
   {
     path: "/TheSixWives",
     name: "The_Six_Wives",
-    component: TheSixWives
+    component: function() {
+      return import(/* webpackChunkName: "TheSixWives" */ "../views/TheSixWives")
+    }
   },
   {
     path: "/Edward_VI",
     name: "Edward_VI",
-    component: Edward_VI
+    component: function() {
+      return import(/* webpackChunkName: "Edward_VI" */ "../views/Edward_VI")
+    }
   },
   {
     path: "/Lady_Jane_Grey",
     name: "Lady_Jane_Grey",
-    component: Lady_Jane_Grey
+    component: function() {
+      return import(/* webpackChunkName: "LadyJaneGrey" */ "../views/LadyJaneGrey")
+    }
   },
   {
     path: "/Mary_I",
     name: "Mary_I",
-    component: Mary_I
+    component: function() {
+      return import(/* webpackChunkName: "Mary_I" */ "../views/Mary_I")
+    }
   },
   {
     path: "/Elizabeth_I",
     name: "Elizabeth_I",
-    component: Elizabeth_I
+    component: function() {
+      return import(/* webpackChunkName: "about" */ "../views/Elizabeth_I");
+    }
   },
   {
     path: "/Elizabethan_Men",
     name: "Elizabethan_Men",
-    component: Elizabethan_Men
+    component: function() {
+      return import(/* webpackChunkName: "about" */ "../views/Elizabethan_Men")
+    }
   },
   {
     path: "/about",

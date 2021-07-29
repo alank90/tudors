@@ -1,3 +1,113 @@
+<script>
+import navbarProgress from "../views/assets/navbarProgress.js";
+import backToTop from "../components/backToTop.vue";
+
+export default {
+  components: { backToTop },
+  mounted() {
+    const querySelector = "nav.elizabeth-bio";
+    navbarProgress(querySelector);
+  }
+};
+</script>
+
+<style scoped>
+@import url("https://fonts.googleapis.com/css2?family=PT+Mono&family=PT+Sans:wght@400;700&display=swap");
+@import ".././assets/css/navbarProgress.css";
+
+h2 {
+  font-family: var(--font-cinzel);
+  padding-left: 10px;
+  border-left: 4px solid var(--highlight);
+}
+
+section:not(:last-of-type) {
+  padding-bottom: 15px;
+}
+
+img[src*="elizabeth_men"] {
+  float: right;
+  width: 350px;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+p {
+  text-justify: auto;
+  text-align: left;
+  font-size: var(--font-size);
+  font-family: var(--font-p);
+  text-indent: 2em;
+}
+
+p:first-of-type {
+  padding-top: 10px;
+}
+
+p.intro {
+  text-indent: 0;
+}
+
+p.intro::first-letter {
+  color: #d90707;
+  float: left;
+  font-family: "Fleur";
+  font-size: 75px;
+  line-height: 60px;
+  padding-top: 4px;
+  padding-right: 8px;
+  padding-left: 3px;
+}
+
+p:not(.intro)::first-letter {
+  font-size: 1.2rem;
+  font-weight: 550;
+}
+
+/* === Grid and base layout === */
+.component-container {
+  display: grid;
+  margin: 0;
+  padding: var(--body-pad-top) 45px;
+  border-radius: 5px;
+  min-width: 350px;
+  grid: auto / 200px minmax(300px, 700px);
+  align-items: start;
+  justify-content: center;
+  gap: 20px;
+  font: 16px/1.3 "PT Sans", sans-serif;
+  color: #333;
+  background: rgba(37, 87, 4, 0.2);
+}
+
+article {
+  margin-top: -50px;
+  padding-top: 50px;
+}
+
+a {
+  color: var(--color-text);
+}
+article a {
+  color: #222;
+  text-decoration-color: var(--highlight);
+}
+
+/* === Adjustments === */
+
+/* Scroll all the way up even if the first section starts a couple hundred pixels down the page */
+section:first-of-type {
+  margin-top: -300px;
+  padding-top: 350px;
+}
+
+article,
+section:last-of-type,
+section:last-of-type p:last-of-type {
+  margin-bottom: 0;
+  padding-bottom: 0;
+}
+</style>
 <template>
   <div class="component-container">
     <nav class="elizabeth-bio">
@@ -629,114 +739,3 @@
     <back-to-top></back-to-top>
   </div>
 </template>
-
-<script>
-import navbarProgress from "../views/assets/navbarProgress.js";
-import backToTop from "../components/backToTop.vue";
-
-export default {
-  components: { backToTop },
-  mounted() {
-    const querySelector = "nav.elizabeth-bio";
-    navbarProgress(querySelector);
-  }
-};
-</script>
-
-<style scoped>
-@import url("https://fonts.googleapis.com/css2?family=PT+Mono&family=PT+Sans:wght@400;700&display=swap");
-@import ".././assets/css/navbarProgress.css";
-
-h2 {
-  font-family: var(--font-cinzel);
-  padding-left: 10px;
-  border-left: 4px solid var(--highlight);
-}
-
-section:not(:last-of-type) {
-  padding-bottom: 15px;
-}
-
-img[src*="elizabeth_men"] {
-  float: right;
-  width: 350px;
-  border-radius: 5px;
-  cursor: pointer;
-}
-
-p {
-  text-justify: auto;
-  text-align: left;
-  font-size: var(--font-size);
-  font-family: var(--font-p);
-  text-indent: 2em;
-}
-
-p:first-of-type {
-  padding-top: 10px;
-}
-
-p.intro {
-  text-indent: 0;
-}
-
-p.intro::first-letter {
-  color: #d90707;
-  float: left;
-  font-family: "Fleur";
-  font-size: 75px;
-  line-height: 60px;
-  padding-top: 4px;
-  padding-right: 8px;
-  padding-left: 3px;
-}
-
-p:not(.intro)::first-letter {
-  font-size: 1.2rem;
-  font-weight: 550;
-}
-
-/* === Grid and base layout === */
-.component-container {
-  display: grid;
-  margin: 0;
-  padding: var(--body-pad-top) 45px;
-  border-radius: 5px;
-  min-width: 350px;
-  grid: auto / 200px minmax(300px, 700px);
-  align-items: start;
-  justify-content: center;
-  gap: 20px;
-  font: 16px/1.3 "PT Sans", sans-serif;
-  color: #333;
-  background: rgba(37, 87, 4, 0.2);
-}
-
-article {
-  margin-top: -50px;
-  padding-top: 50px;
-}
-
-a {
-  color: var(--color-text);
-}
-article a {
-  color: #222;
-  text-decoration-color: var(--highlight);
-}
-
-/* === Adjustments === */
-
-/* Scroll all the way up even if the first section starts a couple hundred pixels down the page */
-section:first-of-type {
-  margin-top: -300px;
-  padding-top: 350px;
-}
-
-article,
-section:last-of-type,
-section:last-of-type p:last-of-type {
-  margin-bottom: 0;
-  padding-bottom: 0;
-}
-</style>
