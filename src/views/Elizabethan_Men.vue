@@ -183,7 +183,7 @@ p.intro::first-letter {
         <p>
           Devereux was born on 10 November 1565 at Netherwood near
           <a href="https://en.wikipedia.org/wiki/Bromyard" title="Bromyard"
-            >Bromyard</a
+            ><span>Bromyard</span></a
           >, in
           <a
             href="https://en.wikipedia.org/wiki/Herefordshire"
@@ -286,7 +286,7 @@ p.intro::first-letter {
           >
           expedition to the
           <a href="https://en.wikipedia.org/wiki/Azores" title="Azores"
-            >Azores</a
+            ><span>Azores</span></a
           >
           in 1597, with
           <a
@@ -353,7 +353,7 @@ p.intro::first-letter {
           >
           that he would confront O&apos;Neill in
           <a href="https://en.wikipedia.org/wiki/Ulster" title="Ulster"
-            >Ulster</a
+            ><span>Ulster</span></a
           >. Instead, he led his army into southern Ireland, where he fought a
           series of inconclusive engagements, wasted his funds, and dispersed
           his army into garrisons, while the Irish won two important battles in
@@ -470,7 +470,7 @@ p.intro::first-letter {
           against me.&quot; Essex also asserted that Cecil had stated that none
           in the world but the
           <a href="https://en.wikipedia.org/wiki/Infanta" title="Infanta"
-            >Infanta</a
+            ><span>Infanta</span></a
           >
           of Spain had right to the Crown of England, whereupon Cecil (who had
           been following the trial at a doorway concealed behind some tapestry)
@@ -500,7 +500,7 @@ p.intro::first-letter {
           However Knollys denied hearing Cecil make the statement. Thanking God
           again, Cecil expressed his gratitude that Essex was exposed as a
           <a href="https://en.wikipedia.org/wiki/Traitor" title="Traitor"
-            >traitor</a
+            ><span>traitor</span></a
           >
           while he himself was found an honest man.
         </p>
@@ -593,7 +593,7 @@ p.intro::first-letter {
             Earl of Essex, by a Person of Quality</em
           >. The version is given by
           <a href="https://en.wikipedia.org/wiki/David_Hume" title="David Hume"
-            >David Hume</a
+            ><span>David Hume</span></a
           >
           in his
           <em
@@ -713,7 +713,7 @@ p.intro::first-letter {
         <p>
           Bacon has been called the father of
           <a href="https://en.wikipedia.org/wiki/Empiricism" title="Empiricism"
-            >empiricism</a
+            ><span>empiricism</span></a
           >.<sup
             ><a
               href="https://en.wikipedia.org/wiki/Francis_Bacon#cite_note-8"
@@ -753,13 +753,13 @@ p.intro::first-letter {
           Francis Bacon was a patron of libraries and developed a system for
           cataloguing books under three categories &mdash;
           <a href="https://en.wikipedia.org/wiki/History" title="History"
-            >history</a
+            ><span>history</span></a
           >,
           <a href="https://en.wikipedia.org/wiki/Poetry" title="Poetry"
-            >poetry</a
+            ><span>poetry</span></a
           >, and
           <a href="https://en.wikipedia.org/wiki/Philosophy" title="Philosophy"
-            >philosophy</a
+            ><span>philosophy</span></a
           >
           &mdash;which could further be divided into specific subjects and
           subheadings. Bacon was educated at
@@ -806,7 +806,7 @@ p.intro::first-letter {
           He had no heirs and so both titles became extinct on his death in 1626
           at the age of 65. He died of
           <a href="https://en.wikipedia.org/wiki/Pneumonia" title="Pneumonia"
-            >pneumonia</a
+            ><span>pneumonia</span></a
           >, with one account by
           <a
             href="https://en.wikipedia.org/wiki/John_Aubrey"
@@ -839,7 +839,7 @@ p.intro::first-letter {
           >
           in
           <a href="https://en.wikipedia.org/wiki/London" title="London"
-            >London</a
+            ><span>London</span></a
           >, the son of
           <a
             href="https://en.wikipedia.org/wiki/Nicholas_Bacon_(Lord_Keeper)"
@@ -852,7 +852,7 @@ p.intro::first-letter {
             ><span>Lord Keeper of the Great Seal</span></a
           >) by his second wife,
           <a href="https://en.wikipedia.org/wiki/Anne_Bacon" title="Anne Bacon"
-            >Anne (Cooke) Bacon</a
+            ><span>Anne (Cooke) Bacon</span></a
           >, the daughter of the noted
           <a
             href="https://en.wikipedia.org/wiki/Renaissance_humanism"
@@ -868,12 +868,7 @@ p.intro::first-letter {
             href="https://en.wikipedia.org/wiki/William_Cecil,_1st_Baron_Burghley"
             title="William Cecil, 1st Baron Burghley"
             ><span>William Cecil, 1st Baron Burghley</span></a
-          >, making Burghley Bacon&apos;s uncle.<sup
-            ><a
-              href="https://en.wikipedia.org/wiki/Francis_Bacon#cite_note-FOOTNOTEPollard1911816-11"
-              ><span>[9]</span></a
-            ></sup
-          >
+          >, making Burghley Bacon&apos;s uncle.
         </p>
         <p>
           Biographers believe that Bacon was educated at home in his early years
@@ -881,7 +876,7 @@ p.intro::first-letter {
           received tuition from John Walsall, a graduate of Oxford with a strong
           leaning toward
           <a href="https://en.wikipedia.org/wiki/Puritan" title="Puritan"
-            >Puritanism</a
+            ><span>Puritanism</span></a
           >. He went up to
           <a
             href="https://en.wikipedia.org/wiki/Trinity_College,_Cambridge"
@@ -894,12 +889,8 @@ p.intro::first-letter {
             title="University of Cambridge"
             ><span>University of Cambridge</span></a
           >
-          on 5 April 1573 at the age of 12,<sup
-            ><a href="https://en.wikipedia.org/wiki/Francis_Bacon#cite_note-12"
-              >[10]</a
-            ></sup
-          >
-          living for three years there, together with his older brother
+          on 5 April 1573 at the age of 12, living for three years there,
+          together with his older brother
           <a
             href="https://en.wikipedia.org/wiki/Anthony_Bacon_(1558%E2%80%931601)"
             title="Anthony Bacon (1558–1601)"
@@ -918,7 +909,7 @@ p.intro::first-letter {
           >. Bacon&apos;s education was conducted largely in Latin and followed
           the medieval curriculum. It was at
           <a href="https://en.wikipedia.org/wiki/Cambridge" title="Cambridge"
-            >Cambridge</a
+            ><span>Cambridge</span></a
           >
           that Bacon first met
           <a
@@ -926,17 +917,13 @@ p.intro::first-letter {
             title="Queen Elizabeth I"
             ><span>Queen Elizabeth</span></a
           >, who was impressed by his precocious intellect, and was accustomed
-          to calling him &quot;The young lord keeper&quot;.<sup
-            ><a href="https://en.wikipedia.org/wiki/Francis_Bacon#cite_note-13"
-              >[11]</a
-            ></sup
-          >
+          to calling him &quot;The young lord keeper&quot;.
         </p>
         <p>
           His studies brought him to the belief that the methods and results of
           science as then practised were erroneous. His reverence for
           <a href="https://en.wikipedia.org/wiki/Aristotle" title="Aristotle"
-            >Aristotle</a
+            ><span>Aristotle</span></a
           >
           conflicted with his rejection of
           <a
@@ -979,7 +966,7 @@ p.intro::first-letter {
             ><span>Blois</span></a
           >,
           <a href="https://en.wikipedia.org/wiki/Poitiers" title="Poitiers"
-            >Poitiers</a
+            ><span>Poitiers</span></a
           >,
           <a href="https://en.wikipedia.org/wiki/Tours" title="Tours"
             ><span>Tours</span></a
@@ -988,14 +975,9 @@ p.intro::first-letter {
             href="https://en.wikipedia.org/wiki/University_of_Poitiers"
             title="University of Poitiers"
             ><span>University of Poitiers</span></a
-          >.<sup
-            ><a href="https://en.wikipedia.org/wiki/Francis_Bacon#cite_note-16"
-              >[14]</a
-            ></sup
-          >
-          During his travels, Bacon studied language, statecraft, and civil law
-          while performing routine diplomatic tasks. On at least one occasion he
-          delivered diplomatic letters to England for
+          >. During his travels, Bacon studied language, statecraft, and civil
+          law while performing routine diplomatic tasks. On at least one
+          occasion he delivered diplomatic letters to England for
           <a
             href="https://en.wikipedia.org/wiki/Francis_Walsingham"
             title="Francis Walsingham"
@@ -1031,7 +1013,7 @@ p.intro::first-letter {
           >
           near
           <a href="https://en.wikipedia.org/wiki/Romford" title="Romford"
-            >Romford</a
+            ><span>Romford</span></a
           >
           in Essex, which generated a rent of &pound;46.
         </p>
@@ -1057,11 +1039,7 @@ p.intro::first-letter {
             title="Outer barrister"
             ><span>outer barrister</span></a
           >
-          in 1582.<sup
-            ><a href="https://en.wikipedia.org/wiki/Francis_Bacon#cite_note-18"
-              >[16]</a
-            ></sup
-          >
+          in 1582.
         </p>
         <p>
           His parliamentary career began when he was elected
@@ -1129,7 +1107,7 @@ p.intro::first-letter {
           About this time, he again approached his powerful uncle for help; this
           move was followed by his rapid progress at the bar. He became a
           <a href="https://en.wikipedia.org/wiki/Bencher" title="Bencher"
-            >bencher</a
+            ><span>bencher</span></a
           >
           in 1586 and was elected a
           <a
@@ -1177,11 +1155,7 @@ p.intro::first-letter {
             title="Cambridge University (UK Parliament constituency)"
             ><span>Cambridge University</span></a
           >
-          (1614).<sup
-            ><a href="https://en.wikipedia.org/wiki/Francis_Bacon#cite_note-19"
-              >[17]</a
-            ></sup
-          >
+          (1614).
         </p>
         <p>
           He became known as a liberal-minded reformer, eager to amend and
@@ -1225,7 +1199,7 @@ p.intro::first-letter {
         <p>
           Bacon took his third parliamentary seat for
           <a href="https://en.wikipedia.org/wiki/Middlesex" title="Middlesex"
-            >Middlesex</a
+            ><span>Middlesex</span></a
           >
           when in February 1593 Elizabeth summoned Parliament to investigate a
           Roman Catholic plot against her. Bacon&apos;s opposition to a bill
@@ -1262,7 +1236,7 @@ p.intro::first-letter {
           instead. To console him for these disappointments, Essex presented him
           with a property at
           <a href="https://en.wikipedia.org/wiki/Twickenham" title="Twickenham"
-            >Twickenham</a
+            ><span>Twickenham</span></a
           >, which Bacon subsequently sold for &pound;1,800.<sup
             ><a
               href="https://en.wikipedia.org/wiki/Francis_Bacon#cite_note-25"
@@ -1274,7 +1248,7 @@ p.intro::first-letter {
           <a
             href="https://en.wikipedia.org/wiki/Queen%27s_Counsel"
             title="Queen's Counsel"
-            ><span>Queen&apos;s Counsel</span></a
+            ><span><span>Queen&apos;s Counsel</span></span></a
           >
           designate, when Queen Elizabeth reserved him as her legal counsel. In
           1597, he was also given a patent, giving him precedence at the Bar.
@@ -1336,11 +1310,11 @@ p.intro::first-letter {
         <p>
           On 9 April 1626, Francis Bacon died of
           <a href="https://en.wikipedia.org/wiki/Pneumonia" title="Pneumonia"
-            >pneumonia</a
+            ><span>pneumonia</span></a
           >
           while at Arundel mansion at
           <a href="https://en.wikipedia.org/wiki/Highgate" title="Highgate"
-            >Highgate</a
+            ><span>Highgate</span></a
           >
           outside London. An influential account of the circumstances of his
           death was given by John Aubrey&apos;s <em>Brief Lives</em>.
@@ -1365,7 +1339,7 @@ p.intro::first-letter {
         <p>
           After stuffing the fowl with snow, Bacon contracted a fatal case of
           <a href="https://en.wikipedia.org/wiki/Pneumonia" title="Pneumonia"
-            >pneumonia</a
+            ><span>pneumonia</span></a
           >. Some people, including Aubrey, consider these two contiguous,
           possibly coincidental events as related and causative of his death:
         </p>
@@ -1412,7 +1386,7 @@ p.intro::first-letter {
             itself, it succeeded excellently well; but in the journey between
             London and High-gate, I was taken with such a fit of
             <a href="https://en.wikipedia.org/wiki/Cough" title="Cough"
-              >casting</a
+              ><span>casting</span></a
             >
             as I know not whether it were the Stone, or some surfeit or cold, or
             indeed a touch of them all three. But when I came to your
@@ -1445,7 +1419,7 @@ p.intro::first-letter {
             should die there of a gentle fever, accidentally accompanied with a
             great cold, whereby the defluxion of
             <a href="https://en.wikipedia.org/wiki/Rheum" title="Rheum"
-              >rheum</a
+              ><span>rheum</span></a
             >
             fell so plentifully upon his breast, that he died by
             suffocation.<sup
@@ -1742,11 +1716,11 @@ p.intro::first-letter {
           >
           of
           <a href="https://en.wikipedia.org/wiki/England" title="England"
-            >England</a
+            ><span>England</span></a
           >
           and a
           <a href="https://en.wikipedia.org/wiki/Favourite" title="Favourite"
-            >favourite</a
+            ><span>favourite</span></a
           >
           of
           <a
