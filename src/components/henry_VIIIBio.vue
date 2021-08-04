@@ -78,15 +78,6 @@
           </figcaption>
         </figure>
         <p>
-          Henry and his ministers exploited the dislike inspired by his father’s
-          energetic pursuit of royal rights by sacrificing, without a thought,
-          some of the unpopular institutions and some of the men that had served
-          his predecessor. Yet the unpopular means for governing the realm soon
-          reappeared because they were necessary. Soon after his accession,
-          Henry married Catherine of Aragon, Arthur’s widow, and the attendant
-          lavish entertainments ate into the modest royal reserves.
-        </p>
-        <p>
           Henry himself displayed no military talent, but a real victory was won
           by the earl of Surrey at Flodden (1513) against a Scottish invasion.
           Despite the obvious pointlessness of the fighting, the appearance of
